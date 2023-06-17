@@ -1,0 +1,992 @@
+First Name,Surname,Reserve Price (Rs. Lakh),Country,Age,Role ,Test caps,ODI caps,T20 caps,IPL,Previous IPL Team(s),2022 Team,IPL 2022 Appearances,C/U/A
+Mayank,Agarwal,100,India,32,BATSMAN,21,5,,113,"RCB, DD, RPSG, PBKS",PBKS,13,Capped
+Piyush,Chawla,50,India,34,BOWLER,3,25,7,165," KXIP, KKR, CSK, MI",,,Capped
+Kedar,Jadhav,100,India,38,ALL-ROUNDER,,73,9,93,"DD,KTK,RCB,CSK,SRH",,,Capped
+Dhawal,Kulkarni,50,India,34,BOWLER,,12,2,92,"MI,GL,RR",,,Capped
+Mayank,Markande,50,India,25,BOWLER,,,1,20,"RR, MI",MI,2,Capped
+Amit,Mishra,50,India,40,BOWLER,22,36,10,154," DCH, SRH, DC",,,Capped
+Shahbaz,Nadeem,50,India,33,BOWLER,2,,,72,"SRH, DD, RCB, LSG",LSG,0,Capped
+Karun,Nair,50,India,31,BATSMAN,6,2,,76,"RCB, DD, KXIP, KKR, RR",RR,3,Capped
+Pawan,Negi,50,India,30,ALL-ROUNDER,,,1,50,"CSK, RCB, DD, KKR",,,Capped
+Manish,Pandey,100,India,33,BATSMAN,,29,39,160,"MI, RCB,PWI, KKR, SRH, LSG",LSG,6,Capped
+Ajinkya,Rahane,50,India,34,BATSMAN,82,90,20,158,"MI, RPSG, RR, DC, KKR",KKR,7,Capped
+Mohit,Sharma,50,India,34,BOWLER,,26,8,86,"KXIP,CSK,DC",,,Capped
+Sandeep,Sharma,50,India,29,BOWLER,,,2,104,"SRH, PBKS",PBKS,5,Capped
+Ishant,Sharma,75,India,34,BOWLER,105,80,14,93,"KKR, DCH, SRH, RPSG, KXIP, DC",,,Capped
+Gurkeerat,Singh,50,India,32,BATSMAN,,3,,41,"KXIP, DD, RCB, KKR, GT",GT,0,Capped
+Mandeep,Singh,50,India,31,BATSMAN,,,3,108,"KKR, RCB, PBKS, DC",DC,3,Capped
+Barinder,Sran,50,India,30,BOWLER,,6,2,24,"RR, SRH, KXIP, MI",,,Capped
+Jaydev,Unadkat,50,India,31,BOWLER,1,7,10,91,"KKR, RCB, DD, RPS, RR, MI",MI,5,Capped
+Sandeep,Warrier,50,India,32,ALL-ROUNDER,,,1,5,KKR,,,Capped
+Qais,Ahmad,50,Afghanistan,22,ALL-ROUNDER,1,1,2,,,,,Capped
+Fareed ,Ahmad,50,Afghanistan,28,BOWLER,,11,22,,,,,Capped
+Sharafuddin,Ashraf,50,Afghanistan,28,ALL-ROUNDER,,19,13,,,,,Capped
+Naveen Ul,Haq,50,Afghanistan,23,BOWLER,,7,22,,,,,Capped
+Amir,Hotak,50,Afghanistan,31,ALL-ROUNDER,3,31,33,,,,,Capped
+Karim,Janat,50,Afghanistan,24,ALL-ROUNDER,,1,41,,,,,Capped
+Mohammad ,Nabi,100,Afghanistan,38,ALL-ROUNDER,3,135,104,17,"SRH, KKR",KKR,0,Capped
+Abdul Wasi,Noori,50,Afghanistan,20,BOWLER,1,,,,,,,Capped
+Mujeeb,Rahman,100,Afghanistan,22,BOWLER,1,54,36,19,"KXIP, SRH",,,Capped
+Waqar,Salamkheil,50,Afghanistan,21,BOWLER,1,,,,,,,Capped
+Sayed ,Shirzad,50,Afghanistan,28,BOWLER,1,2,4,,,,,Capped
+Hazratullah,Zazai,50,Afghanistan,25,BATSMAN,,16,34,,,,,Capped
+Sean,Abbott,150,Australia,31,ALL-ROUNDER,,7,9,3," RCB, SRH",SRH,1,Capped
+Wesley,Agar,50,Australia,26,ALL-ROUNDER,,2,,,,,,Capped
+Cameron,Bancroft,50,Australia,30,WICKETKEEPER,10,,1,,,,,Capped
+Cameron,Boyce,50,Australia,33,BOWLER,,,7,,,,,Capped
+Hilton,Cartwright,50,Australia,31,ALL-ROUNDER,2,2,,,,,,Capped
+Nathan,Coulter-Nile,200,Australia,35,BOWLER,,32,28,39," MI,DD, RCB, KKR, RR", RR,1,Capped
+Ben,Cutting,75,Australia,36,ALL-ROUNDER,,4,7,21,"RR, SRH, MI, KKR",,,Capped
+Ben,Dwarshuis,50,Australia,28,BOWLER,,,1,0,"KXIP, DC",,,Capped
+Cameron,Green,200,Australia,23,ALL-ROUNDER,14,13,8,,,,,Capped
+Peter,Handscomb,50,Australia,31,WICKETKEEPER,16,22,2,2, RPSG,,,Capped
+Travis,Head,200,Australia,29,BATSMAN,28,51,17,10,RCB,,,Capped
+Sam,Heazlett,50,Australia,27,BATSMAN,,1,,,,,,Capped
+Moises,Henriques,100,Australia,36,ALL-ROUNDER,4,16,24,62,"KKR, DD, RCB, SRH, PBKS",,,Capped
+Matthew,Kuhnemann,50,Australia,26,BOWLER,,4,,,,,,Capped
+Chris,Lynn,200,Australia,32,BATSMAN,,4,18,42,"DCH, KKR, MI",,,Capped
+Ben,Mcdermott,50,Australia,28,WICKETKEEPER,,5,23,,,,,Capped
+Riley,Meredith,150,Australia,26,BOWLER,,1,5,13,"PBKS, MI",MI,8,Capped
+Joel,Paris,50,Australia,30,BOWLER,,2,,,,,,Capped
+Joshua,Philippe,75,Australia,25,WICKETKEEPER,,3,10,5,RCB,,,Capped
+Jhye,Richardson,150,Australia,26,BOWLER,3,15,18,3,PBKS,,,Capped
+Daniel,Sams,75,Australia,30,ALL-ROUNDER,,,10,16,"DC, RCB, MI",MI,11,Capped
+Gurinder,Sandhu,50,Australia,29,BOWLER,,2,,3,DD,,,Capped
+Darcy,Short,75,Australia,32,ALL-ROUNDER,,8,23,7,RR,,,Capped
+Billy,Stanlake,50,Australia,28,BOWLER,,7,19,6,"RCB, SRH",,,Capped
+Ashton,Turner,75,Australia,30,BATSMAN,,9,18,4,RR,,,Capped
+Andrew,Tye,100,Australia,36,BOWLER,,7,32,30,"GL, KXIP, RR, LSG",LSG,3,Capped
+Adam,Zampa,150,Australia,30,BOWLER,,75,72,14,"RPSG, RCB",,,Capped
+Nasum,Ahmed,50,Bangladesh,28,BOWLER,,3,28,,,,,Capped
+Taskin,Ahmed,50,Bangladesh,28,BOWLER,11,51,46,,,,,Capped
+Litton,Das,50,Bangladesh,28,WICKETKEEPER,35,57,65,,,,,Capped
+Shakib Al,Hasan,150,Bangladesh,36,ALL-ROUNDER,63,221,109,71," KKR, SRH",,,Capped
+Afif,Hossain,50,Bangladesh,23,ALL-ROUNDER,,19,60,,,,,Capped
+Md Shoriful,Islam,50,Bangladesh,21,BOWLER,5,14,29,,,,,Capped
+Tom,Banton,200,England,24,WICKETKEEPER,,6,14,2,KKR,,,Capped
+Harry,Brook,150,England,24,BATSMAN,1,,20,,,,,Capped
+Tom,Curran,75,England,28,ALL-ROUNDER,2,28,30,13,"KKR, RR, DC",,,Capped
+Sam,Curran,200,England,24,ALL-ROUNDER,24,18,35,32,"KXIP, CSK",,,Capped
+George,Garton,50,England,25,ALL-ROUNDER,,,1,5, RCB,,,Capped
+Richard,Gleeson,50,England,35,BOWLER,,,6,,,,,Capped
+Will,Jacks,150,England,24,BATSMAN,,,2,,,,,Capped
+Chris,Jordan,200,England,34,BOWLER,8,35,84,28,"RCB, SRH, PBKS, CSK",CSK,4,Capped
+Dawid,Malan,150,England,35,BATSMAN,22,12,55,1, PBKS,,,Capped
+Tymal,Mills,200,England,30,BOWLER,,,13,10,"RCB, MI",MI,5,Capped
+Jamie,Overton,200,England,28,ALL-ROUNDER,1,,,,,,,Capped
+Craig,Overton,200,England,28,ALL-ROUNDER,8,7,,,,,,Capped
+David,Payne,75,England,32,BOWLER,,1,,,,,,Capped
+Adil,Rashid ,200,England,35,BOWLER,19,119,92,1,PBKS,,,Capped
+Joe,Root ,100,England,32,BATSMAN,124,158,32,,,,,Capped
+Jason,Roy ,150,England,32,BATSMAN,5,110,64,13,"GL, DC, SRH, GT",GT,0,Capped
+Phil,Salt,200,England,26,WICKETKEEPER,,11,13,,,,,Capped
+Ben,Stokes ,200,England,31,ALL-ROUNDER,86,105,43,43," RPSG, RR",,,Capped
+Reece,Topley,75,England,29,BOWLER,,20,22,,,,,Capped
+Luke,Wood,100,England,27,BOWLER,,1,2,,,,,Capped
+Andrew,Balbirnie,50,Ireland,32,BATSMAN,3,88,86,,,,,Capped
+Curtis,Campher,50,Ireland,23,ALL-ROUNDER,,16,28,,,,,Capped
+Gareth,Delany,50,Ireland,25,ALL-ROUNDER,,13,56,,,,,Capped
+George,Dockrell,50,Ireland,30,ALL-ROUNDER,1,102,112,,,,,Capped
+Joshua,Little,50,Ireland,23,BOWLER,,22,53,,,,,Capped
+Paul,Stirling,50,Ireland,32,BATSMAN,3,139,121,,,,,Capped
+Harry,Tector,50,Ireland,23,BATSMAN,,23,51,,,,,Capped
+Lorcan,Tucker,50,Ireland,26,WICKETKEEPER,,29,49,,,,,Capped
+Michael,Bracewell,100,New Zealand,32,ALL-ROUNDER,2,12,13,,,,,Capped
+Tom,Bruce,50,New Zealand,31,ALL-ROUNDER,,,17,,,,,Capped
+Mark,Chapman,100,New Zealand,28,BATSMAN,,7,40,,,,,Capped
+Colin ,De Grandhomme,75,New Zealand,36,ALL-ROUNDER,29,45,41,25,"KKR, RCB",,,Capped
+Martin,Guptill,100,New Zealand,36,BATSMAN,47,198,122,13,"MI, KXIP, SRH",,,Capped
+Matt,Henry,100,New Zealand,31,BOWLER,17,64,6,2,KXIP,,,Capped
+Kyle,Jamieson,100,New Zealand,28,BOWLER,16,8,8,9,RCB,,,Capped
+Scott,Kuggeleijn,50,New Zealand,31,ALL-ROUNDER,,2,18,2,"CSK, RCB",,,Capped
+Tom,Latham,100,New Zealand,31,WICKETKEEPER,68,116,18,,,,,Capped
+Adam,Milne,200,New Zealand,30,BOWLER,,41,35,10,"MI, RCB, CSK",CSK,1,Capped
+Daryl,Mitchell,100,New Zealand,31,ALL-ROUNDER,12,11,41,2, RR, RR,2,Capped
+Jimmy,Neesham,200,New Zealand,32,ALL-ROUNDER,12,71,60,14,"DD, KXIP, MI, RR",RR,2,Capped
+Ajaz,Patel,50,New Zealand,34,BOWLER,12,,7,,,,,Capped
+Michael,Rippon,50,New Zealand,31,ALL-ROUNDER,,9,19,,,,,Capped
+Ben,Sears,50,New Zealand,25,BOWLER,,,,6,,,,Capped
+Tim,Seifert,50,New Zealand,28,WICKETKEEPER,,3,40,3,"KKR, DC",DC,2,Capped
+Ish,Sodhi,75,New Zealand,30,BOWLER,17,37,88,8,RR,,,Capped
+Blair,Tickner,50,New Zealand,29,BOWLER,,6,14,,,,,Capped
+Kane,Williamson,200,New Zealand,32,BATSMAN,88,155,87,76,SRH,SRH,13,Capped
+Junior,Dala,50,South Africa,33,BOWLER,,2,10,1,DD,,,Capped
+Theunis,De Bruyn,50,South Africa,30,BATSMAN,12,,2,,,,,Capped
+Daryn,Dupavillon,50,South Africa,28,BOWLER,,2,,,,,,Capped
+Bjorn,Fortuin,50,South Africa,28,BOWLER,,3,13,,,,,Capped
+Beuran,Hendricks,75,South Africa,32,BOWLER,1,8,19,7," KXIP, MI",,,Capped
+Reeza,Hendricks,50,South Africa,33,BATSMAN,,26,48,,,,,Capped
+Heinrich,Klaasen,100,South Africa,31,WICKETKEEPER,1,30,38,7,"RCB, RR",,,Capped
+Heino,Kuhn,50,South Africa,39,WICKETKEEPER,4,,7,,,,,Capped
+George,Linde,50,South Africa,31,ALL-ROUNDER,3,2,14,,,,,Capped
+Wihan,Lubbe,50,South Africa,30,ALL-ROUNDER,,,2,,,,,Capped
+Sisanda,Magala,50,South Africa,32,ALL-ROUNDER,,3,4,,,,,Capped
+Keshav,Maharaj,50,South Africa,33,ALL-ROUNDER,45,26,25,,,,,Capped
+Duanne,Olivier,50,South Africa,30,BOWLER,15,2,,,,,,Capped
+Wayne,Parnell,75,South Africa,33,WICKETKEEPER,6,69,53,26,"PWI, DD",,,Capped
+Keegan,Petersen,50,South Africa,29,BATSMAN,10,,,,,,,Capped
+Rilee,Rossouw,200,South Africa,33,BATSMAN,,36,26,5,RCB,,,Capped
+Tabraiz,Shamsi,100,South Africa,33,BOWLER,2,39,59,5,"RCB, RR",,,Capped
+Lutho,Sipamla,50,South Africa,24,BOWLER,3,5,9,,,,,Capped
+Jon-Jon,Smuts,50,South Africa,34,ALL-ROUNDER,,6,13,,,,,Capped
+Jacques,Snyman,50,South Africa,28,BATSMAN,,,1,,,,,Capped
+Glenton,Stuurman,50,South Africa,30,BOWLER,1,,1,,,,,Capped
+Rassie,Van Der Dussen,200,South Africa,34,BATSMAN,17,38,41,3,RR,RR,3,Capped
+Hardus,Viljoen,50,South Africa,34,BOWLER,1,,,6,KXIP,,,Capped
+Lizaad,Williams,50,South Africa,29,BOWLER,2,1,6,,,,,Capped
+Charith,Asalanka,50,Sri Lanka,25,ALL-ROUNDER,3,16,31,,,,,Capped
+Minod,Bhanuka,50,Sri Lanka,27,BATSMAN,1,6,5,,,,,Capped
+Dushmanta,Chameera,50,Sri Lanka,31,BOWLER,12,42,52,12,LSG,LSG,12,Capped
+Niroshan,Dickwella,50,Sri Lanka,29,WICKETKEEPER,53,55,28,,,,,Capped
+Asitha,Fernando,50,Sri Lanka,25,BOWLER,7,4,3,,,,,Capped
+Avishka,Fernando,50,Sri Lanka,25,BATSMAN,,26,32,,,,,Capped
+Chamika,Karunaratne,50,Sri Lanka,26,ALL-ROUNDER,1,18,38,0,KKR,KKR,0,Capped
+Lahiru,Kumara,50,Sri Lanka,26,BOWLER,24,13,25,,,,,Capped
+Lahiru,Madushanka,50,Sri Lanka,30,ALL-ROUNDER,,4,3,,,,,Capped
+Dilshan,Madushanka,50,Sri Lanka,22,BOWLER,,,6,,,,,Capped
+Angelo,Mathews,200,Sri Lanka,35,ALL-ROUNDER,100,218,78,49,"KKR, PWI, DD",,,Capped
+Kusal,Mendis,50,Sri Lanka,28,WICKETKEEPER,54,87,49,,,,,Capped
+Pathum,Nissaanka,50,Sri Lanka,24,BATSMAN,9,17,36,,,,,Capped
+Kusal,Perera,100,Sri Lanka,32,WICKETKEEPER,22,107,60,2,RR,,,Capped
+Lakshan,Sandakan,50,Sri Lanka,31,BOWLER,11,31,20,,,,,Capped
+Dasun,Shanaka,50,Sri Lanka,31,ALL-ROUNDER,6,42,82,,,,,Capped
+Dhananjaya,Silva,50,Sri Lanka,31,ALL-ROUNDER,45,60,33,,,,,Capped
+Jeffery,Vandersay,50,Sri Lanka,33,BOWLER,1,19,14,,,,,Capped
+Dunith,Wellalage,50,Sri Lanka,20,ALL-ROUNDER,1,5,,,,,,Capped
+Fabian,Allen,50,West Indies,27,ALL-ROUNDER,,20,34,5,"SRH, PBKS, MI",MI,1,Capped
+Ronsford,Beaton,50,West Indies,30,BOWLER,,2,,,,,,Capped
+Carlos,Brathwaite,75,West Indies,34,ALL-ROUNDER,3,44,41,16,"DD, SRH, KKR",,,Capped
+Johnson,Charles,50,West Indies,34,WICKETKEEPER,,48,38,,,,,Capped
+Roston,Chase,100,West Indies,31,ALL-ROUNDER,43,33,6,,,,,Capped
+Rahkeem,Cornwall,100,West Indies,30,ALL-ROUNDER,9,,,,,,,Capped
+Sheldon,Cottrel,50,West Indies,33,BOWLER,2,38,42,6, KXIP,,,Capped
+Dominic,Drakes,50,West Indies,25,ALL-ROUNDER,,,10,0,GT,GT,0,Capped
+Andre,Fletcher,50,West Indies,35,WICKETKEEPER,,25,54,,,,,Capped
+Chandrapaul,Hemraj,50,West Indies,29,BATSMAN,,6,,,,,,Capped
+Jason,Holder,200,West Indies,31,ALL-ROUNDER,56,131,49,38,"CSK, KKR, SRH, LSG",LSG,12,Capped
+Shai,Hope,100,West Indies,29,WICKETKEEPER,38,104,19,,,,,Capped
+Akeal,Hosein,100,West Indies,29,BOWLER,,29,32,,,,,Capped
+Brandon,King,50,West Indies,28,BATSMAN,,20,32,,,,,Capped
+Ashley,Nurse,50,West Indies,34,BOWLER,,54,13,,,,,Capped
+Keemo,Paul,50,West Indies,25,ALL-ROUNDER,3,23,23,8,DC,,,Capped
+Nicholas,Pooran,200,West Indies,27,WICKETKEEPER,,52,72,47," PBKS, SRH", SRH,14,Capped
+Raymon,Reifer,50,West Indies,31,ALL-ROUNDER,3,5,1,,,,,Capped
+Sherfane,Rutherford,150,West Indies,24,BATSMAN,,,6,10," DC, MI, RR, RCB", RCB,3,Capped
+Romario,Shepherd,50,West Indies,28,ALL-ROUNDER,,18,23,3, SRH, SRH,3,Capped
+Odean,Smith,50,West Indies,26,ALL-ROUNDER,,5,24,6, PBKS, PBKS,6,Capped
+Oshane,Thomas,50,West Indies,26,BOWLER,,20,20,4,RR,,,Capped
+Hayden,Walsh,75,West Indies,30,BOWLER,,22,38,,,,,Capped
+Chadwick,Walton,50,West Indies,37,WICKETKEEPER,2,9,19,,,,,Capped
+Kesrick,Williams,50,West Indies,33,BOWLER,,8,26,,,,,Capped
+Ryan,Burl,50,Zimbabwe,28,ALL-ROUNDER,3,34,55,,,,,Capped
+Bradley,Evans,50,Zimbabwe,26,ALL-ROUNDER,,8,6,,,,,Capped
+Tadiwanashe,Marumani,50,Zimbabwe,21,WICKETKEEPER,,9,13,,,,,Capped
+Blessing,Muzarabani,50,Zimbabwe,26,BOWLER,6,33,34,,,,,Capped
+Richard,Ngarava,50,Zimbabwe,25,BOWLER,3,27,31,,,,,Capped
+Sikandar,Raza,50,Zimbabwe,36,ALL-ROUNDER,17,123,66,,,,,Capped
+Merwe,Erasmus,20,Namibia,27,BATSMAN,,,,,,,,Associate
+Jan,Frylinck,50,Namibia,29,ALL-ROUNDER,,,,,,,,Associate
+Johannes,Smit,20,Namibia,27,ALL-ROUNDER,,,,,,,,Associate
+Ruben,Trumpelmann,20,Namibia,25,BOWLER,,,,,,,,Associate
+David,Wiese,100,Namibia,37,ALL-ROUNDER,,,,15,RCB,,,Associate
+Shariz,Ahmad,50,Netherland,19,ALL-ROUNDER,,,,,,,,Associate
+Bastiaan,De Leede,50,Netherland,23,ALL-ROUNDER,,,,,,,,Associate
+Aryan,Dutt,20,Netherland,19,BOWLER,,,,,,,,Associate
+Brandon,Glover,30,Netherland,26,BOWLER,,,,,,,,Associate
+Frederick,Klaassen,40,Netherland,30,BOWLER,,,,,,,,Associate
+Maxwell,Odowd,20,Netherland,29,BATSMAN,,,,,,,,Associate
+Paul,Van Meekeren,20,Netherland,30,BOWLER,,,,,,,,Associate
+Henry,Munsey,20,Scotland,30,BATSMAN,,,,,,,,Associate
+Mark,Watt,20,Scotland,26,BOWLER,,,,,,,,Associate
+Vriitya,Aravind,20,UAE,20,WICKETKEEPER,,,,,,,,Associate
+Basil,Hameed,30,UAE,30,WICKETKEEPER,,,,,,,,Associate
+Aayan Afzal,Khan,20,UAE,17,ALL-ROUNDER,,,,,,,,Associate
+Karthik,Meiyappan,20,UAE,22,BOWLER,,,,,,,,Associate
+C.P.,Rizwaan,30,UAE,34,BATSMAN,,,,,,,,Associate
+Alishan,Sharafu,20,UAE,20,BATSMAN,,,,,,,,Associate
+K.S., Bharat,20,India,29,WICKETKEEPER,,,,10,"RCB, DC",DC,2,Uncapped
+Ricky,Bhui,20,India,26,WICKETKEEPER,,,,2, SRH,,,Uncapped
+Ashwin,Hebbar,20,India,27,BATSMAN,,,,0,DC,DC,0,Uncapped
+M.Harisankar,Reddy,20,India,24,BOWLER,,,,0,CSK,,,Uncapped
+Prithviraj,Yarra,20,India,25,BOWLER,,,,2,"KKR, SRH",,,Uncapped
+Lukman Hussain,Meriwala,20,India,31,BOWLER,,,,1, DC,,,Uncapped
+Prayas,Barman,20,India,20,ALL-ROUNDER,,,,1,RCB,,,Uncapped
+Writtick,Chatterjee,20,India,30,ALL-ROUNDER,,,,0,PBKS,PBKS,0,Uncapped
+Ishan,Porel,20,India,24,BOWLER,,,,1,PBKS,PBKS,0,Uncapped
+Kanishk,Seth,20,India,25,ALL-ROUNDER,,,,0,CSK,,,Uncapped
+Shreevats,Goswami,30,India,33,WICKETKEEPER,,,,31,"RCB,KKR, RR, SRH",,,Uncapped
+Paras,Dogra,20,India,38,BATSMAN,,,,13,"RR, KXIP, KKR",,,Uncapped
+Arun,Karthick,20,India,37,WICKETKEEPER,,,,17," CSK, RCB",,,Uncapped
+Ankit,Sharma,20,India,31,ALL-ROUNDER,,,,22," DCH, SRH, RPSG, RR",,,Uncapped
+Swapnil,Singh,20,India,32,ALL-ROUNDER,,,,5,"MI, KXIP",,,Uncapped
+Aditya ,Tare,20,India,35,WICKETKEEPER,,,,35,"MI, DD, SRH",,,Uncapped
+Harpreet,Bhatia,20,India,31,BATSMAN,,,,4,"KKR, PWI, RCB",,,Uncapped
+Akhil,Herwadkar,20,India,28,ALL-ROUNDER,,,,0,DD,,,Uncapped
+Shashank,Singh,20,India,31,ALL-ROUNDER,,,,10,"DD, RR, SRH",SRH,10,Uncapped
+Tejas,Baroka,20,India,27,BOWLER,,,,1,"GL, RR",RR,0,Uncapped
+Kulwant,Khejroliya,20,India,31,BOWLER,,,,5,"MI, RCB",,,Uncapped
+Deepak,Punia,20,India,29,WICKETKEEPER,,,,0, MI,,,Uncapped
+Kshitiz,Sharma,20,India,32,ALL-ROUNDER,,,,0,CSK,,,Uncapped
+Shivam ,Sharma,20,India,29,ALL-ROUNDER,,,,5,KXIP,,,Uncapped
+Shelly,Shaurya,20,India,29,BOWLER,,,,0,GL,,,Uncapped
+Dhruv,Shorey,20,India,30,BATSMAN,,,,2, CSK,,,Uncapped
+Himmat,Singh,20,India,26,BATSMAN,,,,0,RCB,,,Uncapped
+Milind,Tandon,40,India,29,ALL-ROUNDER,,,,0,RPSG,,,Uncapped
+Siddhesh,Lad,20,India,30,ALL-ROUNDER,,,,2,"MI, KKR",,,Uncapped
+Vaibhav,Arora,20,India,25,BOWLER,,,,5,"KKR, PBKS",PBKS,5,Uncapped
+Ankush,Bains,20,India,27,WICKETKEEPER,,,,0,"RPSG, DC",,,Uncapped
+Prashant,Chopra,20,India,30,ALL-ROUNDER,,,,2,RR,,,Uncapped
+Mayank,Dagar,20,India,26,ALL-ROUNDER,,,,0,KXIP,,,Uncapped
+Pankaj,Jaswal,20,India,27,BOWLER,,,,0,MI,,,Uncapped
+Tanmay,Agarwal,20,India,27,BATSMAN,,,,0,SRH,,,Uncapped
+Rahul,Buddhi,20,India,25,ALL-ROUNDER,,,,0,MI,MI,0,Uncapped
+C.V.,Milind,20,India,28,BOWLER,,,,0," SRH, DD, RCB", RCB,0,Uncapped
+Yudhvir,Charak,20,India,25,ALL-ROUNDER,,,,0,MI,,,Uncapped
+Rasikh,Dar,20,India,23,BOWLER,,,,3," MI, KKR", KKR,2,Uncapped
+Sushant,Mishra,20,India,22,BOWLER,,,,0, SRH, SRH,0,Uncapped
+Rahul,Shukla,20,India,32,BOWLER,,,,7,"MI, RR, DD",,,Uncapped
+Utkarsh,Singh,20,India,24,ALL-ROUNDER,,,,0,PBKS,,,Uncapped
+Virat ,Singh,20,India,25,BATSMAN,,,,3,SRH,,,Uncapped
+Monu,Singh,20,India,28,BOWLER,,,,1,CSK,,,Uncapped
+K.M.,Asif,30,India,29,BOWLER,,,,3,CSK,CSK,0,Uncapped
+Mohammed,Azharuddeen,20,India,29,WICKETKEEPER,,,,0,RCB,,,Uncapped
+Sachin,Baby,20,India,34,BATSMAN,,,,19,"RR, SRH, RCB",,,Uncapped
+S,Midhun,20,India,28,BOWLER,,,,1,RR,,,Uncapped
+M,Nidheesh,20,India,31,BOWLER,,,,0,MI,,,Uncapped
+Jalaj,Saxena,30,India,36,BOWLER,,,,1," MI, RCB, DC, PBKS",,,Uncapped
+Basil,Thampi,20,India,29,BOWLER,,,,25,"GL, SRH, MI",MI,5,Uncapped
+Vishnu,Vinod,20,India,29,WICKETKEEPER,,,,3,"RCB, DC, SRH",SRH,0,Uncapped
+Aneeshwar,Gautam,20,India,20,ALL-ROUNDER,,,,0,RCB,,,Uncapped
+Shreyas,Gopal,20,India,29,BOWLER,,,,49,"MI,RR,SRH",SRH,1,Uncapped
+Anirudha,Joshi,20,India,35,BATSMAN,,,,5,"RCB, RR, DC",,,Uncapped
+Shivil,Kaushik,20,India,27,BOWLER,,,,7,GL,,,Uncapped
+Ronit,More,20,India,31,BOWLER,,,,2,CSK,,,Uncapped
+R.,Samarth,20,India,30,BATSMAN,,,,0,SRH,,,Uncapped
+Luvnith,Sisodia,20,India,23,WICKETKEEPER,,,,0,RCB,RCB,0,Uncapped
+Jagadeesha,Suchith,20,India,29,ALL-ROUNDER,,,,22,"MI, DC, KXIP, SRH",SRH,5,Uncapped
+Ankeet,Bawane,20,India,32,BATSMAN,,,,1,DD,,,Uncapped
+Nikhil,Naik,20,India,28,WICKETKEEPER,,,,4," KXIP, KKR",,,Uncapped
+Iqbal,Abdulla,20,India,33,BOWLER,,,,49,"KKR, RR, RCB",,,Uncapped
+Arman,Jaffer,20,India,24,BATSMAN,,,,0,KXIP,,,Uncapped
+Tanmay,Mishra,20,India,36,BATSMAN,,,,1,"DCH, RCB",,,Uncapped
+Shams,Mulani,20,India,26,ALL-ROUNDER,,,,0,DC,,,Uncapped
+Pardeep,Sahu,20,India,37,BOWLER,,,,5," RR, KXIP",,,Uncapped
+Shrikant,Mundhe,40,India,34,ALL-ROUNDER,,,,1,KKR,,,Uncapped
+Abhishek,Raut,20,India,36,ALL-ROUNDER,,,,22,RR,,,Uncapped
+Prince,Rai,20,India,23,BOWLER,,,,0,MI,,,Uncapped
+Anmolpreet,Singh,20,India,25,BATSMAN,,,,3, MI, MI,2,Uncapped
+Aniket,Choudhary,30,India,33,BOWLER,,,,5,RCB,,,Uncapped
+Tajinder,Dhillon,20,India,30,ALL-ROUNDER,,,,0,"MI, KXIP",,,Uncapped
+Aditya,Garhwal,20,India,26,ALL-ROUNDER,,,,0,KKR,,,Uncapped
+Shubham,Garhwal,20,India,27,ALL-ROUNDER,,,,0,RR,RR,0,Uncapped
+Abhijeet,Tomar,20,India,28,WICKETKEEPER,,,,1,KKR,KKR,1,Uncapped
+Pratham,Singh,20,India,30,WICKETKEEPER,,,,0,"GL, KKR",KKR,0,Uncapped
+Sheldon,Jackson,20,India,36,WICKETKEEPER,,,,9,KKR,KKR,5,Uncapped
+Prerak,Mankad,20,India,28,ALL-ROUNDER,,,,0,PBKS,PBKS,0,Uncapped
+Baba,Aparajith,20,India,28,ALL-ROUNDER,,,,0, RPSG,,,Uncapped
+Murugan,Ashwin,20,India,32,BOWLER,,,,42,"RPS, DD,RCB,PBKS, MI",MI,8,Uncapped
+C.,Hari Nishaanth,20,India,26,BATSMAN,,,,0, CSK, CSK,0,Uncapped
+Baba,Indrajith,20,India,28,WICKETKEEPER,,,,3,KKR,KKR,3,Uncapped
+N.,Jagadeesan,20,India,27,WICKETKEEPER,,,,7,CSK,CSK,2,Uncapped
+M.,Siddharth,20,India,24,ALL-ROUNDER,,,,0,"KKR, DC",,,Uncapped
+Sanjay,Yadav,20,India,27,ALL-ROUNDER,,,,1,"KKR, SRH, MI",MI,1,Uncapped
+Priyam ,Garg,20,India,22,ALL-ROUNDER,,,,21,SRH,SRH,2,Uncapped
+Aryan,Juyal,20,India,21,WICKETKEEPER,,,,0,MI,MI,0,Uncapped
+Shivam ,Mavi,40,India,24,BOWLER,,,,32,KKR,KKR,6,Uncapped
+Ankit Singh,Rajpoot,20,India,29,BOWLER,,,,29,"CSK, KKR, KXIP, RR, LSG",LSG,0,Uncapped
+Apoorv,Wankhade,30,India,31,BATSMAN,,,,0,"MI, KKR",,,Uncapped
+Chris,Green,40,Australia,29,ALL-ROUNDER,,,,1, KKR,,,Uncapped
+Benny,Howell,40,England,34,ALL-ROUNDER,,,,0,PBKS,PBKS,0,Uncapped
+Corbin,Bosch,20,South Africa,28,ALL-ROUNDER,,,,0,RR,RR,0,Uncapped
+Shaik,Ismail,20,India,20,BOWLER,,,,,,,,Uncapped
+Siva,Kalidindi,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Mamidi,Krishna,20,India,21,WICKETKEEPER,,,,,,,,Uncapped
+Pasam,Naveen,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Shaik,Rasheed,20,India,18,BATSMAN,,,,,,,,Uncapped
+Nitish Kumar,Reddy,20,India,19,WICKETKEEPER,,,,,,,,Uncapped
+Girinath,Reddy,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Abhishek,Reddy,20,India,28,BATSMAN,,,,,,,,Uncapped
+Gulfaam,Saleh,20,India,27,BATSMAN,,,,,,,,Uncapped
+Yara ,Sandeep,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+K.V.,Sasikanth,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Kirant,Shinde,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Pinninti,Tapaswi,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Tripurana,Vijay,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Chetan,Anand,20,India,26,BOWLER,,,,,,,,Uncapped
+Limar,Dabi,20,India,31,BOWLER,,,,,,,,Uncapped
+Rahul,Dalal,20,India,31,WICKETKEEPER,,,,,,,,Uncapped
+Meet,Desai,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Tanmay,Gupta,20,India,19,BOWLER,,,,,,,,Uncapped
+Mohit,Panwar,20,India,20,BATSMAN,,,,,,,,Uncapped
+Akash,Singh,20,India,27,BATSMAN,,,,,,,,Uncapped
+Mukhtar,Hussain,20,India,24,BOWLER,,,,,,,,Uncapped
+Jitumoni,Kalita,20,India,22,BOWLER,,,,,,,,Uncapped
+Jaypal,Chad,30,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Harsh,Desai,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Chintal,Gandhi,20,India,28,BOWLER,,,,,,,,Uncapped
+Kartik,Kakade,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Bhanu,Pania,20,India,26,BATSMAN,,,,,,,,Uncapped
+Mitesh,Patel,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Kinit,Patel,20,India,21,BATSMAN,,,,,,,,Uncapped
+Ansh,Patel,20,India,19,BOWLER,,,,,,,,Uncapped
+Ansh,Patel,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Safvan,Patel,20,India,24,BOWLER,,,,,,,,Uncapped
+Sahejad Khan ,Pathan,20,India,27,BOWLER,,,,,,,,Uncapped
+Babasafi,Pathan,20,India,28,BOWLER,,,,,,,,Uncapped
+Hemanth,Punde,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Abhimanyu Singh,Rajput,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Ninad,Rathva,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Shashwat,Rawat,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Shivang,Sane,20,India,23,BATSMAN,,,,,,,,Uncapped
+Atit,Sheth,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Jyotsnil,Singh,20,India,25,BATSMAN,,,,,,,,Uncapped
+Vishnu,Solanki,20,India,30,WICKETKEEPER,,,,,,,,Uncapped
+Saurin,Thakar,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Lakshit,Toksiya,20,India,22,BOWLER,,,,,,,,Uncapped
+Apurva,Anand,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Md Sarfaraz,Ashraf,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+Baljeet,Bihari,20,India,20,WICKETKEEPER,,,,,,,,Uncapped
+Sakibul,Gani,20,India,23,BATSMAN,,,,,,,,Uncapped
+Sakib,Hussain,20,India,18,BOWLER,,,,,,,,Uncapped
+Vipul,Krishna,20,India,22,BOWLER,,,,,,,,Uncapped
+Shivam,Kumar,30,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Rahul,Kumar,20,India,19,BOWLER,,,,,,,,Uncapped
+Babul,Kumar,20,India,30,BATSMAN,,,,,,,,Uncapped
+Piter,Mardi,20,India,24,BOWLER,,,,,,,,Uncapped
+Raghavendra,Pratap,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Samar,Quadri,20,India,33,BOWLER,,,,,,,,Uncapped
+Anuj,Raj,20,India,22,BOWLER,,,,,,,,Uncapped
+Malay,Raj,20,India,20,BOWLER,,,,,,,,Uncapped
+Yashaswi,Rishav,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Abhijeet,Saket,20,India,27,BOWLER,,,,,,,,Uncapped
+Bipin ,Saurabh,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Anunay,Singh,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Himanshu,Singh,20,India,25,BOWLER,,,,,,,,Uncapped
+Sachin ,Singh ,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Vijay ,Vats,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Kaif,Ahmad,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Nipun,Chatrath,20,India,19,BATSMAN,,,,,,,,Uncapped
+Iman,Chaudhuri,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Soutrik,Das,20,India,21,BOWLER,,,,,,,,Uncapped
+Sandipan,Das,20,India,25,BOWLER,,,,,,,,Uncapped
+Diganta,Das,20,India,21,WICKETKEEPER,,,,,,,,Uncapped
+Rupankar,Dastidar,20,India,21,BOWLER,,,,,,,,Uncapped
+Abhimanyu,Easwaran,20,India,27,WICKETKEEPER,,,,,,,,Uncapped
+Varun,Gandhi,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Sudip,Gharami,20,India,24,BATSMAN,,,,,,,,Uncapped
+Pratap,Ghatak,20,India,25,BATSMAN,,,,,,,,Uncapped
+Basudev,Ghosal,20,India,19,BATSMAN,,,,,,,,Uncapped
+Debojyoti,Ghosh,40,India,23,BATSMAN,,,,,,,,Uncapped
+Asif,Hossain,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Mohammad,Kaif,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Dilshad,Khan,20,India,19,BOWLER,,,,,,,,Uncapped
+Ranjot ,Kharia,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Mukesh,Kumar,20,India,29,BOWLER,,,,,,,,Uncapped
+Ravi,Kumar,20,India,19,BOWLER,,,,,,,,Uncapped
+Saurav,Kumar,20,India,24,BOWLER,,,,,,,,Uncapped
+Karan,Lal,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Kaushik,Maity,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Soummyadip,Mandal,20,India,27,BOWLER,,,,,,,,Uncapped
+Prabhat ,Maurya ,40,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Toufik ,Mondal ,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Wasim,Mubashwir,40,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Ajoyendra,Mukherjee,20,India,20,WICKETKEEPER,,,,,,,,Uncapped
+Sagen,Murmu,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Mrutunjay,Nayak,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Agniv,Pan,20,India,26,WICKETKEEPER,,,,,,,,Uncapped
+Anish,Pandey,20,India,19,BOWLER,,,,,,,,Uncapped
+Abishek,Porel,20,India,20,WICKETKEEPER,,,,,,,,Uncapped
+Pradipta,Pramanik,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Ramesh,Prasad,20,India,29,BOWLER,,,,,,,,Uncapped
+Geet,Puri,20,India,28,BOWLER,,,,,,,,Uncapped
+Ritwik,Roy Chowdhury,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Swapnanil,Sen,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Pankaj,Shaw,20,India,35,BATSMAN,,,,,,,,Uncapped
+Subham,Singh,20,India,19,BATSMAN,,,,,,,,Uncapped
+Vikas,Singh,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Jehu,Anderson,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Lal,Ralte,20,India,31,BOWLER,,,,,,,,Uncapped
+G.,Chiranjeevi,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Akash,P,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Krishna,Pandey,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Bharat,Sharma,20,India,27,WICKETKEEPER,,,,,,,,Uncapped
+Sidak,Singh,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Parameeswaran,Sivaraman,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Rohan,Suresh,20,India,20,BOWLER,,,,,,,,Uncapped
+Sagar ,Udeshi,20,India,36,BOWLER,,,,,,,,Uncapped
+Satyam,Baaliyan,20,India,20,BOWLER,,,,,,,,Uncapped
+Himanshu,Bisht,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Kunal,Chandela,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Deepak,Dhapola,20,India,32,BOWLER,,,,,,,,Uncapped
+Piyush,Joshi,20,India,26,BATSMAN,,,,,,,,Uncapped
+Rajan,Kumar,20,India,26,BOWLER,,,,,,,,Uncapped
+Mayank,Mishra,20,India,32,ALL-ROUNDER,,,,,,,,Uncapped
+Deepesh,Nailwal,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Dikshanshu,Negi,20,India,32,ALL-ROUNDER,,,,,,,,Uncapped
+Vijay ,Sharma ,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Avneesh,Sudha,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Agrim,Tiwari,40,India,26,BOWLER,,,,,,,,Uncapped
+Shubham,Agrawal,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Shakeeb,Ahmed,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Shashank,Chandrakar,20,India,28,BATSMAN,,,,,,,,Uncapped
+Kivnoor,Chhabda,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Sanjeet,Desai,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Satyam,Dubey,20,India,20,BOWLER,,,,,,,,Uncapped
+Sanidhya,Hurkat,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Muhammad,Hussain,20,India,29,BOWLER,,,,,,,,Uncapped
+Amandeep,Khare,20,India,25,BATSMAN,,,,,,,,Uncapped
+Ravi Kiran,Majeti,20,India,32,BOWLER,,,,,,,,Uncapped
+Sourabh,Majumdar,20,India,24,BOWLER,,,,,,,,Uncapped
+Vishvash,Malik,20,India,25,BOWLER,,,,,,,,Uncapped
+Ajay,Mandal,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Aishwary,Marya,30,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Ayush ,Pandey,20,India,19,BATSMAN,,,,,,,,Uncapped
+Anand,Rao,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Sumit,Ruikar,20,India,32,ALL-ROUNDER,,,,,,,,Uncapped
+Shubham,Singh,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Aayush,Thakur,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Utkarsh,Tiwari,20,India,23,BOWLER,,,,,,,,Uncapped
+Vijay,Yadav,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Prateek,Yadav,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Mayank,Yadav,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Ajay,Ahlawat,20,India,25,BOWLER,,,,,,,,Uncapped
+Priyansh,Arya,20,India,21,BATSMAN,,,,,,,,Uncapped
+Siddhant,Bansal,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Himanshu,Chauhan,20,India,20,BOWLER,,,,,,,,Uncapped
+Neel,Chhikara,20,India,20,BATSMAN,,,,,,,,Uncapped
+Karan,Dagar,30,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Saurav,Dagar,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Rahul,Dagar,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Hiten,Dalal,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Ayush,Doseja,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Rahul,Gahlot,20,India,23,BOWLER,,,,,,,,Uncapped
+Anish,Gautam,20,India,22,WICKETKEEPER,,,,,,,,Uncapped
+Ajay,Guliya,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Shivam,Gupta,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Vaibhav,Kandpal,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Ankur,Kaushik,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Sagar,Khatri,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Nikhil,Kumar,20,India,24,BOWLER,,,,,,,,Uncapped
+Dev,Lakra,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Shaurya,Malik,20,India,20,BOWLER,,,,,,,,Uncapped
+Divij,Mehra,20,India,20,BOWLER,,,,,,,,Uncapped
+Vision,Panchal,20,India,29,BOWLER,,,,,,,,Uncapped
+Arjun,Rapria,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Mayank,Rawat,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Sanat,Sangwan,20,India,22,BATSMAN,,,,,,,,Uncapped
+Samarth,Seth,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Anirudh,Sharma,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Suyash,Sharma,20,India,19,BOWLER,,,,,,,,Uncapped
+Jonty,Sidhu,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Digvesh,Singh,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Bhagwan,Singh,20,India,22,BOWLER,,,,,,,,Uncapped
+Aayush,Singh,20,India,21,BOWLER,,,,,,,,Uncapped
+Vikas,Solanki,20,India,22,WICKETKEEPER,,,,,,,,Uncapped
+Lakshay,Thareja,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+A.,Vaibhav,20,India,26,BOWLER,,,,,,,,Uncapped
+Shivank,Vashisth,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Pranshu,Vijayran,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Prince,Yadav,20,India,21,BOWLER,,,,,,,,Uncapped
+Felix,Alemao,20,India,27,BOWLER,,,,,,,,Uncapped
+Samar,Dubhashi,20,India,27,WICKETKEEPER,,,,,,,,Uncapped
+Ishaan,Gadekar,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Deepraj,Gaonkar,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Lakshay,Garg,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Eknath,Kerkar,20,India,29,WICKETKEEPER,,,,,,,,Uncapped
+Vedant,Naik,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Amulya,Pandrekar,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Tunish,Sawkar,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Amit,Yadav,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+Japagnya,Bhatt,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Saurav,Chuahan,20,India,22,BATSMAN,,,,,,,,Uncapped
+Aarya,Desai,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Chirag,Gandhi,20,India,32,BATSMAN,,,,,,,,Uncapped
+Vishal,Jayswal,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Roosh,Kalaria,20,India,30,BOWLER,,,,,,,,Uncapped
+Hiten Kumar,Mahera,20,India,25,BATSMAN,,,,,,,,Uncapped
+Jay,Malusare,20,India,21,BOWLER,,,,,,,,Uncapped
+Arzan,Nagwaswalla,20,India,25,BOWLER,,,,,,,,Uncapped
+Jayveersinh,Parmar,20,India,24,BOWLER,,,,,,,,Uncapped
+Smit,Patel,20,India,22,BATSMAN,,,,,,,,Uncapped
+Hemang,Patel,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Urvil,Patel,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Kshitij Kumar,Patel,20,India,25,BATSMAN,,,,,,,,Uncapped
+Priyesh,Patel,20,India,21,WICKETKEEPER,,,,,,,,Uncapped
+Karan,Patel,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Hardik,Patel,20,India,27,BOWLER,,,,,,,,Uncapped
+Dinesh ,Bana ,20,India,18,WICKETKEEPER,,,,,,,,Uncapped
+Jaideep,Bhambhu,20,India,24,BOWLER,,,,,,,,Uncapped
+Chaitanya,Bishnoi,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Ajit,Chahal,20,India,27,BOWLER,,,,,,,,Uncapped
+Shivam,Chauhan,20,India,25,BATSMAN,,,,,,,,Uncapped
+Kapil,Hooda,20,India,26,WICKETKEEPER,,,,,,,,Uncapped
+Mohit,Kalyan,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Anshul,Kamboj,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Aman,Kumar,20,India,26,BOWLER,,,,,,,,Uncapped
+Sumit,Kumar,20,India,27,WICKETKEEPER,,,,,,,,Uncapped
+Tinu,Kundu,20,India,28,BOWLER,,,,,,,,Uncapped
+Sanjay,Pahal,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Nehal,Pajni,20,India,22,BATSMAN,,,,,,,,Uncapped
+Jitender,Pal,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Dhruv,Parashar,20,India,25,BATSMAN,,,,,,,,Uncapped
+Amit,Rana,20,India,27,BOWLER,,,,,,,,Uncapped
+Himanshu,Rana,20,India,24,BATSMAN,,,,,,,,Uncapped
+Ashok ,Sandhu,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Garv ,Sangwan ,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Yashu,Sharma,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Rohit,Sharma,20,India,29,WICKETKEEPER,,,,,,,,Uncapped
+Nishant,Sindhu,20,India,18,ALL-ROUNDER,,,,,,,,Uncapped
+Yuvraj ,Singh ,20,India,18,BATSMAN,,,,,,,,Uncapped
+Prashant,Vashist,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Raghav,Dhawan,20,India,36,WICKETKEEPER,,,,,,,,Uncapped
+Vinay,Galetiya,20,India,30,BOWLER,,,,,,,,Uncapped
+Nikhil,Gangta,20,India,30,BATSMAN,,,,,,,,Uncapped
+Hritik,Kalia,20,India,23,BOWLER,,,,,,,,Uncapped
+Ankit,Maini,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+Ekant,Sen,20,India,27,BATSMAN,,,,,,,,Uncapped
+Gurvinder,Singh,20,India,39,BOWLER,,,,,,,,Uncapped
+Kanwar,Singh,20,India,31,BOWLER,,,,,,,,Uncapped
+Akash,Vashisht,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Sumeet,Verma,20,India,32,ALL-ROUNDER,,,,,,,,Uncapped
+Alankrit,Agarwal,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Abdul Ela,Al Quraishi,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Punnaiah,Anjaneyulu,20,India,19,BOWLER,,,,,,,,Uncapped
+Mohammed,Asaduddin,20,India,32,BATSMAN,,,,,,,,Uncapped
+Santosh,Goud,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Mickil,Jaiswal,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Kartikeya,Kak,20,India,26,BOWLER,,,,,,,,Uncapped
+Mohd,Khader,20,India,35,BOWLER,,,,,,,,Uncapped
+Shashank ,Mehrotra,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+C.T.L.,Rakshann,20,India,22,BOWLER,,,,,,,,Uncapped
+G.Aniketh,Reddy,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Abhirath,Reddy,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Pragnay,Reddy,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Samhith,Reddy,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Rishith ,Reddy,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Chandan,Sahani,20,India,25,BATSMAN,,,,,,,,Uncapped
+E.,Sanketh,20,India,23,BOWLER,,,,,,,,Uncapped
+Bhavesh,Seth,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Tanay,Thyagarajann,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Shreyas,Vala,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Musaif,Ajaz,20,India,20,BATSMAN,,,,,,,,Uncapped
+Basit,Bashir,20,India,20,BOWLER,,,,,,,,Uncapped
+Mohammad,Bhat,20,India,27,BOWLER,,,,,,,,Uncapped
+Auqib,Dar,20,India,26,BOWLER,,,,,,,,Uncapped
+Shahrukh,Dar,20,India,29,BOWLER,,,,,,,,Uncapped
+Javid,Ganaie,20,India,23,BOWLER,,,,,,,,Uncapped
+Shubham,Khajuria,20,India,27,BATSMAN,,,,,,,,Uncapped
+Waseem,Khanday,20,India,23,BOWLER,,,,,,,,Uncapped
+Jiyaad,Magrey,20,India,23,BATSMAN,,,,,,,,Uncapped
+Fazil,Makaya,20,India,26,WICKETKEEPER,,,,,,,,Uncapped
+Henan,Malik,20,India,26,BATSMAN,,,,,,,,Uncapped
+Umar Nazir,Mir,20,India,29,BOWLER,,,,,,,,Uncapped
+Abid,Mushtaq,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Lone,Muzaffar,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Shubham Singh ,Pundir,20,India,24,BATSMAN,,,,,,,,Uncapped
+Shivansh,Sharma,20,India,19,WICKETKEEPER,,,,,,,,Uncapped
+Govind,Sharma,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Vivrant,Sharma,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Mujtaba,Yousuf,20,India,20,BOWLER,,,,,,,,Uncapped
+Kumar,Deobrat,20,India,30,BATSMAN,,,,,,,,Uncapped
+Bal,Krishna,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Kumar,Kushagra,20,India,18,WICKETKEEPER,,,,,,,,Uncapped
+Mohammad,Siddiqui,20,India,28,WICKETKEEPER,,,,,,,,Uncapped
+Vikash,Singh,20,India,28,BOWLER,,,,,,,,Uncapped
+Ashwin ,Anand,20,India,23,BATSMAN,,,,,,,,Uncapped
+J.,Ananthakrishnan,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Mohammed,Anas,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Vaisakh ,Chandran,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Fazil,Fanoos,20,India,25,BOWLER,,,,,,,,Uncapped
+Rojith,Ganesh,20,India,29,WICKETKEEPER,,,,,,,,Uncapped
+Gokul,Gopinath,20,India,23,BOWLER,,,,,,,,Uncapped
+Sijomon,Joseph,20,India,25,BOWLER,,,,,,,,Uncapped
+Adhithya,Krishnan,20,India,21,BOWLER,,,,,,,,Uncapped
+Anand,Krishnan,20,India,25,BATSMAN,,,,,,,,Uncapped
+Midhun,Krishnan,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Manu,Krishnan,20,India,34,ALL-ROUNDER,,,,,,,,Uncapped
+Rohan ,Kunnummal,20,India,24,BATSMAN,,,,,,,,Uncapped
+Vinoop,Manoharan,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Sharafuddeen,N M,20,India,28,WICKETKEEPER,,,,,,,,Uncapped
+Varun ,Nayanar ,20,India,20,WICKETKEEPER,,,,,,,,Uncapped
+Salman,Nizar,20,India,25,BATSMAN,,,,,,,,Uncapped
+Abdul,P A,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Basil,Poulose,20,India,26,BOWLER,,,,,,,,Uncapped
+Krishna ,Prasad,20,India,23,BATSMAN,,,,,,,,Uncapped
+Shoun ,Roger ,20,India,20,BATSMAN,,,,,,,,Uncapped
+Aswanth,Sankar,20,India,20,BOWLER,,,,,,,,Uncapped
+Akhin,Sathar,20,India,21,BOWLER,,,,,,,,Uncapped
+Vathsal,Sharma,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Sachin,Suresh,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Suresh,Vishweshar ,20,India,25,BOWLER,,,,,,,,Uncapped
+Manoj,Bhandage,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Nischal,Dega,20,India,28,BATSMAN,,,,,,,,Uncapped
+Shubhang,Hegde,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Stallin,Hoover,20,India,34,ALL-ROUNDER,,,,,,,,Uncapped
+Sharath,Hosagavi,20,India,30,BOWLER,,,,,,,,Uncapped
+Prateek,Jain,20,India,28,BOWLER,,,,,,,,Uncapped
+Rohan,Kadam,20,India,28,BATSMAN,,,,,,,,Uncapped
+Vidwath,Kaverappa,20,India,24,BOWLER,,,,,,,,Uncapped
+Siddharth,Krishnamurthy,20,India,30,WICKETKEEPER,,,,,,,,Uncapped
+Shrijith,Krishnan,20,India,26,WICKETKEEPER,,,,,,,,Uncapped
+Chethan,L.R.,20,India,22,BATSMAN,,,,,,,,Uncapped
+Venkatesh,Muralidhara,20,India,22,BOWLER,,,,,,,,Uncapped
+Rohan,Patil,20,India,21,BATSMAN,,,,,,,,Uncapped
+Vidyadhar,Patil,20,India,22,BOWLER,,,,,,,,Uncapped
+Nikin Jose,Salem,20,India,22,BATSMAN,,,,,,,,Uncapped
+B.R.,Sharath,20,India,26,WICKETKEEPER,,,,,,,,Uncapped
+Sharath,Srinivas,20,India,27,WICKETKEEPER,,,,,,,,Uncapped
+Mohammed,Taha,20,India,29,BATSMAN,,,,,,,,Uncapped
+Nihal,Ullal,20,India,30,WICKETKEEPER,,,,,,,,Uncapped
+Koushik,Vasuki,20,India,30,BOWLER,,,,,,,,Uncapped
+Vyshak,Vijay Kumar,20,India,26,BOWLER,,,,,,,,Uncapped
+Kushaal,Wadhwani,20,India,26,BOWLER,,,,,,,,Uncapped
+Satyajeet,Bachhav,20,India,30,BOWLER,,,,,,,,Uncapped
+Taranjeet Singh,Dhillon,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Nikit,Dhumal,20,India,31,BOWLER,,,,,,,,Uncapped
+Razeq,Fallah,20,India,19,BOWLER,,,,,,,,Uncapped
+Swapnil,Fulpagar,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Ramakrishna,Ghosh,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Rohit,Hadke,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Divyang,Hinganekar,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Manoj,Ingale,20,India,28,BOWLER,,,,,,,,Uncapped
+Atharva,Kale,20,India,23,BATSMAN,,,,,,,,Uncapped
+Shamshuzama,Kazi,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Azim,Kazi,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Shubham,Kothari,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Kunal,Kothavade,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Yash ,Kshirsagar,20,India,24,BATSMAN,,,,,,,,Uncapped
+Yash,Nahar,20,India,28,BATSMAN,,,,,,,,Uncapped
+Bhushan,Navande,20,India,26,BATSMAN,,,,,,,,Uncapped
+Ranjit,Nikam,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Ashay,Palkar,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+Omkar,Patkal,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Pavan,Shah,20,India,23,BATSMAN,,,,,,,,Uncapped
+Naushad,Shaikh,20,India,31,WICKETKEEPER,,,,,,,,Uncapped
+Soham ,Shinde ,20,India,19,BATSMAN,,,,,,,,Uncapped
+Kaushal,Tambe,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Siddhesh,Veer,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Siddhesh,Warghante,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Sunil ,Yadav,20,India,31,BOWLER,,,,,,,,Uncapped
+Vishal,Addagatla,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Siddharth,Akre,20,India,25,BATSMAN,,,,,,,,Uncapped
+Atharva,Ankolekar,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Mohit,Avasthi,20,India,30,BOWLER,,,,,,,,Uncapped
+Khizar,Dafedar,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Royston,Dias,20,India,29,BOWLER,,,,,,,,Uncapped
+Sylvester ,Dsouza ,20,India,24,BOWLER,,,,,,,,Uncapped
+Sahil,Jadhav,20,India,21,WICKETKEEPER,,,,,,,,Uncapped
+Shashwat,Jagtap,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Pragnesh,Kanpillewar,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Ayaz,Khan,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Tanush,Kotian,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Bhupen,Lalwani,20,India,24,BATSMAN,,,,,,,,Uncapped
+Dhrumil,Matkar,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Shikhar,Mehta,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Sujit,Nayak,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+Suved ,Parkar,20,India,22,BATSMAN,,,,,,,,Uncapped
+Sairaj,Patil,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Divyaansh,Saxena,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Suryansh ,Shedge ,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Himanshu,Singh,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Pawan,Singh,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Ravindra,Solanki,20,India,32,BOWLER,,,,,,,,Uncapped
+Maxwell,Swaminathan,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Parikshit,Valsangkar,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Abhishek,Kumar,20,India,20,BOWLER,,,,,,,,Uncapped
+Kishan,Lyngdoh,20,India,25,BATSMAN,,,,,,,,Uncapped
+Bishworjit,Konthoujam,20,India,27,BOWLER,,,,,,,,Uncapped
+Nitesh ,Sedai ,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Rahul,Chandrol,20,India,22,WICKETKEEPER,,,,,,,,Uncapped
+Ashwin,Das,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Puneet,Datey,20,India,28,BOWLER,,,,,,,,Uncapped
+Yash,Dubey,20,India,24,BATSMAN,,,,,,,,Uncapped
+Kuldeep,Gehi,20,India,28,WICKETKEEPER,,,,,,,,Uncapped
+Mihir,Hirwani,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Ankit,Kushwah,20,India,30,WICKETKEEPER,,,,,,,,Uncapped
+Akshat,Raghuwanshi,20,India,19,BATSMAN,,,,,,,,Uncapped
+Ajay,Rohera,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Parth,Sahani,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Shubham,Sharma,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Kamal,Tripathi,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Gourav,Yadav,20,India,31,BOWLER,,,,,,,,Uncapped
+Chetan,Bist,20,India,33,BATSMAN,,,,,,,,Uncapped
+Khrievitso,Kense,20,India,19,BOWLER,,,,,,,,Uncapped
+Akash,Singh,20,India,20,BOWLER,,,,,,,,Uncapped
+Sushil,Barik,20,India,20,BOWLER,,,,,,,,Uncapped
+Rajesh,Mohanty,20,India,22,BOWLER,,,,,,,,Uncapped
+Anshuman,Rath,20,India,25,WICKETKEEPER,,,,,,,,Uncapped
+Krishan,Alang,20,India,31,ALL-ROUNDER,,,,,,,,Uncapped
+Gurnoor Singh,Brar,20,India,22,BOWLER,,,,,,,,Uncapped
+Gourav,Choudhary,20,India,24,BATSMAN,,,,,,,,Uncapped
+Vinay,Choudhary,20,India,29,BOWLER,,,,,,,,Uncapped
+Aryaman Singh,Dhaliwal,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Naman,Dhir,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Prerit,Dutta,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Abhishek,Gupta,20,India,32,WICKETKEEPER,,,,,,,,Uncapped
+Armaan Singh,Gurna,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Gitansh,Khera,20,India,31,WICKETKEEPER,,,,,,,,Uncapped
+Ashwani,Kumar,20,India,21,BOWLER,,,,,,,,Uncapped
+Ramesh,Kumar,20,India,24,BOWLER,,,,,,,,Uncapped
+Anmol,Malhotra,20,India,27,WICKETKEEPER,,,,,,,,Uncapped
+Pukhraj,Mann,20,India,21,BATSMAN,,,,,,,,Uncapped
+Akul,Pandove,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Abhinav,Sharma,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Sanvir ,Singh,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Vishwanath Pratap,Singh,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Prabjot,Singh,20,India,28,BATSMAN,,,,,,,,Uncapped
+Nehal,Wadhera,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Shiva,Chauhan,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Sahil,Dhiwan,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Arjit,Gupta,20,India,33,WICKETKEEPER,,,,,,,,Uncapped
+Deepak,Karwasra,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Salman,Khan,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Yash,Kothari,20,India,27,WICKETKEEPER,,,,,,,,Uncapped
+Hemant,Kumar,20,India,27,BOWLER,,,,,,,,Uncapped
+Abhimanyu,Lamba,20,India,27,BOWLER,,,,,,,,Uncapped
+Kunal,Rathore,20,India,20,WICKETKEEPER,,,,,,,,Uncapped
+Shubham,Sharma,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Bharat,Sharma,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Ashok,Sharma,20,India,20,BOWLER,,,,,,,,Uncapped
+Himanshu,Sharma,20,India,24,BOWLER,,,,,,,,Uncapped
+Ravi,Sharma,20,India,26,BOWLER,,,,,,,,Uncapped
+Arisht,Singhvi,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Suraj,Ahuja,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Susheel,Bhagwana Ram,20,India,26,BOWLER,,,,,,,,Uncapped
+Shivam,Chaudhary,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Pranesh ,Desai ,20,India,36,BOWLER,,,,,,,,Uncapped
+Abhishek,Gopal,20,India,28,BOWLER,,,,,,,,Uncapped
+Sunil,Kumar,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Varun,Lal,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Mohammad Saif,Mohammad,20,India,26,BATSMAN,,,,,,,,Uncapped
+Abhishek,Pandey,20,India,23,BATSMAN,,,,,,,,Uncapped
+Ananta,Saha,20,India,26,BOWLER,,,,,,,,Uncapped
+Himanshu,Sangwan,20,India,27,BOWLER,,,,,,,,Uncapped
+Ashutosh,Sharma,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Rahul,Sharma,20,India,32,BOWLER,,,,,,,,Uncapped
+Vivek,Singh,20,India,29,WICKETKEEPER,,,,,,,,Uncapped
+Adarsh,Singh,20,India,24,BOWLER,,,,,,,,Uncapped
+Yuvraj,Singh,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Ankush,Singh,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Dhrushant,Soni,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Pradeep,Thippeswamy,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Harsh,Tyagi,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Upendra Singh,Yadav,20,India,26,WICKETKEEPER,,,,,,,,Uncapped
+Parth,Bhut,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Parth,Chauhan,20,India,27,BATSMAN,,,,,,,,Uncapped
+Yuvraj,Chudasama,20,India,27,BOWLER,,,,,,,,Uncapped
+Harvik ,Desai,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Tarang,Gohel,20,India,23,BATSMAN,,,,,,,,Uncapped
+Jay ,Gohil,20,India,22,BATSMAN,,,,,,,,Uncapped
+Vishvarajsinh,Jadeja,20,India,24,BATSMAN,,,,,,,,Uncapped
+Dharmendrasinh,Jadeja,20,India,32,BOWLER,,,,,,,,Uncapped
+Viharsinh ,Jadeja,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Chirag,Jani,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+Devang,Karamta,20,India,25,BOWLER,,,,,,,,Uncapped
+Raxit ,Mehta ,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Kushang,Patel,20,India,31,BOWLER,,,,,,,,Uncapped
+Smit,Patel,20,India,22,BOWLER,,,,,,,,Uncapped
+Siddhant,Rana,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Pranav,Savjani,20,India,23,BOWLER,,,,,,,,Uncapped
+Arpit,Vasavada,20,India,34,ALL-ROUNDER,,,,,,,,Uncapped
+Samarth ,Vyas,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Lee Yong,Lepcha,20,India,31,BOWLER,,,,,,,,Uncapped
+Ankur,Malik,30,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Sumit,Singh,20,India,35,ALL-ROUNDER,,,,,,,,Uncapped
+Ravi,Chauhan,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Rahul,Gahlaut,20,India,27,BATSMAN,,,,,,,,Uncapped
+Arpit,Guleria,20,India,25,BOWLER,,,,,,,,Uncapped
+Anshul,Gupta,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+Pulkit,Narang,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Amit,Pachhara,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Mohit,Rathee,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Shubham Singh,Rohilla,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Gaurav,Sharma,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Arjun,Sharma,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Rahul,Singh,20,India,30,BOWLER,,,,,,,,Uncapped
+Nitin,Tanwar,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Nitin,Yadav,20,India,30,BOWLER,,,,,,,,Uncapped
+Amit,Ali,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Bikram Kumar,Das,20,India,23,BATSMAN,,,,,,,,Uncapped
+Rajat,Dey,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Mani Sankar,Mura Singh,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Chiranjit,Paul,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Ajay,Sarkar,20,India,26,BOWLER,,,,,,,,Uncapped
+Debaprasad,Singha,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+Ganga Sridhar , Raju,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+S.Ajith , Ram,20,India,24,BOWLER,,,,,,,,Uncapped
+R.S.Jaganath, Sinivas,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+M.,Abhinav,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+R.,Alexandar,20,India,27,BOWLER,,,,,,,,Uncapped
+M.E. Yazh,Arunmozhi,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+V,Athisayaraj,20,India,30,BOWLER,,,,,,,,Uncapped
+Sachin,Balasubramaniam,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Aaditya,Balasubramanian,20,India,20,BOWLER,,,,,,,,Uncapped
+N.S.,Chaturved,20,India,32,ALL-ROUNDER,,,,,,,,Uncapped
+Aswin,Crist,20,India,28,ALL-ROUNDER,,,,,,,,Uncapped
+Antony,Dhas,20,India,34,ALL-ROUNDER,,,,,,,,Uncapped
+Kaushik Mohan,Gandhi,20,India,33,BATSMAN,,,,,,,,Uncapped
+V.,Gowtham ,20,India,20,BOWLER,,,,,,,,Uncapped
+Ajitesh,Guruswamy,20,India,20,WICKETKEEPER,,,,,,,,Uncapped
+R.K.Mokit,Hariharan,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Kousik,Jagatheesan,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Affan,Khader,20,India,27,ALL-ROUNDER,,,,,,,,Uncapped
+Ajay,Krishnan,20,India,26,BOWLER,,,,,,,,Uncapped
+Suresh,Kumar,20,India,32,WICKETKEEPER,,,,,,,,Uncapped
+Kishan,Kumar,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+S.,Manigandan ,20,India,26,BOWLER,,,,,,,,Uncapped
+M.,Mohammed,20,India,31,ALL-ROUNDER,,,,,,,,Uncapped
+Trilok,Nag,20,India,22,BOWLER,,,,,,,,Uncapped
+Manav,Parakh,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Pradosh,Paul,20,India,22,BATSMAN,,,,,,,,Uncapped
+G.,Periyasamy,20,India,29,BOWLER,,,,,,,,Uncapped
+Vidyuth,Ponnapati,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Mohan,Prasath,20,India,24,BOWLER,,,,,,,,Uncapped
+Sundararaman,Radhakrishnan,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Tushar,Raheja,20,India,22,WICKETKEEPER,,,,,,,,Uncapped
+Vimal,Ramachandran,20,India,20,BATSMAN,,,,,,,,Uncapped
+Kavin,Ravi,20,India,26,WICKETKEEPER,,,,,,,,Uncapped
+M.S.,Sanjay,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+P.,Saravana Kumar,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+M.,Silambarasan,20,India,24,BOWLER,,,,,,,,Uncapped
+R.,Silambarasan,20,India,30,BOWLER,,,,,,,,Uncapped
+Nikhilesh,Sobanbabu,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Aravind,Suresh,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+B.,Surya,20,India,26,ALL-ROUNDER,,,,,,,,Uncapped
+L.,Suryapprakash,20,India,33,BATSMAN,,,,,,,,Uncapped
+Abhishek,Tanwar,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+K.Gowtham,Thamarai Kannan,20,India,29,BOWLER,,,,,,,,Uncapped
+L.,Vignesh,20,India,34,BOWLER,,,,,,,,Uncapped
+Sonu,Yadav,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Valliappan,Yudheeswaran,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Sameer,Choudhary,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Abhishek ,Goswami,20,India,25,BATSMAN,,,,,,,,Uncapped
+Divyansh,Joshi,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Madhav,Kaushik,20,India,25,BATSMAN,,,,,,,,Uncapped
+Aaqib,Khan,20,India,19,BOWLER,,,,,,,,Uncapped
+Saurabh,Kumar,20,India,29,ALL-ROUNDER,,,,,,,,Uncapped
+Sameer,Rizvi,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Shivam ,Sharma ,20,India,27,BOWLER,,,,,,,,Uncapped
+Hardeep,Singh,20,India,27,BATSMAN,,,,,,,,Uncapped
+Yashovardhan,Singh,20,India,20,WICKETKEEPER,,,,,,,,Uncapped
+Sandeep Kumar,Tomar,20,India,24,WICKETKEEPER,,,,,,,,Uncapped
+Purnank,Tyagi,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Vasu,Vats,20,India,20,BOWLER,,,,,,,,Uncapped
+Boby,Yadav,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Prince,Yadav,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Siddharth,Yadav,20,India,19,BATSMAN,,,,,,,,Uncapped
+Mohd,Ashad,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Yuvraj,Chaudhary,20,India,21,ALL-ROUNDER,,,,,,,,Uncapped
+Jatin,Chhikara,20,India,23,BOWLER,,,,,,,,Uncapped
+Anirudh ,Kanwar,20,India,29,BOWLER,,,,,,,,Uncapped
+Mohd Arslan,Khan,20,India,23,WICKETKEEPER,,,,,,,,Uncapped
+Varun,Khanna,20,India,38,BOWLER,,,,,,,,Uncapped
+Varun,Kumar,20,India,25,BOWLER,,,,,,,,Uncapped
+Bhagmender,Lather,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Amrit,Lubana,20,India,25,ALL-ROUNDER,,,,,,,,Uncapped
+Nippun,Pandita,20,India,24,BOWLER,,,,,,,,Uncapped
+Harnoor,Pannu,20,India,20,BATSMAN,,,,,,,,Uncapped
+Gaurav,Puri,20,India,31,BATSMAN,,,,,,,,Uncapped
+Abhishek,Saini,20,India,24,BOWLER,,,,,,,,Uncapped
+Nikhil,Sharma,20,India,24,ALL-ROUNDER,,,,,,,,Uncapped
+Harmanpreet,Singh,40,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Jagjit,Singh,20,India,26,BOWLER,,,,,,,,Uncapped
+Siddhant,Singhal,20,India,19,ALL-ROUNDER,,,,,,,,Uncapped
+Parmesh,Vaidik,20,India,34,BOWLER,,,,,,,,Uncapped
+Nachiket ,Bhute ,20,India,23,ALL-ROUNDER,,,,,,,,Uncapped
+Saurabh,Dubey,20,India,25,BOWLER,,,,,,,,Uncapped
+Harsh,Dubey,20,India,20,ALL-ROUNDER,,,,,,,,Uncapped
+Rajneesh,Gurbani,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Shubham,Kapse,20,India,28,BOWLER,,,,,,,,Uncapped
+Akshay,Karnewar,20,India,30,ALL-ROUNDER,,,,,,,,Uncapped
+Aman,Mokhade,20,India,22,ALL-ROUNDER,,,,,,,,Uncapped
+Aditya,Sarvate,20,India,33,ALL-ROUNDER,,,,,,,,Uncapped
+Aditya,Thakare,20,India,24,BOWLER,,,,,,,,Uncapped
+Yash,Thakur,20,India,24,BOWLER,,,,,,,,Uncapped
+Nangeyalia,Khan,20,Afghanistan,18,ALL-ROUNDER,,,,,,,,Uncapped
+Izharulhuq,Naveed,20,Afghanistan,19,BOWLER,,,,,,,,Uncapped
+Joshua,Brown,20,Australia,29,BATSMAN,,,,,,,,Uncapped
+Tom,Cooper,40,Australia,36,BATSMAN,,,,,,,,Uncapped
+Patrick,Dooley,20,Australia,25,BOWLER,,,,,,,,Uncapped
+Liam,Guthrie,20,Australia,25,BOWLER,,,,,,,,Uncapped
+Peter,Hatzoglou,20,Australia,24,BOWLER,,,,,,,,Uncapped
+Clint,Hinchliffe,20,Australia,26,BOWLER,,,,,,,,Uncapped
+Nicholas,Hobson,20,Australia,28,BATSMAN,,,,,,,,Uncapped
+Daniel,Hughes,30,Australia,34,BATSMAN,,,,,,,,Uncapped
+Caleb,Jewell,20,Australia,25,BATSMAN,,,,,,,,Uncapped
+Josh,Kann,20,Australia,23,ALL-ROUNDER,,,,,,,,Uncapped
+Matthew,Kelly,20,Australia,28,BOWLER,,,,,,,,Uncapped
+Thomas,Kelly,30,Australia,22,BATSMAN,,,,,,,,Uncapped
+Hayden,Kerr,20,Australia,26,ALL-ROUNDER,,,,,,,,Uncapped
+Ben,Manenti,30,Australia,26,ALL-ROUNDER,,,,,,,,Uncapped
+Nathan,McAndrew,20,Australia,29,BOWLER,,,,,,,,Uncapped
+Lance,Morris,30,Australia,25,BOWLER,,,,,,,,Uncapped
+Will,Prestwidge,20,Australia,21,ALL-ROUNDER,,,,,,,,Uncapped
+Jack,Prestwidge,20,Australia,27,ALL-ROUNDER,,,,,,,,Uncapped
+Nivethan,Radhakrishnan,20,Australia,20,ALL-ROUNDER,,,,,,,,Uncapped
+Alex,Ross,20,Australia,30,BATSMAN,,,,,,,,Uncapped
+Tanveer,Sangha,20,Australia,21,BOWLER,,,,,,,,Uncapped
+Jason,Sangha,20,Australia,23,ALL-ROUNDER,,,,,,,,Uncapped
+Lachlan,Shaw,30,Australia,20,WICKETKEEPER,,,,,,,,Uncapped
+Matthew,Short,20,Australia,27,ALL-ROUNDER,,,,,,,,Uncapped
+Henry,Thornton,30,Australia,26,BOWLER,,,,,,,,Uncapped
+Jake,Weatherald,20,Australia,28,BATSMAN,,,,,,,,Uncapped
+Beau,Webster,20,Australia,29,ALL-ROUNDER,,,,,,,,Uncapped
+Jonathan,Wells,20,Australia,34,BATSMAN,,,,,,,,Uncapped
+Jack,Wildermuth,20,Australia,29,ALL-ROUNDER,,,,,,,,Uncapped
+Rehan,Ahmed,40,England,18,ALL-ROUNDER,,,,,,,,Uncapped
+Sonny,Baker,30,England,20,BOWLER,,,,,,,,Uncapped
+Christopher,Benjamin,20,England,23,WICKETKEEPER,,,,,,,,Uncapped
+Ian,Cockbain,20,England,36,BATSMAN,,,,,,,,Uncapped
+James,Fuller,40,England,33,ALL-ROUNDER,,,,,,,,Uncapped
+Thomas,Helm,40,England,28,BOWLER,,,,,,,,Uncapped
+Jacob,Lintott,20,England,29,BOWLER,,,,,,,,Uncapped
+Will,Smeed,40,England,21,BATSMAN,,,,,,,,Uncapped
+Jordan,Thompson,40,England,26,ALL-ROUNDER,,,,,,,,Uncapped
+Ross,Whiteley,20,England,34,BATSMAN,,,,,,,,Uncapped
+Adithya,Ashok,20,New Zealand,20,BOWLER,,,,,,,,Uncapped
+Blake,Coburn,20,New Zealand,27,BOWLER,,,,,,,,Uncapped
+Matthew,Fisher,20,New Zealand,23,BOWLER,,,,,,,,Uncapped
+Cam,Fletcher,30,New Zealand,30,WICKETKEEPER,,,,,,,,Uncapped
+Timothy,Pringle,20,New Zealand,20,ALL-ROUNDER,,,,,,,,Uncapped
+Henry,Shipley,20,New Zealand,26,ALL-ROUNDER,,,,,,,,Uncapped
+Logan,Van Beek,20,New Zealand,32,ALL-ROUNDER,,,,,,,,Uncapped
+Josef,Walker,20,New Zealand,30,BOWLER,,,,,,,,Uncapped
+Ottneil,Baartman,20,South Africa,30,BOWLER,,,,,,,,Uncapped
+Matthew,Boast,20,South Africa,20,BOWLER,,,,,,,,Uncapped
+Neil,Brand,20,South Africa,26,ALL-ROUNDER,,,,,,,,Uncapped
+Matthew,Breetzke,20,South Africa,24,BATSMAN,,,,,,,,Uncapped
+Nandre,Burger,20,South Africa,27,BOWLER,,,,,,,,Uncapped
+Blayde,Capell,20,South Africa,25,WICKETKEEPER,,,,,,,,Uncapped
+Gerald,Coetzee,20,South Africa,22,ALL-ROUNDER,,,,,,,,Uncapped
+Shane,Dadswell,20,South Africa,25,ALL-ROUNDER,,,,,,,,Uncapped
+Junaid,Dawood,20,South Africa,26,BOWLER,,,,,,,,Uncapped
+Connor,Esterhuizen,20,South Africa,21,WICKETKEEPER,,,,,,,,Uncapped
+Donovan,Ferreira,20,South Africa,24,WICKETKEEPER,,,,,,,,Uncapped
+Dean,Foxcroft,20,South Africa,24,ALL-ROUNDER,,,,,,,,Uncapped
+Dayyaan,Galiem,20,South Africa,26,ALL-ROUNDER,,,,,,,,Uncapped
+Aya,Gqamane,20,South Africa,33,ALL-ROUNDER,,,,,,,,Uncapped
+Jordan,Hermann,20,South Africa,21,ALL-ROUNDER,,,,,,,,Uncapped
+Duan,Jansen,20,South Africa,22,ALL-ROUNDER,,,,,,,,Uncapped
+Evan,Jones,20,South Africa,26,ALL-ROUNDER,,,,,,,,Uncapped
+Hanno,Kotze,20,South Africa,28,WICKETKEEPER,,,,,,,,Uncapped
+Marco,Marais,20,South Africa,29,BATSMAN,,,,,,,,Uncapped
+Wesley,Marshall,20,South Africa,29,BATSMAN,,,,,,,,Uncapped
+Tshepo,Moreki,20,South Africa,29,BOWLER,,,,,,,,Uncapped
+Migael,Pretorius,20,South Africa,28,ALL-ROUNDER,,,,,,,,Uncapped
+Jason,Smith,20,South Africa,28,ALL-ROUNDER,,,,,,,,Uncapped
+Prenelan,Subrayen,20,South Africa,29,ALL-ROUNDER,,,,,,,,Uncapped
+Beyers,Swanepel,20,South Africa,24,ALL-ROUNDER,,,,,,,,Uncapped
+Pite,Van Biljon,40,South Africa,36,BATSMAN,,,,,,,,Uncapped
+Mitchell,Van Buuren,20,South Africa,25,BATSMAN,,,,,,,,Uncapped
+Sahan,Arachchige,20,Sri Lanka,26,ALL-ROUNDER,,,,,,,,Uncapped
+Lasith,Croospulle,20,Sri Lanka,24,BATSMAN,,,,,,,,Uncapped
+Shevon,Daniel,20,Sri Lanka,18,BATSMAN,,,,,,,,Uncapped
+Kevin,Koththigoda,20,Sri Lanka,24,BOWLER,,,,,,,,Uncapped
+Ackeem,Auguste,20,West Indies,19,BATSMAN,,,,,,,,Uncapped
+McKenny,Clarke,20,West Indies,19,BOWLER,,,,,,,,Uncapped
+Mark,Deyal,20,West Indies,30,ALL-ROUNDER,,,,,,,,Uncapped
+Nicholson,Gordon,20,West Indies,31,BOWLER,,,,,,,,Uncapped
+Kennar,Lewis,40,West Indies,31,WICKETKEEPER,,,,,,,,Uncapped
+Ramon,Simmonds,20,West Indies,21,BOWLER,,,,,,,,Uncapped
+Shamar,Springer,20,West Indies,25,ALL-ROUNDER,,,,,,,,Uncapped
+Nyeem,Young,30,West Indies,22,ALL-ROUNDER,,,,,,,,Uncapped
