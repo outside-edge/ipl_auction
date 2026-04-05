@@ -144,6 +144,8 @@ def compute_dud_score(df):
         (df["price_2024_cr"] - df["price_predicted_cr"]) / df["price_predicted_cr"]
     ) * 100
 
+    df["premium_cr"] = df["price_2024_cr"] - df["price_predicted_cr"]
+
     df["expected_future_war"] = df["war_lag"]
     df["underperformance"] = df["expected_future_war"] - df["war_future"]
 
@@ -193,9 +195,9 @@ def get_team_abbreviation(team):
 
 
 def format_output(df, top_n=20):
-    """Format and print top duds."""
+    """Format and print top duds, sorted by absolute overpayment (premium_cr)."""
     df = df.copy()
-    df = df.sort_values("dud_score", ascending=False).head(top_n)
+    df = df.sort_values("premium_cr", ascending=False).head(top_n)
 
     output_cols = [
         "player_name",
@@ -204,6 +206,7 @@ def format_output(df, top_n=20):
         "price_2024_cr",
         "war_lag",
         "price_predicted_cr",
+        "premium_cr",
         "premium_pct",
         "war_future",
         "underperformance",
@@ -218,6 +221,7 @@ def format_output(df, top_n=20):
         "Price (Cr)",
         "Prior WAR",
         "Predicted (Cr)",
+        "Overpaid (Cr)",
         "Premium %",
         "Next WAR",
         "Shortfall",
@@ -236,6 +240,7 @@ def format_output(df, top_n=20):
             "Price (Cr)",
             "Prior WAR",
             "Predicted (Cr)",
+            "Overpaid (Cr)",
             "Premium %",
             "Next WAR",
             "Shortfall",
@@ -275,7 +280,7 @@ def main():
     print("THE DUMBEST IPL BUYS EVER")
     print("=" * 80)
     print(
-        "\nRanking based on: Premium paid over fair value + Future underperformance\n"
+        "\nRanking based on: Absolute overpayment in crores (price paid - predicted price)\n"
     )
 
     pd.set_option("display.max_columns", None)

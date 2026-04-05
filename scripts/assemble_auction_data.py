@@ -14,12 +14,101 @@ Sources:
 Output: data/auction_all_years.csv
 """
 
-import pandas as pd
+import re
+
 import numpy as np
+import pandas as pd
 from pathlib import Path
+from rapidfuzz import fuzz
+from rapidfuzz.process import cdist
 
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
+
+
+def normalize_player_name(name):
+    """
+    Normalize common spelling variations in player names.
+
+    Handles:
+    - Mohammed/Mohammad/Mohd variations
+    - Dots and extra spaces
+    - Common misspellings
+    """
+    if pd.isna(name):
+        return name
+
+    name = str(name).strip()
+
+    name = re.sub(r"\bMoh[ao]mm?[ae]d\b", "Mohammed", name, flags=re.IGNORECASE)
+    name = re.sub(r"\bMohd\b", "Mohammed", name, flags=re.IGNORECASE)
+
+    name = name.replace(".", " ")
+    name = " ".join(name.split())
+
+    return name
+
+COUNTRY_PREFIXES = [
+    "New Zealand ", "Trinidad and Tobago ", "Barbados ",
+    "South Africa ", "India ", "England ", "Australia ",
+    "Sri Lanka ", "West Indies ", "Bangladesh ", "Afghanistan ",
+    "Zimbabwe ", "Pakistan ", "Ireland ", "Scotland ", "Netherlands ",
+    "Kenya ", "Nepal ", "USA ", "UAE ", "Hong Kong ", "Canada ",
+    "Namibia ", "Oman ", "Papua New Guinea ",
+]
+
+
+def clean_wikipedia_name(name):
+    """
+    Clean player names from Wikipedia data that may have country prefixes
+    and special symbols like † or *.
+
+    Examples:
+        "New Zealand Shane Bond†" -> "Shane Bond"
+        "Trinidad and Tobago Kieron Pollard†" -> "Kieron Pollard"
+        "India Mohammad Kaif" -> "Mohammad Kaif"
+    """
+    if pd.isna(name):
+        return name
+
+    name = str(name).strip()
+
+    for prefix in COUNTRY_PREFIXES:
+        if name.startswith(prefix):
+            name = name[len(prefix):]
+            break
+
+    name = name.rstrip("†*").strip()
+
+    return name
+
+
+def validate_player_name(name):
+    """
+    Validate player name and return issues if any.
+    Returns a list of issues or empty list if valid.
+    """
+    issues = []
+    if pd.isna(name):
+        return ["Name is missing"]
+
+    name = str(name)
+
+    for prefix in COUNTRY_PREFIXES:
+        if name.startswith(prefix):
+            issues.append(f"Has country prefix: {prefix.strip()}")
+            break
+
+    if "†" in name or "*" in name:
+        issues.append("Has special symbols (†, *)")
+
+    if len(name) < 3:
+        issues.append("Name too short (< 3 chars)")
+
+    if any(c.isdigit() for c in name):
+        issues.append("Name contains numbers")
+
+    return issues
 
 
 def parse_indian_price(price_str):
@@ -200,7 +289,7 @@ def load_wikipedia_excel():
 
     df_std = pd.DataFrame({
         "year": df["year"].astype(int),
-        "player_name": df["name"].str.strip(),
+        "player_name": df["name"].str.strip().apply(clean_wikipedia_name),
         "team": df["this_year_team"].apply(standardize_team_name),
         "base_price_lakh": df.apply(get_base_price_lakh, axis=1),
         "final_price_lakh": df.apply(get_price_lakh, axis=1),
@@ -211,6 +300,47 @@ def load_wikipedia_excel():
 
     df_std = df_std.dropna(subset=["year"])
     df_std["year"] = df_std["year"].astype(int)
+
+    invalid_names = df_std[df_std["player_name"].apply(lambda x: len(validate_player_name(x)) > 0)]
+    if len(invalid_names) > 0:
+        print(f"  WARNING: {len(invalid_names)} names still have validation issues after cleaning")
+        for _, row in invalid_names.head(5).iterrows():
+            issues = validate_player_name(row["player_name"])
+            print(f"    {row['year']}: {row['player_name']} - {', '.join(issues)}")
+
+    team_corrections_2009 = {
+        "Andrew Flintoff": "CSK",
+        "Kevin Pietersen": "RCB",
+        "JP Duminy": "MI",
+        "Tyron Henderson": "RR",
+        "Mashrafe Mortaza": "KKR",
+        "Ravi Bopara": "PBKS",
+        "Shaun Tait": "RR",
+        "Owais Shah": "DC",
+        "Paul Collingwood": "DC",
+        "Jesse Ryder": "RCB",
+        "Fidel Edwards": "DCH",
+        "Jerome Taylor": "PBKS",
+        "Kyle Mills": "PBKS",
+        "Thilan Thushara": "CSK",
+        "Dwayne Smith": "DCH",
+        "Mohammad Ashraful": "KKR",
+        "George Bailey": "CSK",
+    }
+
+    for player, team in team_corrections_2009.items():
+        mask = (df_std["year"] == 2009) & (df_std["player_name"] == player)
+        df_std.loc[mask, "team"] = team
+
+    price_corrections = {
+        (2011, "Gautam Gambhir"): 1490.0,
+        (2011, "Yusuf Pathan"): 945.0,
+        (2011, "Robin Uthappa"): 900.0,
+        (2012, "Ravindra Jadeja"): 978.0,
+    }
+    for (year, player), price in price_corrections.items():
+        mask = (df_std["year"] == year) & (df_std["player_name"] == player)
+        df_std.loc[mask, "final_price_lakh"] = price
 
     return df_std
 
@@ -480,6 +610,284 @@ def deduplicate_by_source_priority(df):
     return df
 
 
+def deduplicate_fuzzy_same_year(df, threshold=85):
+    """
+    Remove near-duplicate player names within the same year.
+
+    Uses fuzzy matching to identify spelling variations like:
+    - "Nicholas Pooran" vs "Nicolas Pooran"
+    - "Mohammed Azharuddeen" vs "Mohammed Azharudeen"
+    - "KC Cariappa" vs "K C Cariappa"
+
+    Keeps the record from the higher-priority source, or the first one if same source.
+    """
+    source_priority = {
+        "auction_2021": 1,
+        "auction_2022": 1,
+        "auction_2023": 1,
+        "auction_2024": 1,
+        "auction_2025": 1,
+        "wikipedia_2026": 1,
+        "manual_2008": 1,
+        "kaggle_main": 2,
+        "wikipedia_excel": 3,
+    }
+
+    def normalize_for_match(name):
+        if pd.isna(name):
+            return ""
+        name = str(name).strip().lower()
+        name = re.sub(r"\bMoh[ao]mm?[ae]d\b", "mohammed", name, flags=re.IGNORECASE)
+        name = re.sub(r"\bMohd\b", "mohammed", name, flags=re.IGNORECASE)
+        name = name.replace(".", "").replace("-", "").replace("'", "").replace(" ", "")
+        return name
+
+    def normalize_for_fuzzy(name):
+        if pd.isna(name):
+            return ""
+        name = str(name).strip().lower()
+        name = re.sub(r"\bMoh[ao]mm?[ae]d\b", "mohammed", name, flags=re.IGNORECASE)
+        name = re.sub(r"\bMohd\b", "mohammed", name, flags=re.IGNORECASE)
+        name = name.replace(".", " ").replace("-", " ").replace("'", "")
+        name = " ".join(name.split())
+        return name
+
+    def get_last_name(name):
+        parts = name.split()
+        return parts[-1] if parts else ""
+
+    rows_to_drop = set()
+
+    for year in df["year"].unique():
+        year_df = df[df["year"] == year].copy()
+        if len(year_df) < 2:
+            continue
+
+        names = year_df["player_name"].tolist()
+        indices = year_df.index.tolist()
+        names_norm = [normalize_for_match(n) for n in names]
+        names_fuzzy = [normalize_for_fuzzy(n) for n in names]
+
+        scores = cdist(names_fuzzy, names_fuzzy, scorer=fuzz.token_sort_ratio, workers=-1)
+
+        for i in range(len(names)):
+            if indices[i] in rows_to_drop:
+                continue
+            for j in range(i + 1, len(names)):
+                if indices[j] in rows_to_drop:
+                    continue
+
+                is_duplicate = False
+
+                if names_norm[i] == names_norm[j]:
+                    is_duplicate = True
+                else:
+                    last_i = get_last_name(names_fuzzy[i])
+                    last_j = get_last_name(names_fuzzy[j])
+                    first_i = names_fuzzy[i].split()[0] if names_fuzzy[i].split() else ""
+                    first_j = names_fuzzy[j].split()[0] if names_fuzzy[j].split() else ""
+
+                    last_match = last_i == last_j or fuzz.ratio(last_i, last_j) >= 90
+
+                    if last_match:
+                        first_equiv = (
+                            first_i == first_j
+                            or NAME_EQUIVALENTS.get(first_i) == first_j
+                            or NAME_EQUIVALENTS.get(first_j) == first_i
+                        )
+                        if first_equiv:
+                            is_duplicate = True
+                        elif scores[i][j] >= 88:
+                            is_duplicate = True
+
+                if is_duplicate:
+                    src_i = year_df.loc[indices[i], "source"]
+                    src_j = year_df.loc[indices[j], "source"]
+                    pri_i = source_priority.get(src_i, 4)
+                    pri_j = source_priority.get(src_j, 4)
+
+                    if pri_i < pri_j:
+                        rows_to_drop.add(indices[j])
+                    elif pri_j < pri_i:
+                        rows_to_drop.add(indices[i])
+                    else:
+                        rows_to_drop.add(indices[j])
+
+    if rows_to_drop:
+        dropped_names = df.loc[list(rows_to_drop), ["year", "player_name", "source"]]
+        print(f"  Removing {len(rows_to_drop)} fuzzy duplicates:")
+        for _, row in dropped_names.iterrows():
+            print(f"    {row['year']}: {row['player_name']} ({row['source']})")
+
+    df = df.drop(index=list(rows_to_drop))
+    return df
+
+
+KNOWN_SAME_PLAYER = [
+    {"Ben Stokes", "Benjamin Stokes"},
+    {"Rashid Khan", "Rashid Khan Arman"},
+    {"Nicholas Pooran", "Nicolas Pooran", "N Pooran"},
+    {"Chris Morris", "Christopher Morris"},
+    {"Thisara Perera", "Thissara Perera"},
+    {"N Tilak Varma", "Tilak Varma"},
+    {"Hari Nishanth", "C Hari Nishaanth"},
+    {"Suyash Prabhudessai", "Suyash Prabhudesai"},
+    {"Mohammed Azharuddeen", "Mohammed Azharudeen"},
+    {"Dan Christian", "Daniel Christian"},
+]
+
+NAME_EQUIVALENTS = {
+    "chris": "christopher",
+    "christopher": "chris",
+    "ben": "benjamin",
+    "benjamin": "ben",
+    "dan": "daniel",
+    "daniel": "dan",
+    "nick": "nicholas",
+    "nicholas": "nick",
+    "mike": "michael",
+    "michael": "mike",
+}
+
+
+def build_player_registry(df):
+    """
+    Build a player registry from auction data and assign player_id.
+
+    Returns:
+    - registry_df: DataFrame with player_id, canonical_name, aliases
+    - name_to_id: dict mapping each name to its player_id
+    """
+    from rapidfuzz.process import cdist as rf_cdist
+
+    def normalize_for_clustering(name):
+        if pd.isna(name):
+            return ""
+        name = str(name).strip().lower()
+        name = re.sub(r"\bMoh[ao]mm?[ae]d\b", "mohammed", name, flags=re.IGNORECASE)
+        name = re.sub(r"\bMohd\b", "mohammed", name, flags=re.IGNORECASE)
+        name = name.replace(".", " ").replace("-", " ").replace("'", "")
+        name = " ".join(name.split())
+        return name
+
+    def get_last_name(name):
+        parts = name.split()
+        return parts[-1] if parts else ""
+
+    def get_first_name(name):
+        parts = name.split()
+        return parts[0] if parts else ""
+
+    def names_are_similar(name1, name2, norm1, norm2, score):
+        """Check if two names represent the same player."""
+        if score < 85:
+            return False
+
+        last1 = get_last_name(norm1)
+        last2 = get_last_name(norm2)
+
+        if len(last1) >= 3 and len(last2) >= 3:
+            if last1 != last2:
+                return False
+
+        first1 = get_first_name(norm1)
+        first2 = get_first_name(norm2)
+        if first1 and first2 and first1[0] != first2[0]:
+            return False
+
+        return True
+
+    def cluster_names(names, threshold=85):
+        if not names:
+            return []
+        names = list(set(names))
+        names_norm = [normalize_for_clustering(n) for n in names]
+        scores = rf_cdist(names_norm, names_norm, scorer=fuzz.token_sort_ratio, workers=-1)
+
+        visited = set()
+        clusters = []
+
+        for i in range(len(names)):
+            if i in visited:
+                continue
+            cluster = {names[i]}
+            visited.add(i)
+
+            for j in range(len(names)):
+                if j in visited:
+                    continue
+                if names_are_similar(names[i], names[j], names_norm[i], names_norm[j], scores[i][j]):
+                    cluster.add(names[j])
+                    visited.add(j)
+
+            clusters.append(cluster)
+        return clusters
+
+    def select_canonical(names, name_counts):
+        if not names:
+            return ""
+        scored = []
+        for name in names:
+            count = name_counts.get(name, 0)
+            length = len(name)
+            scored.append((count, length, name))
+        scored.sort(key=lambda x: (-x[0], -x[1], x[2]))
+        return scored[0][2]
+
+    name_counts = df["player_name"].value_counts().to_dict()
+    unique_names = list(df["player_name"].unique())
+
+    clusters = cluster_names(unique_names)
+
+    name_to_cluster_idx = {}
+    for idx, cluster in enumerate(clusters):
+        for name in cluster:
+            name_to_cluster_idx[name] = idx
+
+    for known_set in KNOWN_SAME_PLAYER:
+        matching_indices = set()
+        for name in known_set:
+            if name in name_to_cluster_idx:
+                matching_indices.add(name_to_cluster_idx[name])
+
+        if len(matching_indices) > 1:
+            indices_list = sorted(matching_indices)
+            target_idx = indices_list[0]
+            for idx in indices_list[1:]:
+                clusters[target_idx] = clusters[target_idx].union(clusters[idx])
+                clusters[idx] = set()
+                for name in clusters[target_idx]:
+                    name_to_cluster_idx[name] = target_idx
+
+    clusters = [c for c in clusters if len(c) > 0]
+
+    registry = []
+    name_to_id = {}
+
+    for i, cluster in enumerate(sorted(clusters, key=lambda c: min(c))):
+        player_id = f"P{i+1:04d}"
+        canonical = select_canonical(cluster, name_counts)
+        aliases = "|".join(sorted(cluster))
+
+        registry.append({
+            "player_id": player_id,
+            "canonical_name": canonical,
+            "aliases": aliases
+        })
+
+        for name in cluster:
+            name_to_id[name] = player_id
+
+    registry_df = pd.DataFrame(registry)
+    return registry_df, name_to_id
+
+
+def assign_player_ids(df, name_to_id):
+    """Assign player_id to each record based on player name."""
+    df["player_id"] = df["player_name"].map(name_to_id)
+    return df
+
+
 def main():
     print("Loading data sources...")
 
@@ -544,14 +952,30 @@ def main():
     df_all = pd.concat(dfs, ignore_index=True)
     print(f"  Total before deduplication: {len(df_all)} records")
 
-    print("Deduplicating...")
+    print("\nNormalizing player names...")
+    df_all["player_name"] = df_all["player_name"].apply(normalize_player_name)
+
+    print("\nDeduplicating by source priority (exact matches)...")
     df_all = deduplicate_by_source_priority(df_all)
-    print(f"  Total after deduplication: {len(df_all)} records")
+    print(f"  Total after exact deduplication: {len(df_all)} records")
+
+    print("\nDeduplicating fuzzy same-year duplicates...")
+    df_all = deduplicate_fuzzy_same_year(df_all, threshold=88)
+    print(f"  Total after fuzzy deduplication: {len(df_all)} records")
+
+    print("\nBuilding player registry and assigning player IDs...")
+    registry_df, name_to_id = build_player_registry(df_all)
+    df_all = assign_player_ids(df_all, name_to_id)
+    print(f"  Unique players: {len(registry_df)}")
+
+    registry_path = DATA_DIR / "player_registry.csv"
+    registry_df.to_csv(registry_path, index=False)
+    print(f"  Saved registry to {registry_path}")
 
     df_all = df_all.sort_values(["year", "final_price_lakh"], ascending=[True, False])
 
     cols = [
-        "year", "player_name", "team", "base_price_lakh", "final_price_lakh",
+        "year", "player_id", "player_name", "team", "base_price_lakh", "final_price_lakh",
         "role", "nationality", "status", "source"
     ]
     for col in cols:
@@ -577,7 +1001,16 @@ def main():
         year_df = df_all[df_all["year"] == year].head(3)
         print(f"\n{year}:")
         for _, row in year_df.iterrows():
-            print(f"  {row['player_name']}: ₹{row['final_price_lakh']:.0f}L to {row['team']}")
+            print(f"  {row['player_name']} ({row['player_id']}): ₹{row['final_price_lakh']:.0f}L to {row['team']}")
+
+    print("\n=== Sample multi-auction players ===")
+    player_counts = df_all.groupby("player_id").size()
+    multi_auction = player_counts[player_counts > 3].index.tolist()[:10]
+    for pid in multi_auction:
+        player_records = df_all[df_all["player_id"] == pid]
+        canonical = registry_df[registry_df["player_id"] == pid]["canonical_name"].iloc[0]
+        years = sorted(player_records["year"].unique())
+        print(f"  {pid} ({canonical}): {len(years)} auctions - years {min(years)}-{max(years)}")
 
 
 if __name__ == "__main__":

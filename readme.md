@@ -6,14 +6,14 @@ Which 2026 auction buys are most likely to disappoint? Based on the gap between 
 
 | Rank | Player | Team | Price (Cr) | Prior WAR | Predicted (Cr) | Premium % |
 |------|--------|------|------------|-----------|----------------|-----------|
-| 1 | Liam Livingstone | SRH | ₹13.00 | 2.23 | ₹2.24 | +481% |
-| 2 | Matheesha Pathirana | KKR | ₹18.00 | 7.42 | ₹3.44 | +424% |
-| 3 | Ravi Bishnoi | RR | ₹7.20 | 0.45 | ₹1.50 | +380% |
-| 4 | Venkatesh Iyer | RCB | ₹7.00 | 1.23 | ₹1.60 | +338% |
-| 5 | Cameron Green | KKR | ₹25.20 | 13.86 | ₹5.86 | +330% |
-| 6 | Mustafizur Rahman | KKR | ₹9.20 | 3.19 | ₹2.42 | +280% |
-| 7 | Rahul Chahar | CSK | ₹5.20 | 0.17 | ₹1.47 | +255% |
-| 8 | Josh Inglis | LSG | ₹8.60 | 7.42 | ₹3.44 | +150% |
+| 1 | Liam Livingstone | SRH | ₹13.00 | 2.23 | ₹2.21 | +488% |
+| 2 | Matheesha Pathirana | KKR | ₹18.00 | 7.42 | ₹3.40 | +429% |
+| 3 | Ravi Bishnoi | RR | ₹7.20 | 0.45 | ₹1.51 | +378% |
+| 4 | Venkatesh Iyer | RCB | ₹7.00 | 1.23 | ₹1.61 | +336% |
+| 5 | Cameron Green | KKR | ₹25.20 | 13.86 | ₹5.81 | +334% |
+| 6 | Mustafizur Rahman | KKR | ₹9.20 | 3.19 | ₹2.39 | +285% |
+| 7 | Rahul Chahar | CSK | ₹5.20 | 0.17 | ₹1.47 | +254% |
+| 8 | Josh Inglis | LSG | ₹8.60 | 7.42 | ₹3.40 | +153% |
 
 **Methodology:** Uses most recent available WAR as prior performance. Premium % = how much teams overpaid relative to what the regression model predicts. High premiums historically correlate with underperformance.
 
@@ -25,29 +25,29 @@ See `data/analysis/predicted_duds_2026.csv` for the full ranking.
 
 ## The Dumbest IPL Buys Ever
 
-Which players cost teams the most while delivering the least? Here are the Top 10 worst bets in IPL auction history, ranked by overpayment combined with underperformance:
+Which players cost teams the most while delivering the least? Here are the Top 10 worst bets in IPL auction history, ranked by absolute overpayment in crores:
 
-| Rank | Player | Year | Team | Price (Cr) | Premium Paid | WAR Shortfall |
-|------|--------|------|------|------------|--------------|---------------|
-| 1 | Mitchell Starc | 2024 | KKR | ₹24.75 | +462% | -11.3 |
-| 2 | Jaydev Unadkat | 2018 | RR | ₹15.62 | +232% | -15.6 |
-| 3 | Yuvraj Singh | 2015 | DC | ₹24.43 | +753% | -6.2 |
-| 4 | Yuvraj Singh | 2014 | RCB | ₹22.46 | +373% | -8.3 |
-| 5 | Shane Watson | 2016 | RCB | ₹13.82 | +267% | -9.5 |
-| 6 | Ashish Nehra | 2016 | SRH | ₹8.00 | +160% | -13.7 |
-| 7 | Robin Uthappa | 2011 | PWI | ₹18.47 | +139% | -16.0 |
-| 8 | Kedar Jadhav | 2018 | CSK | ₹10.59 | +154% | -11.7 |
-| 9 | Saurabh Tiwary | 2011 | MI | ₹13.85 | +132% | -13.9 |
-| 10 | Mohit Sharma | 2016 | PBK | ₹9.46 | +357% | -5.2 |
+| Rank | Player | Year | Team | Price (Cr) | Overpaid (Cr) | Premium % | WAR Shortfall |
+|------|--------|------|------|------------|---------------|-----------|---------------|
+| 1 | Gautam Gambhir | 2011 | KKR | ₹30.57 | ₹26.12 | +587% | -9.9 |
+| 2 | Yuvraj Singh | 2015 | DC | ₹24.43 | ₹20.89 | +589% | +6.2 |
+| 3 | Mitchell Starc | 2024 | KKR | ₹24.75 | ₹19.52 | +373% | +11.3 |
+| 4 | Yuvraj Singh | 2014 | RCB | ₹22.46 | ₹17.52 | +355% | +8.3 |
+| 5 | Pat Cummins | 2024 | SRH | ₹20.50 | ₹17.44 | +570% | -11.4 |
+| 6 | Sam Curran | 2023 | PBKS | ₹19.33 | ₹16.72 | +642% | -2.6 |
+| 7 | Pat Cummins | 2020 | KKR | ₹19.18 | ₹14.90 | +348% | +3.8 |
+| 8 | Dinesh Karthik | 2014 | DC | ₹20.05 | ₹14.30 | +248% | +12.4 |
+| 9 | Ravindra Jadeja | 2012 | CSK | ₹18.32 | ₹14.00 | +325% | +2.6 |
+| 10 | Glenn Maxwell | 2021 | RCB | ₹16.45 | ₹13.43 | +445% | -20.3 |
 
 **What this means:**
-- **Premium Paid**: How much the team overpaid relative to what performance-based models predicted
-- **WAR Shortfall**: The gap between prior-year WAR and next-season WAR (negative = player performed worse than their track record)
-- **Dud Score**: Combines both factors — you need to both overpay AND underdeliver to top this list
+- **Overpaid (Cr)**: Absolute rupees wasted = Price Paid - Predicted Fair Price (in 2024 ₹)
+- **Premium %**: Percentage overpayment relative to predicted price
+- **WAR Shortfall**: Gap between prior-year WAR and next-season WAR (positive = underperformed expectations)
 
-Mitchell Starc tops the list despite being a world-class bowler: KKR paid ₹24.75 Cr (a 462% premium over expected price), and his 2024 WAR dropped by 11.3 from his prior season. The "dumbest" buys aren't necessarily bad players — they're cases where team expectations (reflected in price) wildly exceeded actual performance.
+Gautam Gambhir tops the list: KKR paid ₹30.57 Cr in 2011 (inflation-adjusted), overpaying by ₹26.12 Cr relative to what his prior performance justified. Note that some "overpaid" players actually exceeded expectations (negative shortfall) — ranking by absolute overpayment captures the biggest financial gambles, regardless of outcome.
 
-See `data/analysis/worst_bets.csv` for the full ranking of 250 player-seasons.
+See `data/analysis/worst_bets.csv` for the full ranking of 257 player-seasons.
 
 ---
 
@@ -83,7 +83,9 @@ The overseas premium reflects scarcity value: each team is limited to 4 overseas
 ```
 ipl_auction/
 ├── data/
-│   ├── auction_all_years.csv          # Consolidated auction data (2,025 records)
+│   ├── auction_all_years.csv          # Consolidated auction data (2,009 records)
+│   ├── player_registry.csv            # Canonical player IDs + aliases (984 players)
+│   ├── name_aliases.csv               # Manual name mappings for matching
 │   ├── player_season_stats.csv        # Season performance stats (3,181 records)
 │   ├── player_season_war.csv          # WAR (Wins Above Replacement) metrics
 │   ├── auction_with_performance.csv   # Merged dataset
@@ -98,12 +100,14 @@ ipl_auction/
 │       └── fig_*.png                  # Visualizations
 │
 ├── scripts/
-│   ├── assemble_auction_data.py       # Consolidate auction sources
 │   ├── scrape_auction_2026.py         # Scrape 2026 auction from Wikipedia
+│   ├── assemble_auction_data.py       # Consolidate auction sources
+│   ├── build_player_registry.py       # Build player ID registry
 │   ├── process_deliveries.py          # Ball-by-ball -> season stats
 │   ├── compute_war.py                 # Ball-by-ball -> WAR metrics
 │   ├── match_player_names.py          # Name matching across datasets
 │   ├── adjust_inflation.py            # CPI adjustment to 2024 INR
+│   ├── verify_data_consistency.py     # Data quality checks
 │   ├── hedonic_regression.py          # Wage regression models
 │   ├── identify_duds.py               # Identify worst auction bets
 │   └── predict_duds.py                # Predict 2026 auction duds
@@ -112,6 +116,7 @@ ipl_auction/
 │   ├── 01_descriptive_analysis.ipynb  # EDA & visualizations
 │   └── 02_panel_analysis.ipynb        # Panel econometrics
 │
+├── Makefile                           # Pipeline automation
 └── README.md
 ```
 
@@ -120,10 +125,10 @@ ipl_auction/
 ```
 Raw Sources               Processing                    Analysis
 ─────────────────────────────────────────────────────────────────────
-Kaggle auction data  ─┐
-Wikipedia scrape     ─┼─► assemble_auction_data.py ─► auction_all_years.csv
-Official CSVs        ─┤                                       │
-Manual 2008 entry    ─┤                                       │
+Kaggle auction data  ─┐                              ┌─► auction_all_years.csv
+Wikipedia scrape     ─┼─► assemble_auction_data.py ──┤           │
+Official CSVs        ─┤   (deduplication +           └─► player_registry.csv
+Manual 2008 entry    ─┤    player ID assignment)              │
 2026 Wikipedia ───────┘  (scrape_auction_2026.py)             │
                                                               │
 Ball-by-ball data    ─┬─► process_deliveries.py ─► player_season_stats.csv
@@ -135,6 +140,8 @@ Ball-by-ball data    ─┬─► process_deliveries.py ─► player_season_sta
                                                               │
                                                               ▼
                                                auction_with_performance.csv
+                                                              │
+                                               verify_data_consistency.py ─► verification_report.md
                                                               │
 CPI data             ─────────────────────────► adjust_inflation.py
                                                               │
@@ -152,6 +159,19 @@ CPI data             ───────────────────�
                                                ▼                              ▼
                                          worst_bets.csv            predicted_duds_2026.csv
 ```
+
+## Player Deduplication
+
+The pipeline resolves player identity across years and sources:
+
+| Issue | Example | Resolution |
+|-------|---------|------------|
+| Same-year spelling variants | "Nicolas Pooran" vs "Nicholas Pooran" (2022) | Fuzzy matching, keep priority source |
+| Cross-year name changes | "Benjamin Stokes" (2017) vs "Ben Stokes" (2023) | Canonical `player_id` links all appearances |
+| Nickname equivalents | "Chris Morris" vs "Christopher Morris" | NAME_EQUIVALENTS lookup |
+
+Each player receives a unique `player_id` (P0001-P0984) enabling queries like:
+"How many times was Ben Stokes auctioned?" → 3 times (2017, 2018, 2023)
 
 ## Methodology
 
@@ -172,12 +192,20 @@ WAR provides a replacement-level-normalized metric that accounts for opportuniti
 
 ### Models Estimated
 
-1. **Baseline OLS**: log(price) ~ runs + wickets + is_indian
-2. **Full Model**: Adds batting average, strike rate, economy, catches
-3. **WAR Model**: log(price) ~ total_war + is_indian
-4. **Lagged Model**: Uses prior season performance as predictors
-5. **Year Fixed Effects**: Controls for inflation and auction dynamics
-6. **Player Fixed Effects**: Controls for time-invariant player characteristics
+**Primary Models (no selection bias):**
+1. **Lagged Performance Model**: log(price_t) ~ performance_{t-1} + controls
+2. **WAR Lagged Model**: log(price_t) ~ WAR_{t-1} + controls
+
+Lagged models are preferred because:
+- Teams bid based on information available at auction time (prior performance)
+- No selection on dependent variable (player doesn't need to play THIS season)
+- All auctioned players can be included
+
+**Secondary Models (for comparison):**
+3. **Baseline OLS**: log(price) ~ runs + wickets + is_indian
+4. **Full Model**: Adds batting average, strike rate, economy, catches
+5. **WAR Current Model**: log(price) ~ total_war + is_indian
+6. **Year Fixed Effects**: Controls for inflation and auction dynamics
 7. **Market Efficiency Test**: future_WAR ~ log(price) + controls
 
 All models use heteroscedasticity-robust standard errors (HC1).
@@ -200,19 +228,43 @@ The market efficiency test shows prices DO predict future performance (p < 0.01)
 
 ## Usage
 
-```bash
-# Run pipeline in order
-python scripts/scrape_auction_2026.py        # Scrape 2026 auction data
-python scripts/assemble_auction_data.py      # Consolidate all auction sources
-python scripts/process_deliveries.py
-python scripts/compute_war.py
-python scripts/match_player_names.py
-python scripts/adjust_inflation.py
-python scripts/hedonic_regression.py
-python scripts/identify_duds.py              # Historical worst bets
-python scripts/predict_duds.py               # 2026 predictions
+### Full Pipeline
 
-# Or run notebooks for interactive analysis
+```bash
+# Step 1: Data Collection
+python scripts/scrape_auction_2026.py
+
+# Step 2: Data Assembly
+python scripts/assemble_auction_data.py      # → auction_all_years.csv, player_registry.csv
+python scripts/process_deliveries.py         # → player_season_stats.csv
+python scripts/compute_war.py                # → player_season_war.csv
+
+# Step 3: Data Integration
+python scripts/match_player_names.py         # → auction_with_performance.csv
+python scripts/adjust_inflation.py           # → auction_inflation_adjusted.csv
+
+# Step 4: Verification
+python scripts/verify_data_consistency.py    # → verification_report.md
+
+# Step 5: Analysis
+python scripts/hedonic_regression.py
+python scripts/identify_duds.py
+python scripts/predict_duds.py
+```
+
+Or use the Makefile:
+
+```bash
+make all           # Run full pipeline
+make data          # Data collection and assembly only
+make analysis      # Run regressions and generate predictions
+make verify        # Data consistency checks
+make clean         # Remove generated files
+```
+
+### Interactive Analysis
+
+```bash
 jupyter notebook notebooks/01_descriptive_analysis.ipynb
 ```
 
@@ -233,12 +285,26 @@ pip install pandas numpy matplotlib seaborn statsmodels linearmodels beautifulso
 
 ## Data Quality Notes
 
-- 2,025 auction records across 2008-2026
+- **2,009 auction records** across 2008-2026 (after deduplication)
+- **984 unique players** tracked via `player_id` across all years
+- **33 players** have multiple name aliases resolved (e.g., "Ben Stokes"/"Benjamin Stokes")
 - 3,181 player-season performance records
 - 3,137 player-season WAR records
-- Name matching rate: ~62% between auction and performance data
+- Name matching rate: ~61% between auction and performance data
 - Prices adjusted to 2024 INR using India CPI
-- Deduplication prioritizes official sources over scraped data
+
+## Limitations
+
+### Selection Bias in Performance Matching
+
+~39% of auctioned players have no same-season performance data because:
+- Never fielded that season (injury, dropped, bench role)
+- New to IPL (no prior performance)
+
+This creates potential **selection bias** in same-season hedonic wage regressions. The current analysis:
+- Uses lagged performance as primary specification to avoid conditioning on future outcomes
+- Reports match rates by year for transparency
+- Future work: Heckman correction or bounds analysis
 
 ## References
 

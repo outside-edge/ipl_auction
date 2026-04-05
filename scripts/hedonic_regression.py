@@ -362,33 +362,62 @@ def main():
     print("HEDONIC WAGE REGRESSION ANALYSIS")
     print("=" * 60)
 
-    print("\n--- RAW PERFORMANCE MODELS ---")
-
     results = {}
 
-    print("\n1. Baseline Model (runs + wickets + nationality)")
-    results["Baseline"] = estimate_pooled_ols(df, "baseline")
-    if results["Baseline"]:
-        print(results["Baseline"].summary().tables[1])
-        print_interpretation(results["Baseline"], "Baseline")
+    print("\n" + "=" * 60)
+    print("PRIMARY MODELS: LAGGED PERFORMANCE (No Selection Bias)")
+    print("=" * 60)
+    print("""
+Lagged models are the cleanest specification because:
+- Teams bid based on information available at auction time (prior performance)
+- No selection on dependent variable (player doesn't need to play THIS season)
+- All auctioned players can be included regardless of whether they were fielded
+""")
 
-    print("\n2. Full Performance Model")
-    results["Full"] = estimate_pooled_ols(df, "full_performance")
-    if results["Full"]:
-        print(results["Full"].summary().tables[1])
-
-    print("\n3. Lagged Performance Model (prior season stats)")
+    print("\n1. Lagged Performance Model (prior season stats)")
     results["Lagged"] = estimate_pooled_ols(df, "lagged")
     if results["Lagged"]:
         print(results["Lagged"].summary().tables[1])
         print_interpretation(results["Lagged"], "Lagged")
 
-    print("\n4. Lagged + Current Model (information revelation)")
+    print("\n2. Full Lagged Model (all prior season metrics)")
+    results["Full Lag"] = estimate_pooled_ols(df, "full_lagged")
+    if results["Full Lag"]:
+        print(results["Full Lag"].summary().tables[1])
+
+    if has_war:
+        print("\n3. WAR Lagged (prior season WAR)")
+        results["WAR Lag"] = estimate_pooled_ols(df, "war_lagged")
+        if results["WAR Lag"]:
+            print(results["WAR Lag"].summary().tables[1])
+            print_interpretation(results["WAR Lag"], "WAR Lagged")
+
+    print("\n" + "=" * 60)
+    print("SECONDARY MODELS: SAME-SEASON (Selection Bias Caveat)")
+    print("=" * 60)
+    print("""
+NOTE: Same-season models only include players who actually played that season.
+~39% of auctioned players have no same-season performance data (bench, injury, new).
+Results may be biased if selection into playing correlates with unobserved factors.
+""")
+
+    print("\n4. Baseline Model (runs + wickets + nationality)")
+    results["Baseline"] = estimate_pooled_ols(df, "baseline")
+    if results["Baseline"]:
+        print(results["Baseline"].summary().tables[1])
+        print_interpretation(results["Baseline"], "Baseline")
+
+    print("\n5. Full Performance Model")
+    results["Full"] = estimate_pooled_ols(df, "full_performance")
+    if results["Full"]:
+        print(results["Full"].summary().tables[1])
+
+    print("\n6. Lagged + Current Model (information revelation)")
     results["Lag+Curr"] = estimate_pooled_ols(df, "lagged_current")
     if results["Lag+Curr"]:
         print(results["Lag+Curr"].summary().tables[1])
 
-    print("\n5. Model with Year Fixed Effects")
+    print("\n7. Model with Year Fixed Effects")
     results["Year FE"] = estimate_year_fe(df, use_war=False)
     if results["Year FE"]:
         fe_params = results["Year FE"].params[
@@ -399,34 +428,28 @@ def main():
 
     if has_war:
         print("\n" + "=" * 60)
-        print("WAR-BASED MODELS")
+        print("WAR-BASED MODELS (Same-Season)")
         print("=" * 60)
 
-        print("\n6. WAR Current Season")
+        print("\n8. WAR Current Season")
         results["WAR"] = estimate_pooled_ols(df, "war_current")
         if results["WAR"]:
             print(results["WAR"].summary().tables[1])
             print_interpretation(results["WAR"], "WAR Current")
 
-        print("\n7. WAR Components (Batting + Bowling)")
+        print("\n9. WAR Components (Batting + Bowling)")
         results["WAR Comp"] = estimate_pooled_ols(df, "war_components")
         if results["WAR Comp"]:
             print(results["WAR Comp"].summary().tables[1])
             print_interpretation(results["WAR Comp"], "WAR Components")
 
-        print("\n8. WAR Lagged (prior season)")
-        results["WAR Lag"] = estimate_pooled_ols(df, "war_lagged")
-        if results["WAR Lag"]:
-            print(results["WAR Lag"].summary().tables[1])
-            print_interpretation(results["WAR Lag"], "WAR Lagged")
-
-        print("\n9. WAR with Mega-Auction Control")
+        print("\n10. WAR with Mega-Auction Control")
         results["WAR+Mega"] = estimate_pooled_ols(df, "war_mega")
         if results["WAR+Mega"]:
             print(results["WAR+Mega"].summary().tables[1])
             print_interpretation(results["WAR+Mega"], "WAR + Mega Auction")
 
-        print("\n10. WAR with Year Fixed Effects")
+        print("\n11. WAR with Year Fixed Effects")
         results["WAR YFE"] = estimate_year_fe(df, use_war=True)
         if results["WAR YFE"]:
             fe_params = results["WAR YFE"].params[
@@ -462,17 +485,17 @@ def main():
     print("ROLE-SPECIFIC MODELS")
     print("=" * 60)
 
-    print("\n11. Batsmen Only")
+    print("\n12. Batsmen Only")
     results["Batsmen"] = estimate_by_role(df, "batsman")
     if results["Batsmen"]:
         print(results["Batsmen"].summary().tables[1])
 
-    print("\n12. Bowlers Only")
+    print("\n13. Bowlers Only")
     results["Bowlers"] = estimate_by_role(df, "bowler")
     if results["Bowlers"]:
         print(results["Bowlers"].summary().tables[1])
 
-    print("\n13. All-Rounders")
+    print("\n14. All-Rounders")
     results["AllRounders"] = estimate_by_role(df, "allrounder")
     if results["AllRounders"]:
         print(results["AllRounders"].summary().tables[1])
@@ -481,10 +504,13 @@ def main():
     print("MODEL COMPARISON")
     print("=" * 60)
 
-    print("\nRaw Stats vs WAR Comparison:")
-    comparison_models = ["Baseline", "Full", "Lagged"]
+    print("\nModel Comparison (Lagged = Primary, Same-Season = Secondary):")
+    comparison_models = ["Lagged", "Full Lag"]
     if has_war:
-        comparison_models.extend(["WAR", "WAR Lag"])
+        comparison_models.append("WAR Lag")
+    comparison_models.extend(["Baseline", "Full"])
+    if has_war:
+        comparison_models.append("WAR")
 
     comparison_data = []
     for name in comparison_models:
@@ -502,32 +528,34 @@ def main():
     print("KEY FINDINGS SUMMARY")
     print("=" * 60)
 
-    if results.get("Baseline"):
-        baseline = results["Baseline"]
-        print(f"""
-1. RAW PERFORMANCE-PRICE RELATIONSHIP:
-   - R-squared: {baseline.rsquared:.3f} (explains {baseline.rsquared * 100:.1f}% of price variation)
-   - Runs coefficient: {baseline.params.get('runs', 0):.4f} (p={baseline.pvalues.get('runs', 1):.3f})
-   - Wickets coefficient: {baseline.params.get('wickets', 0):.4f} (p={baseline.pvalues.get('wickets', 1):.3f})
-""")
-
-    if has_war and results.get("WAR"):
-        war_model = results["WAR"]
-        print(f"""2. WAR-BASED MODEL:
-   - R-squared: {war_model.rsquared:.3f} (explains {war_model.rsquared * 100:.1f}% of price variation)
-   - WAR coefficient: {war_model.params.get('total_war', 0):.4f} (p={war_model.pvalues.get('total_war', 1):.3f})
-   - 1 WAR = {(np.exp(war_model.params.get('total_war', 0)) - 1) * 100:.1f}% price increase
-""")
-
     if results.get("Lagged"):
         lagged = results["Lagged"]
-        lagged_rsq = lagged.rsquared if lagged else 0
-        baseline_rsq = baseline.rsquared if baseline else 0
-        print(f"""3. FORECAST ERROR ANALYSIS:
-   - Current season R²: {baseline_rsq:.3f}
-   - Lagged season R²:  {lagged_rsq:.3f}
-   - Gap of {(baseline_rsq - lagged_rsq) * 100:.1f}pp suggests teams have private information
-   - Teams predict future, we measure past -> explains some residual variance
+        print(f"""
+1. PRIMARY MODEL (LAGGED PERFORMANCE):
+   - R-squared: {lagged.rsquared:.3f} (explains {lagged.rsquared * 100:.1f}% of price variation)
+   - Prior-season runs coefficient: {lagged.params.get('runs_lag', 0):.4f}
+   - Prior-season wickets coefficient: {lagged.params.get('wickets_lag', 0):.4f}
+   - Uses information available at auction time (no selection bias)
+""")
+
+    if has_war and results.get("WAR Lag"):
+        war_lag = results["WAR Lag"]
+        print(f"""2. WAR LAGGED MODEL (PREFERRED):
+   - R-squared: {war_lag.rsquared:.3f} (explains {war_lag.rsquared * 100:.1f}% of price variation)
+   - Prior-season WAR coefficient: {war_lag.params.get('total_war_lag', 0):.4f}
+   - 1 prior-season WAR = {(np.exp(war_lag.params.get('total_war_lag', 0)) - 1) * 100:.1f}% price increase
+""")
+
+    baseline = results.get("Baseline")
+    lagged = results.get("Lagged")
+    if baseline and lagged:
+        baseline_rsq = baseline.rsquared
+        lagged_rsq = lagged.rsquared
+        print(f"""3. SELECTION BIAS NOTE:
+   - Same-season R²: {baseline_rsq:.3f} (N={int(baseline.nobs)})
+   - Lagged R²: {lagged_rsq:.3f} (N={int(lagged.nobs)})
+   - Same-season models condition on player being fielded (~61% of auctioned players)
+   - Lagged models avoid this selection issue
 """)
 
     if efficiency_result:
@@ -539,14 +567,11 @@ def main():
 """)
 
     print("""5. INTERPRETING UNEXPLAINED VARIANCE:
-   The ~60% unexplained variance reflects:
+   The ~60-75% unexplained variance reflects:
    - Forecast error: Teams buy expected FUTURE performance, not past
    - Auction mechanics: Slot effects, purse constraints, team composition needs
    - Measurement error: Raw stats don't capture context, consistency, match impact
    - Private information: Teams have scouting insights we don't observe
-
-   This is NOT simply "star power/marketability" - it's a mix of factors
-   that econometric models cannot fully disentangle.
 """)
 
     output_path = OUTPUT_DIR / "regression_results.txt"
