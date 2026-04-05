@@ -19,7 +19,7 @@ import re
 import numpy as np
 import pandas as pd
 from pathlib import Path
-from rapidfuzz import fuzz
+from rapidfuzz.distance import JaroWinkler
 from rapidfuzz.process import cdist
 
 BASE_DIR = Path(__file__).parent.parent
@@ -487,6 +487,101 @@ def load_auction_2026():
     return df
 
 
+def load_retained_players():
+    """Load retained players data for mega auction years."""
+    path = DATA_DIR / "retained_players.csv"
+    if not path.exists():
+        print(f"Warning: {path} not found")
+        return pd.DataFrame()
+
+    df = pd.read_csv(path)
+
+    df_std = pd.DataFrame({
+        "year": df["year"].astype(int),
+        "player_name": df["player_name"].str.strip(),
+        "team": df["team"].apply(standardize_team_name),
+        "final_price_lakh": df["retention_price_lakh"],
+        "status": "RETAINED",
+        "source": "retained_" + df["source"].astype(str),
+        "acquisition_type": "retained"
+    })
+
+    return df_std
+
+
+def infer_retained_players(auction_df, perf_df):
+    """
+    Infer retained players for non-mega auction years based on performance data.
+
+    For years where a player:
+    1. Appears in performance data
+    2. Was with the same team in the previous year
+    3. Does NOT appear in auction data for that year
+
+    They were likely retained (stayed with team between auctions).
+
+    Mega auction years (2008, 2011, 2014, 2018, 2022, 2025) are handled separately
+    with official retention data.
+
+    Uses performance data player names directly since auction data may not have
+    matching entries for players who were retained between auctions.
+    """
+    mega_auction_years = {2008, 2011, 2014, 2018, 2022, 2025}
+    perf_years = set(perf_df["season"].unique())
+    non_mega_years = [y for y in sorted(perf_years) if y not in mega_auction_years and y > 2008]
+
+    existing_player_years = set()
+    for _, row in auction_df.iterrows():
+        key = (int(row["year"]), row["player_name"].lower() if pd.notna(row["player_name"]) else "")
+        existing_player_years.add(key)
+
+    perf_df = perf_df.copy()
+    perf_df["player_norm"] = perf_df["player"].str.lower().str.strip()
+
+    inferred = []
+
+    for year in non_mega_years:
+        if year not in perf_years:
+            continue
+        prev_year = year - 1
+        if prev_year not in perf_years:
+            continue
+
+        perf_year = perf_df[perf_df["season"] == year][["player", "player_norm", "team"]].drop_duplicates()
+        perf_prev = perf_df[perf_df["season"] == prev_year][["player", "player_norm", "team"]].drop_duplicates()
+
+        prev_team_map = dict(zip(perf_prev["player_norm"], perf_prev["team"]))
+
+        for _, row in perf_year.iterrows():
+            player = row["player"]
+            player_norm = row["player_norm"]
+            team = row["team"]
+
+            if (year, player_norm) in existing_player_years:
+                continue
+
+            prev_team = prev_team_map.get(player_norm)
+            if prev_team is None:
+                continue
+
+            prev_team_std = standardize_team_name(prev_team)
+            curr_team_std = standardize_team_name(team)
+
+            if prev_team_std == curr_team_std:
+                inferred.append({
+                    "year": year,
+                    "player_name": player,
+                    "team": curr_team_std,
+                    "final_price_lakh": np.nan,
+                    "status": "RETAINED",
+                    "source": "inferred_retention",
+                    "acquisition_type": "retained"
+                })
+                existing_player_years.add((year, player_norm))
+
+    return pd.DataFrame(inferred)
+
+
 def create_2008_data():
     """
     Create 2008 inaugural auction data from known sources.
@@ -668,7 +763,7 @@ def deduplicate_fuzzy_same_year(df, threshold=85):
         names_norm = [normalize_for_match(n) for n in names]
         names_fuzzy = [normalize_for_fuzzy(n) for n in names]
 
-        scores = cdist(names_fuzzy, names_fuzzy, scorer=fuzz.token_sort_ratio, workers=-1)
+        scores = cdist(names_fuzzy, names_fuzzy, scorer=JaroWinkler.normalized_similarity, workers=-1)
 
         for i in range(len(names)):
             if indices[i] in rows_to_drop:
@@ -687,7 +782,7 @@ def deduplicate_fuzzy_same_year(df, threshold=85):
                     first_i = names_fuzzy[i].split()[0] if names_fuzzy[i].split() else ""
                     first_j = names_fuzzy[j].split()[0] if names_fuzzy[j].split() else ""
 
-                    last_match = last_i == last_j or fuzz.ratio(last_i, last_j) >= 90
+                    last_match = last_i == last_j or JaroWinkler.normalized_similarity(last_i, last_j) >= 0.90
 
                     if last_match:
                         first_equiv = (
@@ -697,7 +792,7 @@ def deduplicate_fuzzy_same_year(df, threshold=85):
                         )
                         if first_equiv:
                             is_duplicate = True
-                        elif scores[i][j] >= 88:
+                        elif scores[i][j] >= 0.88:
                             is_duplicate = True
 
                 if is_duplicate:
@@ -780,7 +875,7 @@ def build_player_registry(df):
 
     def names_are_similar(name1, name2, norm1, norm2, score):
         """Check if two names represent the same player."""
-        if score < 85:
+        if score < 0.85:
             return False
 
         last1 = get_last_name(norm1)
@@ -802,7 +897,7 @@ def build_player_registry(df):
             return []
         names = list(set(names))
         names_norm = [normalize_for_clustering(n) for n in names]
-        scores = rf_cdist(names_norm, names_norm, scorer=fuzz.token_sort_ratio, workers=-1)
+        scores = rf_cdist(names_norm, names_norm, scorer=JaroWinkler.normalized_similarity, workers=-1)
 
         visited = set()
         clusters = []
@@ -948,9 +1043,10 @@ def main():
         dfs.append(df_2026)
         print(f"    2026: {len(df_2026)} records")
 
-    print("\nCombining all sources...")
+    print("\nCombining all auction sources...")
     df_all = pd.concat(dfs, ignore_index=True)
-    print(f"  Total before deduplication: {len(df_all)} records")
+    df_all["acquisition_type"] = "auction"
+    print(f"  Total auction records before deduplication: {len(df_all)} records")
 
     print("\nNormalizing player names...")
     df_all["player_name"] = df_all["player_name"].apply(normalize_player_name)
@@ -962,6 +1058,35 @@ def main():
     print("\nDeduplicating fuzzy same-year duplicates...")
     df_all = deduplicate_fuzzy_same_year(df_all, threshold=88)
     print(f"  Total after fuzzy deduplication: {len(df_all)} records")
+
+    print("\nLoading retained players for mega auction years...")
+    df_retained = load_retained_players()
+    if not df_retained.empty:
+        df_retained["player_name"] = df_retained["player_name"].apply(normalize_player_name)
+        auction_player_years = set(zip(df_all["year"], df_all["player_name"].str.lower()))
+        df_retained["_key"] = list(zip(df_retained["year"], df_retained["player_name"].str.lower()))
+        df_retained_new = df_retained[~df_retained["_key"].isin(auction_player_years)].drop(columns=["_key"])
+        print(f"  Retained players loaded: {len(df_retained)}")
+        print(f"  New retained records (not in auction): {len(df_retained_new)}")
+        df_all = pd.concat([df_all, df_retained_new], ignore_index=True)
+        print(f"  Total after adding retained players: {len(df_all)} records")
+
+    print("\nInferring retained players for non-mega auction years...")
+    perf_path = DATA_DIR / "player_season_stats.csv"
+    if perf_path.exists():
+        perf_df = pd.read_csv(perf_path)
+        df_inferred = infer_retained_players(df_all, perf_df)
+        if not df_inferred.empty:
+            df_inferred["player_name"] = df_inferred["player_name"].apply(normalize_player_name)
+            existing_keys = set(zip(df_all["year"], df_all["player_name"].str.lower()))
+            df_inferred["_key"] = list(zip(df_inferred["year"], df_inferred["player_name"].str.lower()))
+            df_inferred_new = df_inferred[~df_inferred["_key"].isin(existing_keys)].drop(columns=["_key"])
+            print(f"  Inferred retained players: {len(df_inferred)}")
+            print(f"  New inferred records: {len(df_inferred_new)}")
+            df_all = pd.concat([df_all, df_inferred_new], ignore_index=True)
+            print(f"  Total after adding inferred retentions: {len(df_all)} records")
+    else:
+        print("  Skipping - player_season_stats.csv not found")
 
     print("\nBuilding player registry and assigning player IDs...")
     registry_df, name_to_id = build_player_registry(df_all)
@@ -976,7 +1101,7 @@ def main():
 
     cols = [
         "year", "player_id", "player_name", "team", "base_price_lakh", "final_price_lakh",
-        "role", "nationality", "status", "source"
+        "role", "nationality", "status", "acquisition_type", "source"
     ]
     for col in cols:
         if col not in df_all.columns:

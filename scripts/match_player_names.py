@@ -14,7 +14,8 @@ Uses a multi-stage matching approach:
 import pandas as pd
 import numpy as np
 from pathlib import Path
-from rapidfuzz import fuzz, process
+from rapidfuzz import process
+from rapidfuzz.distance import JaroWinkler
 
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
@@ -69,6 +70,34 @@ def convert_full_to_initial_format(name):
     return f"{first_initial} {last}"
 
 
+def names_compatible(name1, name2):
+    """Check if two normalized names could represent the same person."""
+    parts1 = name1.split()
+    parts2 = name2.split()
+
+    if len(parts1) == 0 or len(parts2) == 0:
+        return False
+
+    if parts1[-1] != parts2[-1]:
+        return False
+
+    first1 = parts1[:-1]
+    first2 = parts2[:-1]
+
+    if len(first1) == 0 or len(first2) == 0:
+        return True
+
+    f1 = first1[0]
+    f2 = first2[0]
+
+    if len(f1) <= 2:
+        return f2[0] == f1[0]
+    if len(f2) <= 2:
+        return f1[0] == f2[0]
+
+    return f1 == f2
+
+
 def load_alias_table():
     """Load manual alias table from CSV if it exists."""
     alias_path = DATA_DIR / "name_aliases.csv"
@@ -79,7 +108,7 @@ def load_alias_table():
     aliases = {}
     for _, row in df.iterrows():
         auction_name = normalize_name(row["auction_name"])
-        perf_name = row["performance_name"]
+        perf_name = normalize_name(row["performance_name"])
         year = row.get("year", None)
         if pd.notna(year):
             aliases[(auction_name, int(year))] = perf_name
@@ -107,12 +136,6 @@ def create_name_mapping(auction_names, perf_names, alias_table=None, year=None):
 
     perf_norm_reverse = {v: k for k, v in perf_norm.items()}
 
-    perf_initials = {n: get_initials_last(normalize_name(n)) for n in perf_names}
-    perf_initials_reverse = {}
-    for perf_name, init in perf_initials.items():
-        if init not in perf_initials_reverse:
-            perf_initials_reverse[init] = perf_name
-
     mapping = {}
     unmatched = []
 
@@ -125,11 +148,13 @@ def create_name_mapping(auction_names, perf_names, alias_table=None, year=None):
 
         alias_key_year = (auc_norm, year)
         alias_key_global = (auc_norm, None)
+        alias_perf_norm = None
         if alias_key_year in alias_table:
-            mapping[auc_name] = alias_table[alias_key_year]
-            continue
-        if alias_key_global in alias_table:
-            mapping[auc_name] = alias_table[alias_key_global]
+            alias_perf_norm = alias_table[alias_key_year]
+        elif alias_key_global in alias_table:
+            alias_perf_norm = alias_table[alias_key_global]
+        if alias_perf_norm and alias_perf_norm in perf_norm_reverse:
+            mapping[auc_name] = perf_norm_reverse[alias_perf_norm]
             continue
 
         auc_init = convert_full_to_initial_format(auc_norm)
@@ -141,34 +166,31 @@ def create_name_mapping(auction_names, perf_names, alias_table=None, year=None):
         if matched:
             continue
 
-        if auc_init in perf_initials_reverse:
-            mapping[auc_name] = perf_initials_reverse[auc_init]
+        candidates = [
+            pn for pn, pnorm in perf_norm.items()
+            if get_initials_last(pnorm) == auc_init
+            and names_compatible(auc_norm, pnorm)
+        ]
+        if len(candidates) == 1:
+            mapping[auc_name] = candidates[0]
             continue
 
         auc_last = get_last_name(auc_norm)
-        auc_first_init = get_first_initial(auc_norm)
-        if auc_last and auc_first_init:
-            for perf_name, perf_n in perf_norm.items():
-                perf_last = get_last_name(perf_n)
-                perf_first_init = get_first_initial(perf_n)
-                if auc_last == perf_last and auc_first_init == perf_first_init:
-                    mapping[auc_name] = perf_name
-                    matched = True
-                    break
-        if matched:
-            continue
-
         perf_names_list = list(perf_names)
         if perf_names_list:
             result = process.extractOne(
                 auc_norm,
                 [normalize_name(n) for n in perf_names_list],
-                scorer=fuzz.token_sort_ratio
+                scorer=JaroWinkler.normalized_similarity
             )
-            if result and result[1] >= 85:
+            if result:
                 best_idx = [normalize_name(n) for n in perf_names_list].index(result[0])
-                mapping[auc_name] = perf_names_list[best_idx]
-                continue
+                perf_match = perf_names_list[best_idx]
+                perf_last = get_last_name(normalize_name(perf_match))
+                same_last = auc_last == perf_last
+                if result[1] >= 0.95 or (result[1] >= 0.85 and same_last):
+                    mapping[auc_name] = perf_match
+                    continue
 
         unmatched.append(auc_name)
 
@@ -256,12 +278,12 @@ def generate_alias_suggestions(auction, perf):
         results = process.extract(
             auc_norm,
             [normalize_name(n) for n in perf_names_list],
-            scorer=fuzz.token_sort_ratio,
+            scorer=JaroWinkler.normalized_similarity,
             limit=3
         )
 
         for result in results:
-            if result[1] >= 50:
+            if result[1] >= 0.70:
                 idx = [normalize_name(n) for n in perf_names_list].index(result[0])
                 suggestions.append({
                     "year": year,
@@ -394,10 +416,24 @@ def main():
     print(high_value.to_string(index=False))
 
     print("\n=== Still Unmatched (high value sample) ===")
+    unmatched_cols = ["year", "player_name", "team_x", "final_price_lakh"]
+    if "acquisition_type" in merged.columns:
+        unmatched_cols.append("acquisition_type")
     unmatched = merged[merged["runs"].isna()][
-        ["year", "player_name", "team_x", "final_price_lakh"]
+        [c for c in unmatched_cols if c in merged.columns]
     ].sort_values("final_price_lakh", ascending=False).head(15)
     print(unmatched.to_string(index=False))
+
+    if "acquisition_type" in merged.columns:
+        print("\n=== Match Rate by Acquisition Type ===")
+        acq_stats = merged.groupby("acquisition_type").apply(
+            lambda x: pd.Series({
+                "total": len(x),
+                "matched": x["runs"].notna().sum(),
+                "rate": x["runs"].notna().sum() / len(x) * 100
+            })
+        )
+        print(acq_stats.to_string())
 
 
 if __name__ == "__main__":

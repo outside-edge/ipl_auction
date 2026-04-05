@@ -15,7 +15,7 @@ import re
 from pathlib import Path
 
 import pandas as pd
-from rapidfuzz import fuzz
+from rapidfuzz.distance import JaroWinkler
 from rapidfuzz.process import cdist
 
 BASE_DIR = Path(__file__).parent.parent
@@ -59,7 +59,7 @@ def cluster_similar_names(names, threshold=88):
     scores = cdist(
         names_normalized,
         names_normalized,
-        scorer=fuzz.token_sort_ratio,
+        scorer=JaroWinkler.normalized_similarity,
         workers=-1,
     )
 
@@ -77,7 +77,7 @@ def cluster_similar_names(names, threshold=88):
             if j in visited:
                 continue
 
-            if scores[i][j] >= threshold:
+            if scores[i][j] >= threshold / 100:
                 _, last_i = get_name_parts(names_normalized[i])
                 _, last_j = get_name_parts(names_normalized[j])
 
