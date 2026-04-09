@@ -1,0 +1,586 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-11-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nelson",
+    "dates": [
+      "2025-11-10"
+    ],
+    "event": {
+      "name": "West Indies tour of New Zealand",
+      "match_number": 4
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3568,
+    "officials": {
+      "match_referees": [
+        "Phil Whitticase"
+      ],
+      "reserve_umpires": [
+        "CM Brown"
+      ],
+      "tv_umpires": [
+        "SB Haig"
+      ],
+      "umpires": [
+        "Kim Cotton",
+        "WR Knights"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "West Indies": [
+        "AA Jangoo",
+        "A Athanaze",
+        "SD Hope",
+        "AWJ Auguste",
+        "SE Rutherford",
+        "R Powell",
+        "JO Holder",
+        "RL Chase",
+        "R Shepherd",
+        "MW Forde",
+        "SK Springer"
+      ],
+      "New Zealand": [
+        "DP Conway",
+        "TB Robinson",
+        "R Ravindra",
+        "MS Chapman",
+        "DJ Mitchell",
+        "MG Bracewell",
+        "JDS Neesham",
+        "MJ Santner",
+        "KA Jamieson",
+        "IS Sodhi",
+        "JA Duffy"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Athanaze": "58c2fac4",
+        "AA Jangoo": "88626ed2",
+        "AWJ Auguste": "4b167ede",
+        "CM Brown": "448f4f1c",
+        "DJ Mitchell": "eade4650",
+        "DP Conway": "df5a6881",
+        "IS Sodhi": "641ac5ff",
+        "JA Duffy": "dadbdb68",
+        "JDS Neesham": "9219eff0",
+        "JO Holder": "0f721006",
+        "KA Jamieson": "68c56d09",
+        "Kim Cotton": "67a7c2ee",
+        "MG Bracewell": "e38bce7a",
+        "MJ Santner": "e4a0deae",
+        "MS Chapman": "7fa12533",
+        "MW Forde": "83d17bbc",
+        "Phil Whitticase": "99d5f6fa",
+        "R Powell": "650d5e49",
+        "R Ravindra": "ba5e1069",
+        "R Shepherd": "c5aef772",
+        "RL Chase": "3feda4fa",
+        "SB Haig": "811655b3",
+        "SD Hope": "1fc6ef83",
+        "SE Rutherford": "d014d5ac",
+        "SK Springer": "4175d211",
+        "TB Robinson": "5d664346",
+        "WR Knights": "63cbf8d8"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "New Zealand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "New Zealand"
+    },
+    "venue": "Saxton Oval, Nelson"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AA Jangoo",
+              "bowler": "KA Jamieson",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "KA Jamieson",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "KA Jamieson",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "KA Jamieson",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "KA Jamieson",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "KA Jamieson",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AA Jangoo",
+              "bowler": "JA Duffy",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "JA Duffy",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "JA Duffy",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Athanaze",
+              "bowler": "KA Jamieson",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "KA Jamieson",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "KA Jamieson",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "KA Jamieson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "KA Jamieson",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "KA Jamieson",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "KA Jamieson",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JA Duffy",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "JA Duffy",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Athanaze",
+              "bowler": "MG Bracewell",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "MG Bracewell",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "MG Bracewell",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "MG Bracewell",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "MG Bracewell",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "MG Bracewell",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Athanaze",
+              "bowler": "JDS Neesham",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Athanaze",
+              "bowler": "JDS Neesham",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Athanaze",
+                  "fielders": [
+                    {
+                      "name": "DJ Mitchell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "JDS Neesham",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "JDS Neesham",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "JDS Neesham",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "JDS Neesham",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SD Hope",
+              "bowler": "IS Sodhi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "IS Sodhi",
+              "non_striker": "SD Hope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SD Hope",
+              "bowler": "IS Sodhi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

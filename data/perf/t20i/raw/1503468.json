@@ -1,0 +1,2680 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-10-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Al Amarat",
+    "dates": [
+      "2025-10-16"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Asia & EAP Qualifier",
+      "match_number": 19
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3524,
+    "officials": {
+      "match_referees": [
+        "Kent Hannam"
+      ],
+      "reserve_umpires": [
+        "Rahul Asher"
+      ],
+      "umpires": [
+        "PJ Gillespie",
+        "RMPJ Rambukwella"
+      ]
+    },
+    "outcome": {
+      "winner": "Qatar",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Muhammad Asim"
+    ],
+    "players": {
+      "Samoa": [
+        "SM Solia",
+        "D Visser",
+        "BF Mailata",
+        "SJ French",
+        "CK Jasmat",
+        "SF Tiai",
+        "F Suluoto",
+        "S Sola",
+        "SM Nash",
+        "D Finau",
+        "KAB Hynam-Nyberg"
+      ],
+      "Qatar": [
+        "I Liyanage",
+        "Zubair Ali",
+        "Shariq Munir",
+        "Muhammad Asim",
+        "Muhammad Tanveer",
+        "MM Baig",
+        "Shahzaib Jamil",
+        "DAM Louis",
+        "Ikramullah Khan",
+        "Mujeeb-ur-Rehman",
+        "Owais Ahmed"
+      ]
+    },
+    "registry": {
+      "people": {
+        "BF Mailata": "f49935eb",
+        "CK Jasmat": "5299063a",
+        "D Finau": "63772ee4",
+        "D Visser": "bb4da4d3",
+        "DAM Louis": "b975210d",
+        "F Suluoto": "ae380321",
+        "I Liyanage": "826e1017",
+        "Ikramullah Khan": "c6e1354c",
+        "KAB Hynam-Nyberg": "692ed48b",
+        "Kent Hannam": "8cc171e7",
+        "MM Baig": "add288ea",
+        "Muhammad Asim": "b424d3d3",
+        "Muhammad Tanveer": "aef39fe4",
+        "Mujeeb-ur-Rehman": "1a8f879b",
+        "Owais Ahmed": "cef52835",
+        "PJ Gillespie": "3e253a50",
+        "RMPJ Rambukwella": "13fa6ffc",
+        "Rahul Asher": "4956b0bf",
+        "S Sola": "3f9feb1e",
+        "SF Tiai": "bf19d427",
+        "SJ French": "0e93ef92",
+        "SM Nash": "4f3a89ae",
+        "SM Solia": "fd9f43bb",
+        "Shahzaib Jamil": "fbb6d1a7",
+        "Shariq Munir": "298d9b83",
+        "Zubair Ali": "f16e776a"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Samoa",
+      "Qatar"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Qatar"
+    },
+    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)"
+  },
+  "innings": [
+    {
+      "team": "Samoa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SM Solia",
+              "bowler": "MM Baig",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "MM Baig",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "MM Baig",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "MM Baig",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "MM Baig",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SM Solia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ikramullah Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "MM Baig",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Visser",
+                  "fielders": [
+                    {
+                      "name": "Shahzaib Jamil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SM Solia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SM Solia",
+              "bowler": "MM Baig",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "MM Baig",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "MM Baig",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SM Solia",
+              "bowler": "Muhammad Asim",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "Muhammad Asim",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "Muhammad Asim",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "Muhammad Asim",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Solia",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BF Mailata",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Mujeeb-ur-Rehman",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Asim",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Asim",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "BF Mailata",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Mujeeb-ur-Rehman",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BF Mailata",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Owais Ahmed",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Owais Ahmed",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Owais Ahmed",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BF Mailata",
+              "bowler": "DAM Louis",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "DAM Louis",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "DAM Louis",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "DAM Louis",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "DAM Louis",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ French",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "DAM Louis",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BF Mailata",
+              "bowler": "Owais Ahmed",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Owais Ahmed",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Owais Ahmed",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Owais Ahmed",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Owais Ahmed",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "Owais Ahmed",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BF Mailata",
+              "bowler": "DAM Louis",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "DAM Louis",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "DAM Louis",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "DAM Louis",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "DAM Louis",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Mailata",
+              "bowler": "DAM Louis",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BF Mailata",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CK Jasmat",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Muhammad Asim",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Muhammad Asim",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Muhammad Asim",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "F Suluoto",
+              "bowler": "DAM Louis",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "DAM Louis",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "DAM Louis",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "DAM Louis",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "DAM Louis",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "DAM Louis",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SF Tiai",
+              "bowler": "Owais Ahmed",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Owais Ahmed",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SF Tiai",
+              "bowler": "Muhammad Asim",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Muhammad Asim",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Asim",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "F Suluoto",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Owais Ahmed",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Owais Ahmed",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Owais Ahmed",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Owais Ahmed",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SF Tiai",
+              "bowler": "MM Baig",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "MM Baig",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Suluoto",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Sola",
+              "bowler": "MM Baig",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sola",
+              "bowler": "MM Baig",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "MM Baig",
+              "non_striker": "S Sola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sola",
+              "bowler": "MM Baig",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "MM Baig",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Sola",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "MM Baig",
+              "non_striker": "S Sola",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Sola",
+              "bowler": "Ikramullah Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "S Sola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Sola",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Asim"
+                    },
+                    {
+                      "name": "Ikramullah Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Nash",
+                  "fielders": [
+                    {
+                      "name": "Zubair Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Finau",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Finau",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    },
+                    {
+                      "name": "Shariq Munir"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Qatar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "CK Jasmat",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "CK Jasmat",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "CK Jasmat",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "SM Nash",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "SM Nash",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "SM Nash",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "SM Nash",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "CK Jasmat",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "CK Jasmat",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "CK Jasmat",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Liyanage",
+                  "fielders": [
+                    {
+                      "name": "BF Mailata"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shariq Munir",
+              "bowler": "CK Jasmat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shariq Munir",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Shariq Munir",
+              "bowler": "SM Nash",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Shariq Munir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Shariq Munir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Shariq Munir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Shariq Munir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shariq Munir",
+              "bowler": "SM Nash",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Zubair Ali",
+              "bowler": "KAB Hynam-Nyberg",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Shariq Munir",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shariq Munir",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shariq Munir",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shariq Munir",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shariq Munir",
+                  "fielders": [
+                    {
+                      "name": "D Finau"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Zubair Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Zubair Ali",
+              "bowler": "D Visser",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "D Visser",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "D Visser",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "D Visser",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "D Visser",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "D Visser",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SF Tiai",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SF Tiai",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SF Tiai",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SF Tiai",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SF Tiai",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SF Tiai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SF Tiai",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "D Visser",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "D Visser",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "D Visser",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "D Visser",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "D Visser",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "D Visser",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Zubair Ali",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Zubair Ali",
+              "bowler": "S Sola",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "S Sola",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "S Sola",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "S Sola",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "S Sola",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "S Sola",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SM Nash",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "S Sola",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "S Sola",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "S Sola",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "S Sola",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "S Sola",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "S Sola",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "S Sola",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "S Sola",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "S Sola",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SF Tiai",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SF Tiai",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SF Tiai",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SF Tiai",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "SF Tiai",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SF Tiai",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Zubair Ali",
+              "bowler": "CK Jasmat",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "CK Jasmat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "CK Jasmat",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Ali",
+              "bowler": "CK Jasmat",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "SM Nash",
+              "non_striker": "Zubair Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 127
+      }
+    }
+  ]
+}

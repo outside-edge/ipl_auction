@@ -1,0 +1,2898 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Abu Dhabi",
+    "dates": [
+      "2025-09-11"
+    ],
+    "event": {
+      "name": "Men's T20 Asia Cup",
+      "match_number": 3,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3446,
+    "officials": {
+      "match_referees": [
+        "RB Richardson"
+      ],
+      "reserve_umpires": [
+        "Faisal Afridi"
+      ],
+      "tv_umpires": [
+        "Asif Yaqoob"
+      ],
+      "umpires": [
+        "RR Wimalasiri",
+        "R Pandit"
+      ]
+    },
+    "outcome": {
+      "winner": "Bangladesh",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Liton Das"
+    ],
+    "players": {
+      "Hong Kong": [
+        "Zeeshan Ali",
+        "Anshuman Rath",
+        "Babar Hayat",
+        "Nizakat Khan",
+        "Yasim Murtaza",
+        "Aizaz Khan",
+        "KD Shah",
+        "Kalhan Challu",
+        "Ehsan Khan",
+        "A Shukla",
+        "Ateeq Iqbal"
+      ],
+      "Bangladesh": [
+        "Parvez Hossain Emon",
+        "Tanzid Hasan",
+        "Liton Das",
+        "Towhid Hridoy",
+        "Jaker Ali",
+        "Shamim Hossain",
+        "Mahedi Hasan",
+        "Rishad Hossain",
+        "Tanzim Hasan Sakib",
+        "Taskin Ahmed",
+        "Mustafizur Rahman"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Shukla": "a1e80d06",
+        "Aizaz Khan": "f6c2659d",
+        "Anshuman Rath": "552b228c",
+        "Asif Yaqoob": "6b35790c",
+        "Ateeq Iqbal": "29b322c7",
+        "Babar Hayat": "fbb657bb",
+        "Ehsan Khan": "d3851cd8",
+        "Faisal Afridi": "ed0bc503",
+        "Jaker Ali": "cd56a813",
+        "KD Shah": "d5ae21a2",
+        "Kalhan Challu": "cc6b0cda",
+        "Liton Das": "0404d43c",
+        "Mahedi Hasan": "9dad0f2e",
+        "Mustafizur Rahman": "0a8fce53",
+        "Nizakat Khan": "e3eb9e46",
+        "Parvez Hossain Emon": "489aaf0a",
+        "R Pandit": "8a604384",
+        "RB Richardson": "410e2f12",
+        "RR Wimalasiri": "4950c8db",
+        "Rishad Hossain": "5935d694",
+        "Shamim Hossain": "711249d1",
+        "Tanzid Hasan": "80fe764d",
+        "Tanzim Hasan Sakib": "0b0cc297",
+        "Taskin Ahmed": "ef18b66e",
+        "Towhid Hridoy": "9e52a414",
+        "Yasim Murtaza": "c9d05f1a",
+        "Zeeshan Ali": "987187b9"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Hong Kong",
+      "Bangladesh"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bangladesh"
+    },
+    "venue": "Zayed Cricket Stadium, Abu Dhabi"
+  },
+  "innings": [
+    {
+      "team": "Hong Kong",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Mahedi Hasan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Anshuman Rath",
+              "review": {
+                "by": "Bangladesh",
+                "umpire": "R Pandit",
+                "batter": "Zeeshan Ali",
+                "decision": "struck down",
+                "type": "wicket",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Taskin Ahmed",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Zeeshan Ali",
+              "review": {
+                "by": "Bangladesh",
+                "umpire": "RR Wimalasiri",
+                "batter": "Anshuman Rath",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Anshuman Rath",
+                  "fielders": [
+                    {
+                      "name": "Liton Das"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Taskin Ahmed",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Babar Hayat",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeeshan Ali",
+                  "fielders": [
+                    {
+                      "name": "Mustafizur Rahman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Rishad Hossain",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Yasim Murtaza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yasim Murtaza",
+                  "fielders": [
+                    {
+                      "name": "Rishad Hossain"
+                    },
+                    {
+                      "name": "Mustafizur Rahman"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Aizaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aizaz Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Aizaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aizaz Khan",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Aizaz Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Aizaz Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Aizaz Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Aizaz Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aizaz Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Aizaz Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nizakat Khan",
+                  "fielders": [
+                    {
+                      "name": "Tanzim Hasan Sakib"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KD Shah",
+              "bowler": "Rishad Hossain",
+              "non_striker": "Aizaz Khan",
+              "review": {
+                "by": "Hong Kong",
+                "umpire": "R Pandit",
+                "batter": "KD Shah",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KD Shah",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Aizaz Khan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Kalhan Challu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aizaz Khan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Kalhan Challu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aizaz Khan",
+                  "fielders": [
+                    {
+                      "name": "Jaker Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ehsan Khan",
+              "bowler": "Taskin Ahmed",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Kalhan Challu",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kalhan Challu",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Ehsan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ehsan Khan",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Kalhan Challu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kalhan Challu",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Ehsan Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kalhan Challu",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "Ehsan Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "A Shukla",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "A Shukla",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "A Shukla",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "A Shukla",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "A Shukla",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Parvez Hossain Emon",
+                  "fielders": [
+                    {
+                      "name": "Babar Hayat"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ehsan Khan",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tanzid Hasan",
+                  "fielders": [
+                    {
+                      "name": "Nizakat Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Towhid Hridoy",
+              "review": {
+                "by": "Hong Kong",
+                "umpire": "RR Wimalasiri",
+                "batter": "Liton Das",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Aizaz Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "KD Shah",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "KD Shah",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "KD Shah",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "KD Shah",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "KD Shah",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "KD Shah",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "A Shukla",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Shukla",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "A Shukla",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "A Shukla",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "A Shukla",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Shukla",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Liton Das",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Ateeq Iqbal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "Ateeq Iqbal",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 144
+      }
+    }
+  ]
+}

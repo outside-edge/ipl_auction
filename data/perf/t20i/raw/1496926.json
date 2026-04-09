@@ -1,0 +1,3028 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Abu Dhabi",
+    "dates": [
+      "2025-09-15"
+    ],
+    "event": {
+      "name": "Men's T20 Asia Cup",
+      "match_number": 7,
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3457,
+    "officials": {
+      "match_referees": [
+        "RB Richardson"
+      ],
+      "reserve_umpires": [
+        "R Pandit"
+      ],
+      "tv_umpires": [
+        "RR Wimalasiri"
+      ],
+      "umpires": [
+        "Asif Yaqoob",
+        "VK Sharma"
+      ]
+    },
+    "outcome": {
+      "winner": "United Arab Emirates",
+      "by": {
+        "runs": 42
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "A Sharafu"
+    ],
+    "players": {
+      "United Arab Emirates": [
+        "A Sharafu",
+        "Waseem Muhammad",
+        "Asif Khan",
+        "Muhammad Zohaib",
+        "H Kaushik",
+        "R Chopra",
+        "D Parashar",
+        "Haider Ali",
+        "Muhammad Jawadullah",
+        "Junaid Siddique",
+        "Muhammad Rohid"
+      ],
+      "Oman": [
+        "Jatinder Singh",
+        "Aamir Kaleem",
+        "Hammad Mirza",
+        "Wasim Ali",
+        "Shah Faisal",
+        "AR Bisht",
+        "V Shukla",
+        "J Ramanandi",
+        "Hassnain Shah",
+        "Shakeel Ahmed",
+        "S Shrivastava"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Sharafu": "06cad4f0",
+        "AR Bisht": "80fe6790",
+        "Aamir Kaleem": "7ecb9a14",
+        "Asif Khan": "074acfb4",
+        "Asif Yaqoob": "6b35790c",
+        "D Parashar": "395179e8",
+        "H Kaushik": "2bfec670",
+        "Haider Ali": "dd572696",
+        "Hammad Mirza": "0b7b78c6",
+        "Hassnain Shah": "7cb931fc",
+        "J Ramanandi": "f7ce2ff9",
+        "Jatinder Singh": "b80dd12c",
+        "Junaid Siddique": "84dc72db",
+        "Muhammad Jawadullah": "098a757c",
+        "Muhammad Rohid": "9103ecdb",
+        "Muhammad Zohaib": "8f75193e",
+        "R Chopra": "a71d0f89",
+        "R Pandit": "8a604384",
+        "RB Richardson": "410e2f12",
+        "RR Wimalasiri": "4950c8db",
+        "S Shrivastava": "ac166f77",
+        "Shah Faisal": "4fe6be0c",
+        "Shakeel Ahmed": "e29e9c12",
+        "V Shukla": "101b1180",
+        "VK Sharma": "a7a49df4",
+        "Waseem Muhammad": "6f02fe2a",
+        "Wasim Ali": "ea59139a"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "United Arab Emirates",
+      "Oman"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Oman"
+    },
+    "venue": "Zayed Cricket Stadium, Abu Dhabi"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shah Faisal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Sharafu",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Sharafu",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Sharafu",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Asif Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Asif Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Asif Khan",
+              "review": {
+                "by": "Oman",
+                "umpire": "Asif Yaqoob",
+                "batter": "Waseem Muhammad",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Asif Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Khan",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Asif Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Asif Khan",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "Asif Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "Asif Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Khan",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Khan",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Khan",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Asif Khan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Hassnain Shah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "S Shrivastava",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "S Shrivastava",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Shah Faisal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shah Faisal",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "J Ramanandi",
+              "non_striker": "Muhammad Zohaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Zohaib",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Zohaib",
+                  "fielders": [
+                    {
+                      "name": "S Shrivastava"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "J Ramanandi",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shah Faisal",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Waseem Muhammad",
+                  "fielders": [
+                    {
+                      "name": "AR Bisht"
+                    },
+                    {
+                      "name": "V Shukla"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Hassnain Shah",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Chopra",
+                  "fielders": [
+                    {
+                      "name": "Aamir Kaleem"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Parashar",
+              "bowler": "Hassnain Shah",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Hassnain Shah",
+              "non_striker": "D Parashar",
+              "review": {
+                "by": "Oman",
+                "umpire": "Asif Yaqoob",
+                "batter": "H Kaushik",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Oman",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aamir Kaleem",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aamir Kaleem",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aamir Kaleem",
+                  "fielders": [
+                    {
+                      "name": "H Kaushik"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Hammad Mirza",
+              "bowler": "Junaid Siddique",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hammad Mirza",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hammad Mirza",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jatinder Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jatinder Singh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Wasim Ali",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hammad Mirza",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Wasim Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hammad Mirza",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Wasim Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hammad Mirza",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Wasim Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Wasim Ali",
+              "bowler": "Haider Ali",
+              "non_striker": "Hammad Mirza",
+              "review": {
+                "by": "Oman",
+                "umpire": "Asif Yaqoob",
+                "batter": "Wasim Ali",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Wasim Ali",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Haider Ali",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Haider Ali",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Haider Ali",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Haider Ali",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Haider Ali",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Hammad Mirza",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Muhammad Rohid",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hammad Mirza",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hammad Mirza",
+                  "fielders": [
+                    {
+                      "name": "D Parashar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Muhammad Rohid",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "D Parashar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Haider Ali",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Haider Ali",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "Shah Faisal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Faisal",
+              "bowler": "Haider Ali",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shah Faisal",
+                  "fielders": [
+                    {
+                      "name": "Waseem Muhammad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "D Parashar",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "D Parashar",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "D Parashar",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "D Parashar",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Shukla",
+              "bowler": "H Kaushik",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "H Kaushik",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "H Kaushik",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "H Kaushik",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AR Bisht",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "H Kaushik",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "H Kaushik",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AR Bisht",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "AR Bisht",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bisht",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Bisht",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "V Shukla",
+              "bowler": "H Kaushik",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "H Kaushik",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "H Kaushik",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "V Shukla",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Ramanandi",
+                  "fielders": [
+                    {
+                      "name": "A Sharafu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Hassnain Shah",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "V Shukla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Shukla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Shukla",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Jawadullah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Junaid Siddique",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hassnain Shah",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hassnain Shah",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hassnain Shah",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Muhammad Jawadullah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Junaid Siddique",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Junaid Siddique",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Junaid Siddique",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "S Shrivastava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Shrivastava",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Shrivastava",
+                  "fielders": [
+                    {
+                      "name": "Waseem Muhammad"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 173
+      }
+    }
+  ]
+}

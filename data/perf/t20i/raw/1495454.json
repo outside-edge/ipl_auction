@@ -1,0 +1,2655 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2025-07-19"
+    ],
+    "event": {
+      "name": "Rwanda Tri-Nation T20I Series",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3329,
+    "officials": {
+      "match_referees": [
+        "TC Mokorosi"
+      ],
+      "reserve_umpires": [
+        "Gasana Christian"
+      ],
+      "tv_umpires": [
+        "D Hagenimana"
+      ],
+      "umpires": [
+        "Gaston Niyibizi",
+        "R Singinzwa"
+      ]
+    },
+    "outcome": {
+      "winner": "Bahrain",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Asif Ali"
+    ],
+    "players": {
+      "Malawi": [
+        "A Limdawala",
+        "Sami Sohail",
+        "D Kansonkho",
+        "SY Nihute",
+        "Kazim Somani",
+        "P Zuze",
+        "SZ Vayani",
+        "B Balala",
+        "K Thuchila",
+        "C Tchale",
+        "P Sapesa"
+      ],
+      "Bahrain": [
+        "Asif Ali",
+        "P Kurup",
+        "Fiaz Ahmed",
+        "Sohail Ahmed",
+        "Junaid Aziz",
+        "Imran Anwar",
+        "Ahmer Bin Nisar",
+        "Abdul Majid Abbasi",
+        "Ali Dawood",
+        "Imran Khan",
+        "Rizwan Butt"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Limdawala": "2bcbcac3",
+        "Abdul Majid Abbasi": "0cfb42b5",
+        "Ahmer Bin Nisar": "afbc53ba",
+        "Ali Dawood": "596982e6",
+        "Asif Ali": "0a4736eb",
+        "B Balala": "a2f8e873",
+        "C Tchale": "32a85e70",
+        "D Hagenimana": "de167462",
+        "D Kansonkho": "45ca12a7",
+        "Fiaz Ahmed": "df1f2f29",
+        "Gasana Christian": "f5d91a1f",
+        "Gaston Niyibizi": "eb99c84c",
+        "Imran Anwar": "a9a18e3e",
+        "Imran Khan": "da3b91fd",
+        "Junaid Aziz": "c39ee9e0",
+        "K Thuchila": "af42d9f2",
+        "Kazim Somani": "d2ebebbe",
+        "P Kurup": "50ceaef6",
+        "P Sapesa": "b58316de",
+        "P Zuze": "04420914",
+        "R Singinzwa": "0e58e89d",
+        "Rizwan Butt": "e741ed8f",
+        "SY Nihute": "56b41ed3",
+        "SZ Vayani": "a4afc486",
+        "Sami Sohail": "602ebd4c",
+        "Sohail Ahmed": "4db71b2e",
+        "TC Mokorosi": "e93c3cf8"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Malawi",
+      "Bahrain"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bahrain"
+    },
+    "venue": "Gahanga International Cricket Stadium, Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Malawi",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Ali Dawood",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Limdawala",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Rizwan Butt",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Rizwan Butt",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Rizwan Butt",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Ali Dawood",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Limdawala",
+                  "fielders": [
+                    {
+                      "name": "Rizwan Butt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Ali Dawood",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Rizwan Butt",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Rizwan Butt",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Rizwan Butt",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Rizwan Butt",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Rizwan Butt",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Imran Khan",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Imran Khan",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Imran Khan",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Imran Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Imran Khan",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Imran Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Imran Khan",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Imran Anwar",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Imran Anwar",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Imran Anwar",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Imran Anwar",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Imran Anwar",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Imran Anwar",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Asif Ali",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sami Sohail",
+                  "fielders": [
+                    {
+                      "name": "Abdul Majid Abbasi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Asif Ali",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Asif Ali",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Asif Ali",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Asif Ali",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Asif Ali",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Kansonkho",
+                  "fielders": [
+                    {
+                      "name": "Sohail Ahmed"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SY Nihute",
+              "bowler": "Asif Ali",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Asif Ali",
+              "non_striker": "SY Nihute",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Asif Ali",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Asif Ali",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SY Nihute",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SY Nihute",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SY Nihute",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Zuze",
+              "bowler": "Asif Ali",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Asif Ali",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Asif Ali",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Asif Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Asif Ali",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Asif Ali",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Imran Khan",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Imran Khan",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Imran Khan",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Imran Khan",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Imran Khan",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Imran Khan",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Sohail Ahmed",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Sohail Ahmed",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Sohail Ahmed",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Sohail Ahmed",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "P Zuze",
+              "bowler": "Sohail Ahmed",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Sohail Ahmed",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Sohail Ahmed",
+              "non_striker": "P Zuze",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "P Zuze",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Zuze",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Ali Dawood",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Ali Dawood",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Ali Dawood",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Ali Dawood",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Ali Dawood",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Ali Dawood",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Rizwan Butt",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Imran Anwar",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Imran Anwar",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "Imran Anwar",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SZ Vayani",
+                  "fielders": [
+                    {
+                      "name": "Rizwan Butt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B Balala",
+              "bowler": "Imran Anwar",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Balala",
+              "bowler": "Imran Anwar",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Imran Anwar",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "B Balala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bahrain",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "P Sapesa",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "P Sapesa",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "P Sapesa",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "K Thuchila",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "P Sapesa",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "K Thuchila",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "K Thuchila",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "B Balala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "B Balala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "B Balala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "B Balala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "B Balala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "B Balala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "K Thuchila",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "K Thuchila",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "K Thuchila",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "C Tchale",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "C Tchale",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "C Tchale",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "C Tchale",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "C Tchale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "C Tchale",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "C Tchale",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "SZ Vayani",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "SZ Vayani",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "SZ Vayani",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "Sami Sohail",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "Sami Sohail",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Sami Sohail",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Sami Sohail",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "Sami Sohail",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "Sami Sohail",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "SZ Vayani",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "SZ Vayani",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "A Limdawala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "A Limdawala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "A Limdawala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "A Limdawala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "A Limdawala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "A Limdawala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "K Thuchila",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "K Thuchila",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "K Thuchila",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "A Limdawala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "A Limdawala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "A Limdawala",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "A Limdawala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "A Limdawala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "A Limdawala",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "SZ Vayani",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "SZ Vayani",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "SZ Vayani",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "SZ Vayani",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "P Sapesa",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "P Sapesa",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "P Sapesa",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "C Tchale",
+              "non_striker": "P Kurup",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Kurup",
+              "bowler": "C Tchale",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Kurup",
+                  "fielders": [
+                    {
+                      "name": "D Kansonkho"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Fiaz Ahmed",
+              "bowler": "C Tchale",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "C Tchale",
+              "non_striker": "Fiaz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fiaz Ahmed",
+              "bowler": "C Tchale",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "C Tchale",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Fiaz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 113
+      }
+    }
+  ]
+}

@@ -1,0 +1,3025 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-08-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Latschach",
+    "dates": [
+      "2025-08-24"
+    ],
+    "event": {
+      "name": "Belgium tour of Austria",
+      "match_number": 4
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3418,
+    "officials": {
+      "reserve_umpires": [
+        "Abdul Subor Haydari"
+      ],
+      "umpires": [
+        "Amir Javed",
+        "Pawan Kohli"
+      ]
+    },
+    "outcome": {
+      "winner": "Austria",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Aqib Iqbal"
+    ],
+    "players": {
+      "Belgium": [
+        "Walid Sahibzada",
+        "Muhammad Muneeb",
+        "B Niaz",
+        "Shaheryar Butt",
+        "Saber Zakhil",
+        "S Jamil",
+        "OJ Herrington",
+        "Rafiulah Alokozai",
+        "Sajid Safi",
+        "Iftikhar Kankhel",
+        "Shafiullah Zakhel"
+      ],
+      "Austria": [
+        "Karanbir Singh",
+        "Bilal Zalmai",
+        "Ranjit Singh",
+        "Aqib Iqbal",
+        "Baseer Khan",
+        "Zeshan Arif",
+        "Waqar Zalmai",
+        "Sahel Zadran",
+        "SFS Cheema",
+        "Ziaurahman Shinwari",
+        "MPS Cheema"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdul Subor Haydari": "c2474a99",
+        "Amir Javed": "23a92bd1",
+        "Aqib Iqbal": "14157abf",
+        "B Niaz": "b7824537",
+        "Baseer Khan": "75ebfe19",
+        "Bilal Zalmai": "33b67317",
+        "Iftikhar Kankhel": "449d4f17",
+        "Karanbir Singh": "6a97c7a4",
+        "MPS Cheema": "97181d1b",
+        "Muhammad Muneeb": "5338b9f5",
+        "OJ Herrington": "59fa2bbc",
+        "Pawan Kohli": "b918fe6d",
+        "Rafiulah Alokozai": "1f22730e",
+        "Ranjit Singh": "0467bd8d",
+        "S Jamil": "3d6617c6",
+        "SFS Cheema": "507fc658",
+        "Saber Zakhil": "036dcf9b",
+        "Sahel Zadran": "dae28050",
+        "Sajid Safi": "a8ffa2da",
+        "Shafiullah Zakhel": "ec59f49f",
+        "Shaheryar Butt": "b6bad765",
+        "Walid Sahibzada": "523c8494",
+        "Waqar Zalmai": "74571ec4",
+        "Zeshan Arif": "6829b373",
+        "Ziaurahman Shinwari": "f1e7f97c"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Belgium",
+      "Austria"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Belgium"
+    },
+    "venue": "Velden Cricket Ground, Latschach"
+  },
+  "innings": [
+    {
+      "team": "Belgium",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Muneeb",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Muneeb",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Muneeb",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "B Niaz",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Niaz",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "B Niaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Niaz",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Niaz",
+                  "fielders": [
+                    {
+                      "name": "Ranjit Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Aqib Iqbal",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Karanbir Singh",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Walid Sahibzada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Sahel Zadran",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Walid Sahibzada",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Walid Sahibzada",
+                  "fielders": [
+                    {
+                      "name": "Ziaurahman Shinwari"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "SFS Cheema",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "SFS Cheema",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "SFS Cheema",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "SFS Cheema",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "SFS Cheema",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "SFS Cheema",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shaheryar Butt",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Jamil",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Jamil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Jamil",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Jamil",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Bilal Zalmai",
+              "non_striker": "S Jamil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "SFS Cheema",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Jamil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "SFS Cheema",
+              "non_striker": "S Jamil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jamil",
+              "bowler": "SFS Cheema",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Jamil",
+                  "fielders": [
+                    {
+                      "name": "Ziaurahman Shinwari"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OJ Herrington",
+              "bowler": "SFS Cheema",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OJ Herrington",
+              "bowler": "SFS Cheema",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OJ Herrington",
+              "bowler": "SFS Cheema",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OJ Herrington",
+              "bowler": "SFS Cheema",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "OJ Herrington",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OJ Herrington",
+                  "fielders": [
+                    {
+                      "name": "Baseer Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Rafiulah Alokozai",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rafiulah Alokozai",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rafiulah Alokozai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rafiulah Alokozai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Rafiulah Alokozai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Rafiulah Alokozai",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rafiulah Alokozai",
+              "bowler": "Ziaurahman Shinwari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rafiulah Alokozai",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rafiulah Alokozai",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rafiulah Alokozai",
+                  "fielders": [
+                    {
+                      "name": "SFS Cheema"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sajid Safi",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sajid Safi",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Sajid Safi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sajid Safi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Sajid Safi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Sajid Safi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Sajid Safi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sajid Safi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sajid Safi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sajid Safi",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sajid Safi",
+              "bowler": "Waqar Zalmai",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Sajid Safi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sajid Safi",
+                  "fielders": [
+                    {
+                      "name": "MPS Cheema"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Iftikhar Kankhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iftikhar Kankhel",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Iftikhar Kankhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saber Zakhil",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Shafiullah Zakhel",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Iftikhar Kankhel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafiullah Zakhel",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Iftikhar Kankhel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafiullah Zakhel",
+              "bowler": "Ziaurahman Shinwari",
+              "non_striker": "Iftikhar Kankhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Iftikhar Kankhel",
+              "bowler": "Waqar Zalmai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shafiullah Zakhel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iftikhar Kankhel",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Shafiullah Zakhel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Iftikhar Kankhel",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Shafiullah Zakhel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iftikhar Kankhel",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Shafiullah Zakhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iftikhar Kankhel",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Shafiullah Zakhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafiullah Zakhel",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Iftikhar Kankhel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafiullah Zakhel",
+              "bowler": "Waqar Zalmai",
+              "non_striker": "Iftikhar Kankhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Iftikhar Kankhel",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Iftikhar Kankhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Karanbir Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karanbir Singh",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karanbir Singh",
+                  "fielders": [
+                    {
+                      "name": "Sajid Safi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ranjit Singh",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Bilal Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ranjit Singh",
+                  "fielders": [
+                    {
+                      "name": "Shafiullah Zakhel"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Bilal Zalmai",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bilal Zalmai",
+                  "fielders": [
+                    {
+                      "name": "Saber Zakhil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Baseer Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Baseer Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Baseer Khan",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Baseer Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Baseer Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Shafiullah Zakhel",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Baseer Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "Shafiullah Zakhel",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Baseer Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Baseer Khan",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Baseer Khan",
+                  "fielders": [
+                    {
+                      "name": "Shaheryar Butt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Zeshan Arif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Zeshan Arif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Zeshan Arif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeshan Arif",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeshan Arif",
+                  "fielders": [
+                    {
+                      "name": "Walid Sahibzada"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Saber Zakhil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "B Niaz",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "B Niaz",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Shafiullah Zakhel",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Saber Zakhil",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Waqar Zalmai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Waqar Zalmai",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waqar Zalmai",
+                  "fielders": [
+                    {
+                      "name": "Shaheryar Butt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sahel Zadran",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Rafiulah Alokozai",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Sahel Zadran",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sahel Zadran",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sahel Zadran",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sahel Zadran",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahel Zadran",
+              "bowler": "Saber Zakhil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahel Zadran",
+              "bowler": "Saber Zakhil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Aqib Iqbal",
+              "bowler": "S Jamil",
+              "non_striker": "Sahel Zadran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahel Zadran",
+              "bowler": "S Jamil",
+              "non_striker": "Aqib Iqbal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 145
+      }
+    }
+  ]
+}

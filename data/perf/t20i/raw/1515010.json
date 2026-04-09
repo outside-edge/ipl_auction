@@ -1,0 +1,1980 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-12-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gelephu",
+    "dates": [
+      "2025-12-23"
+    ],
+    "event": {
+      "name": "Myanmar tour of Bhutan",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3647,
+    "officials": {
+      "reserve_umpires": [
+        "Subas Lama"
+      ],
+      "tv_umpires": [
+        "ON Pradhan"
+      ],
+      "umpires": [
+        "AK Rai",
+        "U Dorji"
+      ]
+    },
+    "outcome": {
+      "winner": "Bhutan",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "S Yeshi"
+    ],
+    "players": {
+      "Myanmar": [
+        "Pyae Phyo Wai",
+        "H Lin Oo",
+        "Nay Lin Htun",
+        "KK Lin Thu",
+        "Khin Aye",
+        "Thuya Aung",
+        "H Lin Aung",
+        "Nyeing Cham Soe",
+        "Swann Htet Ko Ko",
+        "Myat Thu Aung",
+        "Kaung Htet Kyaw"
+      ],
+      "Bhutan": [
+        "Namgay Thinley",
+        "Tenjin Rabgey",
+        "RM Dorji",
+        "T Jamtsho",
+        "Karma Dorji",
+        "GK Ghalley",
+        "T Wangchuk",
+        "Tashi Phuntsho",
+        "S Yeshi",
+        "Tashi Dorji",
+        "Ugyen Dorji"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AK Rai": "1d70834a",
+        "GK Ghalley": "2d1b6dee",
+        "H Lin Aung": "c343a8c6",
+        "H Lin Oo": "2e005bfd",
+        "KK Lin Thu": "6cf75582",
+        "Karma Dorji": "80058153",
+        "Kaung Htet Kyaw": "e1bd3e2e",
+        "Khin Aye": "ad2efd29",
+        "Myat Thu Aung": "cebbf3c9",
+        "Namgay Thinley": "9c333e40",
+        "Nay Lin Htun": "5319f95b",
+        "Nyeing Cham Soe": "45b5ce8d",
+        "ON Pradhan": "d41a08d6",
+        "Pyae Phyo Wai": "09e86895",
+        "RM Dorji": "3d7f02d4",
+        "S Yeshi": "0c24fb7b",
+        "Subas Lama": "0a0c48dc",
+        "Swann Htet Ko Ko": "9ee21ee4",
+        "T Jamtsho": "c01d1c0a",
+        "T Wangchuk": "39799e49",
+        "Tashi Dorji": "0f05655d",
+        "Tashi Phuntsho": "43d365ca",
+        "Tenjin Rabgey": "1fed517a",
+        "Thuya Aung": "2e092d2c",
+        "U Dorji": "12bba2d4",
+        "Ugyen Dorji": "ffb65f46"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Myanmar",
+      "Bhutan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bhutan"
+    },
+    "venue": "Gelephu International Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Myanmar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "T Wangchuk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "T Wangchuk",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "T Wangchuk",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Lin Oo",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Nay Lin Htun",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nay Lin Htun",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nay Lin Htun",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Nay Lin Htun",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Nay Lin Htun",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Nay Lin Htun",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nay Lin Htun",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nay Lin Htun",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nay Lin Htun",
+                  "fielders": [
+                    {
+                      "name": "Tashi Phuntsho"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Lin Thu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Tashi Phuntsho",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "T Wangchuk",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "T Wangchuk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "T Wangchuk",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khin Aye",
+                  "fielders": [
+                    {
+                      "name": "T Wangchuk"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Karma Dorji",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Karma Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Karma Dorji",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Karma Dorji",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Karma Dorji",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Karma Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Ugyen Dorji",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Ugyen Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Karma Dorji",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Karma Dorji",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Karma Dorji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Karma Dorji",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Karma Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Karma Dorji",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Karma Dorji",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "S Yeshi",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Thuya Aung",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "Tashi Dorji",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pyae Phyo Wai",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Nyeing Cham Soe",
+              "bowler": "Tashi Dorji",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nyeing Cham Soe",
+              "bowler": "Tashi Dorji",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Nyeing Cham Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Nyeing Cham Soe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Nyeing Cham Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Nyeing Cham Soe",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nyeing Cham Soe",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nyeing Cham Soe",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nyeing Cham Soe",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nyeing Cham Soe",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nyeing Cham Soe",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nyeing Cham Soe",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Swann Htet Ko Ko",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "Myat Thu Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "S Yeshi",
+              "non_striker": "Myat Thu Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Myat Thu Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Myat Thu Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "Namgay Thinley",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "Namgay Thinley",
+              "non_striker": "Myat Thu Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Lin Aung",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Kaung Htet Kyaw",
+              "bowler": "Namgay Thinley",
+              "non_striker": "Myat Thu Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kaung Htet Kyaw",
+              "bowler": "Namgay Thinley",
+              "non_striker": "Myat Thu Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "Namgay Thinley",
+              "non_striker": "Kaung Htet Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "Namgay Thinley",
+              "non_striker": "Kaung Htet Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Kaung Htet Kyaw",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Myat Thu Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Myat Thu Aung",
+              "bowler": "Tashi Dorji",
+              "non_striker": "Kaung Htet Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kaung Htet Kyaw",
+                  "fielders": [
+                    {
+                      "name": "Tenjin Rabgey"
+                    },
+                    {
+                      "name": "S Yeshi"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bhutan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Khin Aye",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Khin Aye",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Khin Aye",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Khin Aye",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Khin Aye",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Khin Aye",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Thuya Aung",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Thuya Aung",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Thuya Aung",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Thuya Aung",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Thuya Aung",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Thuya Aung",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Kaung Htet Kyaw",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Kaung Htet Kyaw",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Tenjin Rabgey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Tenjin Rabgey",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tenjin Rabgey",
+                  "fielders": [
+                    {
+                      "name": "Thuya Aung"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "RM Dorji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Dorji",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RM Dorji",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "H Lin Aung",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "H Lin Aung",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "H Lin Aung",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "H Lin Aung",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "H Lin Aung",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "H Lin Aung",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Jamtsho",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Namgay Thinley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Namgay Thinley",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "T Jamtsho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 70
+      }
+    }
+  ]
+}

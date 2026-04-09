@@ -1,0 +1,2059 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "King City",
+    "dates": [
+      "2025-06-21"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Americas Region Final",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3258,
+    "officials": {
+      "match_referees": [
+        "Dave Gilbert"
+      ],
+      "reserve_umpires": [
+        "Zahid Bassarath"
+      ],
+      "tv_umpires": [
+        "AR Maddela"
+      ],
+      "umpires": [
+        "DK Butler",
+        "GO Brathwaite"
+      ]
+    },
+    "outcome": {
+      "winner": "Canada",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Kaleem Sana"
+    ],
+    "players": {
+      "Bahamas": [
+        "M Taylor",
+        "GT Taylor",
+        "Sandeep Goud",
+        "E Duff",
+        "K Hinds",
+        "Festus Benn",
+        "J Jemison",
+        "JR Barry",
+        "J Gallimore",
+        "A Gulati",
+        "E Haven"
+      ],
+      "Canada": [
+        "YS Samra",
+        "DS Bajwa",
+        "NR Kirton",
+        "H Thaker",
+        "Ravinderpal Singh",
+        "K Tathgur",
+        "Saad Bin Zafar",
+        "D Heyliger",
+        "Shivam Sharma",
+        "Kaleem Sana",
+        "Ansh Patel"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gulati": "82903f3a",
+        "AR Maddela": "5c861579",
+        "Ansh Patel": "9e76cdb3",
+        "D Heyliger": "f8c72766",
+        "DK Butler": "671398e3",
+        "DS Bajwa": "e3540b8c",
+        "Dave Gilbert": "aa782370",
+        "E Duff": "b7873c81",
+        "E Haven": "5190900f",
+        "Festus Benn": "de6b3760",
+        "GO Brathwaite": "1ace56d4",
+        "GT Taylor": "c674f722",
+        "H Thaker": "c01d7726",
+        "J Gallimore": "5bebe726",
+        "J Jemison": "ce1abd25",
+        "JR Barry": "9bc324b5",
+        "K Hinds": "a268c07b",
+        "K Tathgur": "f190c775",
+        "Kaleem Sana": "14810ee7",
+        "M Taylor": "92075cdc",
+        "NR Kirton": "6b75c2b1",
+        "Ravinderpal Singh": "f80682f8",
+        "Saad Bin Zafar": "f28a60e0",
+        "Sandeep Goud": "c83ef4d6",
+        "Shivam Sharma": "5bdeeed4",
+        "YS Samra": "d02c40ab",
+        "Zahid Bassarath": "ca6bf044"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Bahamas",
+      "Canada"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Canada"
+    },
+    "venue": "Maple Leaf North-West Ground, King City"
+  },
+  "innings": [
+    {
+      "team": "Bahamas",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Taylor",
+              "bowler": "D Heyliger",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Heyliger",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Heyliger",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Heyliger",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "D Heyliger",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "D Heyliger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "D Heyliger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "D Heyliger",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "GT Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GT Taylor",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Kaleem Sana",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "M Taylor",
+              "bowler": "D Heyliger",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "Kaleem Sana",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Taylor",
+                  "fielders": [
+                    {
+                      "name": "K Tathgur"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Duff",
+              "bowler": "Kaleem Sana",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Duff",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Kaleem Sana",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Kaleem Sana",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "K Hinds",
+              "bowler": "D Heyliger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "D Heyliger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "D Heyliger",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "D Heyliger",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "K Hinds",
+              "bowler": "Ansh Patel",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Ansh Patel",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Ansh Patel",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Ansh Patel",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Ansh Patel",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Ansh Patel",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Saad Bin Zafar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Sandeep Goud",
+              "bowler": "Ansh Patel",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sandeep Goud",
+                  "fielders": [
+                    {
+                      "name": "DS Bajwa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Festus Benn",
+              "bowler": "Ansh Patel",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Festus Benn",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "K Hinds",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Hinds",
+                  "fielders": [
+                    {
+                      "name": "K Tathgur"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Ansh Patel",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Ansh Patel",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Jemison",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Saad Bin Zafar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jemison",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "J Jemison",
+                  "fielders": [
+                    {
+                      "name": "K Tathgur"
+                    },
+                    {
+                      "name": "Kaleem Sana"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JR Barry",
+              "bowler": "Kaleem Sana",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Kaleem Sana",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Kaleem Sana",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Kaleem Sana",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Kaleem Sana",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Kaleem Sana",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Gallimore",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JR Barry",
+              "bowler": "Ansh Patel",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "Ansh Patel",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Ansh Patel",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Ansh Patel",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Ansh Patel",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "Ansh Patel",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JR Barry",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "Shivam Sharma",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "Shivam Sharma",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "Shivam Sharma",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "J Gallimore",
+              "bowler": "D Heyliger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "D Heyliger",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "D Heyliger",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "D Heyliger",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "D Heyliger",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "D Heyliger",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "D Heyliger",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "J Gallimore",
+              "bowler": "Shivam Sharma",
+              "non_striker": "JR Barry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Barry",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JR Barry",
+                  "fielders": [
+                    {
+                      "name": "Saad Bin Zafar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Gulati",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Gulati",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gulati",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Gulati",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Gallimore",
+              "bowler": "DS Bajwa",
+              "non_striker": "E Haven",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Haven",
+              "bowler": "DS Bajwa",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Haven",
+              "bowler": "DS Bajwa",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Haven",
+              "bowler": "DS Bajwa",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Haven",
+              "bowler": "DS Bajwa",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Haven",
+              "bowler": "DS Bajwa",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "DS Bajwa",
+              "non_striker": "E Haven",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "J Gallimore",
+              "bowler": "Shivam Sharma",
+              "non_striker": "E Haven",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Gallimore",
+              "bowler": "Shivam Sharma",
+              "non_striker": "E Haven",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Haven",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Haven",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Haven",
+              "bowler": "Shivam Sharma",
+              "non_striker": "J Gallimore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Haven",
+                  "fielders": [
+                    {
+                      "name": "NR Kirton"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Canada",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "YS Samra",
+              "bowler": "K Hinds",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "K Hinds",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "K Hinds",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DS Bajwa",
+              "bowler": "Festus Benn",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "Festus Benn",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "YS Samra",
+                  "fielders": [
+                    {
+                      "name": "J Gallimore"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "Festus Benn",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "Festus Benn",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "Festus Benn",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "Festus Benn",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "NR Kirton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kirton",
+              "bowler": "K Hinds",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NR Kirton",
+                  "fielders": [
+                    {
+                      "name": "E Duff"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "K Hinds",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "H Thaker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "H Thaker",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DS Bajwa",
+              "bowler": "A Gulati",
+              "non_striker": "H Thaker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "A Gulati",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "A Gulati",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "A Gulati",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "A Gulati",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "A Gulati",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "H Thaker",
+              "bowler": "K Hinds",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Thaker",
+              "bowler": "K Hinds",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Thaker",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ravinderpal Singh",
+              "bowler": "K Hinds",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "Ravinderpal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "Ravinderpal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "K Hinds",
+              "non_striker": "Ravinderpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DS Bajwa",
+              "bowler": "A Gulati",
+              "non_striker": "Ravinderpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ravinderpal Singh",
+              "bowler": "A Gulati",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "A Gulati",
+              "non_striker": "Ravinderpal Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 58
+      }
+    }
+  ]
+}

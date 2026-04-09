@@ -6,14 +6,14 @@ Which 2026 auction buys are most likely to disappoint? Based on the gap between 
 
 | Rank | Player | Team | Price (Cr) | Prior WAR | Predicted (Cr) | Premium % |
 |------|--------|------|------------|-----------|----------------|-----------|
-| 1 | Liam Livingstone | SRH | ₹13.00 | 2.23 | ₹2.21 | +488% |
-| 2 | Matheesha Pathirana | KKR | ₹18.00 | 7.42 | ₹3.40 | +429% |
-| 3 | Ravi Bishnoi | RR | ₹7.20 | 0.45 | ₹1.51 | +378% |
-| 4 | Venkatesh Iyer | RCB | ₹7.00 | 1.23 | ₹1.61 | +336% |
-| 5 | Cameron Green | KKR | ₹25.20 | 13.86 | ₹5.81 | +334% |
-| 6 | Mustafizur Rahman | KKR | ₹9.20 | 3.19 | ₹2.39 | +285% |
-| 7 | Rahul Chahar | CSK | ₹5.20 | 0.17 | ₹1.47 | +254% |
-| 8 | Josh Inglis | LSG | ₹8.60 | 7.42 | ₹3.40 | +153% |
+| 1 | Liam Livingstone | SRH | ₹13.00 | 2.23 | ₹2.41 | +439% |
+| 2 | Matheesha Pathirana | KKR | ₹18.00 | 7.42 | ₹3.38 | +433% |
+| 3 | Cameron Green | KKR | ₹25.20 | 13.86 | ₹5.13 | +391% |
+| 4 | Ravi Bishnoi | RR | ₹7.20 | 0.45 | ₹1.62 | +346% |
+| 5 | Venkatesh Iyer | RCB | ₹7.00 | 1.23 | ₹1.70 | +312% |
+| 6 | Mustafizur Rahman | KKR | ₹9.20 | 3.19 | ₹2.57 | +258% |
+| 7 | Rahul Chahar | CSK | ₹5.20 | 0.17 | ₹1.59 | +228% |
+| 8 | Josh Inglis | LSG | ₹8.60 | 7.42 | ₹3.38 | +155% |
 
 **Methodology:** Uses most recent available WAR as prior performance. Premium % = how much teams overpaid relative to what the regression model predicts. High premiums historically correlate with underperformance.
 
@@ -29,25 +29,25 @@ Which players cost teams the most while delivering the least? Here are the Top 1
 
 | Rank | Player | Year | Team | Price (Cr) | Overpaid (Cr) | Premium % | WAR Shortfall |
 |------|--------|------|------|------------|---------------|-----------|---------------|
-| 1 | Gautam Gambhir | 2011 | KKR | ₹30.57 | ₹26.12 | +587% | -9.9 |
-| 2 | Yuvraj Singh | 2015 | DC | ₹24.43 | ₹20.89 | +589% | +6.2 |
-| 3 | Mitchell Starc | 2024 | KKR | ₹24.75 | ₹19.52 | +373% | +11.3 |
-| 4 | Yuvraj Singh | 2014 | RCB | ₹22.46 | ₹17.52 | +355% | +8.3 |
-| 5 | Pat Cummins | 2024 | SRH | ₹20.50 | ₹17.44 | +570% | -11.4 |
-| 6 | Sam Curran | 2023 | PBKS | ₹19.33 | ₹16.72 | +642% | -2.6 |
-| 7 | Pat Cummins | 2020 | KKR | ₹19.18 | ₹14.90 | +348% | +3.8 |
-| 8 | Dinesh Karthik | 2014 | DC | ₹20.05 | ₹14.30 | +248% | +12.4 |
-| 9 | Ravindra Jadeja | 2012 | CSK | ₹18.32 | ₹14.00 | +325% | +2.6 |
-| 10 | Glenn Maxwell | 2021 | RCB | ₹16.45 | ₹13.43 | +445% | -20.3 |
+| 1 | Gautam Gambhir | 2011 | KKR | ₹30.57 | ₹25.32 | +482% | -9.9 |
+| 2 | Yuvraj Singh | 2015 | DC | ₹24.43 | ₹20.27 | +487% | +6.2 |
+| 3 | Mitchell Starc | 2024 | KKR | ₹24.75 | ₹18.83 | +318% | +11.3 |
+| 4 | Pat Cummins | 2024 | SRH | ₹20.50 | ₹16.78 | +451% | -11.4 |
+| 5 | Yuvraj Singh | 2014 | RCB | ₹22.46 | ₹16.71 | +290% | +8.3 |
+| 6 | Virat Kohli | 2018 | RCB | ₹23.09 | ₹16.60 | +256% | -7.0 |
+| 7 | Sam Curran | 2023 | PBKS | ₹19.33 | ₹16.09 | +497% | -2.6 |
+| 8 | MS Dhoni | 2018 | CSK | ₹20.37 | ₹14.67 | +257% | -5.8 |
+| 9 | Pat Cummins | 2020 | KKR | ₹19.18 | ₹14.20 | +285% | +3.8 |
+| 10 | Rohit Sharma | 2018 | MI | ₹20.37 | ₹13.76 | +208% | -1.0 |
 
 **What this means:**
 - **Overpaid (Cr)**: Absolute rupees wasted = Price Paid - Predicted Fair Price (in 2024 ₹)
 - **Premium %**: Percentage overpayment relative to predicted price
 - **WAR Shortfall**: Gap between prior-year WAR and next-season WAR (positive = underperformed expectations)
 
-Gautam Gambhir tops the list: KKR paid ₹30.57 Cr in 2011 (inflation-adjusted), overpaying by ₹26.12 Cr relative to what his prior performance justified. Note that some "overpaid" players actually exceeded expectations (negative shortfall) — ranking by absolute overpayment captures the biggest financial gambles, regardless of outcome.
+Gautam Gambhir tops the list: KKR paid ₹30.57 Cr in 2011 (inflation-adjusted), overpaying by ₹25.32 Cr relative to what his prior performance justified. Note that some "overpaid" players actually exceeded expectations (negative shortfall) — ranking by absolute overpayment captures the biggest financial gambles, regardless of outcome.
 
-See `data/analysis/worst_bets.csv` for the full ranking of 257 player-seasons.
+See `data/analysis/worst_bets.csv` for the full ranking of 323 player-seasons.
 
 ---
 
@@ -57,12 +57,13 @@ Are IPL players paid according to their performance? This project applies hedoni
 
 | Finding | Estimate |
 |---------|----------|
-| Performance explains price variation | ~39-42% (R-squared) |
-| 100 additional runs | ~45-60% price increase |
-| 10 additional wickets | ~80-170% price increase |
-| 1 WAR (Wins Above Replacement) | ~7% price increase |
-| Overseas player premium | ~50-80% over Indian players |
-| Prices predict future performance | Yes (p < 0.01) |
+| Performance explains price (lagged) | ~36% (R²) |
+| Performance explains price (same-season) | ~47% (R²) |
+| 100 additional runs (lagged) | ~55% price increase |
+| 10 additional wickets (lagged) | ~92% price increase |
+| 1 WAR (prior season) | ~8.6% price increase |
+| Overseas player premium | ~50% over Indian players |
+| Prices predict future performance | Yes (p < 0.001) |
 
 The overseas premium reflects scarcity value: each team is limited to 4 overseas players.
 
@@ -83,8 +84,8 @@ The overseas premium reflects scarcity value: each team is limited to 4 overseas
 ```
 ipl_auction/
 ├── data/
-│   ├── auction_all_years.csv          # Consolidated auction data (2,009 records)
-│   ├── player_registry.csv            # Canonical player IDs + aliases (984 players)
+│   ├── auction_all_years.csv          # Consolidated auction data (4,070 records)
+│   ├── player_registry.csv            # Canonical player IDs + aliases (1,200 players)
 │   ├── name_aliases.csv               # Manual name mappings for matching
 │   ├── player_season_stats.csv        # Season performance stats (3,181 records)
 │   ├── player_season_war.csv          # WAR (Wins Above Replacement) metrics
@@ -285,19 +286,20 @@ pip install pandas numpy matplotlib seaborn statsmodels linearmodels beautifulso
 
 ## Data Quality Notes
 
-- **2,009 auction records** across 2008-2026 (after deduplication)
-- **984 unique players** tracked via `player_id` across all years
+- **4,070 auction records** across 2008-2026 (includes 2,074 retention records)
+- **1,200 unique players** tracked via `player_id` across all years
 - **33 players** have multiple name aliases resolved (e.g., "Ben Stokes"/"Benjamin Stokes")
 - 3,181 player-season performance records
 - 3,137 player-season WAR records
-- Name matching rate: ~61% between auction and performance data
+- Name matching rate: **~81%** between auction and performance data
+- Additional 389 non-auction acquisitions tracked in `non_auction_acquisitions.csv`
 - Prices adjusted to 2024 INR using India CPI
 
 ## Limitations
 
 ### Selection Bias in Performance Matching
 
-~39% of auctioned players have no same-season performance data because:
+~19% of auctioned players have no same-season performance data because:
 - Never fielded that season (injury, dropped, bench role)
 - New to IPL (no prior performance)
 

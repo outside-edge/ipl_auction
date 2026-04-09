@@ -1,0 +1,2542 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-03-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Accra",
+    "dates": [
+      "2026-03-24"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier B",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3780,
+    "officials": {
+      "match_referees": [
+        "O Chirombe"
+      ],
+      "reserve_umpires": [
+        "A Kassam"
+      ],
+      "umpires": [
+        "D Odhiambo",
+        "Habib Enesi"
+      ]
+    },
+    "outcome": {
+      "winner": "Tanzania",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Arun Yadav"
+    ],
+    "players": {
+      "Malawi": [
+        "A Limdawala",
+        "G Kansonkho",
+        "Sami Sohail",
+        "D Kansonkho",
+        "M Choamba",
+        "Kazim Somani",
+        "SZ Vayani",
+        "D Jakiel",
+        "B Pondani",
+        "K Thuchila",
+        "C Chete"
+      ],
+      "Tanzania": [
+        "DA Mehta",
+        "II Selemani",
+        "A Augastin",
+        "Arun Yadav",
+        "AM Kimote",
+        "K Nassoro",
+        "K Juma",
+        "LS Barkania",
+        "MS Kibwana",
+        "MO Kitunda",
+        "YM Nkanya"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Augastin": "056e3558",
+        "A Kassam": "7d13b388",
+        "A Limdawala": "2bcbcac3",
+        "AM Kimote": "34e36b65",
+        "Arun Yadav": "53ace082",
+        "B Pondani": "e5117568",
+        "C Chete": "ef4f539a",
+        "D Jakiel": "8b7ce771",
+        "D Kansonkho": "45ca12a7",
+        "D Odhiambo": "45994517",
+        "DA Mehta": "61a7d6e9",
+        "G Kansonkho": "f3ca5af8",
+        "Habib Enesi": "fb35ab1f",
+        "II Selemani": "b2dadc51",
+        "K Juma": "089ebf89",
+        "K Nassoro": "29ee9bf9",
+        "K Thuchila": "af42d9f2",
+        "Kazim Somani": "d2ebebbe",
+        "LS Barkania": "073126d6",
+        "M Choamba": "5570c4c1",
+        "MO Kitunda": "badef0dc",
+        "MS Kibwana": "1eae8683",
+        "O Chirombe": "6345307f",
+        "SZ Vayani": "a4afc486",
+        "Sami Sohail": "602ebd4c",
+        "YM Nkanya": "9238dd92"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Malawi",
+      "Tanzania"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Tanzania"
+    },
+    "venue": "Achimota Senior Secondary School A Field, Accra"
+  },
+  "innings": [
+    {
+      "team": "Malawi",
+      "absent_hurt": [
+        "C Chete"
+      ],
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "K Juma",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Limdawala",
+              "bowler": "AM Kimote",
+              "non_striker": "G Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kansonkho",
+              "bowler": "AM Kimote",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Kansonkho",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "AM Kimote",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "AM Kimote",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "AM Kimote",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "AM Kimote",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "K Juma",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "AM Kimote",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "AM Kimote",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "AM Kimote",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "AM Kimote",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "AM Kimote",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "AM Kimote",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Arun Yadav",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Arun Yadav",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Arun Yadav",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Arun Yadav",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Arun Yadav",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Arun Yadav",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Limdawala",
+              "bowler": "A Augastin",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "A Augastin",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "A Augastin",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "A Augastin",
+              "non_striker": "Sami Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "A Augastin",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sami Sohail",
+              "bowler": "A Augastin",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sami Sohail",
+              "bowler": "Arun Yadav",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sami Sohail",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Arun Yadav",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Arun Yadav",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Arun Yadav",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Arun Yadav",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "Arun Yadav",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Limdawala",
+              "bowler": "A Augastin",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "A Augastin",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "A Augastin",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "A Augastin",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "A Augastin",
+              "non_striker": "A Limdawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Limdawala",
+              "bowler": "A Augastin",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Limdawala",
+                  "fielders": [
+                    {
+                      "name": "MS Kibwana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "A Augastin",
+              "non_striker": "D Kansonkho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Arun Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Kansonkho",
+              "bowler": "Arun Yadav",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Kansonkho",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Arun Yadav",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Arun Yadav",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Arun Yadav",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "Arun Yadav",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "Arun Yadav",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "A Augastin",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "A Augastin",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "A Augastin",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "A Augastin",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "A Augastin",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "A Augastin",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "LS Barkania",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "LS Barkania",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "LS Barkania",
+              "non_striker": "M Choamba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Choamba",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Choamba",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Choamba",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "LS Barkania",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "LS Barkania",
+              "non_striker": "SZ Vayani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SZ Vayani",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SZ Vayani",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "YM Nkanya",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "YM Nkanya",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "YM Nkanya",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "YM Nkanya",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "LS Barkania",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "LS Barkania",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Kazim Somani",
+              "bowler": "YM Nkanya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "YM Nkanya",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "YM Nkanya",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "YM Nkanya",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "YM Nkanya",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "D Jakiel",
+              "bowler": "K Juma",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "K Juma",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "K Juma",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "K Juma",
+              "non_striker": "Kazim Somani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "K Juma",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kazim Somani",
+              "bowler": "K Juma",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kazim Somani",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "D Jakiel",
+              "bowler": "AM Kimote",
+              "non_striker": "B Pondani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "AM Kimote",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Pondani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Pondani",
+              "bowler": "AM Kimote",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "B Pondani",
+              "bowler": "AM Kimote",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Pondani",
+              "bowler": "AM Kimote",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "AM Kimote",
+              "non_striker": "B Pondani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "AM Kimote",
+              "non_striker": "B Pondani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "B Pondani",
+              "bowler": "K Juma",
+              "non_striker": "D Jakiel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Jakiel",
+              "bowler": "K Juma",
+              "non_striker": "B Pondani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Jakiel",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "K Thuchila",
+              "bowler": "K Juma",
+              "non_striker": "B Pondani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Pondani",
+              "bowler": "K Juma",
+              "non_striker": "K Thuchila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Thuchila",
+              "bowler": "K Juma",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "B Pondani",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Pondani",
+              "bowler": "K Juma",
+              "non_striker": "K Thuchila",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Pondani",
+              "bowler": "K Juma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Thuchila",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Pondani",
+              "bowler": "K Juma",
+              "non_striker": "K Thuchila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "B Pondani",
+              "bowler": "AM Kimote",
+              "non_striker": "K Thuchila",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Pondani",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "B Pondani",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "II Selemani",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "D Jakiel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "II Selemani",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "B Pondani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "B Pondani",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "D Jakiel",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DA Mehta",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "K Thuchila",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Augastin",
+              "bowler": "M Choamba",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "M Choamba",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "M Choamba",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "M Choamba",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "M Choamba",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "M Choamba",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Augastin",
+              "bowler": "Sami Sohail",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Mehta",
+                  "fielders": [
+                    {
+                      "name": "G Kansonkho"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "D Jakiel",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "D Jakiel",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "D Jakiel",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "D Jakiel",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "Sami Sohail",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "Sami Sohail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "Sami Sohail",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "SZ Vayani",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "SZ Vayani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "SZ Vayani",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "SZ Vayani",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "SZ Vayani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "SZ Vayani",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "SZ Vayani",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "K Thuchila",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "K Thuchila",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "K Thuchila",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Augastin",
+              "bowler": "Sami Sohail",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "Sami Sohail",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "Sami Sohail",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "Sami Sohail",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "K Thuchila",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "K Thuchila",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 78
+      }
+    }
+  ]
+}

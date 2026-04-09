@@ -1,0 +1,2776 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-12-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Abuja",
+    "dates": [
+      "2025-12-08"
+    ],
+    "event": {
+      "name": "West Africa Trophy",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3616,
+    "officials": {
+      "match_referees": [
+        "Tonye Timinadi"
+      ],
+      "reserve_umpires": [
+        "AA Adeoye"
+      ],
+      "umpires": [
+        "A Modupe",
+        "Habib Enesi"
+      ]
+    },
+    "outcome": {
+      "winner": "Rwanda",
+      "by": {
+        "runs": 58
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "E Rukiriza"
+    ],
+    "players": {
+      "Rwanda": [
+        "Hamza Khan",
+        "D Ndikubwimana",
+        "I Niyomugabo",
+        "D Gumyusenge",
+        "O Tuyisenge",
+        "C Rububagumya",
+        "E Rukiriza",
+        "JM Iradukunda",
+        "Muhammad Nadir",
+        "Z Bimenyimana",
+        "I Ntirenganya"
+      ],
+      "Sierra Leone": [
+        "Y Jalloh",
+        "J Bangura",
+        "Ibrahim Kpaka",
+        "R Coker",
+        "AB Kamara",
+        "A Gbla",
+        "C Bah",
+        "L Lamin",
+        "J Lassayo",
+        "S Williams",
+        "Mohamed Turay"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gbla": "34ab1e6e",
+        "A Modupe": "c2e27b71",
+        "AA Adeoye": "482762af",
+        "AB Kamara": "3951be49",
+        "C Bah": "7213d757",
+        "C Rububagumya": "8088632c",
+        "D Gumyusenge": "eeb78e0a",
+        "D Ndikubwimana": "3cbedf51",
+        "E Rukiriza": "3ac13a94",
+        "Habib Enesi": "fb35ab1f",
+        "Hamza Khan": "44a5f2b2",
+        "I Niyomugabo": "72bf5103",
+        "I Ntirenganya": "e73f6c4b",
+        "Ibrahim Kpaka": "41d333e3",
+        "J Bangura": "d7acab5d",
+        "J Lassayo": "dee70255",
+        "JM Iradukunda": "f58295c2",
+        "L Lamin": "5a970aab",
+        "Mohamed Turay": "019d7ef5",
+        "Muhammad Nadir": "090f96e4",
+        "O Tuyisenge": "e6a6888f",
+        "R Coker": "3239c8a9",
+        "S Williams": "7ae1aad9",
+        "Tonye Timinadi": "5cc0fccb",
+        "Y Jalloh": "7fe9a7e6",
+        "Z Bimenyimana": "ba57fb08"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Rwanda",
+      "Sierra Leone"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sierra Leone"
+    },
+    "venue": "Nigeria Cricket Federation Oval 1, Abuja"
+  },
+  "innings": [
+    {
+      "team": "Rwanda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "C Bah",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "C Bah",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "C Bah",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "C Bah",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "C Bah",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "C Bah",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "L Lamin",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "L Lamin",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "L Lamin",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "L Lamin",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "L Lamin",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "L Lamin",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "C Bah",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "C Bah",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "C Bah",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "C Bah",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "C Bah",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "C Bah",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "L Lamin",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "L Lamin",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "L Lamin",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "L Lamin",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "L Lamin",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "L Lamin",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "A Gbla",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "A Gbla",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "A Gbla",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "A Gbla",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "A Gbla",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "A Gbla",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "AB Kamara",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hamza Khan",
+                  "fielders": [
+                    {
+                      "name": "A Gbla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "AB Kamara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "AB Kamara",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "AB Kamara",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "AB Kamara",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "AB Kamara",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "AB Kamara",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "A Gbla",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "A Gbla",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "A Gbla",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "A Gbla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "A Gbla",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "A Gbla",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ndikubwimana",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "A Gbla",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "S Williams",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "A Gbla",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "A Gbla",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "A Gbla",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "A Gbla",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "A Gbla",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "A Gbla",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "S Williams",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Gumyusenge",
+                  "fielders": [
+                    {
+                      "name": "Mohamed Turay"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "S Williams",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "S Williams",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "Mohamed Turay",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Mohamed Turay",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "Mohamed Turay",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Mohamed Turay",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Mohamed Turay",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Mohamed Turay",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Mohamed Turay",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "R Coker",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "R Coker",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "R Coker",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "R Coker",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "R Coker",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "R Coker",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Mohamed Turay",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Mohamed Turay",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "Mohamed Turay",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Tuyisenge",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "Mohamed Turay",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "Mohamed Turay",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "R Coker",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "R Coker",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "R Coker",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "R Coker",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "R Coker",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Niyomugabo",
+                  "fielders": [
+                    {
+                      "name": "J Bangura"
+                    },
+                    {
+                      "name": "Mohamed Turay"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "R Coker",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "E Rukiriza",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "C Rububagumya",
+              "bowler": "R Coker",
+              "non_striker": "E Rukiriza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "R Coker",
+              "non_striker": "E Rukiriza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "R Coker",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "R Coker",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "R Coker",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "R Coker",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "C Rububagumya",
+              "bowler": "Mohamed Turay",
+              "non_striker": "E Rukiriza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Rukiriza",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Rukiriza",
+                  "fielders": [
+                    {
+                      "name": "Ibrahim Kpaka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JM Iradukunda",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JM Iradukunda",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Iradukunda",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Iradukunda",
+              "bowler": "Mohamed Turay",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "C Rububagumya",
+              "bowler": "C Bah",
+              "non_striker": "JM Iradukunda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "C Bah",
+              "non_striker": "JM Iradukunda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "C Bah",
+              "non_striker": "JM Iradukunda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "C Bah",
+              "non_striker": "JM Iradukunda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "C Bah",
+              "non_striker": "JM Iradukunda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Iradukunda",
+              "bowler": "C Bah",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "C Rububagumya",
+              "bowler": "A Gbla",
+              "non_striker": "JM Iradukunda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Iradukunda",
+              "bowler": "A Gbla",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "A Gbla",
+              "non_striker": "JM Iradukunda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Iradukunda",
+              "bowler": "A Gbla",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Iradukunda",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Nadir",
+              "bowler": "A Gbla",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Nadir",
+              "bowler": "A Gbla",
+              "non_striker": "C Rububagumya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "C Rububagumya",
+              "bowler": "L Lamin",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Rububagumya",
+              "bowler": "L Lamin",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Rububagumya",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Z Bimenyimana",
+              "bowler": "L Lamin",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Z Bimenyimana",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "I Ntirenganya",
+              "bowler": "L Lamin",
+              "non_striker": "Muhammad Nadir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Ntirenganya",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sierra Leone",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Y Jalloh",
+              "bowler": "Z Bimenyimana",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Y Jalloh",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "I Ntirenganya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Y Jalloh",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Y Jalloh",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Jalloh",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Y Jalloh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "I Ntirenganya",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "J Bangura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bangura",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Bangura",
+                  "fielders": [
+                    {
+                      "name": "C Rububagumya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "R Coker",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "JM Iradukunda",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "JM Iradukunda",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "E Rukiriza",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "JM Iradukunda",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Ibrahim Kpaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "JM Iradukunda",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ibrahim Kpaka",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrahim Kpaka",
+                  "fielders": [
+                    {
+                      "name": "I Niyomugabo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AB Kamara",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AB Kamara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Coker",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "A Gbla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Gbla",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Gbla",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Gbla",
+                  "fielders": [
+                    {
+                      "name": "D Gumyusenge"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "E Rukiriza",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "C Bah",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "R Coker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "R Coker",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Coker",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "R Coker",
+                  "fielders": [
+                    {
+                      "name": "D Ndikubwimana"
+                    },
+                    {
+                      "name": "Muhammad Nadir"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "L Lamin",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Lamin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Lassayo",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Lassayo",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Nadir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Williams",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Williams",
+              "bowler": "E Rukiriza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Williams",
+              "bowler": "E Rukiriza",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Williams",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Williams",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Williams",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Williams",
+              "bowler": "JM Iradukunda",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Williams",
+              "bowler": "JM Iradukunda",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "JM Iradukunda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "JM Iradukunda",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Williams",
+              "bowler": "JM Iradukunda",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "JM Iradukunda",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Williams",
+              "bowler": "JM Iradukunda",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Williams",
+                  "fielders": [
+                    {
+                      "name": "Hamza Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "C Bah",
+              "bowler": "I Ntirenganya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Mohamed Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Mohamed Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "I Ntirenganya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohamed Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bah",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Mohamed Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohamed Turay",
+              "bowler": "I Ntirenganya",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Turay",
+              "bowler": "I Ntirenganya",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohamed Turay",
+              "bowler": "I Ntirenganya",
+              "non_striker": "C Bah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "C Bah",
+              "bowler": "JM Iradukunda",
+              "non_striker": "Mohamed Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bah",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 127
+      }
+    }
+  ]
+}

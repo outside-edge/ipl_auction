@@ -1,0 +1,3117 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Albergaria",
+    "dates": [
+      "2026-04-08"
+    ],
+    "event": {
+      "name": "Portugal T20 Tri-Series",
+      "match_number": 7
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3807,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "France",
+      "by": {
+        "wickets": 2
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Mohammad Khan Rafah"
+    ],
+    "players": {
+      "Portugal": [
+        "D Norotam",
+        "C De Freitas",
+        "J Martins",
+        "Natim Hassam",
+        "Edward Fleming",
+        "C Potgieter",
+        "C Nunes",
+        "R Hashu",
+        "H Khuttan",
+        "U Shantu",
+        "S Vaz"
+      ],
+      "France": [
+        "Mukhtar Ghulami",
+        "L Canessane",
+        "Virk Ali",
+        "C Roberts",
+        "G Mckeon",
+        "Zada Sher",
+        "Mohammad Khan Rafah",
+        "Noman Amjad",
+        "Usman Khan",
+        "Zaheer Zahiri",
+        "Dawood Ahmadzai"
+      ]
+    },
+    "registry": {
+      "people": {
+        "C De Freitas": "22072cab",
+        "C Nunes": "37ee5d23",
+        "C Potgieter": "d3bdc89c",
+        "C Roberts": "07ac9c54",
+        "D Norotam": "90b73986",
+        "Dawood Ahmadzai": "951686f5",
+        "Edward Fleming": "2b43be58",
+        "G Mckeon": "31366b7e",
+        "H Khuttan": "9c48bdee",
+        "J Martins": "9c96b71f",
+        "L Canessane": "72a4c3b2",
+        "Mohammad Khan Rafah": "bb5f73de",
+        "Mukhtar Ghulami": "d3b1d991",
+        "Natim Hassam": "c802af1c",
+        "Noman Amjad": "c079c66a",
+        "R Hashu": "a53029a1",
+        "S Vaz": "ad67ab56",
+        "U Shantu": "0e80e47d",
+        "Usman Khan": "e8a552ef",
+        "Virk Ali": "f7f7bee0",
+        "Zada Sher": "5cf163a5",
+        "Zaheer Zahiri": "62f6d8ce"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Portugal",
+      "France"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Portugal"
+    },
+    "venue": "Santarem Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Portugal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Norotam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Norotam",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Norotam",
+                  "fielders": [
+                    {
+                      "name": "Virk Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Noman Amjad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Noman Amjad",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Noman Amjad",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Martins",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C De Freitas",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C De Freitas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Natim Hassam",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Natim Hassam",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Natim Hassam",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Martins",
+              "bowler": "Zada Sher",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Zada Sher",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Zada Sher",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Zada Sher",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Zada Sher",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Zada Sher",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Martins",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Martins",
+              "bowler": "Zada Sher",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Zada Sher",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Zada Sher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Zada Sher",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Zada Sher",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Zada Sher",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Zada Sher",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Mohammad Khan Rafah",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "J Martins",
+              "bowler": "Usman Khan",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Usman Khan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Usman Khan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Usman Khan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Usman Khan",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Martins",
+              "bowler": "Usman Khan",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Martins",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "C Potgieter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "C Potgieter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Potgieter",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Potgieter",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Potgieter",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Nunes",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "C Nunes",
+              "bowler": "Usman Khan",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Nunes",
+              "bowler": "Usman Khan",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Usman Khan",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Usman Khan",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Edward Fleming",
+              "bowler": "Usman Khan",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Nunes",
+              "bowler": "Usman Khan",
+              "non_striker": "Edward Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Edward Fleming",
+                  "fielders": [
+                    {
+                      "name": "Mukhtar Ghulami"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Hashu",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "C Nunes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Nunes",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Nunes",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Nunes",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "H Khuttan",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Khuttan",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Hashu",
+              "bowler": "Mohammad Khan Rafah",
+              "non_striker": "H Khuttan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "H Khuttan",
+              "bowler": "Usman Khan",
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Khuttan",
+              "bowler": "Usman Khan",
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Khuttan",
+              "bowler": "Usman Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Hashu",
+              "bowler": "Usman Khan",
+              "non_striker": "H Khuttan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Hashu",
+              "bowler": "Usman Khan",
+              "non_striker": "H Khuttan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Khuttan",
+              "bowler": "Usman Khan",
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Khuttan",
+                  "fielders": [
+                    {
+                      "name": "Virk Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "R Hashu",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "U Shantu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Hashu",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "U Shantu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Hashu",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "U Shantu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Hashu",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "U Shantu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Hashu",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "U Shantu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Shantu",
+              "bowler": "Dawood Ahmadzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Shantu",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "R Hashu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "U Shantu",
+                  "fielders": [
+                    {
+                      "name": "Noman Amjad"
+                    },
+                    {
+                      "name": "Dawood Ahmadzai"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "France",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "U Shantu",
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Canessane",
+              "bowler": "Natim Hassam",
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "Natim Hassam",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "Natim Hassam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Natim Hassam",
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Natim Hassam",
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "Natim Hassam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "Natim Hassam",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Canessane",
+              "bowler": "U Shantu",
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "U Shantu",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "U Shantu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "U Shantu",
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "Natim Hassam",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "Natim Hassam",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Natim Hassam",
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Natim Hassam",
+              "non_striker": "Mukhtar Ghulami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mukhtar Ghulami",
+              "bowler": "Natim Hassam",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mukhtar Ghulami",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "Natim Hassam",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Virk Ali",
+              "bowler": "H Khuttan",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "H Khuttan",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "H Khuttan",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "H Khuttan",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "H Khuttan",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "H Khuttan",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Canessane",
+              "bowler": "S Vaz",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "S Vaz",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "S Vaz",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "S Vaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "S Vaz",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "S Vaz",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "S Vaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "S Vaz",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Virk Ali",
+              "bowler": "H Khuttan",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "H Khuttan",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "H Khuttan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "H Khuttan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "H Khuttan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "H Khuttan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "H Khuttan",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "L Canessane",
+                  "fielders": [
+                    {
+                      "name": "C Nunes"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "C Roberts",
+              "bowler": "S Vaz",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "S Vaz",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "S Vaz",
+              "non_striker": "Virk Ali",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Virk Ali",
+              "bowler": "S Vaz",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Virk Ali",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "S Vaz",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "S Vaz",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "C Roberts",
+              "bowler": "Edward Fleming",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Edward Fleming",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Edward Fleming",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Mckeon",
+                  "fielders": [
+                    {
+                      "name": "Natim Hassam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Zada Sher",
+              "bowler": "R Hashu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "R Hashu",
+              "non_striker": "Zada Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "R Hashu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "R Hashu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "R Hashu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "R Hashu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Zada Sher",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Edward Fleming",
+              "non_striker": "Zada Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "C Roberts",
+              "bowler": "R Hashu",
+              "non_striker": "Zada Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "R Hashu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "R Hashu",
+              "non_striker": "Zada Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "R Hashu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "R Hashu",
+              "non_striker": "Zada Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "R Hashu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "C Roberts",
+              "bowler": "J Martins",
+              "non_striker": "Zada Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "J Martins",
+              "non_striker": "Zada Sher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zada Sher",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zada Sher",
+                  "fielders": [
+                    {
+                      "name": "R Hashu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Edward Fleming",
+              "non_striker": "Mohammad Khan Rafah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Edward Fleming",
+              "non_striker": "Mohammad Khan Rafah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "Edward Fleming",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "C Roberts",
+              "bowler": "J Martins",
+              "non_striker": "Mohammad Khan Rafah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "J Martins",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Khan Rafah",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Khan Rafah",
+                  "fielders": [
+                    {
+                      "name": "Edward Fleming"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "J Martins",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Natim Hassam",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Natim Hassam",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Natim Hassam",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Natim Hassam",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Natim Hassam",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Natim Hassam",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Noman Amjad",
+              "bowler": "U Shantu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "U Shantu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "U Shantu",
+              "non_striker": "C Roberts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "U Shantu",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Roberts",
+                  "fielders": [
+                    {
+                      "name": "Natim Hassam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "U Shantu",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "U Shantu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Noman Amjad",
+              "bowler": "R Hashu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Noman Amjad",
+                  "fielders": [
+                    {
+                      "name": "Natim Hassam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "R Hashu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "R Hashu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "R Hashu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "R Hashu",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "R Hashu",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "R Hashu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "U Shantu",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "U Shantu",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "U Shantu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "U Shantu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "U Shantu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "U Shantu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "U Shantu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "U Shantu",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "R Hashu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "R Hashu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "R Hashu",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "R Hashu",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "R Hashu",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "R Hashu",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 162
+      }
+    }
+  ]
+}

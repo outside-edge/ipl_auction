@@ -1,0 +1,3003 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Harare",
+    "dates": [
+      "2025-07-16"
+    ],
+    "event": {
+      "name": "Zimbabwe Twenty20 Tri-Series",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3317,
+    "officials": {
+      "match_referees": [
+        "RS Madugalle"
+      ],
+      "reserve_umpires": [
+        "F Mutizwa"
+      ],
+      "tv_umpires": [
+        "L Rusere"
+      ],
+      "umpires": [
+        "I Chabi",
+        "P Sizara"
+      ]
+    },
+    "outcome": {
+      "winner": "New Zealand",
+      "by": {
+        "runs": 21
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "TB Robinson"
+    ],
+    "players": {
+      "New Zealand": [
+        "TL Seifert",
+        "DP Conway",
+        "TB Robinson",
+        "DJ Mitchell",
+        "MJ Hay",
+        "JDS Neesham",
+        "BJ Jacobs",
+        "MJ Santner",
+        "MJ Henry",
+        "IS Sodhi",
+        "JA Duffy"
+      ],
+      "South Africa": [
+        "LG Pretorius",
+        "RR Hendricks",
+        "RA Herman",
+        "S Muthusamy",
+        "HE van der Dussen",
+        "D Brevis",
+        "GF Linde",
+        "C Bosch",
+        "G Coetzee",
+        "KT Maphaka",
+        "L Ngidi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "BJ Jacobs": "972f217b",
+        "C Bosch": "172dff15",
+        "D Brevis": "844e79d1",
+        "DJ Mitchell": "eade4650",
+        "DP Conway": "df5a6881",
+        "F Mutizwa": "d3e83eef",
+        "G Coetzee": "3204c99f",
+        "GF Linde": "e5437608",
+        "HE van der Dussen": "9948e262",
+        "I Chabi": "5e39110e",
+        "IS Sodhi": "641ac5ff",
+        "JA Duffy": "dadbdb68",
+        "JDS Neesham": "9219eff0",
+        "KT Maphaka": "107c26fb",
+        "L Ngidi": "f834dcfc",
+        "L Rusere": "6a4734ae",
+        "LG Pretorius": "60aa2db3",
+        "MJ Hay": "732f711b",
+        "MJ Henry": "e84ac20c",
+        "MJ Santner": "e4a0deae",
+        "P Sizara": "5d45bb7f",
+        "RA Herman": "9c821d2e",
+        "RR Hendricks": "b8cc58c9",
+        "RS Madugalle": "766b5798",
+        "S Muthusamy": "7dfb8890",
+        "TB Robinson": "5d664346",
+        "TL Seifert": "4663bd23"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "South Africa"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "South Africa"
+    },
+    "venue": "Harare Sports Club"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TL Seifert",
+              "bowler": "KT Maphaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "L Ngidi",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TL Seifert",
+                  "fielders": [
+                    {
+                      "name": "S Muthusamy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DP Conway",
+                  "fielders": [
+                    {
+                      "name": "LG Pretorius"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "GF Linde",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "GF Linde",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "GF Linde",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "GF Linde",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "GF Linde",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "GF Linde",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "DJ Mitchell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Mitchell",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Mitchell",
+                  "fielders": [
+                    {
+                      "name": "KT Maphaka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MJ Hay",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "MJ Hay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "MJ Hay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Hay",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "MJ Hay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "MJ Hay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "MJ Hay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Hay",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MJ Hay",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "KT Maphaka",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JDS Neesham",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JDS Neesham",
+                  "fielders": [
+                    {
+                      "name": "C Bosch"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "KT Maphaka",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "C Bosch",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "L Ngidi",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "L Ngidi",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "L Ngidi",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "L Ngidi",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "L Ngidi",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "L Ngidi",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "S Muthusamy",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "S Muthusamy",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "G Coetzee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "C Bosch",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "C Bosch",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "C Bosch",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "KT Maphaka",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "KT Maphaka",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "KT Maphaka",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "C Bosch",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ Jacobs",
+              "bowler": "G Coetzee",
+              "non_striker": "TB Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "G Coetzee",
+              "non_striker": "BJ Jacobs",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "LG Pretorius",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "LG Pretorius",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RR Hendricks",
+              "bowler": "IS Sodhi",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "IS Sodhi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "IS Sodhi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "IS Sodhi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "IS Sodhi",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "IS Sodhi",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "IS Sodhi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "LG Pretorius",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LG Pretorius",
+                  "fielders": [
+                    {
+                      "name": "TL Seifert"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "MJ Henry",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "MJ Henry",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RA Herman",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Herman",
+                  "fielders": [
+                    {
+                      "name": "MJ Henry"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "JA Duffy",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RR Hendricks",
+              "bowler": "JDS Neesham",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "JDS Neesham",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "JDS Neesham",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "JDS Neesham",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "JDS Neesham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "JDS Neesham",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "JDS Neesham",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "JDS Neesham",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RR Hendricks",
+              "bowler": "MJ Santner",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "MJ Santner",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Hendricks",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MJ Santner",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "MJ Santner",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "MJ Santner",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "MJ Santner",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "IS Sodhi",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "IS Sodhi",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "IS Sodhi",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "IS Sodhi",
+              "non_striker": "S Muthusamy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Muthusamy",
+              "bowler": "IS Sodhi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Muthusamy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "IS Sodhi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Santner",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MJ Santner",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MJ Santner",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "MJ Santner",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HE van der Dussen",
+                  "fielders": [
+                    {
+                      "name": "TL Seifert"
+                    },
+                    {
+                      "name": "MJ Santner"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Santner",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Santner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Santner",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GF Linde",
+              "bowler": "JA Duffy",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "JA Duffy",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "JA Duffy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "JA Duffy",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "JA Duffy",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "JA Duffy",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "JA Duffy",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "D Brevis",
+              "bowler": "JDS Neesham",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "JDS Neesham",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "JDS Neesham",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "JDS Neesham",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "JDS Neesham",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "JDS Neesham",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Henry",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Henry",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Henry",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Henry",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Henry",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "MJ Henry",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Brevis",
+                  "fielders": [
+                    {
+                      "name": "DJ Mitchell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "GF Linde",
+              "bowler": "MJ Santner",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "MJ Santner",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "MJ Santner",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "MJ Santner",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "MJ Santner",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "MJ Santner",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "C Bosch",
+              "bowler": "IS Sodhi",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bosch",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "IS Sodhi",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "IS Sodhi",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "IS Sodhi",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "IS Sodhi",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "IS Sodhi",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GF Linde",
+              "bowler": "MJ Santner",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "MJ Santner",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "MJ Santner",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "MJ Santner",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "MJ Santner",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "MJ Santner",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "IS Sodhi",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "IS Sodhi",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "IS Sodhi",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "IS Sodhi",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "IS Sodhi",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "IS Sodhi",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "JDS Neesham",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "JDS Neesham",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "JDS Neesham",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "JDS Neesham",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "JDS Neesham",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "JDS Neesham",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "JA Duffy",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "JA Duffy",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "JA Duffy",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "JA Duffy",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GF Linde",
+                  "fielders": [
+                    {
+                      "name": "DP Conway"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KT Maphaka",
+              "bowler": "JA Duffy",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KT Maphaka",
+                  "fielders": [
+                    {
+                      "name": "MJ Santner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "JA Duffy",
+              "non_striker": "G Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "G Coetzee",
+              "bowler": "MJ Henry",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Coetzee",
+              "bowler": "MJ Henry",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Coetzee",
+                  "fielders": [
+                    {
+                      "name": "JDS Neesham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 174
+      }
+    }
+  ]
+}

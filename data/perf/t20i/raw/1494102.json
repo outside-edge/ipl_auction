@@ -1,0 +1,672 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2025-07-26"
+    ],
+    "event": {
+      "name": "Asia Pacific Cricket Champions Trophy",
+      "stage": "Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3370,
+    "officials": {
+      "match_referees": [
+        "T Senthil Kumar"
+      ],
+      "reserve_umpires": [
+        "Foyes Ahmed"
+      ],
+      "umpires": [
+        "A Natarajan",
+        "Hardeep Jadeja"
+      ]
+    },
+    "outcome": {
+      "winner": "Malaysia",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Syed Aziz"
+    ],
+    "players": {
+      "Hong Kong": [
+        "Zeeshan Ali",
+        "Babar Hayat",
+        "Nizakat Khan",
+        "Anshuman Rath",
+        "M Coetzee",
+        "Yasim Murtaza",
+        "Aizaz Khan",
+        "Nasrulla Rana",
+        "Waqas Barkat",
+        "Ehsan Khan",
+        "Paras Singh"
+      ],
+      "Malaysia": [
+        "Syed Aziz",
+        "Aslam Khan",
+        "Ahmed Faiz",
+        "Virandeep Singh",
+        "M Syahadat Ramli",
+        "Ainool Hafizs",
+        "S Muniandy",
+        "Ahmed Aqeel",
+        "S Vijay Unni",
+        "Khizar Hayat",
+        "Arif Ullah"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Natarajan": "a2b73ae0",
+        "Ahmed Aqeel": "92f0e10e",
+        "Ahmed Faiz": "f6b4f746",
+        "Ainool Hafizs": "1bada9da",
+        "Aizaz Khan": "f6c2659d",
+        "Anshuman Rath": "552b228c",
+        "Arif Ullah": "740a5b6d",
+        "Aslam Khan": "31080a88",
+        "Babar Hayat": "fbb657bb",
+        "Ehsan Khan": "d3851cd8",
+        "Foyes Ahmed": "465cdd1d",
+        "Hardeep Jadeja": "552cf5a2",
+        "Khizar Hayat": "78bbeba1",
+        "M Coetzee": "3f149080",
+        "M Syahadat Ramli": "5efa8af3",
+        "Nasrulla Rana": "9ffb7550",
+        "Nizakat Khan": "e3eb9e46",
+        "Paras Singh": "014da3d8",
+        "S Muniandy": "57fcfd3b",
+        "S Vijay Unni": "f737ab44",
+        "Syed Aziz": "6667067e",
+        "T Senthil Kumar": "961ddfac",
+        "Virandeep Singh": "415d30b6",
+        "Waqas Barkat": "a2eac9df",
+        "Yasim Murtaza": "c9d05f1a",
+        "Zeeshan Ali": "987187b9"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Hong Kong",
+      "Malaysia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malaysia"
+    },
+    "venue": "Singapore National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Hong Kong",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Syed Aziz",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Syed Aziz",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Syed Aziz",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Syed Aziz",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Syed Aziz",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Syed Aziz",
+              "non_striker": "Zeeshan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Virandeep Singh",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zeeshan Ali",
+              "bowler": "Virandeep Singh",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeeshan Ali",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Virandeep Singh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Babar Hayat",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Virandeep Singh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Virandeep Singh",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "S Vijay Unni",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "S Vijay Unni",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "S Vijay Unni",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nizakat Khan",
+                  "fielders": [
+                    {
+                      "name": "M Syahadat Ramli"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Coetzee",
+              "bowler": "S Vijay Unni",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Coetzee",
+              "bowler": "S Vijay Unni",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "S Vijay Unni",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "M Coetzee",
+              "bowler": "Khizar Hayat",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Khizar Hayat",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Khizar Hayat",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Khizar Hayat",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Khizar Hayat",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Khizar Hayat",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Coetzee",
+              "bowler": "Virandeep Singh",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Virandeep Singh",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Virandeep Singh",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Virandeep Singh",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Virandeep Singh",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Anshuman Rath",
+                  "fielders": [
+                    {
+                      "name": "M Syahadat Ramli"
+                    },
+                    {
+                      "name": "Ainool Hafizs"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Yasim Murtaza",
+              "bowler": "Virandeep Singh",
+              "non_striker": "M Coetzee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Ehsan Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Paras Singh",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "Paras Singh",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 53
+      }
+    }
+  ]
+}

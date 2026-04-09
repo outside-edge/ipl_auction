@@ -1,0 +1,2857 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-10-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Harare",
+    "dates": [
+      "2025-09-30"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Africa Region Final",
+      "match_number": 9,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3485,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "D Odhiambo"
+      ],
+      "umpires": [
+        "Claus Schumacher",
+        "Stephen Harris"
+      ]
+    },
+    "outcome": {
+      "winner": "Zimbabwe",
+      "by": {
+        "runs": 113
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Zimbabwe": [
+        "BJ Bennett",
+        "T Marumani",
+        "Sikandar Raza",
+        "RP Burl",
+        "T Musekiwa",
+        "T Munyonga",
+        "D Myers",
+        "B Evans",
+        "TT Maposa",
+        "R Ngarava",
+        "B Muzarabani"
+      ],
+      "Tanzania": [
+        "Arun Yadav",
+        "AR Patwa",
+        "A Augastin",
+        "AP Rajeevan",
+        "MS Maker",
+        "II Selemani",
+        "K Nassoro",
+        "AM Kimote",
+        "S Selvaraj",
+        "K Juma",
+        "LS Barkania"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Augastin": "056e3558",
+        "AM Kimote": "34e36b65",
+        "AP Rajeevan": "63d6f031",
+        "AR Patwa": "b43f7a6a",
+        "Arun Yadav": "53ace082",
+        "B Evans": "e7e86505",
+        "B Muzarabani": "449f4e3c",
+        "BJ Bennett": "eaa36b2a",
+        "Claus Schumacher": "85645e62",
+        "D Myers": "d96165b5",
+        "D Odhiambo": "45994517",
+        "GH Pienaar": "3516e46b",
+        "II Selemani": "b2dadc51",
+        "K Juma": "089ebf89",
+        "K Nassoro": "29ee9bf9",
+        "LS Barkania": "073126d6",
+        "MS Maker": "14318ae4",
+        "R Ngarava": "6e3f5a5c",
+        "RP Burl": "b08252b8",
+        "S Selvaraj": "f70f8dbb",
+        "Sikandar Raza": "26d041c4",
+        "Stephen Harris": "fdcfd4aa",
+        "T Marumani": "3d5d51a5",
+        "T Munyonga": "fbcfa528",
+        "T Musekiwa": "06fc82b8",
+        "TT Maposa": "5feead83",
+        "WP Masakadza": "4bc0a378"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Zimbabwe",
+      "Tanzania"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Tanzania"
+    },
+    "venue": "Harare Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Zimbabwe",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "K Juma",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "T Marumani",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "Arun Yadav",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Marumani",
+              "bowler": "K Juma",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "K Juma",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "K Juma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "K Juma",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "K Juma",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "T Marumani",
+              "bowler": "A Augastin",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "A Augastin",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "S Selvaraj",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "A Augastin",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "A Augastin",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "S Selvaraj",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "T Marumani",
+              "bowler": "A Augastin",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "A Augastin",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "A Augastin",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "A Augastin",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "LS Barkania",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "LS Barkania",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "LS Barkania",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "LS Barkania",
+              "non_striker": "T Marumani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "LS Barkania",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Marumani",
+              "bowler": "LS Barkania",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Marumani",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Nassoro",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "K Nassoro",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Nassoro",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Nassoro",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Nassoro",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "K Nassoro",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "LS Barkania",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "LS Barkania",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "LS Barkania",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "LS Barkania",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "LS Barkania",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "LS Barkania",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sikandar Raza",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "K Juma",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "K Juma",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "K Juma",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RP Burl",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "Arun Yadav",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "Arun Yadav",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "Arun Yadav",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "AM Kimote",
+              "non_striker": "BJ Bennett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Bennett",
+              "bowler": "AM Kimote",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BJ Bennett",
+                  "fielders": [
+                    {
+                      "name": "A Augastin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Musekiwa",
+              "bowler": "AM Kimote",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "AM Kimote",
+              "non_striker": "T Musekiwa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "T Musekiwa",
+              "bowler": "K Juma",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Musekiwa",
+              "bowler": "K Juma",
+              "non_striker": "RP Burl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RP Burl",
+              "bowler": "K Juma",
+              "non_striker": "T Musekiwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RP Burl",
+                  "fielders": [
+                    {
+                      "name": "MS Maker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Munyonga",
+              "bowler": "K Juma",
+              "non_striker": "T Musekiwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Munyonga",
+              "bowler": "K Juma",
+              "non_striker": "T Musekiwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Munyonga",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Myers",
+              "bowler": "K Juma",
+              "non_striker": "T Musekiwa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arun Yadav",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Muzarabani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Muzarabani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Muzarabani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "B Muzarabani",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "B Muzarabani",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "B Muzarabani",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Muzarabani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Muzarabani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Muzarabani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Muzarabani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Muzarabani",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "B Muzarabani",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "R Ngarava",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "R Ngarava",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "R Ngarava",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Augastin",
+                  "fielders": [
+                    {
+                      "name": "TT Maposa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Evans",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Evans",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Evans",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "B Evans",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AP Rajeevan",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Evans",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Evans",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MS Maker",
+              "bowler": "TT Maposa",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "TT Maposa",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "TT Maposa",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "TT Maposa",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "TT Maposa",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "TT Maposa",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MS Maker",
+              "bowler": "B Evans",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Evans",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Maker",
+                  "fielders": [
+                    {
+                      "name": "TT Maposa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "B Evans",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Evans",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Evans",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Evans",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "II Selemani",
+              "bowler": "TT Maposa",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "TT Maposa",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "TT Maposa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "TT Maposa",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "TT Maposa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Patwa",
+                  "fielders": [
+                    {
+                      "name": "WP Masakadza",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "TT Maposa",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Evans",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Evans",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Evans",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Evans",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "II Selemani",
+              "bowler": "B Evans",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "II Selemani",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "B Evans",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "TT Maposa",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "TT Maposa",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "TT Maposa",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "TT Maposa",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "TT Maposa",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "TT Maposa",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Evans",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "B Evans",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "B Evans",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Kimote",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Evans",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Evans",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Evans",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Muzarabani",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Muzarabani",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Muzarabani",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Muzarabani",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Muzarabani",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Muzarabani",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "RP Burl",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "RP Burl",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "RP Burl",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "RP Burl",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "RP Burl",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "RP Burl",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Muzarabani",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Muzarabani",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Muzarabani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Muzarabani",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Muzarabani",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "B Muzarabani",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "B Muzarabani",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "Sikandar Raza",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "Sikandar Raza",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "Sikandar Raza",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "Sikandar Raza",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "Sikandar Raza",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "Sikandar Raza",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "RP Burl",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nassoro",
+              "bowler": "RP Burl",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "RP Burl",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "RP Burl",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "RP Burl",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "RP Burl",
+              "non_striker": "K Nassoro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "K Nassoro",
+              "bowler": "Sikandar Raza",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Nassoro",
+                  "fielders": [
+                    {
+                      "name": "B Evans"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Juma",
+              "bowler": "Sikandar Raza",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "Sikandar Raza",
+              "non_striker": "K Juma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Selvaraj",
+                  "fielders": [
+                    {
+                      "name": "T Marumani"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "LS Barkania",
+              "bowler": "Sikandar Raza",
+              "non_striker": "K Juma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LS Barkania",
+              "bowler": "Sikandar Raza",
+              "non_striker": "K Juma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LS Barkania",
+              "bowler": "Sikandar Raza",
+              "non_striker": "K Juma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "K Juma",
+              "bowler": "RP Burl",
+              "non_striker": "LS Barkania",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Barkania",
+              "bowler": "RP Burl",
+              "non_striker": "K Juma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Juma",
+              "bowler": "RP Burl",
+              "non_striker": "LS Barkania",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Juma",
+              "bowler": "RP Burl",
+              "non_striker": "LS Barkania",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Juma",
+                  "fielders": [
+                    {
+                      "name": "R Ngarava"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 222
+      }
+    }
+  ]
+}

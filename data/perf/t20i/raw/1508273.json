@@ -1,0 +1,1819 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-11-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bali",
+    "dates": [
+      "2025-11-08"
+    ],
+    "event": {
+      "name": "Indonesia Tri-Nation T20I Series",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3564,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Indonesia",
+      "by": {
+        "runs": 26
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Nyeing Cham Soe"
+    ],
+    "players": {
+      "Indonesia": [
+        "GA Priandana",
+        "KD Kesuma",
+        "D Nanda",
+        "PR Surve",
+        "Ahmad Ramdoni",
+        "DJ Hawoe",
+        "GD Arta",
+        "Anjar Tadarus",
+        "RM Koda",
+        "DGAPD Wiswi",
+        "DK Shetty"
+      ],
+      "Myanmar": [
+        "KK Lin Thu",
+        "Pyae Phyo Wai",
+        "H Lin Aung",
+        "Khin Aye",
+        "Thuya Aung",
+        "H Lin Oo",
+        "Swann Htet Ko Ko",
+        "Nyeing Cham Soe",
+        "Myat Thu Aung",
+        "Sai Hla Htwe",
+        "Kaung Htet Kyaw"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ahmad Ramdoni": "b5f30525",
+        "Anjar Tadarus": "72275237",
+        "D Nanda": "22651574",
+        "DGAPD Wiswi": "d3d096f5",
+        "DJ Hawoe": "a62f55ba",
+        "DK Shetty": "65cfc56b",
+        "GA Priandana": "2af0e3b1",
+        "GD Arta": "e969e580",
+        "H Lin Aung": "c343a8c6",
+        "H Lin Oo": "2e005bfd",
+        "KD Kesuma": "4b349dc0",
+        "KK Lin Thu": "6cf75582",
+        "Kaung Htet Kyaw": "e1bd3e2e",
+        "Khin Aye": "ad2efd29",
+        "Myat Thu Aung": "cebbf3c9",
+        "Nyeing Cham Soe": "45b5ce8d",
+        "PR Surve": "206efeb1",
+        "Pyae Phyo Wai": "09e86895",
+        "RM Koda": "f0a45427",
+        "Sai Hla Htwe": "740d29d5",
+        "Swann Htet Ko Ko": "9ee21ee4",
+        "Thuya Aung": "2e092d2c"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Indonesia",
+      "Myanmar"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Indonesia"
+    },
+    "venue": "Udayana Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Indonesia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "GA Priandana",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GA Priandana",
+              "bowler": "KK Lin Thu",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GA Priandana",
+              "bowler": "KK Lin Thu",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GA Priandana",
+              "bowler": "KK Lin Thu",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GA Priandana",
+              "bowler": "KK Lin Thu",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GA Priandana",
+              "bowler": "KK Lin Thu",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GA Priandana",
+                  "fielders": [
+                    {
+                      "name": "Khin Aye"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KD Kesuma",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KD Kesuma",
+                  "fielders": [
+                    {
+                      "name": "H Lin Aung"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "KK Lin Thu",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "KK Lin Thu",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "KK Lin Thu",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Nyeing Cham Soe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Nanda",
+                  "fielders": [
+                    {
+                      "name": "Swann Htet Ko Ko"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmad Ramdoni",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmad Ramdoni",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "Ahmad Ramdoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "Ahmad Ramdoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "Ahmad Ramdoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "Ahmad Ramdoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "Ahmad Ramdoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "Ahmad Ramdoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmad Ramdoni",
+              "bowler": "Sai Hla Htwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmad Ramdoni",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ahmad Ramdoni",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmad Ramdoni",
+                  "fielders": [
+                    {
+                      "name": "Thuya Aung"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Hawoe",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Hawoe",
+                  "fielders": [
+                    {
+                      "name": "Pyae Phyo Wai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "Nyeing Cham Soe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Nyeing Cham Soe",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GD Arta",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "Sai Hla Htwe",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "Khin Aye",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Khin Aye",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Khin Aye",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Khin Aye",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Khin Aye",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "Khin Aye",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Myanmar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "RM Koda",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "RM Koda",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "RM Koda",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "RM Koda",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "RM Koda",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "RM Koda",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "DK Shetty",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "DK Shetty",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "DK Shetty",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "DK Shetty",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Lin Thu",
+                  "fielders": [
+                    {
+                      "name": "RM Koda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Lin Aung",
+              "bowler": "DK Shetty",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Lin Aung",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DK Shetty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DK Shetty",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Pyae Phyo Wai",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pyae Phyo Wai",
+                  "fielders": [
+                    {
+                      "name": "DK Shetty"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DK Shetty",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DK Shetty",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DK Shetty",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DK Shetty",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DK Shetty",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khin Aye",
+              "bowler": "DK Shetty",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Khin Aye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Khin Aye",
+              "bowler": "GA Priandana",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khin Aye",
+                  "fielders": [
+                    {
+                      "name": "KD Kesuma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "GA Priandana",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "GA Priandana",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "GA Priandana",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "GA Priandana",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "GA Priandana",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Thuya Aung",
+              "bowler": "GA Priandana",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "GA Priandana",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "GA Priandana",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "GA Priandana",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "GA Priandana",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "GA Priandana",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Thuya Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thuya Aung",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Thuya Aung",
+                  "fielders": [
+                    {
+                      "name": "GA Priandana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "H Lin Oo",
+              "bowler": "DK Shetty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "DK Shetty",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "DK Shetty",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "DK Shetty",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "DK Shetty",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "DK Shetty",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "DK Shetty",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "H Lin Oo",
+              "bowler": "RM Koda",
+              "non_striker": "Swann Htet Ko Ko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "RM Koda",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "RM Koda",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "RM Koda",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "RM Koda",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Swann Htet Ko Ko",
+              "bowler": "RM Koda",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Swann Htet Ko Ko",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 11,
+        "runs": 87
+      }
+    }
+  ]
+}

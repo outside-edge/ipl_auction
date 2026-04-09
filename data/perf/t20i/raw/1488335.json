@@ -1,0 +1,2077 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "King City",
+    "dates": [
+      "2025-06-21"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Americas Region Final",
+      "match_number": 10
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3259,
+    "officials": {
+      "match_referees": [
+        "Dave Gilbert"
+      ],
+      "reserve_umpires": [
+        "GO Brathwaite"
+      ],
+      "tv_umpires": [
+        "DK Butler"
+      ],
+      "umpires": [
+        "AR Maddela",
+        "Zahid Bassarath"
+      ]
+    },
+    "outcome": {
+      "winner": "Cayman Islands",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RA Sealy"
+    ],
+    "players": {
+      "Bermuda": [
+        "T Manders",
+        "AD Dore",
+        "DMW Rawlins",
+        "OGL Bascome",
+        "DL Brangman",
+        "TS Fray",
+        "Z Burgess",
+        "D Sabir",
+        "Jonte Smith",
+        "Chare Smith",
+        "S Smith"
+      ],
+      "Cayman Islands": [
+        "J Baker",
+        "AR Naidoo",
+        "RA Sealy",
+        "S Foster",
+        "A Morris",
+        "A Dhar",
+        "BKB Corbin",
+        "KA Bazil",
+        "R Walker",
+        "A Wright",
+        "ROC Dunka"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dhar": "1c0a2249",
+        "A Morris": "04cf2e94",
+        "A Wright": "4bb7f51e",
+        "AD Dore": "aa867444",
+        "AR Maddela": "5c861579",
+        "AR Naidoo": "68886c16",
+        "BKB Corbin": "036b8660",
+        "Chare Smith": "4e1b7998",
+        "D Sabir": "04bc296f",
+        "DK Butler": "671398e3",
+        "DL Brangman": "dab18aa5",
+        "DMW Rawlins": "f1eb3c73",
+        "Dave Gilbert": "aa782370",
+        "GO Brathwaite": "1ace56d4",
+        "J Baker": "a12672e0",
+        "Jonte Smith": "ae4d0b45",
+        "KA Bazil": "d22287a8",
+        "OGL Bascome": "94a1827c",
+        "R Walker": "be37d889",
+        "RA Sealy": "1e98804a",
+        "ROC Dunka": "762f43b7",
+        "S Foster": "3595ad3b",
+        "S Smith": "18a0ba24",
+        "T Manders": "6d2b9724",
+        "TS Fray": "c7537f8a",
+        "Z Burgess": "d0042e16",
+        "Zahid Bassarath": "ca6bf044"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Bermuda",
+      "Cayman Islands"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Cayman Islands"
+    },
+    "venue": "Maple Leaf North-West Ground, King City"
+  },
+  "innings": [
+    {
+      "team": "Bermuda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "A Morris",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "KA Bazil",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AD Dore",
+              "bowler": "J Baker",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "J Baker",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "J Baker",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "J Baker",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "J Baker",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "J Baker",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "KA Bazil",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "KA Bazil",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AD Dore",
+              "bowler": "J Baker",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "J Baker",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "J Baker",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "J Baker",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "J Baker",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "J Baker",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AD Dore",
+              "bowler": "KA Bazil",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "KA Bazil",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "KA Bazil",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "T Manders",
+              "bowler": "A Wright",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Wright",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Wright",
+              "non_striker": "AD Dore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Dore",
+              "bowler": "A Wright",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Dore",
+                  "fielders": [
+                    {
+                      "name": "KA Bazil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "A Wright",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "A Wright",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DMW Rawlins",
+                  "fielders": [
+                    {
+                      "name": "RA Sealy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "OGL Bascome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "T Manders",
+              "bowler": "A Wright",
+              "non_striker": "OGL Bascome",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Wright",
+              "non_striker": "OGL Bascome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Wright",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Wright",
+              "non_striker": "OGL Bascome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Wright",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Wright",
+              "non_striker": "OGL Bascome",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Dhar",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Dhar",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Dhar",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Dhar",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Dhar",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Dhar",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Morris",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Morris",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "OGL Bascome",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "A Morris",
+              "non_striker": "OGL Bascome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Morris",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "A Morris",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Manders",
+              "bowler": "ROC Dunka",
+              "non_striker": "OGL Bascome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "ROC Dunka",
+              "non_striker": "T Manders",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cayman Islands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Z Burgess",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Z Burgess",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Z Burgess",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Chare Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Baker",
+              "bowler": "DL Brangman",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DL Brangman",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DL Brangman",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DL Brangman",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DL Brangman",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DL Brangman",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AR Naidoo",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Sabir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Sabir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Jonte Smith",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Jonte Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Jonte Smith",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Jonte Smith",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Jonte Smith",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Jonte Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Jonte Smith",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Baker",
+              "bowler": "D Sabir",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Naidoo",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Sabir",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Sabir",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Baker",
+              "bowler": "DL Brangman",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DL Brangman",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RA Sealy",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Sabir",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Sabir",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "D Sabir",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DL Brangman",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RA Sealy",
+              "bowler": "Z Burgess",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Z Burgess",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "Z Burgess",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Z Burgess",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RA Sealy",
+              "bowler": "DMW Rawlins",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DMW Rawlins",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DMW Rawlins",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DMW Rawlins",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DMW Rawlins",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "DMW Rawlins",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "DMW Rawlins",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Baker",
+              "bowler": "Chare Smith",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 14,
+        "runs": 140
+      }
+    }
+  ]
+}

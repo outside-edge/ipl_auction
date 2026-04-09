@@ -1,0 +1,3080 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Naucalpan",
+    "dates": [
+      "2026-04-02"
+    ],
+    "event": {
+      "name": "Central American Cricket Championships",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3794,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Mexico",
+      "by": {
+        "runs": 124
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "D Panda"
+    ],
+    "players": {
+      "Mexico": [
+        "J Byrappa",
+        "Seetharam Guruvayoorappan",
+        "KB Patil",
+        "Shantanu Kaveri",
+        "D Panda",
+        "Amir Butt",
+        "DV Devjani Mutreja",
+        "Pratik Singh Bais",
+        "Hassan Nasir",
+        "S Sharma",
+        "GE Gutierrez Chavez"
+      ],
+      "Costa Rica": [
+        "TV Badri Narayanan",
+        "J Cutinho",
+        "S Wankhade",
+        "S Pillai",
+        "S Ravikumar",
+        "K Shivam",
+        "Ashar Abbas",
+        "YJC Altamirano",
+        "S Murari",
+        "Imran Ahmed Kaneez",
+        "O Sam Arthur"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Amir Butt": "5bdf2343",
+        "Ashar Abbas": "33e59f48",
+        "D Panda": "bad1af65",
+        "DV Devjani Mutreja": "c872d657",
+        "GE Gutierrez Chavez": "6ecd3d7b",
+        "Hassan Nasir": "d32f3102",
+        "Imran Ahmed Kaneez": "8c3cbee9",
+        "J Byrappa": "860f7b67",
+        "J Cutinho": "c329d304",
+        "K Shivam": "f46fbe60",
+        "KB Patil": "0474fd64",
+        "O Sam Arthur": "11c35bf1",
+        "Pratik Singh Bais": "5b351aff",
+        "S Murari": "3ed39f01",
+        "S Pillai": "927b34c9",
+        "S Ravikumar": "5597338d",
+        "S Sharma": "d6d2ac95",
+        "S Wankhade": "27ca21c1",
+        "Seetharam Guruvayoorappan": "9663115e",
+        "Shantanu Kaveri": "091880f7",
+        "TV Badri Narayanan": "fb68e13e",
+        "YJC Altamirano": "35f622e6"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Mexico",
+      "Costa Rica"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Mexico"
+    },
+    "venue": "Reforma Athletic Club, Naucalpan"
+  },
+  "innings": [
+    {
+      "team": "Mexico",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Byrappa",
+              "bowler": "S Pillai",
+              "non_striker": "Seetharam Guruvayoorappan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Seetharam Guruvayoorappan",
+              "bowler": "S Pillai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Seetharam Guruvayoorappan",
+              "bowler": "S Pillai",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Seetharam Guruvayoorappan",
+              "bowler": "S Pillai",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "S Pillai",
+              "non_striker": "Seetharam Guruvayoorappan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "S Pillai",
+              "non_striker": "Seetharam Guruvayoorappan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Byrappa",
+                  "fielders": [
+                    {
+                      "name": "S Wankhade"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Pillai",
+              "non_striker": "Seetharam Guruvayoorappan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Seetharam Guruvayoorappan",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Seetharam Guruvayoorappan",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Seetharam Guruvayoorappan",
+                  "fielders": [
+                    {
+                      "name": "S Pillai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KB Patil",
+              "bowler": "S Pillai",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Pillai",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Pillai",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Pillai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Pillai",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Pillai",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KB Patil",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "Imran Ahmed Kaneez",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Wankhade",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Wankhade",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Wankhade",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Wankhade",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Wankhade",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Wankhade",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Wankhade",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Wankhade",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KB Patil",
+              "bowler": "O Sam Arthur",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "O Sam Arthur",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "O Sam Arthur",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "O Sam Arthur",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "O Sam Arthur",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "O Sam Arthur",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Wankhade",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Wankhade",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Wankhade",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Wankhade",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Wankhade",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Wankhade",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "S Wankhade",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Murari",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Murari",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Murari",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Murari",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Murari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "S Murari",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shantanu Kaveri",
+                  "fielders": [
+                    {
+                      "name": "Imran Ahmed Kaneez"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Murari",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "D Panda",
+              "bowler": "J Cutinho",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "J Cutinho",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "J Cutinho",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KB Patil",
+                  "fielders": [
+                    {
+                      "name": "TV Badri Narayanan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "J Cutinho",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "J Cutinho",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "J Cutinho",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Murari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Murari",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Murari",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Murari",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Murari",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Murari",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Murari",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "J Cutinho",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "J Cutinho",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "J Cutinho",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "J Cutinho",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "J Cutinho",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "J Cutinho",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "D Panda",
+              "bowler": "S Pillai",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Pillai",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Pillai",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Murari",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Murari",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Murari",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Murari",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Murari",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Murari",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "D Panda",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "Imran Ahmed Kaneez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "Imran Ahmed Kaneez",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Pillai",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "S Ravikumar",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "S Ravikumar",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Amir Butt",
+                  "fielders": [
+                    {
+                      "name": "S Ravikumar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Costa Rica",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Cutinho",
+              "bowler": "Hassan Nasir",
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Hassan Nasir",
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Hassan Nasir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TV Badri Narayanan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TV Badri Narayanan",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TV Badri Narayanan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "non_striker": "S Wankhade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "non_striker": "S Wankhade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "non_striker": "S Wankhade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Wankhade",
+                  "fielders": [
+                    {
+                      "name": "Shantanu Kaveri"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "J Cutinho",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Cutinho",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Cutinho",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "Hassan Nasir",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Ravikumar",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Ravikumar",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "S Sharma",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "S Sharma",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Ravikumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Ravikumar",
+              "bowler": "D Panda",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "D Panda",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravikumar",
+              "bowler": "D Panda",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ravikumar",
+                  "fielders": [
+                    {
+                      "name": "Seetharam Guruvayoorappan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "D Panda",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "D Panda",
+              "non_striker": "K Shivam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "D Panda",
+              "non_striker": "K Shivam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "K Shivam",
+              "bowler": "D Panda",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "D Panda",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "D Panda",
+              "non_striker": "S Pillai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pillai",
+              "bowler": "D Panda",
+              "non_striker": "K Shivam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Pillai",
+                  "fielders": [
+                    {
+                      "name": "S Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "D Panda",
+              "non_striker": "K Shivam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "D Panda",
+              "non_striker": "K Shivam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "DV Devjani Mutreja",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "J Byrappa",
+              "non_striker": "K Shivam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shivam",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Shivam",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "YJC Altamirano",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YJC Altamirano",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YJC Altamirano",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YJC Altamirano",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "YJC Altamirano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "YJC Altamirano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YJC Altamirano",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "YJC Altamirano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YJC Altamirano",
+              "bowler": "KB Patil",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YJC Altamirano",
+              "bowler": "KB Patil",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YJC Altamirano",
+              "bowler": "KB Patil",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "YJC Altamirano",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "YJC Altamirano",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Murari",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Murari",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Murari",
+              "bowler": "J Byrappa",
+              "non_striker": "Ashar Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "J Byrappa",
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "J Byrappa",
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashar Abbas",
+              "bowler": "KB Patil",
+              "non_striker": "S Murari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 205
+      }
+    }
+  ]
+}

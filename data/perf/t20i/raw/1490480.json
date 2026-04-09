@@ -1,0 +1,2700 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "The Hague",
+    "dates": [
+      "2025-07-11"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Europe Region Final",
+      "match_number": 10
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3303,
+    "officials": {
+      "match_referees": [
+        "Denavon Hayles"
+      ],
+      "reserve_umpires": [
+        "Aidan Seaver"
+      ],
+      "umpires": [
+        "R Black",
+        "RJ Warren"
+      ]
+    },
+    "outcome": {
+      "winner": "Netherlands",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RE van der Merwe"
+    ],
+    "players": {
+      "Italy": [
+        "J Mosca",
+        "EN Gay",
+        "JA Burns",
+        "HJ Manenti",
+        "M Campopiano",
+        "BAD Manenti",
+        "G Stewart",
+        "AJ Mosca",
+        "Jaspreet Singh",
+        "CJPF Kalugamage",
+        "TJ Draca"
+      ],
+      "Netherlands": [
+        "M Levitt",
+        "MP O'Dowd",
+        "SA Edwards",
+        "ZB Lion-Cachet",
+        "BFW de Leede",
+        "NRJ Croes",
+        "Saqib Zulfiqar",
+        "RE van der Merwe",
+        "K Klein",
+        "A Dutt",
+        "PA van Meekeren"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dutt": "803dbf1d",
+        "AJ Mosca": "19c56e6e",
+        "Aidan Seaver": "862c0b16",
+        "BAD Manenti": "ab21795b",
+        "BFW de Leede": "fc4375ef",
+        "CJPF Kalugamage": "31c04b7b",
+        "Denavon Hayles": "5cbeeb02",
+        "EN Gay": "aa710a58",
+        "G Stewart": "a77472dc",
+        "HJ Manenti": "0e56c514",
+        "J Mosca": "8f02f6a8",
+        "JA Burns": "7a5f232a",
+        "Jaspreet Singh": "d76ab352",
+        "K Klein": "374bb5e7",
+        "M Campopiano": "26d80a9d",
+        "M Levitt": "6a71ba3a",
+        "MP O'Dowd": "b699df47",
+        "NRJ Croes": "f427e63e",
+        "PA van Meekeren": "4557dc54",
+        "R Black": "156c8fb1",
+        "RE van der Merwe": "05c2ca46",
+        "RJ Warren": "9d1c62d7",
+        "SA Edwards": "b59db04f",
+        "Saqib Zulfiqar": "5d38476c",
+        "TJ Draca": "88fac705",
+        "ZB Lion-Cachet": "d99de998"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Italy",
+      "Netherlands"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Italy"
+    },
+    "venue": "Sportpark Westvliet, Voorburg"
+  },
+  "innings": [
+    {
+      "team": "Italy",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Mosca",
+              "bowler": "K Klein",
+              "non_striker": "EN Gay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mosca",
+              "bowler": "K Klein",
+              "non_striker": "EN Gay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EN Gay",
+              "bowler": "K Klein",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mosca",
+              "bowler": "K Klein",
+              "non_striker": "EN Gay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EN Gay",
+              "bowler": "K Klein",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EN Gay",
+              "bowler": "K Klein",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "EN Gay",
+              "bowler": "A Dutt",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EN Gay",
+              "bowler": "A Dutt",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EN Gay",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "A Dutt",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mosca",
+              "bowler": "A Dutt",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "A Dutt",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mosca",
+              "bowler": "A Dutt",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JA Burns",
+              "bowler": "K Klein",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "K Klein",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mosca",
+              "bowler": "K Klein",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Mosca",
+                  "fielders": [
+                    {
+                      "name": "ZB Lion-Cachet"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "K Klein",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "K Klein",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "K Klein",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JA Burns",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "K Klein",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "K Klein",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "K Klein",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "K Klein",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "K Klein",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "K Klein",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "BFW de Leede",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "BFW de Leede",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "BFW de Leede",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "BFW de Leede",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "BFW de Leede",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "BFW de Leede",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Burns",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JA Burns",
+                  "fielders": [
+                    {
+                      "name": "BFW de Leede"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "M Campopiano",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Campopiano",
+                  "fielders": [
+                    {
+                      "name": "BFW de Leede"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BAD Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "RE van der Merwe",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BAD Manenti",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "A Dutt",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "A Dutt",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BAD Manenti",
+              "bowler": "BFW de Leede",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "BFW de Leede",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "BFW de Leede",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "BFW de Leede",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "BFW de Leede",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BAD Manenti",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "Saqib Zulfiqar",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "K Klein",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "K Klein",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "K Klein",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HJ Manenti",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "K Klein",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "K Klein",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "K Klein",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "G Stewart",
+              "bowler": "PA van Meekeren",
+              "non_striker": "BAD Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAD Manenti",
+              "bowler": "PA van Meekeren",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BAD Manenti",
+                  "fielders": [
+                    {
+                      "name": "NRJ Croes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "PA van Meekeren",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "PA van Meekeren",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "PA van Meekeren",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "PA van Meekeren",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AJ Mosca",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "BFW de Leede",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BFW de Leede",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BFW de Leede",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BFW de Leede",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "G Stewart",
+              "bowler": "PA van Meekeren",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "PA van Meekeren",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "PA van Meekeren",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "PA van Meekeren",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "PA van Meekeren",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "PA van Meekeren",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AJ Mosca",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BFW de Leede",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BFW de Leede",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BFW de Leede",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BFW de Leede",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BFW de Leede",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AJ Mosca",
+              "bowler": "RE van der Merwe",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "RE van der Merwe",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "RE van der Merwe",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Stewart",
+                  "fielders": [
+                    {
+                      "name": "MP O'Dowd"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "RE van der Merwe",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Jaspreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TJ Draca",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "TJ Draca",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "TJ Draca",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "TJ Draca",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "TJ Draca",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TJ Draca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TJ Draca",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TJ Draca",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "TJ Draca",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TJ Draca",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "TJ Draca",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TJ Draca",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "TJ Draca",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Levitt",
+              "bowler": "HJ Manenti",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "HJ Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "HJ Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "HJ Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "HJ Manenti",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "HJ Manenti",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "HJ Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "HJ Manenti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "HJ Manenti",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Levitt",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Levitt",
+                  "fielders": [
+                    {
+                      "name": "AJ Mosca"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "BAD Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "BAD Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "G Stewart",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "G Stewart",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "HJ Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "HJ Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "HJ Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "HJ Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "HJ Manenti",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "HJ Manenti",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 135
+      }
+    }
+  ]
+}

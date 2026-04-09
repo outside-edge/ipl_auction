@@ -1,0 +1,3166 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Belgrade",
+    "dates": [
+      "2025-06-08"
+    ],
+    "event": {
+      "name": "Slovenia tour of Serbia",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3211,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Serbia",
+      "by": {
+        "runs": 24
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "WAE Burton"
+    ],
+    "players": {
+      "Serbia": [
+        "A Dizija",
+        "BM Pecic",
+        "WAE Burton",
+        "LA Dunbar",
+        "V Zimonjic",
+        "B Dugic",
+        "N Zimonjic",
+        "S Tosic",
+        "MV Pavlovic",
+        "AA Gajic",
+        "A Lazic"
+      ],
+      "Slovenia": [
+        "Taher Muhammad",
+        "Muhammad Siddiqui",
+        "OJR Groves",
+        "Izaz Ali",
+        "Tarun Sharma",
+        "Rasheed Ali Mamadkhel",
+        "S Koppolu",
+        "DK Pallekonda",
+        "Waqar Khan",
+        "D Matla",
+        "J Mikulic"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dizija": "6483c062",
+        "A Lazic": "b9b65f93",
+        "AA Gajic": "a768a762",
+        "B Dugic": "5edaa34d",
+        "BM Pecic": "71093272",
+        "D Matla": "d1bec7a6",
+        "DK Pallekonda": "e77c9807",
+        "Izaz Ali": "8a4e101e",
+        "J Mikulic": "31f46b08",
+        "LA Dunbar": "f50433e9",
+        "MV Pavlovic": "2809b390",
+        "Muhammad Siddiqui": "b46b3d9b",
+        "N Zimonjic": "638f451b",
+        "OJR Groves": "0b07cb5e",
+        "Rasheed Ali Mamadkhel": "72c38d77",
+        "S Koppolu": "3346b14f",
+        "S Tosic": "1c40f69f",
+        "Taher Muhammad": "68832922",
+        "Tarun Sharma": "f915844b",
+        "V Zimonjic": "7f784eb8",
+        "WAE Burton": "b0358c6d",
+        "Waqar Khan": "da21531c"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Serbia",
+      "Slovenia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Slovenia"
+    },
+    "venue": "Lisicji Jarak Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Serbia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Dizija",
+              "bowler": "DK Pallekonda",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "DK Pallekonda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "DK Pallekonda",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "DK Pallekonda",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "DK Pallekonda",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "DK Pallekonda",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "DK Pallekonda",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BM Pecic",
+              "bowler": "Izaz Ali",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Izaz Ali",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Izaz Ali",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Izaz Ali",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Izaz Ali",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Izaz Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Izaz Ali",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "BM Pecic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Pecic",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "A Dizija",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BM Pecic",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Dizija",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Dizija",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Dizija",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Izaz Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Izaz Ali",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Izaz Ali",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Izaz Ali",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Izaz Ali",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "Izaz Ali",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Izaz Ali",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Izaz Ali",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Izaz Ali",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Izaz Ali",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Muhammad Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Muhammad Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Muhammad Siddiqui",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Taher Muhammad",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Taher Muhammad",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Taher Muhammad",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "OJR Groves",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "OJR Groves",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "OJR Groves",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "OJR Groves",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "OJR Groves",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "OJR Groves",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "OJR Groves",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "OJR Groves",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Taher Muhammad",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Taher Muhammad",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Taher Muhammad",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Taher Muhammad",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Taher Muhammad",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Taher Muhammad",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "LA Dunbar",
+              "bowler": "DK Pallekonda",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "DK Pallekonda",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "S Koppolu",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "S Koppolu",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "Waqar Khan",
+              "non_striker": "LA Dunbar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Waqar Khan",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Waqar Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dunbar",
+              "bowler": "Waqar Khan",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LA Dunbar",
+                  "fielders": [
+                    {
+                      "name": "Izaz Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Zimonjic",
+              "bowler": "Waqar Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Waqar Khan",
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "Waqar Khan",
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WAE Burton",
+              "bowler": "DK Pallekonda",
+              "non_striker": "V Zimonjic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Zimonjic",
+              "bowler": "DK Pallekonda",
+              "non_striker": "WAE Burton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Slovenia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "V Zimonjic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "V Zimonjic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "V Zimonjic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "AA Gajic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "AA Gajic",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "AA Gajic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "V Zimonjic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taher Muhammad",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "AA Gajic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "AA Gajic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "AA Gajic",
+              "non_striker": "Taher Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taher Muhammad",
+                  "fielders": [
+                    {
+                      "name": "WAE Burton"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "WAE Burton",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "WAE Burton",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "WAE Burton",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "WAE Burton",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "WAE Burton",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "WAE Burton",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "OJR Groves",
+              "bowler": "AA Gajic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "AA Gajic",
+              "non_striker": "Muhammad Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Siddiqui",
+              "bowler": "AA Gajic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Siddiqui",
+                  "fielders": [
+                    {
+                      "name": "BM Pecic"
+                    },
+                    {
+                      "name": "V Zimonjic"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "AA Gajic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "AA Gajic",
+              "non_striker": "Izaz Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "AA Gajic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "OJR Groves",
+              "bowler": "WAE Burton",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Izaz Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "WAE Burton",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "WAE Burton",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "WAE Burton",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "WAE Burton",
+              "non_striker": "Izaz Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "WAE Burton",
+              "non_striker": "Izaz Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Izaz Ali",
+              "bowler": "MV Pavlovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "MV Pavlovic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "MV Pavlovic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "MV Pavlovic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "MV Pavlovic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Izaz Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "MV Pavlovic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Izaz Ali",
+              "bowler": "N Zimonjic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Izaz Ali",
+              "bowler": "N Zimonjic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Izaz Ali",
+                  "fielders": [
+                    {
+                      "name": "BM Pecic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "N Zimonjic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "N Zimonjic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "N Zimonjic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "N Zimonjic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "N Zimonjic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "A Lazic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "A Lazic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "A Lazic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "A Lazic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "A Lazic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "A Lazic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "OJR Groves",
+              "bowler": "N Zimonjic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "N Zimonjic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "N Zimonjic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "N Zimonjic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "N Zimonjic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "N Zimonjic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "OJR Groves",
+              "bowler": "B Dugic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "B Dugic",
+              "non_striker": "Tarun Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tarun Sharma",
+              "bowler": "B Dugic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tarun Sharma",
+                  "fielders": [
+                    {
+                      "name": "LA Dunbar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "B Dugic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "B Dugic",
+              "non_striker": "OJR Groves",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJR Groves",
+              "bowler": "B Dugic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "OJR Groves",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OJR Groves",
+                  "fielders": [
+                    {
+                      "name": "B Dugic"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Koppolu",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Koppolu",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Koppolu",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Koppolu",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Koppolu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "B Dugic",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "B Dugic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "B Dugic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "B Dugic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "B Dugic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "B Dugic",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "WAE Burton",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "WAE Burton",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "WAE Burton",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "WAE Burton",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "WAE Burton",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "WAE Burton",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "AA Gajic",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "AA Gajic",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "AA Gajic",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "AA Gajic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "AA Gajic",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "AA Gajic",
+              "non_striker": "DK Pallekonda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DK Pallekonda",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DK Pallekonda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "MV Pavlovic",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "V Zimonjic",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "V Zimonjic",
+              "non_striker": "Rasheed Ali Mamadkhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "V Zimonjic",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rasheed Ali Mamadkhel",
+              "bowler": "V Zimonjic",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rasheed Ali Mamadkhel",
+                  "fielders": [
+                    {
+                      "name": "BM Pecic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Waqar Khan",
+              "bowler": "MV Pavlovic",
+              "non_striker": "D Matla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Matla",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Matla",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Matla",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "MV Pavlovic",
+              "non_striker": "D Matla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Matla",
+              "bowler": "MV Pavlovic",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "D Matla",
+              "bowler": "WAE Burton",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "D Matla",
+              "bowler": "WAE Burton",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "WAE Burton",
+              "non_striker": "D Matla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "WAE Burton",
+              "non_striker": "D Matla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "WAE Burton",
+              "non_striker": "D Matla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waqar Khan",
+              "bowler": "WAE Burton",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "D Matla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Matla",
+              "bowler": "WAE Burton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Matla",
+              "bowler": "WAE Burton",
+              "non_striker": "Waqar Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 227
+      }
+    }
+  ]
+}

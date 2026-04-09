@@ -1,0 +1,2424 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-11-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lahore",
+    "dates": [
+      "2025-10-31"
+    ],
+    "event": {
+      "name": "South Africa tour of Pakistan",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3546,
+    "officials": {
+      "match_referees": [
+        "RS Madugalle"
+      ],
+      "reserve_umpires": [
+        "Tariq Rasheed"
+      ],
+      "tv_umpires": [
+        "Faisal Afridi"
+      ],
+      "umpires": [
+        "Asif Yaqoob",
+        "Rashid Riaz"
+      ]
+    },
+    "outcome": {
+      "winner": "Pakistan",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Salman Mirza"
+    ],
+    "players": {
+      "South Africa": [
+        "RR Hendricks",
+        "Q de Kock",
+        "T de Zorzi",
+        "D Brevis",
+        "MP Breetzke",
+        "D Ferreira",
+        "GF Linde",
+        "C Bosch",
+        "N Burger",
+        "OEG Baartman",
+        "L Ngidi"
+      ],
+      "Pakistan": [
+        "Sahibzada Farhan",
+        "Saim Ayub",
+        "Babar Azam",
+        "Agha Salman",
+        "Usman Khan",
+        "Hassan Nawaz",
+        "Mohammad Nawaz",
+        "Faheem Ashraf",
+        "Naseem Shah",
+        "Salman Mirza",
+        "Abrar Ahmed"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abrar Ahmed": "abb7c76c",
+        "Agha Salman": "89c16049",
+        "Asif Yaqoob": "6b35790c",
+        "Babar Azam": "8a75e999",
+        "C Bosch": "172dff15",
+        "D Brevis": "844e79d1",
+        "D Ferreira": "f0af99a7",
+        "Faheem Ashraf": "bd4ea627",
+        "Faisal Afridi": "ed0bc503",
+        "GF Linde": "e5437608",
+        "Hassan Nawaz": "26a8b2fe",
+        "L Ngidi": "f834dcfc",
+        "MP Breetzke": "35f173a0",
+        "Mohammad Nawaz": "3086f7a4",
+        "N Burger": "465aa633",
+        "Naseem Shah": "9c9af282",
+        "OEG Baartman": "6b9eb501",
+        "Q de Kock": "372455c4",
+        "RR Hendricks": "b8cc58c9",
+        "RS Madugalle": "766b5798",
+        "Rashid Riaz": "fb82725e",
+        "Sahibzada Farhan": "1aba45cd",
+        "Saim Ayub": "33609a8c",
+        "Salman Mirza": "7ab1eab7",
+        "T de Zorzi": "d3a1c63d",
+        "Tariq Rasheed": "1008518c",
+        "Usman Khan": "bafb9238"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "South Africa",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pakistan"
+    },
+    "venue": "Gaddafi Stadium, Lahore"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Salman Mirza",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Salman Mirza",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Hendricks",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Salman Mirza",
+              "non_striker": "T de Zorzi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Salman Mirza",
+              "non_striker": "T de Zorzi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "T de Zorzi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "T de Zorzi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Naseem Shah",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "T de Zorzi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Naseem Shah",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Naseem Shah",
+              "non_striker": "T de Zorzi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Q de Kock",
+                  "fielders": [
+                    {
+                      "name": "Agha Salman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T de Zorzi",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T de Zorzi",
+                  "fielders": [
+                    {
+                      "name": "Abrar Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "D Brevis",
+              "bowler": "Naseem Shah",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Breetzke",
+              "bowler": "Naseem Shah",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Breetzke",
+              "bowler": "Naseem Shah",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Breetzke",
+              "bowler": "Naseem Shah",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Naseem Shah",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Breetzke",
+              "bowler": "Naseem Shah",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "D Brevis",
+              "bowler": "Salman Mirza",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Salman Mirza",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Salman Mirza",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Breetzke",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP Breetzke",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Salman Mirza",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Brevis",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Ferreira",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "D Ferreira",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "D Brevis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Brevis",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Brevis",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Nawaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "D Ferreira",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D Ferreira",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ferreira",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GF Linde",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GF Linde",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Linde",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GF Linde",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "C Bosch",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "C Bosch",
+              "bowler": "Naseem Shah",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Naseem Shah",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Naseem Shah",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Naseem Shah",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Naseem Shah",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bosch",
+                  "fielders": [
+                    {
+                      "name": "Usman Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Naseem Shah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Naseem Shah",
+              "non_striker": "N Burger",
+              "review": {
+                "by": "South Africa",
+                "umpire": "Rashid Riaz",
+                "batter": "OEG Baartman",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Naseem Shah",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Salman Mirza",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Salman Mirza",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Salman Mirza",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Salman Mirza",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Salman Mirza",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Salman Mirza",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Burger",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Naseem Shah",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Naseem Shah",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Naseem Shah",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Naseem Shah",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Naseem Shah",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Naseem Shah",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "N Burger",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Burger",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "Abrar Ahmed",
+              "non_striker": "OEG Baartman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OEG Baartman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OEG Baartman",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "N Burger",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "N Burger",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "N Burger",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "N Burger",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "N Burger",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "N Burger",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "L Ngidi",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "L Ngidi",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "L Ngidi",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "L Ngidi",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "L Ngidi",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "L Ngidi",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Saim Ayub",
+              "bowler": "N Burger",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "N Burger",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "N Burger",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "N Burger",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "N Burger",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "N Burger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "N Burger",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "L Ngidi",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "L Ngidi",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "L Ngidi",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "L Ngidi",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "L Ngidi",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "L Ngidi",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "OEG Baartman",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "OEG Baartman",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Saim Ayub",
+              "bowler": "C Bosch",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "C Bosch",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "C Bosch",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sahibzada Farhan",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sahibzada Farhan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "C Bosch",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "OEG Baartman",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "GF Linde",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GF Linde",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "GF Linde",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GF Linde",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GF Linde",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "GF Linde",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Ferreira",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "GF Linde",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "GF Linde",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "GF Linde",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "GF Linde",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saim Ayub",
+              "bowler": "GF Linde",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "GF Linde",
+              "non_striker": "Saim Ayub",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Saim Ayub",
+              "bowler": "D Ferreira",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 111
+      }
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Malkerns",
+    "dates": [
+      "2025-09-14"
+    ],
+    "event": {
+      "name": "Mozambique tour of Eswatini",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3454,
+    "officials": {
+      "umpires": [
+        "EA Chitsondzo",
+        "Z Mazibuko"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Eswatini": [
+        "Adil Butt",
+        "Kamrul Hasan",
+        "Eric Phiri",
+        "H Rashid",
+        "M Khojbariya",
+        "H Jangariya",
+        "M Magagula",
+        "M Jele",
+        "Umair Qasim",
+        "Mohammed Alamgir",
+        "R Sandeep"
+      ],
+      "Mozambique": [
+        "AA Navicha",
+        "CB Roposo",
+        "JJ Huo",
+        "JM Joao",
+        "LI Salomone",
+        "LF Mavume",
+        "MA Algi",
+        "VE Tembo",
+        "N Ndzeute",
+        "MF Manjate",
+        "BA Sambo"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AA Navicha": "5c805a60",
+        "Adil Butt": "fde53ec1",
+        "BA Sambo": "e003888c",
+        "CB Roposo": "31f01815",
+        "EA Chitsondzo": "87521e16",
+        "Eric Phiri": "b6355062",
+        "H Jangariya": "0ec2277a",
+        "H Rashid": "725c73f2",
+        "JJ Huo": "d816fc1c",
+        "JM Joao": "2ef6c852",
+        "Kamrul Hasan": "6531eeea",
+        "LF Mavume": "5b531900",
+        "LI Salomone": "a7b67d5d",
+        "M Jele": "1a8cedc8",
+        "M Khojbariya": "e1631e47",
+        "M Magagula": "7a787b98",
+        "MA Algi": "17f507e7",
+        "MF Manjate": "882fd091",
+        "Mohammed Alamgir": "e0f12392",
+        "N Ndzeute": "63b1093f",
+        "R Sandeep": "175937f6",
+        "Umair Qasim": "e086735b",
+        "VE Tembo": "1439a13c",
+        "Z Mazibuko": "a9288384"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Eswatini",
+      "Mozambique"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Eswatini"
+    },
+    "venue": "Malkerns Country Club oval"
+  },
+  "innings": [
+    {
+      "team": "Eswatini",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Adil Butt",
+              "bowler": "AA Navicha",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "AA Navicha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "AA Navicha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "AA Navicha",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "AA Navicha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "AA Navicha",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "AA Navicha",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adil Butt",
+              "bowler": "AA Navicha",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adil Butt",
+                  "fielders": [
+                    {
+                      "name": "MF Manjate"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Eric Phiri",
+              "bowler": "AA Navicha",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Eric Phiri",
+              "bowler": "MA Algi",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "AA Navicha",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "AA Navicha",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "AA Navicha",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "AA Navicha",
+              "non_striker": "Eric Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Eric Phiri",
+              "bowler": "AA Navicha",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Eric Phiri",
+                  "fielders": [
+                    {
+                      "name": "MF Manjate"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Rashid",
+              "bowler": "AA Navicha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Rashid",
+              "bowler": "AA Navicha",
+              "non_striker": "Kamrul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamrul Hasan",
+              "bowler": "MA Algi",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kamrul Hasan",
+                  "fielders": [
+                    {
+                      "name": "AA Navicha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Khojbariya",
+              "bowler": "MA Algi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Khojbariya",
+              "bowler": "MA Algi",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Khojbariya",
+              "bowler": "MA Algi",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Khojbariya",
+              "bowler": "MA Algi",
+              "non_striker": "H Rashid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "H Rashid",
+              "bowler": "AA Navicha",
+              "non_striker": "M Khojbariya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Rashid",
+              "bowler": "AA Navicha",
+              "non_striker": "M Khojbariya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Rashid",
+              "bowler": "AA Navicha",
+              "non_striker": "M Khojbariya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.3,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

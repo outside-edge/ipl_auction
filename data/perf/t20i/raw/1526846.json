@@ -1,0 +1,2076 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-03-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Accra",
+    "dates": [
+      "2026-03-27"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier B",
+      "match_number": 7
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3787,
+    "officials": {
+      "match_referees": [
+        "O Chirombe"
+      ],
+      "reserve_umpires": [
+        "R D'Mello"
+      ],
+      "umpires": [
+        "D Odhiambo",
+        "Patric Makumbi"
+      ]
+    },
+    "outcome": {
+      "winner": "Ghana",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "J Guatam"
+    ],
+    "players": {
+      "St Helena": [
+        "J Essex",
+        "Delroy Leo",
+        "J Henry",
+        "A Yon",
+        "R Francis",
+        "J Thomas",
+        "AR Leo",
+        "CR Richards",
+        "Dane Leo",
+        "BK Stroud",
+        "J Yon"
+      ],
+      "Ghana": [
+        "J Guatam",
+        "R Baaleri",
+        "OH Agbomadzie",
+        "F Baleri",
+        "P Yevugah",
+        "Nitesh Hooda",
+        "L Nyarko",
+        "Devender Singh",
+        "BK Majji",
+        "S Devasia",
+        "V Ateak"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Yon": "99bf1fb7",
+        "AR Leo": "e13f8b16",
+        "BK Majji": "d864f752",
+        "BK Stroud": "6577a6ad",
+        "CR Richards": "c10a581f",
+        "D Odhiambo": "45994517",
+        "Dane Leo": "391d8a48",
+        "Delroy Leo": "e71f511e",
+        "Devender Singh": "68e21fb1",
+        "F Baleri": "6efdad14",
+        "J Essex": "84012d7f",
+        "J Guatam": "5992c2ba",
+        "J Henry": "68e7e8d5",
+        "J Thomas": "11b785d6",
+        "J Yon": "ecd41f8c",
+        "L Nyarko": "c391d077",
+        "Nitesh Hooda": "d424d06a",
+        "O Chirombe": "6345307f",
+        "OH Agbomadzie": "b38a9f73",
+        "P Yevugah": "5c842df4",
+        "Patric Makumbi": "e4c69c16",
+        "R Baaleri": "26c9b5be",
+        "R D'Mello": "f3c22863",
+        "R Francis": "06b766f4",
+        "S Devasia": "fb52a279",
+        "V Ateak": "65a60be7"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "St Helena",
+      "Ghana"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Ghana"
+    },
+    "venue": "Achimota Senior Secondary School A Field, Accra"
+  },
+  "innings": [
+    {
+      "team": "St Helena",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Essex",
+              "bowler": "L Nyarko",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "L Nyarko",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "L Nyarko",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "L Nyarko",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "L Nyarko",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "L Nyarko",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Delroy Leo",
+              "bowler": "Nitesh Hooda",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "Nitesh Hooda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "Nitesh Hooda",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "Nitesh Hooda",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "Nitesh Hooda",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "Nitesh Hooda",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "Nitesh Hooda",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "Nitesh Hooda",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Essex",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Essex",
+              "bowler": "L Nyarko",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "L Nyarko",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "L Nyarko",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "L Nyarko",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "L Nyarko",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "L Nyarko",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Essex",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "Delroy Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Delroy Leo",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Delroy Leo",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "OH Agbomadzie",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Henry",
+              "bowler": "V Ateak",
+              "non_striker": "J Essex",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Essex",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Essex",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Henry",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Henry",
+              "bowler": "V Ateak",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "V Ateak",
+              "non_striker": "A Yon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Yon",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Yon",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Yon",
+                  "fielders": [
+                    {
+                      "name": "L Nyarko"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "OH Agbomadzie",
+              "non_striker": "R Francis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Henry",
+              "bowler": "V Ateak",
+              "non_striker": "R Francis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "V Ateak",
+              "non_striker": "R Francis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Henry",
+              "bowler": "BK Majji",
+              "non_striker": "R Francis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "BK Majji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Francis",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Francis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Thomas",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "V Ateak",
+              "non_striker": "J Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "V Ateak",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "V Ateak",
+              "non_striker": "J Thomas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Thomas",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "BK Majji",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "BK Majji",
+              "non_striker": "J Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "BK Majji",
+              "non_striker": "J Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Thomas",
+              "bowler": "L Nyarko",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "L Nyarko",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "L Nyarko",
+              "non_striker": "J Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Henry",
+              "bowler": "L Nyarko",
+              "non_striker": "J Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Henry",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AR Leo",
+              "bowler": "L Nyarko",
+              "non_striker": "J Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Thomas",
+              "bowler": "L Nyarko",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Thomas",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AR Leo",
+              "bowler": "BK Majji",
+              "non_striker": "CR Richards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Leo",
+              "bowler": "BK Majji",
+              "non_striker": "CR Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CR Richards",
+              "bowler": "S Devasia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "S Devasia",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "S Devasia",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "S Devasia",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "S Devasia",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Richards",
+              "bowler": "S Devasia",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Leo",
+              "bowler": "S Devasia",
+              "non_striker": "CR Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CR Richards",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CR Richards",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Dane Leo",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dane Leo",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dane Leo",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dane Leo",
+              "bowler": "BK Majji",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Leo",
+              "bowler": "BK Majji",
+              "non_striker": "Dane Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Dane Leo",
+              "bowler": "S Devasia",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dane Leo",
+              "bowler": "S Devasia",
+              "non_striker": "AR Leo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Leo",
+              "bowler": "S Devasia",
+              "non_striker": "Dane Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Leo",
+              "bowler": "S Devasia",
+              "non_striker": "Dane Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Leo",
+                  "fielders": [
+                    {
+                      "name": "F Baleri"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "BK Stroud",
+              "bowler": "S Devasia",
+              "non_striker": "Dane Leo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dane Leo",
+                  "fielders": [
+                    {
+                      "name": "F Baleri"
+                    },
+                    {
+                      "name": "BK Majji"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "J Yon",
+              "bowler": "S Devasia",
+              "non_striker": "BK Stroud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "BK Stroud",
+              "bowler": "L Nyarko",
+              "non_striker": "J Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Stroud",
+              "bowler": "L Nyarko",
+              "non_striker": "J Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Stroud",
+              "bowler": "L Nyarko",
+              "non_striker": "J Yon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Stroud",
+              "bowler": "L Nyarko",
+              "non_striker": "J Yon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Yon",
+              "bowler": "L Nyarko",
+              "non_striker": "BK Stroud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Yon",
+              "bowler": "L Nyarko",
+              "non_striker": "BK Stroud",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "BK Stroud",
+              "bowler": "S Devasia",
+              "non_striker": "J Yon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BK Stroud",
+              "bowler": "S Devasia",
+              "non_striker": "J Yon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BK Stroud",
+              "bowler": "S Devasia",
+              "non_striker": "J Yon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Yon",
+              "bowler": "S Devasia",
+              "non_striker": "BK Stroud",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Yon",
+              "bowler": "S Devasia",
+              "non_striker": "BK Stroud",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Yon",
+              "bowler": "S Devasia",
+              "non_striker": "BK Stroud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "BK Stroud",
+                  "fielders": [
+                    {
+                      "name": "F Baleri"
+                    },
+                    {
+                      "name": "Devender Singh"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ghana",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Guatam",
+              "bowler": "R Francis",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "R Francis",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "R Francis",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "R Francis",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "R Francis",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "R Francis",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "R Francis",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Baaleri",
+              "bowler": "J Essex",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "J Essex",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "J Essex",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "J Essex",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "BK Stroud",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "BK Stroud",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "BK Stroud",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "BK Stroud",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Baaleri",
+              "bowler": "J Essex",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "J Essex",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "J Essex",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Baaleri",
+              "bowler": "J Essex",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "non_striker": "R Baaleri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "R Baaleri",
+              "bowler": "AR Leo",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Baaleri",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "OH Agbomadzie",
+              "bowler": "AR Leo",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OH Agbomadzie",
+              "bowler": "AR Leo",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OH Agbomadzie",
+              "bowler": "AR Leo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OH Agbomadzie",
+              "bowler": "AR Leo",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OH Agbomadzie",
+              "bowler": "AR Leo",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OH Agbomadzie",
+              "bowler": "AR Leo",
+              "non_striker": "J Guatam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "non_striker": "OH Agbomadzie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "non_striker": "OH Agbomadzie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "OH Agbomadzie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "non_striker": "OH Agbomadzie",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Guatam",
+              "bowler": "J Essex",
+              "non_striker": "OH Agbomadzie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 78
+      }
+    }
+  ]
+}

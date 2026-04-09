@@ -1,0 +1,3029 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-12-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Abuja",
+    "dates": [
+      "2025-12-05"
+    ],
+    "event": {
+      "name": "West Africa Trophy",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3604,
+    "officials": {
+      "match_referees": [
+        "Tonye Timinadi"
+      ],
+      "reserve_umpires": [
+        "TJ Onikoyi"
+      ],
+      "umpires": [
+        "Habib Enesi",
+        "Ramon Adelakun"
+      ]
+    },
+    "outcome": {
+      "winner": "Rwanda",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Z Bimenyimana"
+    ],
+    "players": {
+      "Zambia": [
+        "Mohmedazim Abbasbhai",
+        "Mohammad Bhaidu",
+        "Jakir Patel",
+        "Muhammad Asim",
+        "JV Chand",
+        "Javid Patel",
+        "Ayaz Dadabhai",
+        "Shahnawaz Patel",
+        "Soyeb Pendi",
+        "M Yambayamba",
+        "Aslam Bera"
+      ],
+      "Rwanda": [
+        "Hamza Khan",
+        "D Ndikubwimana",
+        "I Niyomugabo",
+        "D Gumyusenge",
+        "O Tuyisenge",
+        "Z Bimenyimana",
+        "C Rububagumya",
+        "Muhammad Nadir",
+        "I Ntirenganya",
+        "E Rukiriza",
+        "F Zirahangaje"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Aslam Bera": "bf50e8de",
+        "Ayaz Dadabhai": "5c658441",
+        "C Rububagumya": "8088632c",
+        "D Gumyusenge": "eeb78e0a",
+        "D Ndikubwimana": "3cbedf51",
+        "E Rukiriza": "3ac13a94",
+        "F Zirahangaje": "4de681b8",
+        "Habib Enesi": "fb35ab1f",
+        "Hamza Khan": "44a5f2b2",
+        "I Niyomugabo": "72bf5103",
+        "I Ntirenganya": "e73f6c4b",
+        "JV Chand": "59bff8c7",
+        "Jakir Patel": "82b1e99f",
+        "Javid Patel": "06989091",
+        "M Yambayamba": "40f1590c",
+        "Mohammad Bhaidu": "6d1c88a4",
+        "Mohmedazim Abbasbhai": "175d3d9f",
+        "Muhammad Asim": "8ba04532",
+        "Muhammad Nadir": "090f96e4",
+        "O Tuyisenge": "e6a6888f",
+        "Ramon Adelakun": "2cf9e146",
+        "Shahnawaz Patel": "aa86d9d4",
+        "Soyeb Pendi": "8d646b49",
+        "TJ Onikoyi": "b68d9bc6",
+        "Tonye Timinadi": "5cc0fccb",
+        "Z Bimenyimana": "ba57fb08"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Zambia",
+      "Rwanda"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Rwanda"
+    },
+    "venue": "Nigeria Cricket Federation Oval 1, Abuja"
+  },
+  "innings": [
+    {
+      "team": "Zambia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohmedazim Abbasbhai",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohmedazim Abbasbhai",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "Z Bimenyimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "Z Bimenyimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Mohammad Bhaidu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Bhaidu",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Bhaidu",
+                  "fielders": [
+                    {
+                      "name": "O Tuyisenge"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Muhammad Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Asim",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Asim",
+                  "fielders": [
+                    {
+                      "name": "D Ndikubwimana"
+                    },
+                    {
+                      "name": "I Niyomugabo"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Muhammad Nadir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Jakir Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jakir Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jakir Patel",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JV Chand",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "F Zirahangaje",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JV Chand",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "F Zirahangaje",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "F Zirahangaje",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "F Zirahangaje",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "E Rukiriza",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "E Rukiriza",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "E Rukiriza",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "Muhammad Nadir",
+              "non_striker": "JV Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JV Chand",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JV Chand",
+                  "fielders": [
+                    {
+                      "name": "D Ndikubwimana"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "E Rukiriza",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "E Rukiriza",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "E Rukiriza",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javid Patel",
+              "bowler": "I Ntirenganya",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Javid Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Javid Patel",
+              "bowler": "C Rububagumya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Javid Patel",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Nadir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shahnawaz Patel",
+              "bowler": "C Rububagumya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "C Rububagumya",
+              "non_striker": "Shahnawaz Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahnawaz Patel",
+              "bowler": "C Rububagumya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "C Rububagumya",
+              "non_striker": "Shahnawaz Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahnawaz Patel",
+              "bowler": "C Rububagumya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Shahnawaz Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Shahnawaz Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahnawaz Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahnawaz Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Shahnawaz Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahnawaz Patel",
+              "bowler": "Z Bimenyimana",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shahnawaz Patel",
+                  "fielders": [
+                    {
+                      "name": "C Rububagumya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "F Zirahangaje",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "F Zirahangaje",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "F Zirahangaje",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "F Zirahangaje",
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "I Ntirenganya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "C Rububagumya",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "C Rububagumya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "C Rububagumya",
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "C Rububagumya",
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soyeb Pendi",
+              "bowler": "C Rububagumya",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Ayaz Dadabhai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayaz Dadabhai",
+              "bowler": "C Rububagumya",
+              "non_striker": "Soyeb Pendi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.9,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Rwanda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "D Ndikubwimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "Aslam Bera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ndikubwimana",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ndikubwimana",
+                  "fielders": [
+                    {
+                      "name": "Ayaz Dadabhai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Ayaz Dadabhai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Ayaz Dadabhai",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Ayaz Dadabhai",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Ayaz Dadabhai",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Ayaz Dadabhai",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Ayaz Dadabhai",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Ayaz Dadabhai",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Javid Patel",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "JV Chand",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "JV Chand",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Javid Patel",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Javid Patel",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Muhammad Asim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Javid Patel",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Javid Patel",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "I Niyomugabo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "I Niyomugabo",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Niyomugabo",
+                  "fielders": [
+                    {
+                      "name": "Shahnawaz Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "JV Chand",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "JV Chand",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "JV Chand",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "JV Chand",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "JV Chand",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Muhammad Asim",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Muhammad Asim",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "D Gumyusenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Soyeb Pendi",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Gumyusenge",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Gumyusenge",
+                  "fielders": [
+                    {
+                      "name": "Ayaz Dadabhai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "Javid Patel",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Javid Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Javid Patel",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Javid Patel",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Khan",
+              "bowler": "Aslam Bera",
+              "non_striker": "O Tuyisenge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Tuyisenge",
+              "bowler": "Aslam Bera",
+              "non_striker": "Hamza Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 115
+      }
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-10-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mount Maunganui",
+    "dates": [
+      "2025-10-03"
+    ],
+    "event": {
+      "name": "Australia tour of New Zealand",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3497,
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "SB Haig"
+      ],
+      "tv_umpires": [
+        "CM Brown"
+      ],
+      "umpires": [
+        "C Black",
+        "WR Knights"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Australia": [
+        "MR Marsh",
+        "TM Head",
+        "MW Short",
+        "TH David",
+        "AT Carey",
+        "MP Stoinis",
+        "MJ Owen",
+        "SA Abbott",
+        "XC Bartlett",
+        "A Zampa",
+        "JR Hazlewood"
+      ],
+      "New Zealand": [
+        "TL Seifert",
+        "DP Conway",
+        "TB Robinson",
+        "MS Chapman",
+        "DJ Mitchell",
+        "JDS Neesham",
+        "MG Bracewell",
+        "BV Sears",
+        "IS Sodhi",
+        "MJ Henry",
+        "JA Duffy"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Zampa": "14f96089",
+        "AT Carey": "69d03465",
+        "BV Sears": "e1891e00",
+        "C Black": "75b42f71",
+        "CM Brown": "448f4f1c",
+        "DJ Mitchell": "eade4650",
+        "DP Conway": "df5a6881",
+        "IS Sodhi": "641ac5ff",
+        "JA Duffy": "dadbdb68",
+        "JDS Neesham": "9219eff0",
+        "JR Hazlewood": "03806cf8",
+        "MG Bracewell": "e38bce7a",
+        "MJ Henry": "e84ac20c",
+        "MJ Owen": "f2c936d7",
+        "MP Stoinis": "d9273ee7",
+        "MR Marsh": "3d8feaf8",
+        "MS Chapman": "7fa12533",
+        "MW Short": "a90e53ec",
+        "Prakash Bhatt": "f848ab0b",
+        "SA Abbott": "1a2676c5",
+        "SB Haig": "811655b3",
+        "TB Robinson": "5d664346",
+        "TH David": "f1f99156",
+        "TL Seifert": "4663bd23",
+        "TM Head": "12b610c2",
+        "WR Knights": "63cbf8d8",
+        "XC Bartlett": "3b53243a"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Australia",
+      "New Zealand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "New Zealand"
+    },
+    "venue": "Bay Oval, Mount Maunganui"
+  },
+  "innings": [
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "MJ Henry",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "MJ Henry",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "MJ Henry",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "MJ Henry",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "MJ Henry",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "MJ Henry",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TM Head",
+              "bowler": "JA Duffy",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "JA Duffy",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TM Head",
+                  "fielders": [
+                    {
+                      "name": "DP Conway"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MW Short",
+              "bowler": "JA Duffy",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JA Duffy",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JA Duffy",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JA Duffy",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MW Short",
+              "bowler": "BV Sears",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.1,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

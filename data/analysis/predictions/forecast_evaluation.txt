@@ -1,0 +1,60 @@
+============================================================
+WAR FORECASTING MODEL EVALUATION
+============================================================
+
+MODEL: XGBoost Regressor
+TARGET: Next-season IPL WAR (predict 2024 season WAR from prior data)
+
+Note: The 36% hedonic R² is IN-SAMPLE, our metrics are OUT-OF-SAMPLE.
+OOS prediction of sports performance is inherently difficult.
+
+----------------------------------------
+PERFORMANCE SUMMARY
+----------------------------------------
+Training R²:   0.331 (in-sample)
+Validation R²: 0.248 (2023 holdout)
+Test R²:       0.246 (2024 holdout - TRUE OOS)
+
+Test RMSE: 5.76
+Test MAE:  4.27
+
+----------------------------------------
+CROSS-VALIDATION (Rolling Window)
+----------------------------------------
+  2015: R²=-0.249
+  2016: R²=0.105
+  2017: R²=-0.082
+  2018: R²=0.278
+  2019: R²=0.168
+  2020: R²=0.063
+  2021: R²=-0.076
+  2022: R²=0.306
+  2023: R²=0.187
+  2024: R²=0.138
+
+  Mean R²: 0.084 ± 0.174
+
+----------------------------------------
+FEATURE IMPORTANCE (Top 10)
+----------------------------------------
+  ipl_war_avg_3y           : 0.209
+  combined_war_24m         : 0.190
+  combined_war_12m         : 0.123
+  t20i_career_war          : 0.056
+  is_mega_auction          : 0.055
+  ipl_war_lag3             : 0.051
+  ipl_war_lag1             : 0.050
+  has_t20i_history         : 0.050
+  ipl_career_war           : 0.049
+  ipl_war_lag2             : 0.044
+
+----------------------------------------
+CONCLUSION
+----------------------------------------
+Test R² of 24.6% is realistic for OOS sports prediction.
+For context:
+  - Random baseline R² = 0%
+  - Simple lag-1 correlation = ~18% (0.428² for lag1 WAR)
+  - Our model adds T20I data and multi-lag features for improvement
+
+The model captures ~25% of next-season WAR variance using prior data.

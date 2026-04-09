@@ -1,0 +1,2897 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-10-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Al Amarat",
+    "dates": [
+      "2025-10-10"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Asia & EAP Qualifier",
+      "match_number": 8,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3512,
+    "officials": {
+      "match_referees": [
+        "Hamim Khan"
+      ],
+      "reserve_umpires": [
+        "RMPJ Rambukwella"
+      ],
+      "umpires": [
+        "Masudur Rahman",
+        "Shiju Sam"
+      ]
+    },
+    "outcome": {
+      "winner": "Nepal",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Gulsan Jha"
+    ],
+    "players": {
+      "Japan": [
+        "K Kadowaki-Fleming",
+        "Abhishek Anand",
+        "Esam Rahman",
+        "I Takahashi",
+        "S Ravichandran",
+        "B Ito-Davis",
+        "D Suzuki",
+        "R Sakurano-Thomas",
+        "C Hinze",
+        "A Patmore",
+        "S Sugaya-Slater"
+      ],
+      "Nepal": [
+        "K Bhurtel",
+        "Aasif Sheikh",
+        "RK Paudel",
+        "S Jora",
+        "Kushal Malla",
+        "DS Airee",
+        "Gulsan Jha",
+        "Sompal Kami",
+        "NK Yadav",
+        "S Lamichhane",
+        "LN Rajbanshi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Patmore": "85119526",
+        "Aasif Sheikh": "dcbea954",
+        "Abhishek Anand": "2c12bc65",
+        "B Ito-Davis": "96275259",
+        "C Hinze": "626af7ff",
+        "D Suzuki": "64c81abf",
+        "DS Airee": "1747ea18",
+        "Esam Rahman": "5ea3a7c6",
+        "Gulsan Jha": "9811e35e",
+        "Hamim Khan": "f82540a3",
+        "I Takahashi": "c988daa1",
+        "K Bhurtel": "e3386c8a",
+        "K Kadowaki-Fleming": "33290a80",
+        "Kushal Malla": "7e9f1cde",
+        "LN Rajbanshi": "6ad2d5f7",
+        "Masudur Rahman": "9581ac6b",
+        "NK Yadav": "737e595d",
+        "R Sakurano-Thomas": "dd14abf5",
+        "RK Paudel": "1a3cc554",
+        "RMPJ Rambukwella": "13fa6ffc",
+        "S Jora": "156378d8",
+        "S Lamichhane": "b410bd3d",
+        "S Ravichandran": "9f2be73d",
+        "S Sugaya-Slater": "2d02f041",
+        "Shiju Sam": "1e2f3eae",
+        "Sompal Kami": "1adb8ee8"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Japan",
+      "Nepal"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Nepal"
+    },
+    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)"
+  },
+  "innings": [
+    {
+      "team": "Japan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "DS Airee",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "DS Airee",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Sompal Kami",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "NK Yadav",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Sompal Kami",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Sompal Kami",
+              "non_striker": "Abhishek Anand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhishek Anand",
+                  "fielders": [
+                    {
+                      "name": "DS Airee"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "NK Yadav",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Esam Rahman",
+              "bowler": "DS Airee",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "DS Airee",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "DS Airee",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "DS Airee",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "DS Airee",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Lamichhane",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Lamichhane",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "S Lamichhane",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "DS Airee",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "DS Airee",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Gulsan Jha",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Gulsan Jha",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Gulsan Jha",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "K Bhurtel",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "K Bhurtel",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "K Bhurtel",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "K Bhurtel",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "K Bhurtel",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "K Bhurtel",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Sompal Kami",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Esam Rahman",
+                  "fielders": [
+                    {
+                      "name": "S Jora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "Sompal Kami",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Gulsan Jha",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "Gulsan Jha",
+              "non_striker": "K Kadowaki-Fleming",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kadowaki-Fleming",
+              "bowler": "Gulsan Jha",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Kadowaki-Fleming",
+                  "fielders": [
+                    {
+                      "name": "RK Paudel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "Gulsan Jha",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "Gulsan Jha",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "Gulsan Jha",
+              "non_striker": "S Ravichandran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Ravichandran",
+              "bowler": "S Lamichhane",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "S Lamichhane",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ravichandran",
+              "bowler": "S Lamichhane",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ravichandran",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "S Lamichhane",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "S Lamichhane",
+              "non_striker": "I Takahashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Takahashi",
+              "bowler": "S Lamichhane",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "I Takahashi",
+              "bowler": "Gulsan Jha",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Takahashi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "Gulsan Jha",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "Gulsan Jha",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "Gulsan Jha",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "Gulsan Jha",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "Gulsan Jha",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "S Lamichhane",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "S Lamichhane",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "S Lamichhane",
+              "non_striker": "D Suzuki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "S Lamichhane",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "S Lamichhane",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Suzuki",
+              "bowler": "S Lamichhane",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Suzuki",
+                  "fielders": [
+                    {
+                      "name": "S Jora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "Gulsan Jha",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "Gulsan Jha",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "Gulsan Jha",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "Gulsan Jha",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "Gulsan Jha",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "Gulsan Jha",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "Sompal Kami",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "Sompal Kami",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "Sompal Kami",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "NK Yadav",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "R Sakurano-Thomas",
+                  "fielders": [
+                    {
+                      "name": "Aasif Sheikh"
+                    },
+                    {
+                      "name": "RK Paudel"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "C Hinze",
+              "bowler": "NK Yadav",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Hinze",
+              "bowler": "NK Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Hinze",
+              "bowler": "NK Yadav",
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Hinze",
+              "bowler": "NK Yadav",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "B Ito-Davis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "NK Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Hinze",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ito-Davis",
+              "bowler": "NK Yadav",
+              "non_striker": "C Hinze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Ito-Davis",
+                  "fielders": [
+                    {
+                      "name": "S Lamichhane"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Patmore",
+              "bowler": "NK Yadav",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "C Hinze",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "K Bhurtel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "K Bhurtel",
+              "bowler": "C Hinze",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "C Hinze",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "C Hinze",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "C Hinze",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "C Hinze",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "C Hinze",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "C Hinze",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "C Hinze",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "C Hinze",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "C Hinze",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "C Hinze",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "C Hinze",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "C Hinze",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Bhurtel",
+                  "fielders": [
+                    {
+                      "name": "K Kadowaki-Fleming"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "Esam Rahman",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "Esam Rahman",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Esam Rahman",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Esam Rahman",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "Esam Rahman",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "Esam Rahman",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Ravichandran",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Ravichandran",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Ravichandran",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Ravichandran",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Ravichandran",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Ravichandran",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Sugaya-Slater",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aasif Sheikh",
+                  "fielders": [
+                    {
+                      "name": "I Takahashi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "S Sugaya-Slater",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "C Hinze",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "C Hinze",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "C Hinze",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "C Hinze",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "C Hinze",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "C Hinze",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Jora",
+                  "fielders": [
+                    {
+                      "name": "B Ito-Davis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "I Takahashi",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "I Takahashi",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "I Takahashi",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "I Takahashi",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "I Takahashi",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "I Takahashi",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Kushal Malla",
+              "bowler": "D Suzuki",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Suzuki",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "D Suzuki",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Suzuki",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Suzuki",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "D Suzuki",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kushal Malla",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RK Paudel",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "D Suzuki",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "D Suzuki",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "D Suzuki",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "D Suzuki",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "D Suzuki",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "D Suzuki",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "S Ravichandran",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "S Ravichandran",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DS Airee",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 132
+      }
+    }
+  ]
+}

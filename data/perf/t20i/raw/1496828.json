@@ -1,0 +1,3308 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-08-07",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Zagreb",
+    "dates": [
+      "2025-08-07"
+    ],
+    "event": {
+      "name": "Cyprus tour of Croatia",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3292,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Cyprus",
+      "by": {
+        "runs": 58
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "R Mazumder"
+    ],
+    "players": {
+      "Cyprus": [
+        "R Mazumder",
+        "AA Senn",
+        "S Burdekin",
+        "MPGT Ketiyage",
+        "Adam Senn",
+        "S Austin",
+        "S Tharanga",
+        "R Siriwardena",
+        "Lovedeep Singh",
+        "Hardeep Singh",
+        "Waqar Ali"
+      ],
+      "Croatia": [
+        "JM Vujinovich",
+        "OSB Tilley",
+        "ZXM Vukusic",
+        "Saghar Manzoor",
+        "S Houghton",
+        "C Bevin",
+        "H Satheedevi",
+        "S Bevin",
+        "H Beresford-Peirse",
+        "A Razmilic",
+        "A Beresford-Peirse"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Beresford-Peirse": "4e7d882f",
+        "A Razmilic": "d92fb332",
+        "AA Senn": "719ac15b",
+        "Adam Senn": "34c3f7b9",
+        "Aminul Islam Chowdhury": "a2ef4337",
+        "C Bevin": "1e3db5f4",
+        "H Beresford-Peirse": "30291c08",
+        "H Satheedevi": "a17a9548",
+        "Hardeep Singh": "d617f2bf",
+        "JM Vujinovich": "99ad98b0",
+        "Lovedeep Singh": "a6e5e144",
+        "MPGT Ketiyage": "2d45d7d2",
+        "OSB Tilley": "3ddd957f",
+        "R Mazumder": "b23d3ec5",
+        "R Siriwardena": "c3ba4942",
+        "S Austin": "40ee633c",
+        "S Bevin": "cdb2858d",
+        "S Burdekin": "98e3f1de",
+        "S Houghton": "4895df9e",
+        "S Tharanga": "32332eea",
+        "Saghar Manzoor": "9d103769",
+        "Waqar Ali": "55a73018",
+        "ZXM Vukusic": "78a3ae4b"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Cyprus",
+      "Croatia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Croatia"
+    },
+    "venue": "Mladost Cricket Ground, Zagreb"
+  },
+  "innings": [
+    {
+      "team": "Cyprus",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Satheedevi",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Satheedevi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Senn",
+                  "fielders": [
+                    {
+                      "name": "JM Vujinovich"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Satheedevi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Satheedevi",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Satheedevi",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "A Beresford-Peirse",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Satheedevi",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Satheedevi",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Satheedevi",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "S Burdekin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Burdekin",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Burdekin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "H Beresford-Peirse",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPGT Ketiyage",
+                  "fielders": [
+                    {
+                      "name": "H Satheedevi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "S Bevin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "S Bevin",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "S Bevin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "S Bevin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "S Bevin",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "S Bevin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "S Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "S Bevin",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "S Bevin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "S Bevin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adam Senn",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "A Razmilic",
+                    "out": "S Bevin",
+                    "reason": "excluded - high full pitched balls",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "C Bevin",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "C Bevin",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "C Bevin",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "C Bevin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "C Bevin",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "C Bevin",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "C Bevin",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "C Bevin",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "C Bevin",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "A Razmilic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "A Razmilic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "ZXM Vukusic",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Croatia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JM Vujinovich",
+              "bowler": "Lovedeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vujinovich",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vujinovich",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vujinovich",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vujinovich",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Vujinovich",
+                  "fielders": [
+                    {
+                      "name": "S Austin"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Waqar Ali",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Waqar Ali",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Waqar Ali",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "OSB Tilley",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "R Siriwardena",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "R Siriwardena",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "R Siriwardena",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Hardeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Hardeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Hardeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Hardeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Hardeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "Hardeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "OSB Tilley",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "R Siriwardena",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "R Siriwardena",
+              "non_striker": "OSB Tilley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "R Siriwardena",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "OSB Tilley",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OSB Tilley",
+                  "fielders": [
+                    {
+                      "name": "AA Senn"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "Hardeep Singh",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Hardeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Hardeep Singh",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "R Siriwardena",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "R Siriwardena",
+              "non_striker": "ZXM Vukusic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZXM Vukusic",
+              "bowler": "R Siriwardena",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZXM Vukusic",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "R Siriwardena",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "R Siriwardena",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Houghton",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "C Bevin",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "C Bevin",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Adam Senn",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Adam Senn",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Hardeep Singh",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Hardeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Hardeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Hardeep Singh",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Hardeep Singh",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Hardeep Singh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Hardeep Singh",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Waqar Ali",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Waqar Ali",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Waqar Ali",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Waqar Ali",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "S Austin",
+              "non_striker": "C Bevin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bevin",
+              "bowler": "S Austin",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bevin",
+                  "fielders": [
+                    {
+                      "name": "Aminul Islam Chowdhury",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Satheedevi",
+              "bowler": "S Austin",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "S Austin",
+              "non_striker": "H Satheedevi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Satheedevi",
+              "bowler": "S Austin",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Satheedevi",
+              "bowler": "S Austin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Satheedevi",
+              "bowler": "S Austin",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Satheedevi",
+                  "fielders": [
+                    {
+                      "name": "S Burdekin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Waqar Ali",
+              "non_striker": "S Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bevin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Waqar Ali",
+              "non_striker": "S Bevin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bevin",
+              "bowler": "Waqar Ali",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bevin",
+              "bowler": "Waqar Ali",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bevin",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "Waqar Ali",
+              "non_striker": "S Bevin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 214
+      }
+    }
+  ]
+}

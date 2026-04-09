@@ -1,0 +1,1558 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-12-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2025-12-12"
+    ],
+    "event": {
+      "name": "SEA Games Men's Twenty20 Cricket Competition",
+      "match_number": 8
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3634,
+    "officials": {
+      "match_referees": [
+        "Suresh Singh"
+      ],
+      "reserve_umpires": [
+        "Hitesh Sharma"
+      ],
+      "tv_umpires": [
+        "AK Rana"
+      ],
+      "umpires": [
+        "Hardeep Jadeja",
+        "T Senthil Kumar"
+      ]
+    },
+    "outcome": {
+      "winner": "Malaysia",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Thailand": [
+        "C Chatphaisan",
+        "S Desungnoen",
+        "P Suanchuai",
+        "K Suttisan",
+        "Y Saranonnakkun",
+        "C Pengkumta",
+        "N Senamontree",
+        "P Thongsa",
+        "K Senamontree",
+        "W Ngowhuad",
+        "Sarawut Maliwan"
+      ],
+      "Malaysia": [
+        "Muhammad Haziq Aiman",
+        "Zubaidi Zulkifle",
+        "Muhammad Amir",
+        "S Muniandy",
+        "Ahmed Faiz",
+        "M Syahadat Ramli",
+        "Amir Khan",
+        "Syed Aziz",
+        "Virandeep Singh",
+        "Pavandeep Singh",
+        "S Vijay Unni"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AK Rana": "562d74d0",
+        "Ahmed Faiz": "f6b4f746",
+        "Amir Khan": "a7bc0f3d",
+        "C Chatphaisan": "85c56be8",
+        "C Pengkumta": "b3540b2a",
+        "Hardeep Jadeja": "552cf5a2",
+        "Hitesh Sharma": "2085a934",
+        "K Senamontree": "e553e27f",
+        "K Suttisan": "00757ae7",
+        "M Syahadat Ramli": "5efa8af3",
+        "Muhammad Amir": "60bec5c3",
+        "Muhammad Haziq Aiman": "1f13eba1",
+        "N Senamontree": "44e00a4c",
+        "P Suanchuai": "e6948355",
+        "P Thongsa": "62318525",
+        "Pavandeep Singh": "78fcc740",
+        "S Desungnoen": "3eb26dc4",
+        "S Muniandy": "57fcfd3b",
+        "S Vijay Unni": "f737ab44",
+        "Sarawut Maliwan": "36a0a88c",
+        "Suresh Singh": "073de6f9",
+        "Syed Aziz": "6667067e",
+        "T Senthil Kumar": "961ddfac",
+        "Virandeep Singh": "415d30b6",
+        "W Ngowhuad": "b8cd9955",
+        "Y Saranonnakkun": "9c93c0a3",
+        "Zubaidi Zulkifle": "dca8273d"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Thailand",
+      "Malaysia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malaysia"
+    },
+    "venue": "Terdthai Cricket Ground, Bangkok"
+  },
+  "innings": [
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Chatphaisan",
+                  "fielders": [
+                    {
+                      "name": "S Muniandy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Pavandeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Syed Aziz",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Suanchuai",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "K Suttisan",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Suttisan",
+                  "fielders": [
+                    {
+                      "name": "S Muniandy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Syed Aziz",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Pavandeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "Pavandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Y Saranonnakkun",
+                  "fielders": [
+                    {
+                      "name": "Amir Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Virandeep Singh",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Muhammad Amir",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Muhammad Amir",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Muhammad Amir",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "Muhammad Amir",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Desungnoen",
+                  "fielders": [
+                    {
+                      "name": "Amir Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Senamontree",
+              "bowler": "Muhammad Amir",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Senamontree",
+              "bowler": "Muhammad Amir",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "N Senamontree",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Senamontree",
+                  "fielders": [
+                    {
+                      "name": "Ahmed Faiz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Thongsa",
+                  "fielders": [
+                    {
+                      "name": "Pavandeep Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Virandeep Singh",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Virandeep Singh",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Muhammad Amir",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "Muhammad Amir",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Muhammad Amir",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Muhammad Amir",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "Muhammad Amir",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Muhammad Amir",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Virandeep Singh",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Virandeep Singh",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Virandeep Singh",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "Virandeep Singh",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "Virandeep Singh",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "C Pengkumta",
+              "bowler": "S Vijay Unni",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Pengkumta",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "W Ngowhuad",
+              "bowler": "S Vijay Unni",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Ngowhuad",
+              "bowler": "S Vijay Unni",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "S Vijay Unni",
+              "non_striker": "W Ngowhuad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "S Vijay Unni",
+              "non_striker": "W Ngowhuad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "S Vijay Unni",
+              "non_striker": "W Ngowhuad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "W Ngowhuad",
+              "bowler": "Syed Aziz",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Ngowhuad",
+              "bowler": "Syed Aziz",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Ngowhuad",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sarawut Maliwan",
+              "bowler": "Syed Aziz",
+              "non_striker": "K Senamontree",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sarawut Maliwan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "W Ngowhuad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Haziq Aiman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Haziq Aiman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Haziq Aiman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Haziq Aiman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Haziq Aiman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Haziq Aiman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "C Pengkumta",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "C Pengkumta",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "C Pengkumta",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "C Pengkumta",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "C Pengkumta",
+              "non_striker": "Zubaidi Zulkifle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubaidi Zulkifle",
+              "bowler": "C Pengkumta",
+              "non_striker": "Muhammad Haziq Aiman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zubaidi Zulkifle",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "W Ngowhuad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Haziq Aiman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Haziq Aiman",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Haziq Aiman",
+                  "fielders": [
+                    {
+                      "name": "Sarawut Maliwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Muniandy",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "W Ngowhuad",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "W Ngowhuad",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "W Ngowhuad",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "W Ngowhuad",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Muniandy",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Muniandy",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "Muhammad Amir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Amir",
+              "bowler": "Sarawut Maliwan",
+              "non_striker": "S Muniandy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.4,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 63
+      }
+    }
+  ]
+}

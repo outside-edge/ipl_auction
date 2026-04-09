@@ -1,0 +1,2820 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2025-07-24"
+    ],
+    "event": {
+      "name": "Asia Pacific Cricket Champions Trophy",
+      "match_number": 11
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3358,
+    "officials": {
+      "match_referees": [
+        "Sarika Prasad"
+      ],
+      "reserve_umpires": [
+        "Hardeep Jadeja"
+      ],
+      "umpires": [
+        "A Natarajan",
+        "Foyes Ahmed"
+      ]
+    },
+    "outcome": {
+      "winner": "Malaysia",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Ahmed Faiz"
+    ],
+    "players": {
+      "Samoa": [
+        "D Visser",
+        "SJ French",
+        "F Suluoto",
+        "CK Jasmat",
+        "BF Mailata",
+        "SF Tiai",
+        "S Sola",
+        "D Finau",
+        "Noah Mead",
+        "KAB Hynam-Nyberg",
+        "ML Maiava"
+      ],
+      "Malaysia": [
+        "Syed Aziz",
+        "Aslam Khan",
+        "Ahmed Faiz",
+        "Virandeep Singh",
+        "M Syahadat Ramli",
+        "Ainool Hafizs",
+        "Ahmed Aqeel",
+        "S Vijay Unni",
+        "Muhammad Amir",
+        "S Muniandy",
+        "Azri Azhar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Natarajan": "a2b73ae0",
+        "Ahmed Aqeel": "92f0e10e",
+        "Ahmed Faiz": "f6b4f746",
+        "Ainool Hafizs": "1bada9da",
+        "Aslam Khan": "31080a88",
+        "Azri Azhar": "23f37c09",
+        "BF Mailata": "f49935eb",
+        "CK Jasmat": "5299063a",
+        "D Finau": "63772ee4",
+        "D Visser": "bb4da4d3",
+        "F Suluoto": "ae380321",
+        "Foyes Ahmed": "465cdd1d",
+        "Hardeep Jadeja": "552cf5a2",
+        "KAB Hynam-Nyberg": "692ed48b",
+        "M Syahadat Ramli": "5efa8af3",
+        "ML Maiava": "a6710e6c",
+        "Muhammad Amir": "60bec5c3",
+        "Noah Mead": "0095a0e3",
+        "S Muniandy": "57fcfd3b",
+        "S Sola": "3f9feb1e",
+        "S Vijay Unni": "f737ab44",
+        "SF Tiai": "bf19d427",
+        "SJ French": "0e93ef92",
+        "Sarika Prasad": "8ff397fa",
+        "Syed Aziz": "6667067e",
+        "Virandeep Singh": "415d30b6"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Samoa",
+      "Malaysia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malaysia"
+    },
+    "venue": "Singapore National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Samoa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "Virandeep Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Virandeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "Azri Azhar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Azri Azhar",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Azri Azhar",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Azri Azhar",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Azri Azhar",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Azri Azhar",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Azri Azhar",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ French",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "SJ French",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SJ French",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ French",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Muhammad Amir",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Muhammad Amir",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "F Suluoto",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Suluoto",
+                  "fielders": [
+                    {
+                      "name": "Syed Aziz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Ahmed Aqeel",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "S Vijay Unni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "S Vijay Unni",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "S Vijay Unni",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Virandeep Singh",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Virandeep Singh",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Syed Aziz",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Syed Aziz",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Syed Aziz",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "Syed Aziz",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "Syed Aziz",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Syed Aziz",
+              "bowler": "BF Mailata",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "BF Mailata",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "BF Mailata",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "BF Mailata",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "BF Mailata",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "BF Mailata",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "BF Mailata",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "BF Mailata",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Aslam Khan",
+              "bowler": "CK Jasmat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "CK Jasmat",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "CK Jasmat",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aslam Khan",
+              "bowler": "CK Jasmat",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "CK Jasmat",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "CK Jasmat",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "CK Jasmat",
+              "non_striker": "Aslam Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Aslam Khan",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aslam Khan",
+                  "fielders": [
+                    {
+                      "name": "D Finau"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Syed Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "KAB Hynam-Nyberg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "KAB Hynam-Nyberg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Aziz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Syed Aziz",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "CK Jasmat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "CK Jasmat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CK Jasmat",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "CK Jasmat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "CK Jasmat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "CK Jasmat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KAB Hynam-Nyberg",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "BF Mailata",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "BF Mailata",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "BF Mailata",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "BF Mailata",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "BF Mailata",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "BF Mailata",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SF Tiai",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SF Tiai",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "Virandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Virandeep Singh",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Virandeep Singh",
+                  "fielders": [
+                    {
+                      "name": "F Suluoto"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "S Sola",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "S Sola",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "KAB Hynam-Nyberg",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "Noah Mead",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Noah Mead",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "Noah Mead",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Noah Mead",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Noah Mead",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Noah Mead",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SF Tiai",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "Noah Mead",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Noah Mead",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Noah Mead",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Noah Mead",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "Noah Mead",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "Noah Mead",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CK Jasmat",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "CK Jasmat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "CK Jasmat",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CK Jasmat",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CK Jasmat",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "CK Jasmat",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SF Tiai",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "SF Tiai",
+              "non_striker": "Ahmed Faiz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SF Tiai",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SF Tiai",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Faiz",
+              "bowler": "SF Tiai",
+              "non_striker": "M Syahadat Ramli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmed Faiz",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Syahadat Ramli",
+              "bowler": "CK Jasmat",
+              "non_striker": "Ainool Hafizs",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 189
+      }
+    }
+  ]
+}

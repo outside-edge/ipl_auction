@@ -1,0 +1,1778 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-01-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bali",
+    "dates": [
+      "2025-12-26"
+    ],
+    "event": {
+      "name": "Cambodia tour of Indonesia",
+      "match_number": 6
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3654,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "IKAW Kusuma"
+      ],
+      "umpires": [
+        "Riaz Ur Rahman",
+        "Yousuf Wadu"
+      ]
+    },
+    "outcome": {
+      "winner": "Indonesia",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Cambodia": [
+        "Shah Abrar Hussain",
+        "E Beukes",
+        "Marcelle Hanekom",
+        "Luqman Butt",
+        "GC Murtaza",
+        "NT Gireesh",
+        "Pel Vannak",
+        "Mongdara Sok",
+        "Md Shuayeb",
+        "Muhammad Naeem",
+        "Nirmaljit Singh"
+      ],
+      "Indonesia": [
+        "KD Kesuma",
+        "Anjar Tadarus",
+        "IK Gamantika",
+        "DJ Hawoe",
+        "R Ramadhasyena",
+        "AA Rahayu",
+        "A Alexander",
+        "Vineet Shah",
+        "Komang Putra",
+        "F Banunaek",
+        "IGTP Wiguna"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Alexander": "ef6d6883",
+        "AA Rahayu": "2327fdc7",
+        "Anjar Tadarus": "72275237",
+        "DJ Hawoe": "a62f55ba",
+        "E Beukes": "fbb8cf87",
+        "F Banunaek": "3c8faed4",
+        "GC Murtaza": "6cc4d322",
+        "IGTP Wiguna": "95f0262b",
+        "IK Gamantika": "4d7c5b56",
+        "IKAW Kusuma": "7ae108a8",
+        "KD Kesuma": "4b349dc0",
+        "Komang Putra": "083ffc5d",
+        "Luqman Butt": "7a6decc8",
+        "Marcelle Hanekom": "dd26ae6e",
+        "Md Shuayeb": "66000a39",
+        "Mongdara Sok": "9c5c3408",
+        "Muhammad Naeem": "993281c2",
+        "NT Gireesh": "32190239",
+        "Nirmaljit Singh": "cf719840",
+        "Pel Vannak": "4a6dbc50",
+        "R Ramadhasyena": "e1779851",
+        "Riaz Ur Rahman": "476a220a",
+        "Shah Abrar Hussain": "6ec13131",
+        "Vineet Shah": "ad85a036",
+        "Yousuf Wadu": "cf41005c"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Cambodia",
+      "Indonesia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Indonesia"
+    },
+    "venue": "Udayana Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Cambodia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Beukes",
+              "bowler": "F Banunaek",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "E Beukes",
+              "bowler": "DJ Hawoe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "DJ Hawoe",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "DJ Hawoe",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Beukes",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Beukes",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Beukes",
+              "bowler": "DJ Hawoe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Beukes",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "E Beukes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Beukes",
+              "bowler": "F Banunaek",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Beukes",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "F Banunaek",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "F Banunaek",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "DJ Hawoe",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "AA Rahayu",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "AA Rahayu",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "AA Rahayu",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "AA Rahayu",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "AA Rahayu",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "AA Rahayu",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IGTP Wiguna",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "IGTP Wiguna",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IGTP Wiguna",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IGTP Wiguna",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IGTP Wiguna",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IGTP Wiguna",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "IK Gamantika",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IK Gamantika",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "IK Gamantika",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IK Gamantika",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IK Gamantika",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IK Gamantika",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Komang Putra",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Komang Putra",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Komang Putra",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Komang Putra",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Komang Putra",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Komang Putra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "Komang Putra",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "IK Gamantika",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IK Gamantika",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IK Gamantika",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "IK Gamantika",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "IK Gamantika",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "IK Gamantika",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "F Banunaek",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "F Banunaek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marcelle Hanekom",
+              "bowler": "F Banunaek",
+              "non_striker": "Shah Abrar Hussain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shah Abrar Hussain",
+              "bowler": "F Banunaek",
+              "non_striker": "Marcelle Hanekom",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Indonesia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KD Kesuma",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Anjar Tadarus",
+                  "fielders": [
+                    {
+                      "name": "Shah Abrar Hussain"
+                    },
+                    {
+                      "name": "Luqman Butt"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "IK Gamantika",
+              "bowler": "GC Murtaza",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "GC Murtaza",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "GC Murtaza",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "GC Murtaza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "GC Murtaza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "GC Murtaza",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "GC Murtaza",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "GC Murtaza",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KD Kesuma",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "E Beukes",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KD Kesuma",
+                  "fielders": [
+                    {
+                      "name": "NT Gireesh"
+                    },
+                    {
+                      "name": "Muhammad Naeem"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Hawoe",
+              "bowler": "E Beukes",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DJ Hawoe",
+              "bowler": "Luqman Butt",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Hawoe",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Naeem"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Luqman Butt",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Luqman Butt",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Luqman Butt",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Luqman Butt",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Luqman Butt",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "E Beukes",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "E Beukes",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "E Beukes",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Shah Abrar Hussain",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Md Shuayeb",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Md Shuayeb",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Md Shuayeb",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Md Shuayeb",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Md Shuayeb",
+              "non_striker": "IK Gamantika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Gamantika",
+              "bowler": "Md Shuayeb",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IK Gamantika",
+                  "fielders": [
+                    {
+                      "name": "GC Murtaza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "GC Murtaza",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Rahayu",
+              "bowler": "GC Murtaza",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Rahayu",
+              "bowler": "GC Murtaza",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "GC Murtaza",
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "GC Murtaza",
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Rahayu",
+              "bowler": "GC Murtaza",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AA Rahayu",
+              "bowler": "GC Murtaza",
+              "non_striker": "R Ramadhasyena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Ramadhasyena",
+              "bowler": "Marcelle Hanekom",
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Ramadhasyena",
+                  "fielders": [
+                    {
+                      "name": "E Beukes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Alexander",
+              "bowler": "Marcelle Hanekom",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "A Alexander",
+                  "fielders": [
+                    {
+                      "name": "Marcelle Hanekom"
+                    },
+                    {
+                      "name": "Muhammad Naeem"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "AA Rahayu",
+              "bowler": "Marcelle Hanekom",
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Rahayu",
+              "bowler": "Marcelle Hanekom",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Rahayu",
+              "bowler": "Marcelle Hanekom",
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Rahayu",
+                  "fielders": [
+                    {
+                      "name": "NT Gireesh"
+                    },
+                    {
+                      "name": "Muhammad Naeem"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Komang Putra",
+              "bowler": "Marcelle Hanekom",
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Komang Putra",
+              "bowler": "Marcelle Hanekom",
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vineet Shah",
+              "bowler": "Marcelle Hanekom",
+              "non_striker": "Komang Putra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Komang Putra",
+              "bowler": "Luqman Butt",
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Komang Putra",
+              "bowler": "Luqman Butt",
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Komang Putra",
+              "bowler": "Luqman Butt",
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Komang Putra",
+              "bowler": "Luqman Butt",
+              "non_striker": "Vineet Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 11,
+        "runs": 103
+      }
+    }
+  ]
+}

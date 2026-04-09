@@ -1,0 +1,3001 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-08-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Oslo",
+    "dates": [
+      "2025-08-17"
+    ],
+    "event": {
+      "name": "Norway Tri-Nation T20I Series",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3409,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Sweden",
+      "by": {
+        "runs": 79
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Saeed Ahmed"
+    ],
+    "players": {
+      "Sweden": [
+        "Awais Ahmad",
+        "Imal Zuwak",
+        "A Mundra",
+        "YS Chauhan",
+        "Saeed Ahmed",
+        "Samiullah Rahmani",
+        "J Stanigze",
+        "A Dhabe",
+        "SK Gedara",
+        "Abdul Naser Baluch",
+        "Khalid Zahid"
+      ],
+      "Hungary": [
+        "Abbas Ghani",
+        "V Ravindran",
+        "Zeeshan Kukikhel",
+        "JM Polarouthu",
+        "Ali Farasat",
+        "Ali Nawaz",
+        "Zahir Mohammed",
+        "SA Mohandas",
+        "KN Gabhane",
+        "Amal Jacob",
+        "Kamran Wahid"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dhabe": "5a0dbdeb",
+        "A Mundra": "30ffaf85",
+        "Abbas Ghani": "a8f91f78",
+        "Abdul Naser Baluch": "6a88d66d",
+        "Ali Farasat": "5845b99b",
+        "Ali Nawaz": "deef8879",
+        "Amal Jacob": "5772882c",
+        "Awais Ahmad": "518a21ed",
+        "Imal Zuwak": "1283e17b",
+        "J Stanigze": "935305fd",
+        "JM Polarouthu": "e1481606",
+        "KN Gabhane": "28252261",
+        "Kamran Wahid": "5592153b",
+        "Khalid Zahid": "5c93efb1",
+        "SA Mohandas": "8b0b3bba",
+        "SK Gedara": "84c5c2f2",
+        "Saeed Ahmed": "63d6e16e",
+        "Samiullah Rahmani": "d5c38041",
+        "V Ravindran": "e5ecb1ef",
+        "YS Chauhan": "fb3233d4",
+        "Zahir Mohammed": "7c38942a",
+        "Zeeshan Kukikhel": "5d6a1f76"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Sweden",
+      "Hungary"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Hungary"
+    },
+    "venue": "Stubberudmyra Cricket Ground, Oslo"
+  },
+  "innings": [
+    {
+      "team": "Sweden",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Awais Ahmad",
+              "bowler": "SA Mohandas",
+              "non_striker": "Imal Zuwak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imal Zuwak",
+              "bowler": "SA Mohandas",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imal Zuwak",
+              "bowler": "SA Mohandas",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imal Zuwak",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Mundra",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Awais Ahmad",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Awais Ahmad",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Awais Ahmad",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "Awais Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Awais Ahmad",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Awais Ahmad",
+                  "fielders": [
+                    {
+                      "name": "Abbas Ghani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Mundra",
+              "bowler": "Kamran Wahid",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Kamran Wahid",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Kamran Wahid",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "SA Mohandas",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "SA Mohandas",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Mundra",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "A Mundra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mundra",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Mundra",
+                  "fielders": [
+                    {
+                      "name": "V Ravindran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Zeeshan Kukikhel",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Amal Jacob",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Amal Jacob",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Abbas Ghani",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Abbas Ghani",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Kamran Wahid",
+              "non_striker": "YS Chauhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YS Chauhan",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "YS Chauhan",
+                  "fielders": [
+                    {
+                      "name": "KN Gabhane"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Samiullah Rahmani",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Samiullah Rahmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Samiullah Rahmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Samiullah Rahmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Samiullah Rahmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Rahmani",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Samiullah Rahmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Samiullah Rahmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Ali Nawaz",
+              "non_striker": "Samiullah Rahmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Samiullah Rahmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Samiullah Rahmani",
+                  "fielders": [
+                    {
+                      "name": "Zeeshan Kukikhel"
+                    },
+                    {
+                      "name": "Kamran Wahid"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Kamran Wahid",
+              "non_striker": "J Stanigze",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Kamran Wahid",
+              "non_striker": "J Stanigze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Stanigze",
+              "bowler": "Kamran Wahid",
+              "non_striker": "Saeed Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Kamran Wahid",
+              "non_striker": "J Stanigze",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saeed Ahmed",
+              "bowler": "Kamran Wahid",
+              "non_striker": "J Stanigze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hungary",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ravindran",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Ravindran",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ravindran",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Khalid Zahid",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Khalid Zahid",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Khalid Zahid",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Khalid Zahid",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "V Ravindran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Ravindran",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Ravindran",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Ravindran",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Ravindran",
+                  "fielders": [
+                    {
+                      "name": "Samiullah Rahmani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "SK Gedara",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "SK Gedara",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "SK Gedara",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "SK Gedara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "SK Gedara",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "SK Gedara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "SK Gedara",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "SK Gedara",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Zeeshan Kukikhel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "Abdul Naser Baluch",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Zeeshan Kukikhel",
+              "bowler": "SK Gedara",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeeshan Kukikhel",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "SK Gedara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "SK Gedara",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "SK Gedara",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "SK Gedara",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "SK Gedara",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "SK Gedara",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Abbas Ghani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "A Dhabe",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "A Dhabe",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Abbas Ghani",
+              "bowler": "A Dhabe",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abbas Ghani",
+                  "fielders": [
+                    {
+                      "name": "Saeed Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "A Dhabe",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Farasat",
+              "bowler": "A Dhabe",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Farasat",
+                  "fielders": [
+                    {
+                      "name": "J Stanigze"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ali Nawaz",
+              "bowler": "A Dhabe",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Ali Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ali Nawaz",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ali Nawaz",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ali Nawaz",
+                  "fielders": [
+                    {
+                      "name": "Saeed Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "JM Polarouthu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Polarouthu",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Polarouthu",
+                  "fielders": [
+                    {
+                      "name": "Samiullah Rahmani"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "A Dhabe",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "A Dhabe",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "A Dhabe",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Mohandas",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Mohandas",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Mohandas",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Mohandas",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "SA Mohandas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Mohandas",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Mohandas",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Mohandas",
+                  "fielders": [
+                    {
+                      "name": "A Mundra"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Samiullah Rahmani",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KN Gabhane",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "A Dhabe",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "A Dhabe",
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Zahir Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zahir Mohammed",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zahir Mohammed",
+                  "fielders": [
+                    {
+                      "name": "Abdul Naser Baluch"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "Khalid Zahid",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Amal Jacob",
+              "bowler": "Khalid Zahid",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "Khalid Zahid",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "Khalid Zahid",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Khalid Zahid",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "Khalid Zahid",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Imal Zuwak",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Imal Zuwak",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Imal Zuwak",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Imal Zuwak",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Imal Zuwak",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "Imal Zuwak",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Gabhane",
+              "bowler": "J Stanigze",
+              "non_striker": "Amal Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amal Jacob",
+              "bowler": "J Stanigze",
+              "non_striker": "KN Gabhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 205
+      }
+    }
+  ]
+}

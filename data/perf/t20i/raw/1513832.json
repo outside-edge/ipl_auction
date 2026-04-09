@@ -1,0 +1,2928 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-12-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2025-12-13"
+    ],
+    "event": {
+      "name": "SEA Games Men's Twenty20 Cricket Competition",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3637,
+    "officials": {
+      "match_referees": [
+        "Suresh Singh"
+      ],
+      "reserve_umpires": [
+        "D Sevakumaran"
+      ],
+      "tv_umpires": [
+        "Hardeep Jadeja"
+      ],
+      "umpires": [
+        "A Natarajan",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Philippines",
+      "by": {
+        "wickets": 1
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Thailand": [
+        "C Chatphaisan",
+        "S Desungnoen",
+        "P Suanchuai",
+        "K Suttisan",
+        "C Pengkumta",
+        "Y Saranonnakkun",
+        "P Thongsa",
+        "K Senamontree",
+        "W Ngowhuad",
+        "N Senamontree",
+        "Saran Maliwan"
+      ],
+      "Philippines": [
+        "ASF Sirah",
+        "DC Smith",
+        "M Podosky",
+        "A Donovan",
+        "N Tanner",
+        "J Tuffin",
+        "KDA Lukies",
+        "HER Tyler",
+        "GR Russ",
+        "JEA Doctora",
+        "Rhys Burinaga"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Donovan": "02888f23",
+        "A Natarajan": "a2b73ae0",
+        "ASF Sirah": "06bcade5",
+        "C Chatphaisan": "85c56be8",
+        "C Pengkumta": "b3540b2a",
+        "D Sevakumaran": "b235cb97",
+        "DC Smith": "a968d39b",
+        "GR Russ": "1f28fdfd",
+        "HER Tyler": "0ba9de33",
+        "Hardeep Jadeja": "552cf5a2",
+        "J Tuffin": "8069f81f",
+        "JEA Doctora": "43449b1e",
+        "K Senamontree": "e553e27f",
+        "K Suttisan": "00757ae7",
+        "KDA Lukies": "14af45c4",
+        "M Podosky": "c46999c7",
+        "N Senamontree": "44e00a4c",
+        "N Tanner": "5f5efae1",
+        "P Suanchuai": "e6948355",
+        "P Thongsa": "62318525",
+        "Rhys Burinaga": "a6cbe67b",
+        "S Desungnoen": "3eb26dc4",
+        "Saran Maliwan": "c7e5cc8f",
+        "Suresh Singh": "073de6f9",
+        "V Kalidas": "42d76418",
+        "W Ngowhuad": "b8cd9955",
+        "Y Saranonnakkun": "9c93c0a3"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Thailand",
+      "Philippines"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Philippines"
+    },
+    "venue": "Terdthai Cricket Ground, Bangkok"
+  },
+  "innings": [
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "N Tanner",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "N Tanner",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "N Tanner",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "N Tanner",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "N Tanner",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "N Tanner",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "J Tuffin",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "J Tuffin",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "J Tuffin",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "J Tuffin",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "J Tuffin",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "J Tuffin",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "KDA Lukies",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "KDA Lukies",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "J Tuffin",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "J Tuffin",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "J Tuffin",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "J Tuffin",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "J Tuffin",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "J Tuffin",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "KDA Lukies",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chatphaisan",
+              "bowler": "KDA Lukies",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Chatphaisan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "KDA Lukies",
+              "non_striker": "S Desungnoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Desungnoen",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "N Tanner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Desungnoen",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Desungnoen",
+                  "fielders": [
+                    {
+                      "name": "J Tuffin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "J Tuffin",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "J Tuffin",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "J Tuffin",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "J Tuffin",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "J Tuffin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "J Tuffin",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "J Tuffin",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "ASF Sirah",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "ASF Sirah",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "HER Tyler",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "HER Tyler",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "HER Tyler",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "KDA Lukies",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "KDA Lukies",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "KDA Lukies",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "KDA Lukies",
+              "non_striker": "K Suttisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Suttisan",
+              "bowler": "KDA Lukies",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Suttisan",
+                  "fielders": [
+                    {
+                      "name": "ASF Sirah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "KDA Lukies",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "HER Tyler",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "N Tanner",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "N Tanner",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "N Tanner",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "N Tanner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "N Tanner",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "C Pengkumta",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "ASF Sirah",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "ASF Sirah",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Suanchuai",
+              "bowler": "ASF Sirah",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "ASF Sirah",
+              "non_striker": "P Suanchuai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "P Suanchuai",
+              "bowler": "N Tanner",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Suanchuai",
+                  "fielders": [
+                    {
+                      "name": "A Donovan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "N Tanner",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "N Tanner",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "N Tanner",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "N Tanner",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "N Tanner",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "C Pengkumta",
+              "bowler": "ASF Sirah",
+              "non_striker": "Y Saranonnakkun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "ASF Sirah",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Y Saranonnakkun",
+              "bowler": "ASF Sirah",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Y Saranonnakkun",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "ASF Sirah",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "ASF Sirah",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "ASF Sirah",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "P Thongsa",
+              "bowler": "HER Tyler",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "HER Tyler",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Thongsa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Thongsa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Thongsa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "HER Tyler",
+              "non_striker": "P Thongsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "C Pengkumta",
+              "bowler": "KDA Lukies",
+              "non_striker": "P Thongsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Thongsa",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Thongsa",
+                  "fielders": [
+                    {
+                      "name": "JEA Doctora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Senamontree",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Senamontree",
+                  "fielders": [
+                    {
+                      "name": "GR Russ"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "W Ngowhuad",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Ngowhuad",
+              "bowler": "KDA Lukies",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "C Pengkumta",
+              "bowler": "J Tuffin",
+              "non_striker": "W Ngowhuad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Ngowhuad",
+              "bowler": "J Tuffin",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Ngowhuad",
+              "bowler": "J Tuffin",
+              "non_striker": "C Pengkumta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "J Tuffin",
+              "non_striker": "W Ngowhuad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "J Tuffin",
+              "non_striker": "W Ngowhuad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pengkumta",
+              "bowler": "J Tuffin",
+              "non_striker": "W Ngowhuad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Philippines",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ASF Sirah",
+              "bowler": "W Ngowhuad",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "W Ngowhuad",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "W Ngowhuad",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "W Ngowhuad",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "W Ngowhuad",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "W Ngowhuad",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DC Smith",
+              "bowler": "K Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "K Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "K Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "K Senamontree",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "K Senamontree",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "K Senamontree",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DC Smith",
+              "bowler": "W Ngowhuad",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "W Ngowhuad",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "W Ngowhuad",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "W Ngowhuad",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "W Ngowhuad",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "W Ngowhuad",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "Saran Maliwan",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "Saran Maliwan",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "Saran Maliwan",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "ASF Sirah",
+              "bowler": "N Senamontree",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "N Senamontree",
+              "non_striker": "DC Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "N Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Smith",
+              "bowler": "N Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DC Smith",
+                  "fielders": [
+                    {
+                      "name": "Y Saranonnakkun"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Podosky",
+              "bowler": "N Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Podosky",
+              "bowler": "N Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "M Podosky",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "M Podosky",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "M Podosky",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "M Podosky",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Podosky",
+              "bowler": "Saran Maliwan",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Podosky",
+              "bowler": "Saran Maliwan",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ASF Sirah",
+              "bowler": "N Senamontree",
+              "non_striker": "M Podosky",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Podosky",
+              "bowler": "N Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Podosky",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "N Senamontree",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Donovan",
+              "bowler": "Saran Maliwan",
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "Saran Maliwan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ASF Sirah",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASF Sirah",
+              "bowler": "Saran Maliwan",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ASF Sirah",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N Tanner",
+              "bowler": "Saran Maliwan",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Tanner",
+              "bowler": "Saran Maliwan",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "Saran Maliwan",
+              "non_striker": "N Tanner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "N Tanner",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Tanner",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Tanner",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Tanner",
+                  "fielders": [
+                    {
+                      "name": "Saran Maliwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Donovan",
+              "bowler": "Saran Maliwan",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "Saran Maliwan",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "Saran Maliwan",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "Saran Maliwan",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "Saran Maliwan",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "Saran Maliwan",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Tuffin",
+              "bowler": "P Thongsa",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "P Thongsa",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "P Thongsa",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "P Thongsa",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "P Thongsa",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "P Thongsa",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "A Donovan",
+              "bowler": "S Desungnoen",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "S Desungnoen",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "S Desungnoen",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "S Desungnoen",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "S Desungnoen",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "S Desungnoen",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Donovan",
+              "bowler": "N Senamontree",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "N Senamontree",
+              "non_striker": "A Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Donovan",
+              "bowler": "N Senamontree",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Donovan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "N Senamontree",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "N Senamontree",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "N Senamontree",
+              "non_striker": "J Tuffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Tuffin",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Tuffin",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Tuffin",
+                  "fielders": [
+                    {
+                      "name": "Saran Maliwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HER Tyler",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HER Tyler",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HER Tyler",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HER Tyler",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KDA Lukies",
+              "bowler": "K Senamontree",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "K Senamontree",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "K Senamontree",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "K Senamontree",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "K Senamontree",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "K Senamontree",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GR Russ",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "C Pengkumta",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "GR Russ",
+              "bowler": "W Ngowhuad",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "W Ngowhuad",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "W Ngowhuad",
+              "non_striker": "KDA Lukies",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KDA Lukies",
+              "bowler": "W Ngowhuad",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KDA Lukies",
+                  "fielders": [
+                    {
+                      "name": "C Pengkumta"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JEA Doctora",
+              "bowler": "W Ngowhuad",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEA Doctora",
+              "bowler": "W Ngowhuad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JEA Doctora",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEA Doctora",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "C Pengkumta",
+              "non_striker": "JEA Doctora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "C Pengkumta",
+              "non_striker": "JEA Doctora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEA Doctora",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEA Doctora",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "GR Russ",
+              "bowler": "W Ngowhuad",
+              "non_striker": "JEA Doctora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "W Ngowhuad",
+              "non_striker": "JEA Doctora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEA Doctora",
+              "bowler": "W Ngowhuad",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEA Doctora",
+              "bowler": "W Ngowhuad",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "W Ngowhuad",
+              "non_striker": "JEA Doctora",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "W Ngowhuad",
+              "non_striker": "JEA Doctora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JEA Doctora",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JEA Doctora",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JEA Doctora",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Rhys Burinaga",
+              "bowler": "C Pengkumta",
+              "non_striker": "GR Russ",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Russ",
+              "bowler": "C Pengkumta",
+              "non_striker": "Rhys Burinaga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 154
+      }
+    }
+  ]
+}

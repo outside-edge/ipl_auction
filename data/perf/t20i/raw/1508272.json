@@ -1,0 +1,2224 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-11-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bali",
+    "dates": [
+      "2025-11-08"
+    ],
+    "event": {
+      "name": "Indonesia Tri-Nation T20I Series",
+      "match_number": 4
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3563,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "umpires": [
+        "Aye Min Than",
+        "Febri Irwanto"
+      ]
+    },
+    "outcome": {
+      "winner": "Indonesia",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Timor-Leste": [
+        "Yahya Suhail",
+        "Rahat Kazi",
+        "D Mendonca",
+        "Nazmul Huda",
+        "GF Cardos",
+        "Raihan Hossain",
+        "EDS Pimheiro",
+        "Suhail Sattar",
+        "Elias Tilman",
+        "Arif Hosen",
+        "RDS Morein"
+      ],
+      "Indonesia": [
+        "D Nanda",
+        "PR Surve",
+        "F Banunaek",
+        "J Dzulfikar",
+        "Anjar Tadarus",
+        "KD Kesuma",
+        "GD Arta",
+        "DJ Hawoe",
+        "AA Rahayu",
+        "S Kharvi",
+        "DK Shetty"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AA Rahayu": "2327fdc7",
+        "Anjar Tadarus": "72275237",
+        "Arif Hosen": "a21dfb66",
+        "Aye Min Than": "37f3bba0",
+        "D Mendonca": "8c2ce459",
+        "D Nanda": "22651574",
+        "DJ Hawoe": "a62f55ba",
+        "DK Shetty": "65cfc56b",
+        "EDS Pimheiro": "88d574fd",
+        "Elias Tilman": "53c35b3a",
+        "F Banunaek": "3c8faed4",
+        "Febri Irwanto": "762ac6fc",
+        "GD Arta": "e969e580",
+        "GF Cardos": "09e5baeb",
+        "J Dzulfikar": "05ea0342",
+        "KD Kesuma": "4b349dc0",
+        "Nazmul Huda": "837be376",
+        "PR Surve": "206efeb1",
+        "RDS Morein": "3e90fbfd",
+        "Rahat Kazi": "d4bebd88",
+        "Raihan Hossain": "3f05c34d",
+        "S Kharvi": "41a61623",
+        "Suhail Sattar": "5ffb535d",
+        "Yahya Suhail": "d1f14716"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Timor-Leste",
+      "Indonesia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Indonesia"
+    },
+    "venue": "Udayana Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Timor-Leste",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "DK Shetty",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "DK Shetty",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahat Kazi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "DK Shetty",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "DK Shetty",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "DK Shetty",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "D Mendonca",
+              "bowler": "F Banunaek",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "F Banunaek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "F Banunaek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "F Banunaek",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "F Banunaek",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "F Banunaek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "F Banunaek",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "F Banunaek",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "F Banunaek",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Mendonca",
+              "bowler": "DK Shetty",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "DK Shetty",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "DK Shetty",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "D Mendonca",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "D Mendonca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "D Mendonca",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Mendonca",
+                  "fielders": [
+                    {
+                      "name": "F Banunaek"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nazmul Huda",
+                  "fielders": [
+                    {
+                      "name": "DK Shetty"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "GF Cardos",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "J Dzulfikar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "J Dzulfikar",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "J Dzulfikar",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "J Dzulfikar",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "GD Arta",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GF Cardos",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "DJ Hawoe",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "GD Arta",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GF Cardos",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "GF Cardos",
+                  "fielders": [
+                    {
+                      "name": "PR Surve"
+                    },
+                    {
+                      "name": "KD Kesuma"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "J Dzulfikar",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yahya Suhail",
+                  "fielders": [
+                    {
+                      "name": "S Kharvi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "D Nanda",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "AA Rahayu",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "AA Rahayu",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "AA Rahayu",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "AA Rahayu",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "AA Rahayu",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "AA Rahayu",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "D Nanda",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "AA Rahayu",
+              "non_striker": "EDS Pimheiro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "AA Rahayu",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "AA Rahayu",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "AA Rahayu",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EDS Pimheiro",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "AA Rahayu",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "AA Rahayu",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "Anjar Tadarus",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "S Kharvi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "S Kharvi",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "S Kharvi",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Suhail Sattar",
+                  "fielders": [
+                    {
+                      "name": "D Nanda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Elias Tilman",
+              "bowler": "S Kharvi",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Elias Tilman",
+                  "fielders": [
+                    {
+                      "name": "Anjar Tadarus"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "S Kharvi",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "S Kharvi",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Raihan Hossain",
+                  "fielders": [
+                    {
+                      "name": "Anjar Tadarus"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RDS Morein",
+              "bowler": "S Kharvi",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Indonesia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "D Nanda",
+              "bowler": "Elias Tilman",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Elias Tilman",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Elias Tilman",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Elias Tilman",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Elias Tilman",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Elias Tilman",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "D Nanda",
+              "bowler": "Suhail Sattar",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Suhail Sattar",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Suhail Sattar",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Suhail Sattar",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Suhail Sattar",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Suhail Sattar",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Nanda",
+              "bowler": "Elias Tilman",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Elias Tilman",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Elias Tilman",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Elias Tilman",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Elias Tilman",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Elias Tilman",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "Raihan Hossain",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Raihan Hossain",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Raihan Hossain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Raihan Hossain",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Raihan Hossain",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Raihan Hossain",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Raihan Hossain",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "GF Cardos",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "GF Cardos",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "GF Cardos",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "GF Cardos",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "GF Cardos",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "GF Cardos",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Nanda",
+              "bowler": "Raihan Hossain",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Raihan Hossain",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Raihan Hossain",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Raihan Hossain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Raihan Hossain",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Raihan Hossain",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Raihan Hossain",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Raihan Hossain",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "PR Surve",
+              "bowler": "Yahya Suhail",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Yahya Suhail",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Yahya Suhail",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PR Surve",
+              "bowler": "Yahya Suhail",
+              "non_striker": "D Nanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Yahya Suhail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Yahya Suhail",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Nanda",
+              "bowler": "Yahya Suhail",
+              "non_striker": "PR Surve",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 60
+      }
+    }
+  ]
+}

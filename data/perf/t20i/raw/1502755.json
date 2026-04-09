@@ -1,0 +1,2953 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-10-02",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Harare",
+    "dates": [
+      "2025-10-02"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Africa Region Final",
+      "stage": "Semi Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3493,
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "A Louw"
+      ],
+      "umpires": [
+        "BP Jele",
+        "L Rusere"
+      ]
+    },
+    "outcome": {
+      "winner": "Namibia",
+      "by": {
+        "runs": 63
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "JJ Smit"
+    ],
+    "players": {
+      "Namibia": [
+        "MB Kruger",
+        "JN Frylinck",
+        "JN Loftie-Eaton",
+        "L Steenkamp",
+        "MG Erasmus",
+        "JJ Smit",
+        "R Trumpelmann",
+        "ZE Green",
+        "JI de Villiers",
+        "BM Scholtz",
+        "B Shikongo"
+      ],
+      "Tanzania": [
+        "Arun Yadav",
+        "AR Patwa",
+        "DA Mehta",
+        "A Augastin",
+        "MS Maker",
+        "AP Rajeevan",
+        "SA Jumbe",
+        "AM Kimote",
+        "K Juma",
+        "S Selvaraj",
+        "LS Barkania",
+        "K Nassoro"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Augastin": "056e3558",
+        "A Louw": "5eecae5d",
+        "AM Kimote": "34e36b65",
+        "AP Rajeevan": "63d6f031",
+        "AR Patwa": "b43f7a6a",
+        "Arun Yadav": "53ace082",
+        "B Shikongo": "c26cd57a",
+        "BM Scholtz": "e85d03d6",
+        "BP Jele": "7bb1331e",
+        "DA Mehta": "61a7d6e9",
+        "GH Pienaar": "3516e46b",
+        "JI de Villiers": "3847ec84",
+        "JJ Smit": "bb134e5c",
+        "JN Frylinck": "3c87f0c3",
+        "JN Loftie-Eaton": "f468293b",
+        "K Juma": "089ebf89",
+        "K Nassoro": "29ee9bf9",
+        "L Rusere": "6a4734ae",
+        "L Steenkamp": "8bd9fd13",
+        "LS Barkania": "073126d6",
+        "MB Kruger": "c51add25",
+        "MG Erasmus": "95a5e066",
+        "MS Maker": "14318ae4",
+        "R Trumpelmann": "ff6a7ab5",
+        "S Selvaraj": "f70f8dbb",
+        "SA Jumbe": "91056862",
+        "ZE Green": "8716233e"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Namibia",
+      "Tanzania"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Tanzania"
+    },
+    "venue": "Harare Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Namibia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "K Juma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MB Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JN Frylinck",
+              "bowler": "A Augastin",
+              "non_striker": "MB Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JN Frylinck",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "A Augastin",
+              "non_striker": "MB Kruger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "A Augastin",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "A Augastin",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "A Augastin",
+              "non_striker": "MB Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "A Augastin",
+              "non_striker": "MB Kruger",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "K Juma",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "SA Jumbe",
+              "non_striker": "MB Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "SA Jumbe",
+              "non_striker": "MB Kruger",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "SA Jumbe",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MB Kruger",
+              "bowler": "SA Jumbe",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MB Kruger",
+                  "fielders": [
+                    {
+                      "name": "AR Patwa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "SA Jumbe",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "SA Jumbe",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Steenkamp",
+              "bowler": "AM Kimote",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Steenkamp",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "AM Kimote",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "AM Kimote",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "AM Kimote",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JN Loftie-Eaton",
+                  "fielders": [
+                    {
+                      "name": "AP Rajeevan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "AM Kimote",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "S Selvaraj",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "S Selvaraj",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "S Selvaraj",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "S Selvaraj",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "S Selvaraj",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "S Selvaraj",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "S Selvaraj",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "S Selvaraj",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "S Selvaraj",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "A Augastin",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Augastin",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Augastin",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Augastin",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Augastin",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "A Augastin",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SA Jumbe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SA Jumbe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SA Jumbe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SA Jumbe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "LS Barkania",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "LS Barkania",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "AM Kimote",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "AM Kimote",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "AM Kimote",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "AM Kimote",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "AM Kimote",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SA Jumbe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SA Jumbe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SA Jumbe",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "SA Jumbe",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MG Erasmus",
+                  "fielders": [
+                    {
+                      "name": "MS Maker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Trumpelmann",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Trumpelmann",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "ZE Green",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZE Green",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "K Juma",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZE Green",
+              "bowler": "AM Kimote",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "ZE Green",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZE Green",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZE Green",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZE Green",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZE Green",
+              "bowler": "K Juma",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ZE Green",
+              "bowler": "K Juma",
+              "non_striker": "JJ Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Smit",
+              "bowler": "AM Kimote",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "ZE Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "BM Scholtz",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "BM Scholtz",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "BM Scholtz",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "BM Scholtz",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "DA Mehta",
+                    "out": "K Nassoro",
+                    "team": "Tanzania",
+                    "reason": "concussion_substitute"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Arun Yadav",
+              "bowler": "B Shikongo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Shikongo",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Shikongo",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Shikongo",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Shikongo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "B Shikongo",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "R Trumpelmann",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "JJ Smit",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "JJ Smit",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arun Yadav",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arun Yadav",
+                  "fielders": [
+                    {
+                      "name": "JN Loftie-Eaton"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Mehta",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Mehta",
+                  "fielders": [
+                    {
+                      "name": "BM Scholtz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "JJ Smit",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "BM Scholtz",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "BM Scholtz",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "BM Scholtz",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Augastin",
+              "bowler": "MG Erasmus",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "MG Erasmus",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "MG Erasmus",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "MG Erasmus",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "MG Erasmus",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "MG Erasmus",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "BM Scholtz",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "BM Scholtz",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Augastin",
+              "bowler": "MG Erasmus",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "MG Erasmus",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "MG Erasmus",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "MG Erasmus",
+              "non_striker": "AR Patwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "MG Erasmus",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "MG Erasmus",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Shikongo",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Shikongo",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Patwa",
+              "bowler": "B Shikongo",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Patwa",
+                  "fielders": [
+                    {
+                      "name": "L Steenkamp"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Shikongo",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Shikongo",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Shikongo",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MS Maker",
+              "bowler": "JI de Villiers",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "JI de Villiers",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "JI de Villiers",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "JI de Villiers",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "JI de Villiers",
+              "non_striker": "A Augastin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Augastin",
+              "bowler": "JI de Villiers",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Augastin",
+              "bowler": "B Shikongo",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Augastin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "B Shikongo",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Shikongo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Shikongo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "B Shikongo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "B Shikongo",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MS Maker",
+              "bowler": "BM Scholtz",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "BM Scholtz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "BM Scholtz",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "BM Scholtz",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "BM Scholtz",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "BM Scholtz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "BM Scholtz",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "BM Scholtz",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MS Maker",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "R Trumpelmann",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "R Trumpelmann",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "non_striker": "MS Maker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "JJ Smit",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Maker",
+              "bowler": "JJ Smit",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Maker",
+                  "fielders": [
+                    {
+                      "name": "JN Loftie-Eaton"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "JJ Smit",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "JJ Smit",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "R Trumpelmann",
+              "non_striker": "SA Jumbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Jumbe",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Jumbe",
+                  "fielders": [
+                    {
+                      "name": "JI de Villiers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "R Trumpelmann",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JJ Smit",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AM Kimote",
+              "bowler": "B Shikongo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "B Shikongo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "B Shikongo",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "B Shikongo",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "B Shikongo",
+              "non_striker": "AM Kimote",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kimote",
+              "bowler": "B Shikongo",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Kimote",
+                  "fielders": [
+                    {
+                      "name": "ZE Green"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "K Juma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Juma",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Juma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Selvaraj",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "AP Rajeevan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Rajeevan",
+              "bowler": "JN Loftie-Eaton",
+              "non_striker": "S Selvaraj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 175
+      }
+    }
+  ]
+}

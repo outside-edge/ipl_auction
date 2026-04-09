@@ -1,0 +1,3115 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sharjah",
+    "dates": [
+      "2025-09-27"
+    ],
+    "event": {
+      "name": "Nepal v West Indies T20I Series",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3477,
+    "officials": {
+      "match_referees": [
+        "V Narayan Kutty"
+      ],
+      "reserve_umpires": [
+        "Akbar Ali"
+      ],
+      "tv_umpires": [
+        "VK Jha"
+      ],
+      "umpires": [
+        "BB Pradhan",
+        "DN Subedi"
+      ]
+    },
+    "outcome": {
+      "winner": "Nepal",
+      "by": {
+        "runs": 19
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RK Paudel"
+    ],
+    "players": {
+      "Nepal": [
+        "K Bhurtel",
+        "Aasif Sheikh",
+        "RK Paudel",
+        "Kushal Malla",
+        "Gulsan Jha",
+        "DS Airee",
+        "S Jora",
+        "Sompal Kami",
+        "Karan KC",
+        "NK Yadav",
+        "LN Rajbanshi"
+      ],
+      "West Indies": [
+        "KR Mayers",
+        "AA Jangoo",
+        "AWJ Auguste",
+        "J Andrew",
+        "KU Carty",
+        "N Bidaisee",
+        "JO Holder",
+        "FA Allen",
+        "AJ Hosein",
+        "OC McCoy",
+        "RR Simmonds"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AA Jangoo": "88626ed2",
+        "AJ Hosein": "4d7f517e",
+        "AWJ Auguste": "4b167ede",
+        "Aasif Sheikh": "dcbea954",
+        "Akbar Ali": "e753931d",
+        "BB Pradhan": "8603d942",
+        "DN Subedi": "fb0a571f",
+        "DS Airee": "1747ea18",
+        "FA Allen": "b52ffbbd",
+        "Gulsan Jha": "9811e35e",
+        "J Andrew": "6b0db726",
+        "JO Holder": "0f721006",
+        "K Bhurtel": "e3386c8a",
+        "K Gore": "a6bab2a9",
+        "KR Mayers": "73c18486",
+        "KU Carty": "6020a3c6",
+        "Karan KC": "f53b3e1d",
+        "Kushal Malla": "7e9f1cde",
+        "LN Rajbanshi": "6ad2d5f7",
+        "N Bidaisee": "af5b6464",
+        "NK Yadav": "737e595d",
+        "OC McCoy": "529eb9e0",
+        "RK Paudel": "1a3cc554",
+        "RR Simmonds": "fcf6b0f6",
+        "S Jora": "156378d8",
+        "Sompal Kami": "1adb8ee8",
+        "V Narayan Kutty": "4bacee3d",
+        "VK Jha": "5d46eb72"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Nepal",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "venue": "Sharjah Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "K Bhurtel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "AJ Hosein",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "JO Holder",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "JO Holder",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "JO Holder",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "JO Holder",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "JO Holder",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Bhurtel",
+              "bowler": "JO Holder",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "K Bhurtel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Bhurtel",
+                  "fielders": [
+                    {
+                      "name": "AA Jangoo"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Aasif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "AJ Hosein",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Aasif Sheikh",
+              "bowler": "JO Holder",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aasif Sheikh",
+                  "fielders": [
+                    {
+                      "name": "KU Carty"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "JO Holder",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "JO Holder",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "JO Holder",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "JO Holder",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "JO Holder",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "AJ Hosein",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "AJ Hosein",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "AJ Hosein",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Kushal Malla",
+              "bowler": "RR Simmonds",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "RR Simmonds",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "RR Simmonds",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "RR Simmonds",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "RR Simmonds",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "RR Simmonds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "RR Simmonds",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "RR Simmonds",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "FA Allen",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "FA Allen",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "FA Allen",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "FA Allen",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "FA Allen",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "FA Allen",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "OC McCoy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "OC McCoy",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "OC McCoy",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "OC McCoy",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "OC McCoy",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "OC McCoy",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "OC McCoy",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "FA Allen",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "FA Allen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "FA Allen",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "FA Allen",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "FA Allen",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "FA Allen",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "FA Allen",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "OC McCoy",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "OC McCoy",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "OC McCoy",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "OC McCoy",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "OC McCoy",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "OC McCoy",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "N Bidaisee",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "N Bidaisee",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "N Bidaisee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "N Bidaisee",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kushal Malla",
+              "bowler": "N Bidaisee",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kushal Malla",
+                  "fielders": [
+                    {
+                      "name": "JO Holder"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "N Bidaisee",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "RR Simmonds",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "RR Simmonds",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "RR Simmonds",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "RR Simmonds",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "RR Simmonds",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "RR Simmonds",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "N Bidaisee",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RK Paudel",
+                  "fielders": [
+                    {
+                      "name": "AWJ Auguste"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "AJ Hosein",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "AJ Hosein",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "AJ Hosein",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "AJ Hosein",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "AJ Hosein",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "AJ Hosein",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "N Bidaisee",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DS Airee",
+              "bowler": "JO Holder",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "JO Holder",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "JO Holder",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "JO Holder",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "JO Holder",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "JO Holder",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "N Bidaisee",
+              "non_striker": "Gulsan Jha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "N Bidaisee",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "N Bidaisee",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "N Bidaisee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gulsan Jha",
+              "bowler": "N Bidaisee",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gulsan Jha",
+                  "fielders": [
+                    {
+                      "name": "KU Carty"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "N Bidaisee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "N Bidaisee",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "OC McCoy",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "OC McCoy",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "OC McCoy",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "OC McCoy",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "OC McCoy",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "OC McCoy",
+              "non_striker": "DS Airee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DS Airee",
+              "bowler": "JO Holder",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "JO Holder",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Airee",
+              "bowler": "JO Holder",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DS Airee",
+                  "fielders": [
+                    {
+                      "name": "N Bidaisee"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sompal Kami",
+              "bowler": "JO Holder",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "JO Holder",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Jora",
+                  "fielders": [
+                    {
+                      "name": "K Gore",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Karan KC",
+              "bowler": "JO Holder",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karan KC",
+                  "fielders": [
+                    {
+                      "name": "KR Mayers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sompal Kami",
+              "bowler": "OC McCoy",
+              "non_striker": "NK Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sompal Kami",
+              "bowler": "OC McCoy",
+              "non_striker": "NK Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sompal Kami",
+              "bowler": "OC McCoy",
+              "non_striker": "NK Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NK Yadav",
+              "bowler": "OC McCoy",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NK Yadav",
+              "bowler": "OC McCoy",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sompal Kami",
+              "bowler": "OC McCoy",
+              "non_striker": "NK Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "DS Airee",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DS Airee",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DS Airee",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DS Airee",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DS Airee",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DS Airee",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "Karan KC",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Karan KC",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KR Mayers",
+                  "fielders": [
+                    {
+                      "name": "K Bhurtel"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Karan KC",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "Karan KC",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Karan KC",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "Karan KC",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AA Jangoo",
+              "bowler": "DS Airee",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "DS Airee",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "DS Airee",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "DS Airee",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "DS Airee",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "DS Airee",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Karan KC",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Karan KC",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Karan KC",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "Karan KC",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "Karan KC",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Karan KC",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "NK Yadav",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "NK Yadav",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "NK Yadav",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "NK Yadav",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "NK Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "NK Yadav",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AWJ Auguste",
+                  "fielders": [
+                    {
+                      "name": "DS Airee"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "NK Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "NK Yadav",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Sompal Kami",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "Sompal Kami",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "Sompal Kami",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "Sompal Kami",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Sompal Kami",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "Sompal Kami",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Andrew",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Andrew",
+              "bowler": "RK Paudel",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "RK Paudel",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "RK Paudel",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Andrew",
+              "bowler": "RK Paudel",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Andrew",
+                  "fielders": [
+                    {
+                      "name": "S Jora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "RK Paudel",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "RK Paudel",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KU Carty",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Jangoo",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Jangoo",
+                  "fielders": [
+                    {
+                      "name": "S Jora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "LN Rajbanshi",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KU Carty",
+              "bowler": "RK Paudel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "RK Paudel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "RK Paudel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "RK Paudel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "RK Paudel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "RK Paudel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KU Carty",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "N Bidaisee",
+              "bowler": "RK Paudel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "RK Paudel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "RK Paudel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "RK Paudel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "RK Paudel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "RK Paudel",
+              "non_striker": "KU Carty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KU Carty",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KU Carty",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KU Carty",
+                  "fielders": [
+                    {
+                      "name": "Aasif Sheikh"
+                    },
+                    {
+                      "name": "DS Airee"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JO Holder",
+              "bowler": "Sompal Kami",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "Sompal Kami",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "Sompal Kami",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "Sompal Kami",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "Sompal Kami",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JO Holder",
+              "bowler": "Sompal Kami",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JO Holder",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JO Holder",
+                  "fielders": [
+                    {
+                      "name": "RK Paudel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "FA Allen",
+              "bowler": "Sompal Kami",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "Sompal Kami",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "Sompal Kami",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "Sompal Kami",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "Sompal Kami",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "Sompal Kami",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "K Bhurtel",
+              "non_striker": "N Bidaisee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Bidaisee",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Bidaisee",
+                  "kind": "hit wicket"
+                }
+              ]
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "K Bhurtel",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "FA Allen",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "Sompal Kami",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "Sompal Kami",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "Sompal Kami",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "Sompal Kami",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "Sompal Kami",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "Sompal Kami",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AJ Hosein",
+              "bowler": "Karan KC",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "Karan KC",
+              "non_striker": "AJ Hosein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Hosein",
+              "bowler": "Karan KC",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Hosein",
+                  "fielders": [
+                    {
+                      "name": "Gulsan Jha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "Karan KC",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "Karan KC",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "Karan KC",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "FA Allen",
+              "bowler": "DS Airee",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "DS Airee",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "DS Airee",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "DS Airee",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "DS Airee",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "DS Airee",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FA Allen",
+                  "fielders": [
+                    {
+                      "name": "K Bhurtel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 149
+      }
+    }
+  ]
+}

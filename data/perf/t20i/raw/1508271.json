@@ -1,0 +1,1410 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-11-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bali",
+    "dates": [
+      "2025-11-07"
+    ],
+    "event": {
+      "name": "Indonesia Tri-Nation T20I Series",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3562,
+    "officials": {
+      "match_referees": [
+        "S Hawoe"
+      ],
+      "umpires": [
+        "Faheem Butt",
+        "IKAW Kusuma"
+      ]
+    },
+    "outcome": {
+      "winner": "Myanmar",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "H Lin Oo"
+    ],
+    "players": {
+      "Timor-Leste": [
+        "Rahat Kazi",
+        "Yahya Suhail",
+        "Raihan Hossain",
+        "Suhail Sattar",
+        "D Mendonca",
+        "Nazmul Huda",
+        "GF Cardos",
+        "Arif Hosen",
+        "EDS Pimheiro",
+        "Elias Tilman",
+        "RDS Morein"
+      ],
+      "Myanmar": [
+        "KK Lin Thu",
+        "H Lin Oo",
+        "Thuya Aung",
+        "H Lin Aung",
+        "Khin Aye",
+        "Pyae Phyo Wai",
+        "Nyeing Cham Soe",
+        "Swann Htet Ko Ko",
+        "Myat Thu Aung",
+        "Sai Hla Htwe",
+        "Kaung Htet Kyaw"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Arif Hosen": "a21dfb66",
+        "D Mendonca": "8c2ce459",
+        "EDS Pimheiro": "88d574fd",
+        "Elias Tilman": "53c35b3a",
+        "Faheem Butt": "6707aa3f",
+        "GF Cardos": "09e5baeb",
+        "H Lin Aung": "c343a8c6",
+        "H Lin Oo": "2e005bfd",
+        "IKAW Kusuma": "7ae108a8",
+        "KK Lin Thu": "6cf75582",
+        "Kaung Htet Kyaw": "e1bd3e2e",
+        "Khin Aye": "ad2efd29",
+        "Myat Thu Aung": "cebbf3c9",
+        "Nazmul Huda": "837be376",
+        "Nyeing Cham Soe": "45b5ce8d",
+        "Pyae Phyo Wai": "09e86895",
+        "RDS Morein": "3e90fbfd",
+        "Rahat Kazi": "d4bebd88",
+        "Raihan Hossain": "3f05c34d",
+        "S Hawoe": "e773dfe5",
+        "Sai Hla Htwe": "740d29d5",
+        "Suhail Sattar": "5ffb535d",
+        "Swann Htet Ko Ko": "9ee21ee4",
+        "Thuya Aung": "2e092d2c",
+        "Yahya Suhail": "d1f14716"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Timor-Leste",
+      "Myanmar"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Timor-Leste"
+    },
+    "venue": "Udayana Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Timor-Leste",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Aung",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Aung",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Aung",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Aung",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Aung",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Aung",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Aung",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Aung",
+              "non_striker": "Yahya Suhail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yahya Suhail",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yahya Suhail",
+                  "fielders": [
+                    {
+                      "name": "H Lin Aung"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "H Lin Oo",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Oo",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Oo",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Oo",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Oo",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Oo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Oo",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Raihan Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raihan Hossain",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Rahat Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Raihan Hossain",
+                  "fielders": [
+                    {
+                      "name": "Swann Htet Ko Ko"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Rahat Kazi",
+              "bowler": "H Lin Oo",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahat Kazi",
+                  "fielders": [
+                    {
+                      "name": "Swann Htet Ko Ko"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "H Lin Oo",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "H Lin Oo",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "H Lin Oo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "H Lin Oo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Mendonca",
+              "bowler": "H Lin Oo",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Mendonca",
+                  "fielders": [
+                    {
+                      "name": "Swann Htet Ko Ko"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "H Lin Oo",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "H Lin Oo",
+              "non_striker": "Suhail Sattar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Suhail Sattar",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Suhail Sattar",
+                  "fielders": [
+                    {
+                      "name": "Khin Aye"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "H Lin Oo",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "H Lin Oo",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "H Lin Oo",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "H Lin Oo",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "H Lin Oo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "H Lin Oo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "H Lin Oo",
+              "non_striker": "GF Cardos",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GF Cardos",
+              "bowler": "H Lin Oo",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GF Cardos",
+                  "fielders": [
+                    {
+                      "name": "H Lin Aung"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "KK Lin Thu",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nazmul Huda",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Arif Hosen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arif Hosen",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arif Hosen",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "Thuya Aung",
+              "non_striker": "Nazmul Huda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nazmul Huda",
+                  "fielders": [
+                    {
+                      "name": "H Lin Oo"
+                    },
+                    {
+                      "name": "Swann Htet Ko Ko"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Elias Tilman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EDS Pimheiro",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Elias Tilman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EDS Pimheiro",
+                  "fielders": [
+                    {
+                      "name": "Nyeing Cham Soe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RDS Morein",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Elias Tilman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RDS Morein",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "Elias Tilman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RDS Morein",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Myanmar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Elias Tilman",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Elias Tilman",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Elias Tilman",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Elias Tilman",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Elias Tilman",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Elias Tilman",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Elias Tilman",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Suhail Sattar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Suhail Sattar",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Suhail Sattar",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Suhail Sattar",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Suhail Sattar",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Suhail Sattar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Suhail Sattar",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Suhail Sattar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Suhail Sattar",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Elias Tilman",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Elias Tilman",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Elias Tilman",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Elias Tilman",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Elias Tilman",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Elias Tilman",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Yahya Suhail",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Yahya Suhail",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Lin Thu",
+              "bowler": "Yahya Suhail",
+              "non_striker": "H Lin Oo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Lin Oo",
+              "bowler": "Yahya Suhail",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.4,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 33
+      }
+    }
+  ]
+}

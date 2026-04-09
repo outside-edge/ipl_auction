@@ -1,0 +1,2873 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "The Hague",
+    "dates": [
+      "2025-07-05"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Europe Region Final",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3275,
+    "officials": {
+      "match_referees": [
+        "Denavon Hayles"
+      ],
+      "reserve_umpires": [
+        "Aidan Seaver"
+      ],
+      "umpires": [
+        "R Black",
+        "RJ Warren"
+      ]
+    },
+    "outcome": {
+      "winner": "Netherlands",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "SA Edwards"
+    ],
+    "players": {
+      "Jersey": [
+        "H Carlyon",
+        "AM Tribe",
+        "ZM Tribe",
+        "JW Jenner",
+        "NA Greenwood",
+        "J Sumerauer",
+        "C Brennan",
+        "B Ward",
+        "DG Blampied",
+        "JE Dunford",
+        "CW Perchard"
+      ],
+      "Netherlands": [
+        "M Levitt",
+        "MP O'Dowd",
+        "ZB Lion-Cachet",
+        "SA Edwards",
+        "BFW de Leede",
+        "AT Nidamanuru",
+        "NRJ Croes",
+        "RE van der Merwe",
+        "K Klein",
+        "A Dutt",
+        "DT Doram"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dutt": "803dbf1d",
+        "AM Tribe": "86f84b37",
+        "AT Nidamanuru": "a319edf8",
+        "Aidan Seaver": "862c0b16",
+        "B Ward": "9e0bd203",
+        "BFW de Leede": "fc4375ef",
+        "C Brennan": "80f9fd4f",
+        "CW Perchard": "9f998ed8",
+        "DG Blampied": "d8976cb7",
+        "DT Doram": "3bea1983",
+        "Denavon Hayles": "5cbeeb02",
+        "H Carlyon": "42bf1b7d",
+        "J Sumerauer": "0b581ed6",
+        "JE Dunford": "89a7dd4a",
+        "JW Jenner": "32a8161e",
+        "K Klein": "374bb5e7",
+        "M Levitt": "6a71ba3a",
+        "MP O'Dowd": "b699df47",
+        "NA Greenwood": "7ca68967",
+        "NRJ Croes": "f427e63e",
+        "R Black": "156c8fb1",
+        "RE van der Merwe": "05c2ca46",
+        "RJ Warren": "9d1c62d7",
+        "SA Edwards": "b59db04f",
+        "ZB Lion-Cachet": "d99de998",
+        "ZM Tribe": "96fe3e9f"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Jersey",
+      "Netherlands"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Netherlands"
+    },
+    "venue": "Sportpark Westvliet, Voorburg"
+  },
+  "innings": [
+    {
+      "team": "Jersey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "H Carlyon",
+              "bowler": "A Dutt",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "A Dutt",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "A Dutt",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "A Dutt",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "A Dutt",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "A Dutt",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "H Carlyon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "K Klein",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "K Klein",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "K Klein",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Carlyon",
+              "bowler": "K Klein",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Carlyon",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AM Tribe",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Tribe",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Tribe",
+                  "fielders": [
+                    {
+                      "name": "MP O'Dowd"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JW Jenner",
+              "bowler": "K Klein",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "K Klein",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "K Klein",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "K Klein",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "K Klein",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "K Klein",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "BFW de Leede",
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "BFW de Leede",
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JW Jenner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "BFW de Leede",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "BFW de Leede",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JW Jenner",
+              "bowler": "BFW de Leede",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JW Jenner",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "DT Doram",
+              "non_striker": "NA Greenwood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Greenwood",
+              "bowler": "DT Doram",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Greenwood",
+              "bowler": "DT Doram",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NA Greenwood",
+              "bowler": "DT Doram",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "DT Doram",
+              "non_striker": "NA Greenwood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Greenwood",
+              "bowler": "DT Doram",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NA Greenwood",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "RE van der Merwe",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "RE van der Merwe",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "RE van der Merwe",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "RE van der Merwe",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "RE van der Merwe",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "RE van der Merwe",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "DT Doram",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "DT Doram",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "DT Doram",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "DT Doram",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "DT Doram",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "DT Doram",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "RE van der Merwe",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "RE van der Merwe",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "RE van der Merwe",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "RE van der Merwe",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "RE van der Merwe",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "RE van der Merwe",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Sumerauer",
+              "bowler": "BFW de Leede",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "BFW de Leede",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "BFW de Leede",
+              "non_striker": "J Sumerauer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "BFW de Leede",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Sumerauer",
+              "bowler": "BFW de Leede",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Sumerauer",
+                  "fielders": [
+                    {
+                      "name": "DT Doram"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "A Dutt",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "A Dutt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "A Dutt",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "A Dutt",
+              "non_striker": "ZM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "ZM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZM Tribe",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZM Tribe",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "C Brennan",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "ZB Lion-Cachet",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "BFW de Leede",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "BFW de Leede",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "B Ward",
+              "bowler": "DT Doram",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "DT Doram",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "DT Doram",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "DT Doram",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "DT Doram",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "DT Doram",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "C Brennan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "RE van der Merwe",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "RE van der Merwe",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "RE van der Merwe",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "RE van der Merwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "RE van der Merwe",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "C Brennan",
+              "bowler": "A Dutt",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "A Dutt",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "A Dutt",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "A Dutt",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "A Dutt",
+              "non_striker": "B Ward",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ward",
+              "bowler": "A Dutt",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "B Ward",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Ward",
+                  "fielders": [
+                    {
+                      "name": "NRJ Croes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DG Blampied",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "K Klein",
+              "non_striker": "DG Blampied",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DG Blampied",
+              "bowler": "K Klein",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "K Klein",
+              "non_striker": "DG Blampied",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "K Klein",
+              "non_striker": "DG Blampied",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "DG Blampied",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DG Blampied",
+              "bowler": "BFW de Leede",
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "DG Blampied",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "DG Blampied",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Brennan",
+              "bowler": "BFW de Leede",
+              "non_striker": "DG Blampied",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DG Blampied",
+              "bowler": "BFW de Leede",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "C Brennan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Levitt",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "H Carlyon",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "H Carlyon",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Levitt",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "J Sumerauer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "J Sumerauer",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "H Carlyon",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "B Ward",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "B Ward",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "B Ward",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "CW Perchard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "B Ward",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "B Ward",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "H Carlyon",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "H Carlyon",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "H Carlyon",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "AM Tribe",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "AM Tribe",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "AM Tribe",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "AM Tribe",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "AM Tribe",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "AM Tribe",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "ZB Lion-Cachet",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZB Lion-Cachet",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZB Lion-Cachet",
+                  "fielders": [
+                    {
+                      "name": "JE Dunford"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "J Sumerauer",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "B Ward",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "B Ward",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "B Ward",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "B Ward",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "J Sumerauer",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "J Sumerauer",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "NA Greenwood",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "NA Greenwood",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "CW Perchard",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP O'Dowd",
+              "bowler": "CW Perchard",
+              "non_striker": "SA Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP O'Dowd",
+                  "fielders": [
+                    {
+                      "name": "AM Tribe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SA Edwards",
+              "bowler": "B Ward",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "B Ward",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Edwards",
+              "bowler": "B Ward",
+              "non_striker": "BFW de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 161
+      }
+    }
+  ]
+}

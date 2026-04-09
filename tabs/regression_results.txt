@@ -1,0 +1,479 @@
+IPL Auction Hedonic Wage Regression Results
+============================================================
+
+
+Lagged Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.394
+Model:                            OLS   Adj. R-squared:                  0.391
+Method:                 Least Squares   F-statistic:                     221.1
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):          2.84e-107
+Time:                        13:40:48   Log-Likelihood:                -1371.9
+No. Observations:                 898   AIC:                             2752.
+Df Residuals:                     894   BIC:                             2771.
+Df Model:                           3                                         
+Covariance Type:                  HC1                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           0.4042      0.066      6.111      0.000       0.275       0.534
+runs_lag        0.0045      0.000     19.124      0.000       0.004       0.005
+wickets_lag     0.0688      0.006     10.737      0.000       0.056       0.081
+is_indian      -0.7988      0.079    -10.155      0.000      -0.953      -0.645
+==============================================================================
+Omnibus:                       86.332   Durbin-Watson:                   1.767
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               29.425
+Skew:                           0.159   Prob(JB):                     4.08e-07
+Kurtosis:                       2.172   Cond. No.                         415.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Full Lag Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.407
+Model:                            OLS   Adj. R-squared:                  0.402
+Method:                 Least Squares   F-statistic:                     107.6
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):          5.55e-114
+Time:                        13:40:48   Log-Likelihood:                -1362.0
+No. Observations:                 898   AIC:                             2740.
+Df Residuals:                     890   BIC:                             2778.
+Df Model:                           7                                         
+Covariance Type:                  HC1                                         
+===================================================================================
+                      coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+const               0.2967      0.085      3.503      0.000       0.131       0.463
+runs_lag            0.0031      0.000      7.412      0.000       0.002       0.004
+batting_avg_lag     0.0040      0.005      0.848      0.397      -0.005       0.013
+batting_sr_lag      0.0005      0.001      0.566      0.572      -0.001       0.002
+wickets_lag         0.0604      0.007      8.774      0.000       0.047       0.074
+economy_lag         0.0009      0.009      0.103      0.918      -0.016       0.018
+catches_lag         0.0702      0.016      4.371      0.000       0.039       0.102
+is_indian          -0.7777      0.079     -9.802      0.000      -0.933      -0.622
+==============================================================================
+Omnibus:                       56.427   Durbin-Watson:                   1.791
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               23.864
+Skew:                           0.160   Prob(JB):                     6.58e-06
+Kurtosis:                       2.268   Cond. No.                         489.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+WAR Lag Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.292
+Model:                            OLS   Adj. R-squared:                  0.290
+Method:                 Least Squares   F-statistic:                     161.1
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           4.37e-58
+Time:                        13:40:48   Log-Likelihood:                -1067.1
+No. Observations:                 689   AIC:                             2140.
+Df Residuals:                     686   BIC:                             2154.
+Df Model:                           2                                         
+Covariance Type:                  HC1                                         
+=================================================================================
+                    coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const             0.8461      0.067     12.635      0.000       0.715       0.977
+total_war_lag     0.0851      0.006     13.805      0.000       0.073       0.097
+is_indian        -0.7431      0.095     -7.788      0.000      -0.930      -0.556
+==============================================================================
+Omnibus:                       64.795   Durbin-Watson:                   1.662
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               20.680
+Skew:                          -0.080   Prob(JB):                     3.23e-05
+Kurtosis:                       2.166   Cond. No.                         19.8
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Baseline Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.475
+Model:                            OLS   Adj. R-squared:                  0.474
+Method:                 Least Squares   F-statistic:                     552.1
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):          2.39e-255
+Time:                        13:40:48   Log-Likelihood:                -2735.6
+No. Observations:                1831   AIC:                             5479.
+Df Residuals:                    1827   BIC:                             5501.
+Df Model:                           3                                         
+Covariance Type:                  HC1                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0364      0.044      0.828      0.408      -0.050       0.123
+runs           0.0050      0.000     24.098      0.000       0.005       0.005
+wickets        0.1017      0.005     18.801      0.000       0.091       0.112
+is_indian     -0.9010      0.053    -16.958      0.000      -1.005      -0.797
+==============================================================================
+Omnibus:                       34.263   Durbin-Watson:                   1.630
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               35.930
+Skew:                           0.343   Prob(JB):                     1.58e-08
+Kurtosis:                       2.970   Cond. No.                         378.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Full Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.504
+Model:                            OLS   Adj. R-squared:                  0.502
+Method:                 Least Squares   F-statistic:                     313.5
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):          2.87e-307
+Time:                        13:40:48   Log-Likelihood:                -2684.2
+No. Observations:                1831   AIC:                             5384.
+Df Residuals:                    1823   BIC:                             5429.
+Df Model:                           7                                         
+Covariance Type:                  HC1                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          -0.1592      0.049     -3.248      0.001      -0.255      -0.063
+runs            0.0036      0.000     10.450      0.000       0.003       0.004
+batting_avg    -0.0047      0.003     -1.356      0.175      -0.012       0.002
+batting_sr      0.0023      0.001      3.461      0.001       0.001       0.004
+wickets         0.0731      0.006     11.933      0.000       0.061       0.085
+economy         0.0277      0.006      4.457      0.000       0.016       0.040
+catches         0.0818      0.014      5.956      0.000       0.055       0.109
+is_indian      -0.8527      0.053    -15.998      0.000      -0.957      -0.748
+==============================================================================
+Omnibus:                       29.763   Durbin-Watson:                   1.635
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               31.183
+Skew:                           0.295   Prob(JB):                     1.69e-07
+Kurtosis:                       3.247   Cond. No.                         437.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Lag+Curr Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.545
+Model:                            OLS   Adj. R-squared:                  0.543
+Method:                 Least Squares   F-statistic:                     219.8
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):          8.60e-153
+Time:                        13:40:48   Log-Likelihood:                -1242.7
+No. Observations:                 898   AIC:                             2497.
+Df Residuals:                     892   BIC:                             2526.
+Df Model:                           5                                         
+Covariance Type:                  HC1                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           0.0138      0.059      0.234      0.815      -0.102       0.129
+runs            0.0034      0.000     13.038      0.000       0.003       0.004
+wickets         0.0740      0.007     10.127      0.000       0.060       0.088
+runs_lag        0.0028      0.000     10.723      0.000       0.002       0.003
+wickets_lag     0.0503      0.007      7.570      0.000       0.037       0.063
+is_indian      -0.6646      0.069     -9.627      0.000      -0.800      -0.529
+==============================================================================
+Omnibus:                        5.286   Durbin-Watson:                   1.714
+Prob(Omnibus):                  0.071   Jarque-Bera (JB):                4.423
+Skew:                           0.087   Prob(JB):                        0.110
+Kurtosis:                       2.703   Cond. No.                         584.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Year FE Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.529
+Model:                            OLS   Adj. R-squared:                  0.524
+Method:                 Least Squares   F-statistic:                     144.1
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):               0.00
+Time:                        13:40:48   Log-Likelihood:                -2636.7
+No. Observations:                1831   AIC:                             5311.
+Df Residuals:                    1812   BIC:                             5416.
+Df Model:                          18                                         
+Covariance Type:                  HC1                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.4027      0.133      3.030      0.002       0.142       0.663
+runs           0.0045      0.000     20.821      0.000       0.004       0.005
+wickets        0.0922      0.005     16.811      0.000       0.081       0.103
+is_indian     -0.9272      0.053    -17.403      0.000      -1.032      -0.823
+year_2011     -0.0337      0.238     -0.142      0.887      -0.500       0.433
+year_2013      0.1313      0.232      0.567      0.571      -0.323       0.585
+year_2014     -0.0706      0.144     -0.489      0.625      -0.354       0.213
+year_2015     -0.5441      0.194     -2.807      0.005      -0.924      -0.164
+year_2016     -0.4896      0.176     -2.779      0.005      -0.835      -0.144
+year_2017     -0.6757      0.180     -3.753      0.000      -1.029      -0.323
+year_2018      0.1750      0.145      1.206      0.228      -0.109       0.459
+year_2019     -0.0643      0.195     -0.330      0.742      -0.447       0.318
+year_2020     -0.2136      0.184     -1.163      0.245      -0.573       0.146
+year_2021     -0.2131      0.193     -1.106      0.269      -0.591       0.164
+year_2022     -0.0789      0.141     -0.559      0.576      -0.356       0.198
+year_2023     -0.5298      0.176     -3.016      0.003      -0.874      -0.186
+year_2024     -0.8501      0.136     -6.257      0.000      -1.116      -0.584
+year_2025     -0.4184      0.146     -2.864      0.004      -0.705      -0.132
+year_2026      0.2717      0.179      1.516      0.129      -0.080       0.623
+==============================================================================
+Omnibus:                       33.895   Durbin-Watson:                   1.642
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               35.303
+Skew:                           0.335   Prob(JB):                     2.16e-08
+Kurtosis:                       3.120   Cond. No.                     3.07e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+[2] The condition number is large, 3.07e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+WAR Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.223
+Model:                            OLS   Adj. R-squared:                  0.222
+Method:                 Least Squares   F-statistic:                     176.5
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           2.12e-67
+Time:                        13:40:48   Log-Likelihood:                -1816.6
+No. Observations:                1127   AIC:                             3639.
+Df Residuals:                    1124   BIC:                             3654.
+Df Model:                           2                                         
+Covariance Type:                  HC1                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.7972      0.056     14.138      0.000       0.687       0.908
+total_war      0.0741      0.006     12.856      0.000       0.063       0.085
+is_indian     -0.7737      0.077    -10.025      0.000      -0.925      -0.622
+==============================================================================
+Omnibus:                       81.534   Durbin-Watson:                   1.617
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               36.819
+Skew:                          -0.239   Prob(JB):                     1.01e-08
+Kurtosis:                       2.255   Cond. No.                         18.5
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+WAR Comp Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.224
+Model:                            OLS   Adj. R-squared:                  0.222
+Method:                 Least Squares   F-statistic:                     116.9
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           7.27e-66
+Time:                        13:40:48   Log-Likelihood:                -1816.1
+No. Observations:                1127   AIC:                             3640.
+Df Residuals:                    1123   BIC:                             3660.
+Df Model:                           3                                         
+Covariance Type:                  HC1                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           0.7975      0.056     14.149      0.000       0.687       0.908
+batting_war     0.0778      0.007     10.991      0.000       0.064       0.092
+bowling_war     0.0678      0.008      8.482      0.000       0.052       0.083
+is_indian      -0.7709      0.077     -9.985      0.000      -0.922      -0.620
+==============================================================================
+Omnibus:                       80.323   Durbin-Watson:                   1.622
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               36.858
+Skew:                          -0.243   Prob(JB):                     9.92e-09
+Kurtosis:                       2.260   Cond. No.                         14.2
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+WAR+Mega Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.224
+Model:                            OLS   Adj. R-squared:                  0.222
+Method:                 Least Squares   F-statistic:                     119.0
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           6.06e-67
+Time:                        13:40:48   Log-Likelihood:                -1816.1
+No. Observations:                1127   AIC:                             3640.
+Df Residuals:                    1123   BIC:                             3660.
+Df Model:                           3                                         
+Covariance Type:                  HC1                                         
+===================================================================================
+                      coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+const               0.7658      0.064     11.946      0.000       0.640       0.891
+total_war           0.0740      0.006     12.875      0.000       0.063       0.085
+is_indian          -0.7570      0.079     -9.608      0.000      -0.911      -0.603
+is_mega_auction     0.0769      0.077      0.995      0.320      -0.075       0.228
+==============================================================================
+Omnibus:                       80.953   Durbin-Watson:                   1.613
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               36.586
+Skew:                          -0.238   Prob(JB):                     1.14e-08
+Kurtosis:                       2.256   Cond. No.                         22.1
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+WAR YFE Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.275
+Model:                            OLS   Adj. R-squared:                  0.265
+Method:                 Least Squares   F-statistic:                     34.19
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           3.99e-85
+Time:                        13:40:48   Log-Likelihood:                -1777.8
+No. Observations:                1127   AIC:                             3590.
+Df Residuals:                    1110   BIC:                             3675.
+Df Model:                          16                                         
+Covariance Type:                  HC1                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.9901      0.135      7.317      0.000       0.725       1.255
+total_war      0.0682      0.006     12.053      0.000       0.057       0.079
+is_indian     -0.7530      0.079     -9.514      0.000      -0.908      -0.598
+year_2011      0.3502      0.199      1.761      0.078      -0.039       0.740
+year_2013      0.1301      0.277      0.469      0.639      -0.414       0.674
+year_2014     -0.0293      0.153     -0.192      0.848      -0.329       0.271
+year_2015     -0.2072      0.274     -0.756      0.450      -0.745       0.330
+year_2016     -0.5286      0.203     -2.605      0.009      -0.926      -0.131
+year_2017     -0.6474      0.223     -2.903      0.004      -1.085      -0.210
+year_2018      0.2395      0.149      1.604      0.109      -0.053       0.532
+year_2019     -0.0535      0.233     -0.229      0.819      -0.510       0.403
+year_2020     -0.2265      0.218     -1.041      0.298      -0.653       0.200
+year_2021     -0.2528      0.250     -1.011      0.312      -0.743       0.237
+year_2022     -0.0781      0.149     -0.523      0.601      -0.370       0.214
+year_2023     -0.8658      0.221     -3.911      0.000      -1.300      -0.432
+year_2024     -0.8939      0.220     -4.070      0.000      -1.324      -0.463
+year_2025     -0.1600      0.155     -1.032      0.302      -0.464       0.144
+==============================================================================
+Omnibus:                       37.649   Durbin-Watson:                   1.642
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               19.491
+Skew:                          -0.118   Prob(JB):                     5.86e-05
+Kurtosis:                       2.401   Cond. No.                         126.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Batsmen Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.568
+Model:                            OLS   Adj. R-squared:                  0.563
+Method:                 Least Squares   F-statistic:                     123.3
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           1.44e-64
+Time:                        13:40:48   Log-Likelihood:                -463.25
+No. Observations:                 340   AIC:                             936.5
+Df Residuals:                     335   BIC:                             955.6
+Df Model:                           4                                         
+Covariance Type:                  HC1                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          -0.2945      0.107     -2.757      0.006      -0.504      -0.085
+runs            0.0042      0.000      8.686      0.000       0.003       0.005
+batting_avg    -0.0087      0.007     -1.308      0.191      -0.022       0.004
+batting_sr      0.0065      0.002      3.738      0.000       0.003       0.010
+is_indian      -0.7585      0.111     -6.830      0.000      -0.976      -0.541
+==============================================================================
+Omnibus:                        1.197   Durbin-Watson:                   1.734
+Prob(Omnibus):                  0.550   Jarque-Bera (JB):                1.239
+Skew:                           0.077   Prob(JB):                        0.538
+Kurtosis:                       2.748   Cond. No.                         633.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Bowlers Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.394
+Model:                            OLS   Adj. R-squared:                  0.390
+Method:                 Least Squares   F-statistic:                     117.1
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           6.55e-74
+Time:                        13:40:48   Log-Likelihood:                -902.67
+No. Observations:                 610   AIC:                             1815.
+Df Residuals:                     605   BIC:                             1837.
+Df Model:                           4                                         
+Covariance Type:                  HC1                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          -0.3444      0.084     -4.101      0.000      -0.509      -0.180
+wickets         0.0912      0.008     10.962      0.000       0.075       0.108
+bowling_avg     0.0095      0.002      3.871      0.000       0.005       0.014
+economy         0.0304      0.012      2.443      0.015       0.006       0.055
+is_indian      -0.6683      0.088     -7.572      0.000      -0.841      -0.495
+==============================================================================
+Omnibus:                        2.499   Durbin-Watson:                   1.685
+Prob(Omnibus):                  0.287   Jarque-Bera (JB):                2.484
+Skew:                           0.156   Prob(JB):                        0.289
+Kurtosis:                       2.975   Cond. No.                         85.2
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+AllRounders Model:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.512
+Model:                            OLS   Adj. R-squared:                  0.508
+Method:                 Least Squares   F-statistic:                     138.7
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           1.80e-97
+Time:                        13:40:48   Log-Likelihood:                -873.23
+No. Observations:                 603   AIC:                             1758.
+Df Residuals:                     597   BIC:                             1785.
+Df Model:                           5                                         
+Covariance Type:                  HC1                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          -0.2666      0.082     -3.244      0.001      -0.428      -0.105
+runs            0.0038      0.001      6.411      0.000       0.003       0.005
+wickets         0.0783      0.011      7.076      0.000       0.057       0.100
+batting_avg     0.0054      0.005      1.170      0.242      -0.004       0.014
+economy         0.0471      0.011      4.233      0.000       0.025       0.069
+is_indian      -0.8943      0.094     -9.495      0.000      -1.079      -0.710
+==============================================================================
+Omnibus:                       15.401   Durbin-Watson:                   1.653
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               16.491
+Skew:                           0.344   Prob(JB):                     0.000262
+Kurtosis:                       3.427   Cond. No.                         354.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Market Efficiency Test:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       total_war_future   R-squared:                       0.049
+Model:                            OLS   Adj. R-squared:                  0.046
+Method:                 Least Squares   F-statistic:                     16.99
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           6.50e-08
+Time:                        13:40:48   Log-Likelihood:                -2103.7
+No. Observations:                 640   AIC:                             4213.
+Df Residuals:                     637   BIC:                             4227.
+Df Model:                           2                                         
+Covariance Type:                  HC1                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          4.8446      0.450     10.768      0.000       3.963       5.726
+log_price      0.8954      0.183      4.899      0.000       0.537       1.254
+is_indian     -0.8057      0.551     -1.464      0.143      -1.885       0.273
+==============================================================================
+Omnibus:                      100.955   Durbin-Watson:                   1.744
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              149.281
+Skew:                           1.079   Prob(JB):                     3.84e-33
+Kurtosis:                       3.972   Cond. No.                         4.63
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)

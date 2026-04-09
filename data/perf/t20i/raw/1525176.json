@@ -1,0 +1,3030 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-03-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "George Town",
+    "dates": [
+      "2026-03-15"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Americas Qualifier B",
+      "match_number": 11
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3774,
+    "officials": {
+      "match_referees": [
+        "Denavon Hayles"
+      ],
+      "reserve_umpires": [
+        "A Gajjar"
+      ],
+      "umpires": [
+        "AR Maddela",
+        "Jermaine Lindo"
+      ]
+    },
+    "outcome": {
+      "winner": "Suriname",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "G Singh"
+    ],
+    "players": {
+      "Mexico": [
+        "J Byrappa",
+        "KB Patil",
+        "S Kochar",
+        "Amir Butt",
+        "D Panda",
+        "D Ebersohn",
+        "Gurpreet Singh",
+        "Shantanu Kaveri",
+        "Shoaib Rafiq",
+        "S Sharma",
+        "Pratik Singh Bais"
+      ],
+      "Suriname": [
+        "S Bharratt",
+        "V Hirlal",
+        "V Shaw",
+        "G Singh",
+        "TA Dudnath",
+        "XSD Smith",
+        "YP Dayal",
+        "AK Gokoel",
+        "J Perry",
+        "K Jaikaran",
+        "SA Amirullah"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gajjar": "37db06ef",
+        "AK Gokoel": "2fff8b43",
+        "AR Maddela": "5c861579",
+        "Amir Butt": "5bdf2343",
+        "D Ebersohn": "6ca4e7bf",
+        "D Panda": "bad1af65",
+        "Denavon Hayles": "5cbeeb02",
+        "G Singh": "e93b6c95",
+        "Gurpreet Singh": "f43dcdc1",
+        "J Byrappa": "860f7b67",
+        "J Perry": "f5c73a14",
+        "Jermaine Lindo": "1154bf4f",
+        "K Jaikaran": "420431c9",
+        "KB Patil": "0474fd64",
+        "Pratik Singh Bais": "5b351aff",
+        "S Bharratt": "1335107b",
+        "S Kochar": "da2eeb97",
+        "S Sharma": "d6d2ac95",
+        "SA Amirullah": "2e78ffac",
+        "Shantanu Kaveri": "091880f7",
+        "Shoaib Rafiq": "27df03d2",
+        "TA Dudnath": "15322a7b",
+        "V Hirlal": "3eb2a27b",
+        "V Shaw": "e05dd44b",
+        "XSD Smith": "f4f892a3",
+        "YP Dayal": "990f1424"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Mexico",
+      "Suriname"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Suriname"
+    },
+    "venue": "Jimmy Powell Oval, Cayman Islands"
+  },
+  "innings": [
+    {
+      "team": "Mexico",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "KB Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "TA Dudnath",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KB Patil",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KB Patil",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KB Patil",
+                  "fielders": [
+                    {
+                      "name": "S Bharratt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "G Singh",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Kochar",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "TA Dudnath",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "TA Dudnath",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "G Singh",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "G Singh",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "G Singh",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "G Singh",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Byrappa",
+              "bowler": "AK Gokoel",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "AK Gokoel",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "AK Gokoel",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "AK Gokoel",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "AK Gokoel",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "AK Gokoel",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Byrappa",
+              "bowler": "G Singh",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "G Singh",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "G Singh",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "G Singh",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Kochar",
+              "bowler": "AK Gokoel",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "AK Gokoel",
+              "non_striker": "S Kochar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kochar",
+              "bowler": "AK Gokoel",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kochar",
+                  "fielders": [
+                    {
+                      "name": "J Perry"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "AK Gokoel",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "AK Gokoel",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "AK Gokoel",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "XSD Smith",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "XSD Smith",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "XSD Smith",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "XSD Smith",
+              "non_striker": "J Byrappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Byrappa",
+              "bowler": "XSD Smith",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Byrappa",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "XSD Smith",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "YP Dayal",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "YP Dayal",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "YP Dayal",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "YP Dayal",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "YP Dayal",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "YP Dayal",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Amir Butt",
+              "bowler": "XSD Smith",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "XSD Smith",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "XSD Smith",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "XSD Smith",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "XSD Smith",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "XSD Smith",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "D Panda",
+              "bowler": "AK Gokoel",
+              "non_striker": "Amir Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "AK Gokoel",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "AK Gokoel",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "AK Gokoel",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amir Butt",
+              "bowler": "AK Gokoel",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amir Butt",
+                  "fielders": [
+                    {
+                      "name": "XSD Smith"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Ebersohn",
+              "bowler": "AK Gokoel",
+              "non_striker": "D Panda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Panda",
+              "bowler": "XSD Smith",
+              "non_striker": "D Ebersohn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Panda",
+              "bowler": "XSD Smith",
+              "non_striker": "D Ebersohn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Panda",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "XSD Smith",
+              "non_striker": "D Ebersohn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "XSD Smith",
+              "non_striker": "D Ebersohn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "XSD Smith",
+              "non_striker": "D Ebersohn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "XSD Smith",
+              "non_striker": "D Ebersohn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "D Ebersohn",
+              "bowler": "V Shaw",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Ebersohn",
+              "bowler": "V Shaw",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ebersohn",
+              "bowler": "V Shaw",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ebersohn",
+              "bowler": "V Shaw",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ebersohn",
+              "bowler": "V Shaw",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ebersohn",
+              "bowler": "V Shaw",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "D Ebersohn",
+              "bowler": "XSD Smith",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ebersohn",
+              "bowler": "XSD Smith",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ebersohn",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "XSD Smith",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "XSD Smith",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "XSD Smith",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "XSD Smith",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "V Shaw",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "V Shaw",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "V Shaw",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "V Shaw",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "V Shaw",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "V Shaw",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "YP Dayal",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "YP Dayal",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "YP Dayal",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gurpreet Singh",
+              "bowler": "YP Dayal",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "YP Dayal",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "YP Dayal",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "AK Gokoel",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "AK Gokoel",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "AK Gokoel",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "AK Gokoel",
+              "non_striker": "Gurpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gurpreet Singh",
+                  "fielders": [
+                    {
+                      "name": "AK Gokoel"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Shoaib Rafiq",
+              "bowler": "AK Gokoel",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shoaib Rafiq",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Sharma",
+              "bowler": "AK Gokoel",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "V Shaw",
+              "non_striker": "S Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sharma",
+              "bowler": "V Shaw",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Sharma",
+              "bowler": "V Shaw",
+              "non_striker": "Shantanu Kaveri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "V Shaw",
+              "non_striker": "S Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "V Shaw",
+              "non_striker": "S Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shantanu Kaveri",
+              "bowler": "V Shaw",
+              "non_striker": "S Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shantanu Kaveri",
+                  "fielders": [
+                    {
+                      "name": "K Jaikaran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Suriname",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Hirlal",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Hirlal",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Hirlal",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Hirlal",
+              "bowler": "Pratik Singh Bais",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Hirlal",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Hirlal",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Hirlal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Hirlal",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Hirlal",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Hirlal",
+              "bowler": "D Panda",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Hirlal",
+              "bowler": "D Panda",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Hirlal",
+                  "fielders": [
+                    {
+                      "name": "Shoaib Rafiq"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "D Panda",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "D Panda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "D Panda",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "D Panda",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "D Panda",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "S Bharratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Bharratt",
+              "bowler": "S Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "S Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "S Sharma",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bharratt",
+              "bowler": "S Sharma",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bharratt",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "S Sharma",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "S Sharma",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "S Sharma",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "S Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "S Sharma",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Shaw",
+              "bowler": "S Sharma",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "S Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "S Sharma",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "S Sharma",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "S Sharma",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "S Sharma",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "S Sharma",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "D Panda",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "D Panda",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "D Panda",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Shaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "D Panda",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "V Shaw",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Shaw",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Shaw",
+                  "fielders": [
+                    {
+                      "name": "S Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Gurpreet Singh",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "D Panda",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "D Panda",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "D Panda",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Amir Butt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "TA Dudnath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "TA Dudnath",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TA Dudnath",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "D Panda",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "D Panda",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "D Panda",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "XSD Smith",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "XSD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XSD Smith",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "XSD Smith",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "YP Dayal",
+              "bowler": "Shoaib Rafiq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YP Dayal",
+              "bowler": "Shoaib Rafiq",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "YP Dayal",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YP Dayal",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "YP Dayal",
+                  "fielders": [
+                    {
+                      "name": "KB Patil"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AK Gokoel",
+              "bowler": "Amir Butt",
+              "non_striker": "G Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "AK Gokoel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "AK Gokoel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Singh",
+              "bowler": "Amir Butt",
+              "non_striker": "AK Gokoel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 127
+      }
+    }
+  ]
+}

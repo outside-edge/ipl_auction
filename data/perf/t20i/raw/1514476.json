@@ -1,0 +1,3115 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-12-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Murcia",
+    "dates": [
+      "2025-12-07"
+    ],
+    "event": {
+      "name": "Croatia tour of Spain",
+      "match_number": 4
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3612,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Spain",
+      "by": {
+        "runs": 215
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Mohammad Ihsan"
+    ],
+    "players": {
+      "Spain": [
+        "Mohammad Ihsan",
+        "C Munoz-Mills",
+        "Yasir Ali",
+        "Hamza Dar",
+        "A Davidson Soler",
+        "D Doyle-Calle",
+        "LA Burns",
+        "Mohammad Atif",
+        "SJ Hughes-Pinan",
+        "C Rumistrzewicz",
+        "Adnan Tahir"
+      ],
+      "Croatia": [
+        "S Houghton",
+        "Jaikumar Thakur",
+        "A Beresford-Peirse",
+        "Saghar Manzoor",
+        "A Razmilic",
+        "A Awasthi",
+        "A Magdalenic",
+        "V Zanko",
+        "Sajid Khan",
+        "R Murugan",
+        "D Svilicic"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Awasthi": "93544e69",
+        "A Beresford-Peirse": "4e7d882f",
+        "A Davidson Soler": "524943f1",
+        "A Magdalenic": "d6a2f3a5",
+        "A Razmilic": "d92fb332",
+        "Adnan Tahir": "f6c411db",
+        "C Munoz-Mills": "17bc032c",
+        "C Rumistrzewicz": "3ed4e2ad",
+        "D Doyle-Calle": "74be2916",
+        "D Svilicic": "fa83d1b6",
+        "Hamza Dar": "557550a4",
+        "Jaikumar Thakur": "18fcb85f",
+        "LA Burns": "5b616bf0",
+        "Mohammad Atif": "705b8c5c",
+        "Mohammad Ihsan": "510e33d3",
+        "R Murugan": "a2437e72",
+        "S Houghton": "4895df9e",
+        "SJ Hughes-Pinan": "ca72ea31",
+        "Saghar Manzoor": "9d103769",
+        "Sajid Khan": "54909313",
+        "V Zanko": "4a78f962",
+        "Yasir Ali": "79209272"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Spain",
+      "Croatia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Spain"
+    },
+    "venue": "La Manga Club Top Ground"
+  },
+  "innings": [
+    {
+      "team": "Spain",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "A Awasthi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "A Awasthi",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "D Svilicic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "D Svilicic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "D Svilicic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munoz-Mills",
+              "bowler": "D Svilicic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "C Munoz-Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "C Munoz-Mills",
+                  "fielders": [
+                    {
+                      "name": "A Magdalenic"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "D Svilicic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Yasir Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasir Ali",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yasir Ali",
+                  "fielders": [
+                    {
+                      "name": "S Houghton"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Jaikumar Thakur",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "Sajid Khan",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "Sajid Khan",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Razmilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Razmilic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Razmilic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Razmilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Razmilic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Razmilic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Razmilic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "D Svilicic",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "D Svilicic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "D Svilicic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "D Svilicic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "D Svilicic",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Awasthi",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Awasthi",
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Awasthi",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Mohammad Ihsan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Ihsan",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Ihsan",
+                  "fielders": [
+                    {
+                      "name": "Sajid Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Davidson Soler",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Beresford-Peirse",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "A Davidson Soler",
+              "bowler": "A Magdalenic",
+              "non_striker": "Hamza Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Magdalenic",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Magdalenic",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Magdalenic",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Magdalenic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Magdalenic",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Magdalenic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hamza Dar",
+              "bowler": "A Magdalenic",
+              "non_striker": "A Davidson Soler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Croatia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Yasir Ali",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Yasir Ali",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Yasir Ali",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "Jaikumar Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaikumar Thakur",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jaikumar Thakur",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Ihsan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Yasir Ali",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Mohammad Atif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Mohammad Atif",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "Hamza Dar",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Hamza Dar",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Hamza Dar",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Hamza Dar",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Hamza Dar",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Hamza Dar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "Hamza Dar",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "A Beresford-Peirse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Beresford-Peirse",
+              "bowler": "LA Burns",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Beresford-Peirse",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "C Rumistrzewicz",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "Saghar Manzoor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saghar Manzoor",
+              "bowler": "LA Burns",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saghar Manzoor",
+                  "fielders": [
+                    {
+                      "name": "Yasir Ali"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Razmilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Mohammad Atif",
+              "non_striker": "A Razmilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Razmilic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Razmilic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Razmilic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Razmilic",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Razmilic",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "LA Burns",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "LA Burns",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "SJ Hughes-Pinan",
+              "non_striker": "A Awasthi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Awasthi",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Awasthi",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Awasthi",
+                  "fielders": [
+                    {
+                      "name": "D Doyle-Calle"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Magdalenic",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "A Magdalenic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Magdalenic",
+              "bowler": "C Rumistrzewicz",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Magdalenic",
+              "bowler": "D Doyle-Calle",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Magdalenic",
+              "bowler": "D Doyle-Calle",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Magdalenic",
+              "bowler": "D Doyle-Calle",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Magdalenic",
+              "bowler": "D Doyle-Calle",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Magdalenic",
+              "bowler": "D Doyle-Calle",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Magdalenic",
+                  "fielders": [
+                    {
+                      "name": "Yasir Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Zanko",
+              "bowler": "D Doyle-Calle",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Zanko",
+                  "fielders": [
+                    {
+                      "name": "Yasir Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "D Doyle-Calle",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "D Doyle-Calle",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "D Doyle-Calle",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "D Doyle-Calle",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "D Doyle-Calle",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Houghton",
+              "bowler": "C Munoz-Mills",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Munoz-Mills",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "C Munoz-Mills",
+              "non_striker": "S Houghton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Munoz-Mills",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Munoz-Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Houghton",
+              "bowler": "C Munoz-Mills",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Houghton",
+                  "fielders": [
+                    {
+                      "name": "D Doyle-Calle"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Murugan",
+              "bowler": "C Munoz-Mills",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "R Murugan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "R Murugan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "R Murugan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "R Murugan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Murugan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sajid Khan",
+              "bowler": "Mohammad Atif",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "R Murugan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Murugan",
+              "bowler": "Mohammad Atif",
+              "non_striker": "Sajid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 291
+      }
+    }
+  ]
+}

@@ -1,0 +1,1545 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "King City",
+    "dates": [
+      "2025-06-19"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Americas Region Final",
+      "match_number": 7
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3251,
+    "officials": {
+      "match_referees": [
+        "Dave Gilbert"
+      ],
+      "reserve_umpires": [
+        "GO Brathwaite"
+      ],
+      "tv_umpires": [
+        "Zahid Bassarath"
+      ],
+      "umpires": [
+        "AR Maddela",
+        "DK Butler"
+      ]
+    },
+    "outcome": {
+      "winner": "Bermuda",
+      "by": {
+        "runs": 26
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "DMW Rawlins"
+    ],
+    "players": {
+      "Bermuda": [
+        "TS Fray",
+        "DMW Rawlins",
+        "OGL Bascome",
+        "MJ Scotland",
+        "D Sabir",
+        "Jonte Smith",
+        "Z Burgess",
+        "DL Brangman",
+        "K Fubler",
+        "Chare Smith",
+        "S Smith"
+      ],
+      "Bahamas": [
+        "M Taylor",
+        "GT Taylor",
+        "K Hinds",
+        "D Wheatley",
+        "E Duff",
+        "Festus Benn",
+        "J Jemison",
+        "E Haven",
+        "DG Weakley",
+        "K Burrows",
+        "Sandeep Goud"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AR Maddela": "5c861579",
+        "Chare Smith": "4e1b7998",
+        "D Sabir": "04bc296f",
+        "D Wheatley": "04539335",
+        "DG Weakley": "224a9f5e",
+        "DK Butler": "671398e3",
+        "DL Brangman": "dab18aa5",
+        "DMW Rawlins": "f1eb3c73",
+        "Dave Gilbert": "aa782370",
+        "E Duff": "b7873c81",
+        "E Haven": "5190900f",
+        "Festus Benn": "de6b3760",
+        "GO Brathwaite": "1ace56d4",
+        "GT Taylor": "c674f722",
+        "J Jemison": "ce1abd25",
+        "Jonte Smith": "ae4d0b45",
+        "K Burrows": "f11f5a92",
+        "K Fubler": "b471ff6c",
+        "K Hinds": "a268c07b",
+        "M Taylor": "92075cdc",
+        "MJ Scotland": "a1cc467d",
+        "OGL Bascome": "94a1827c",
+        "S Smith": "18a0ba24",
+        "Sandeep Goud": "c83ef4d6",
+        "TS Fray": "c7537f8a",
+        "Z Burgess": "d0042e16",
+        "Zahid Bassarath": "ca6bf044"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Bermuda",
+      "Bahamas"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bahamas"
+    },
+    "venue": "Maple Leaf North-West Ground, King City"
+  },
+  "innings": [
+    {
+      "team": "Bermuda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TS Fray",
+              "bowler": "K Hinds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TS Fray",
+              "bowler": "K Hinds",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "K Hinds",
+              "non_striker": "TS Fray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "K Hinds",
+              "non_striker": "TS Fray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "K Hinds",
+              "non_striker": "TS Fray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TS Fray",
+              "bowler": "K Hinds",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TS Fray",
+              "bowler": "K Hinds",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TS Fray",
+              "bowler": "Festus Benn",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TS Fray",
+                  "fielders": [
+                    {
+                      "name": "J Jemison"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "Festus Benn",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "Festus Benn",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "Festus Benn",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "Festus Benn",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OGL Bascome",
+              "bowler": "Festus Benn",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OGL Bascome",
+                  "fielders": [
+                    {
+                      "name": "K Hinds"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Scotland",
+              "bowler": "D Wheatley",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Scotland",
+              "bowler": "D Wheatley",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "Festus Benn",
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "Festus Benn",
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "Festus Benn",
+              "non_striker": "MJ Scotland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MJ Scotland",
+                  "fielders": [
+                    {
+                      "name": "J Jemison"
+                    },
+                    {
+                      "name": "E Haven"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "D Sabir",
+              "bowler": "Festus Benn",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Sabir",
+              "bowler": "Festus Benn",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "Festus Benn",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "D Wheatley",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Sabir",
+              "bowler": "M Taylor",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "D Sabir",
+              "bowler": "M Taylor",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Sabir",
+              "bowler": "M Taylor",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "M Taylor",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Sabir",
+              "bowler": "M Taylor",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "M Taylor",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "M Taylor",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "GT Taylor",
+              "non_striker": "D Sabir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "D Sabir",
+                  "fielders": [
+                    {
+                      "name": "M Taylor"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "GT Taylor",
+              "non_striker": "Jonte Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "GT Taylor",
+              "non_striker": "Jonte Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "GT Taylor",
+              "non_striker": "Jonte Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "GT Taylor",
+              "non_striker": "Jonte Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jonte Smith",
+              "bowler": "GT Taylor",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Jonte Smith",
+              "bowler": "M Taylor",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jonte Smith",
+                  "fielders": [
+                    {
+                      "name": "GT Taylor"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Z Burgess",
+              "bowler": "M Taylor",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Z Burgess",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "DL Brangman",
+              "bowler": "M Taylor",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "M Taylor",
+              "non_striker": "DL Brangman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "M Taylor",
+              "non_striker": "DL Brangman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "M Taylor",
+              "non_striker": "DL Brangman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "K Hinds",
+              "non_striker": "DL Brangman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "K Hinds",
+              "non_striker": "DL Brangman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "K Hinds",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "DL Brangman",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "K Hinds",
+              "non_striker": "DL Brangman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DMW Rawlins",
+              "bowler": "K Hinds",
+              "non_striker": "DL Brangman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Brangman",
+              "bowler": "K Hinds",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DL Brangman",
+              "bowler": "K Hinds",
+              "non_striker": "DMW Rawlins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.9,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bahamas",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "M Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "Chare Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "Chare Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Taylor",
+                  "fielders": [
+                    {
+                      "name": "OGL Bascome"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "Chare Smith",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "D Sabir",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "D Sabir",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "D Sabir",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "D Sabir",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "GT Taylor",
+              "bowler": "DL Brangman",
+              "non_striker": "K Hinds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "DL Brangman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "DL Brangman",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "DL Brangman",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "DL Brangman",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "DL Brangman",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Hinds",
+              "bowler": "DL Brangman",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Hinds",
+                  "fielders": [
+                    {
+                      "name": "OGL Bascome"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "GT Taylor",
+              "bowler": "DMW Rawlins",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "DMW Rawlins",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "DMW Rawlins",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "DMW Rawlins",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wheatley",
+              "bowler": "DMW Rawlins",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wheatley",
+              "bowler": "DMW Rawlins",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Wheatley",
+              "bowler": "DL Brangman",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "DL Brangman",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "DL Brangman",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "DL Brangman",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "DL Brangman",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "DL Brangman",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Wheatley",
+              "bowler": "Z Burgess",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wheatley",
+              "bowler": "Z Burgess",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wheatley",
+              "bowler": "Z Burgess",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wheatley",
+              "bowler": "Z Burgess",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wheatley",
+              "bowler": "Z Burgess",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Z Burgess",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Z Burgess",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wheatley",
+              "bowler": "Chare Smith",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Chare Smith",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "D Wheatley",
+              "bowler": "Z Burgess",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Z Burgess",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Z Burgess",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wheatley",
+              "bowler": "Z Burgess",
+              "non_striker": "GT Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Z Burgess",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GT Taylor",
+              "bowler": "Z Burgess",
+              "non_striker": "D Wheatley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 9,
+        "runs": 115
+      }
+    }
+  ]
+}

@@ -1,0 +1,2877 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-01-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dubai",
+    "dates": [
+      "2026-01-23"
+    ],
+    "event": {
+      "name": "Ireland tour of United Arab Emirates",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3666,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "Aasif Iqbal"
+      ],
+      "umpires": [
+        "Akbar Ali",
+        "Shiju Sam"
+      ]
+    },
+    "outcome": {
+      "winner": "Ireland",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Italy": [
+        "J Mosca",
+        "AJ Mosca",
+        "JT Smuts",
+        "WL Madsen",
+        "HJ Manenti",
+        "G Stewart",
+        "GP Meade",
+        "M Campopiano",
+        "Jaspreet Singh",
+        "CJPF Kalugamage",
+        "TJ Draca"
+      ],
+      "Ireland": [
+        "PR Stirling",
+        "GR Adair",
+        "HT Tector",
+        "L Tucker",
+        "BF Calitz",
+        "GH Dockrell",
+        "GJ Delany",
+        "MR Adair",
+        "BJ McCarthy",
+        "J Little",
+        "MJ Humphreys"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Mosca": "19c56e6e",
+        "AJ Pycroft": "685d3f80",
+        "Aasif Iqbal": "42c41e1a",
+        "Akbar Ali": "e753931d",
+        "BF Calitz": "24ad97e7",
+        "BJ McCarthy": "3766056b",
+        "CJPF Kalugamage": "31c04b7b",
+        "G Stewart": "a77472dc",
+        "GH Dockrell": "99cddc5e",
+        "GJ Delany": "33b3d2df",
+        "GP Meade": "3957a70a",
+        "GR Adair": "4ec96094",
+        "HJ Manenti": "0e56c514",
+        "HT Tector": "59ea70a4",
+        "J Little": "9061a703",
+        "J Mosca": "8f02f6a8",
+        "JT Smuts": "42172c3c",
+        "Jaspreet Singh": "d76ab352",
+        "L Tucker": "3979b5e0",
+        "M Campopiano": "26d80a9d",
+        "MJ Humphreys": "2c54c49b",
+        "MR Adair": "fc55ec67",
+        "PR Stirling": "cf494ffe",
+        "Shiju Sam": "1e2f3eae",
+        "TJ Draca": "88fac705",
+        "WL Madsen": "86e0f3f0"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Italy",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Ireland"
+    },
+    "venue": "7he Sevens Stadium, Dubai"
+  },
+  "innings": [
+    {
+      "team": "Italy",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MR Adair",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MR Adair",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MR Adair",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MR Adair",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MR Adair",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MR Adair",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MR Adair",
+              "non_striker": "J Mosca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Mosca",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mosca",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Mosca",
+                  "fielders": [
+                    {
+                      "name": "GH Dockrell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "BJ McCarthy",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JT Smuts",
+              "bowler": "MR Adair",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MR Adair",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "MR Adair",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "MR Adair",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "MR Adair",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "MR Adair",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JT Smuts",
+              "bowler": "J Little",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "J Little",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "J Little",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "J Little",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "J Little",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "J Little",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AJ Mosca",
+              "bowler": "BJ McCarthy",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JT Smuts",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "BJ McCarthy",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "MJ Humphreys",
+              "non_striker": "AJ Mosca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Mosca",
+              "bowler": "MJ Humphreys",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Mosca",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "MJ Humphreys",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "MJ Humphreys",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GJ Delany",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "GJ Delany",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GJ Delany",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "GJ Delany",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "GJ Delany",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "GJ Delany",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "WL Madsen",
+              "bowler": "GH Dockrell",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "GH Dockrell",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GH Dockrell",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GH Dockrell",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GH Dockrell",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GH Dockrell",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GJ Delany",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "GJ Delany",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GJ Delany",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GJ Delany",
+              "non_striker": "WL Madsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WL Madsen",
+              "bowler": "GJ Delany",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WL Madsen",
+                  "fielders": [
+                    {
+                      "name": "HT Tector"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "GJ Delany",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GH Dockrell",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GH Dockrell",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GH Dockrell",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GH Dockrell",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "GH Dockrell",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "GH Dockrell",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "MJ Humphreys",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "MJ Humphreys",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Stewart",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "MJ Humphreys",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "MJ Humphreys",
+              "non_striker": "HJ Manenti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Manenti",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HJ Manenti",
+                  "fielders": [
+                    {
+                      "name": "GH Dockrell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "GJ Delany",
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Campopiano",
+              "bowler": "J Little",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "J Little",
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "J Little",
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "J Little",
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "J Little",
+              "non_striker": "M Campopiano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "J Little",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Campopiano",
+              "bowler": "MJ Humphreys",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Campopiano",
+              "bowler": "MJ Humphreys",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Campopiano",
+                  "fielders": [
+                    {
+                      "name": "L Tucker"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Jaspreet Singh",
+              "bowler": "MJ Humphreys",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jaspreet Singh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "MJ Humphreys",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "MJ Humphreys",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "MJ Humphreys",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GP Meade",
+              "bowler": "GJ Delany",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "GJ Delany",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "GJ Delany",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "MR Adair",
+              "non_striker": "GP Meade",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "MR Adair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Meade",
+              "bowler": "MR Adair",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GP Meade",
+                  "fielders": [
+                    {
+                      "name": "GR Adair"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TJ Draca",
+              "bowler": "MR Adair",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Draca",
+              "bowler": "MR Adair",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Draca",
+              "bowler": "MR Adair",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "MR Adair",
+              "non_striker": "TJ Draca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "TJ Draca",
+              "bowler": "BJ McCarthy",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "BJ McCarthy",
+              "non_striker": "TJ Draca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Draca",
+              "bowler": "BJ McCarthy",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "BJ McCarthy",
+              "non_striker": "TJ Draca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Draca",
+              "bowler": "BJ McCarthy",
+              "non_striker": "CJPF Kalugamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "BJ McCarthy",
+              "non_striker": "TJ Draca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CJPF Kalugamage",
+              "bowler": "MR Adair",
+              "non_striker": "TJ Draca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CJPF Kalugamage",
+                  "fielders": [
+                    {
+                      "name": "BJ McCarthy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "JT Smuts",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "JT Smuts",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PR Stirling",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "JT Smuts",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "TJ Draca",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "TJ Draca",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "TJ Draca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "TJ Draca",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "TJ Draca",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "TJ Draca",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "TJ Draca",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "G Stewart",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GR Adair",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "TJ Draca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "TJ Draca",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "TJ Draca",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "TJ Draca",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "TJ Draca",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "TJ Draca",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "TJ Draca",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "G Stewart",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "G Stewart",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "G Stewart",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "G Stewart",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "G Stewart",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "G Stewart",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "HJ Manenti",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "HJ Manenti",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "HJ Manenti",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "HJ Manenti",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "HJ Manenti",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "HJ Manenti",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "JT Smuts",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "JT Smuts",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "HJ Manenti",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "HJ Manenti",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "HJ Manenti",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "HJ Manenti",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "HJ Manenti",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "HJ Manenti",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "CJPF Kalugamage",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "JT Smuts",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "JT Smuts",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "JT Smuts",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "JT Smuts",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Tector",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HT Tector",
+                  "fielders": [
+                    {
+                      "name": "AJ Mosca"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BF Calitz",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "L Tucker",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Calitz",
+              "bowler": "TJ Draca",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Calitz",
+              "bowler": "TJ Draca",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Tucker",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Tucker",
+                  "fielders": [
+                    {
+                      "name": "Jaspreet Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "BF Calitz",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Dockrell",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Calitz",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "GH Dockrell",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GH Dockrell",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "TJ Draca",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "BF Calitz",
+              "bowler": "G Stewart",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Delany",
+              "bowler": "G Stewart",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GJ Delany",
+                  "fielders": [
+                    {
+                      "name": "GP Meade"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Adair",
+              "bowler": "G Stewart",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MR Adair",
+                  "fielders": [
+                    {
+                      "name": "WL Madsen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BJ McCarthy",
+              "bowler": "G Stewart",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ McCarthy",
+              "bowler": "G Stewart",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "BF Calitz",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BJ McCarthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Calitz",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BJ McCarthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BF Calitz",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BJ McCarthy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McCarthy",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Calitz",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BJ McCarthy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McCarthy",
+              "bowler": "Jaspreet Singh",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "BF Calitz",
+              "bowler": "JT Smuts",
+              "non_striker": "BJ McCarthy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McCarthy",
+              "bowler": "JT Smuts",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BF Calitz",
+              "bowler": "JT Smuts",
+              "non_striker": "BJ McCarthy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 119
+      }
+    }
+  ]
+}

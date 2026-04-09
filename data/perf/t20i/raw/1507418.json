@@ -1,0 +1,738 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-11-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Seropedica",
+    "dates": [
+      "2025-10-30"
+    ],
+    "event": {
+      "name": "South American Men's Championships",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3539,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Panama": [
+        "Safvan Patel",
+        "M Sohel Patel",
+        "Rizwan Mangera",
+        "MY Bawa",
+        "P Jayeshbhai Patel",
+        "Abdulla Bhoola",
+        "Meet Ahir",
+        "Abdul Makda",
+        "Faizal Salehji",
+        "Nathan Ingleston",
+        "YK Abovat"
+      ],
+      "Mexico": [
+        "Shantanu Kaveri",
+        "Amir Butt",
+        "D Panda",
+        "Gurpreet Singh",
+        "Hassan Nasir",
+        "J Byrappa",
+        "PK Mohanarangam",
+        "Pratik Singh Bais",
+        "Praveen Santhanakrishnan",
+        "SK Lahiri",
+        "Y Jasti"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdul Makda": "7864bd38",
+        "Abdulla Bhoola": "6ef9a32f",
+        "Amir Butt": "5bdf2343",
+        "D Panda": "bad1af65",
+        "Faizal Salehji": "7c5d046a",
+        "Gurpreet Singh": "f43dcdc1",
+        "Hassan Nasir": "d32f3102",
+        "J Byrappa": "860f7b67",
+        "M Sohel Patel": "40a5bcf9",
+        "MY Bawa": "8ca63417",
+        "Meet Ahir": "642d2883",
+        "Nathan Ingleston": "d84a1af0",
+        "P Jayeshbhai Patel": "3317dc7a",
+        "PK Mohanarangam": "d73891ad",
+        "Pratik Singh Bais": "5b351aff",
+        "Praveen Santhanakrishnan": "22fb205e",
+        "Rizwan Mangera": "74d63a44",
+        "SK Lahiri": "84df22bd",
+        "Safvan Patel": "90839a03",
+        "Shantanu Kaveri": "091880f7",
+        "Y Jasti": "3377f988",
+        "YK Abovat": "32f58fca"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Panama",
+      "Mexico"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Mexico"
+    },
+    "venue": "Sao Fernando Polo and Cricket Club, Campo Sede"
+  },
+  "innings": [
+    {
+      "team": "Panama",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Hassan Nasir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Hassan Nasir",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "M Sohel Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Sohel Patel",
+              "bowler": "Y Jasti",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Sohel Patel",
+                  "fielders": [
+                    {
+                      "name": "PK Mohanarangam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rizwan Mangera",
+              "bowler": "Y Jasti",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Amir Butt",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mangera",
+              "bowler": "Amir Butt",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rizwan Mangera",
+              "bowler": "Amir Butt",
+              "non_striker": "Safvan Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Safvan Patel",
+              "bowler": "Amir Butt",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Safvan Patel",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MY Bawa",
+              "bowler": "Amir Butt",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mangera",
+              "bowler": "Amir Butt",
+              "non_striker": "MY Bawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MY Bawa",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MY Bawa",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MY Bawa",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MY Bawa",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MY Bawa",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Jayeshbhai Patel",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Jayeshbhai Patel",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Jayeshbhai Patel",
+              "bowler": "Amir Butt",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Jayeshbhai Patel",
+              "bowler": "Amir Butt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Jayeshbhai Patel",
+              "bowler": "Amir Butt",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Jayeshbhai Patel",
+              "bowler": "Amir Butt",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Jayeshbhai Patel",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Abdulla Bhoola",
+              "bowler": "Amir Butt",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Abdulla Bhoola",
+              "bowler": "Amir Butt",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdulla Bhoola",
+              "bowler": "Amir Butt",
+              "non_striker": "Rizwan Mangera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mangera",
+              "bowler": "Amir Butt",
+              "non_striker": "Abdulla Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Rizwan Mangera",
+              "bowler": "Pratik Singh Bais",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abdulla Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mangera",
+              "bowler": "Pratik Singh Bais",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abdulla Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Mangera",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Abdulla Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rizwan Mangera",
+                  "fielders": [
+                    {
+                      "name": "Y Jasti"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Meet Ahir",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Abdulla Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meet Ahir",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Abdulla Bhoola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meet Ahir",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Abdulla Bhoola",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdulla Bhoola",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Meet Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdulla Bhoola",
+              "bowler": "Pratik Singh Bais",
+              "non_striker": "Meet Ahir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdulla Bhoola",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

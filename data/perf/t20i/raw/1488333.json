@@ -1,0 +1,878 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "King City",
+    "dates": [
+      "2025-06-19"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Americas Region Final",
+      "match_number": 8
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3252,
+    "officials": {
+      "match_referees": [
+        "Dave Gilbert"
+      ],
+      "reserve_umpires": [
+        "DK Butler"
+      ],
+      "tv_umpires": [
+        "AR Maddela"
+      ],
+      "umpires": [
+        "GO Brathwaite",
+        "Zahid Bassarath"
+      ]
+    },
+    "outcome": {
+      "winner": "Canada",
+      "by": {
+        "runs": 42
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "DS Bajwa"
+    ],
+    "players": {
+      "Canada": [
+        "DS Bajwa",
+        "YS Samra",
+        "Pargat Singh",
+        "NR Kirton",
+        "H Thaker",
+        "K Tathgur",
+        "Jaskaran Singh",
+        "Saad Bin Zafar",
+        "D Heyliger",
+        "Shivam Sharma",
+        "Ansh Patel"
+      ],
+      "Cayman Islands": [
+        "J Baker",
+        "RA Sealy",
+        "BKB Corbin",
+        "ROC Dunka",
+        "S Foster",
+        "AR Naidoo",
+        "R Walker",
+        "C Wright",
+        "A Morris",
+        "KA Bazil",
+        "A Wright"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Morris": "04cf2e94",
+        "A Wright": "4bb7f51e",
+        "AR Maddela": "5c861579",
+        "AR Naidoo": "68886c16",
+        "Ansh Patel": "9e76cdb3",
+        "BKB Corbin": "036b8660",
+        "C Wright": "d465c6d7",
+        "D Heyliger": "f8c72766",
+        "DK Butler": "671398e3",
+        "DS Bajwa": "e3540b8c",
+        "Dave Gilbert": "aa782370",
+        "GO Brathwaite": "1ace56d4",
+        "H Thaker": "c01d7726",
+        "J Baker": "a12672e0",
+        "Jaskaran Singh": "d7b3a420",
+        "K Tathgur": "f190c775",
+        "KA Bazil": "d22287a8",
+        "NR Kirton": "6b75c2b1",
+        "Pargat Singh": "d2e67105",
+        "R Walker": "be37d889",
+        "RA Sealy": "1e98804a",
+        "ROC Dunka": "762f43b7",
+        "S Foster": "3595ad3b",
+        "Saad Bin Zafar": "f28a60e0",
+        "Shivam Sharma": "5bdeeed4",
+        "YS Samra": "d02c40ab",
+        "Zahid Bassarath": "ca6bf044"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Canada",
+      "Cayman Islands"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Cayman Islands"
+    },
+    "venue": "Maple Leaf North-West Ground, King City"
+  },
+  "innings": [
+    {
+      "team": "Canada",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "C Wright",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "C Wright",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "ROC Dunka",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "ROC Dunka",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "ROC Dunka",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "C Wright",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "C Wright",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "ROC Dunka",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "YS Samra",
+              "bowler": "A Morris",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "A Morris",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YS Samra",
+              "bowler": "A Morris",
+              "non_striker": "DS Bajwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "A Morris",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "A Morris",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DS Bajwa",
+              "bowler": "A Morris",
+              "non_striker": "YS Samra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cayman Islands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Baker",
+              "bowler": "D Heyliger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Heyliger",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Heyliger",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Heyliger",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "D Heyliger",
+              "non_striker": "RA Sealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Sealy",
+              "bowler": "D Heyliger",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Sealy",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "D Heyliger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "D Heyliger",
+              "non_striker": "J Baker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Baker",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Baker",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Baker",
+                  "fielders": [
+                    {
+                      "name": "Jaskaran Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BKB Corbin",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "H Thaker",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "H Thaker",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "H Thaker",
+              "non_striker": "BKB Corbin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "H Thaker",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BKB Corbin",
+              "bowler": "Shivam Sharma",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BKB Corbin",
+              "bowler": "Shivam Sharma",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BKB Corbin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Foster",
+              "bowler": "Shivam Sharma",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Foster",
+              "bowler": "Shivam Sharma",
+              "non_striker": "ROC Dunka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "Shivam Sharma",
+              "non_striker": "S Foster",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ROC Dunka",
+              "bowler": "Shivam Sharma",
+              "non_striker": "S Foster",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ROC Dunka",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Foster",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "S Foster",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "S Foster",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Foster",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "AR Naidoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Naidoo",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "S Foster",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Naidoo",
+                  "fielders": [
+                    {
+                      "name": "K Tathgur"
+                    },
+                    {
+                      "name": "Shivam Sharma"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "R Walker",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "S Foster",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 82
+      }
+    }
+  ]
+}
