@@ -50,6 +50,10 @@ def get_phase(over):
         return "death"
 
 
+RUNS_PER_DISMISSAL = 6.0
+RUNS_PER_WICKET = 6.0
+
+
 def compute_batting_war(bbb):
     """
     Compute batting WAR for each player-season.
@@ -57,7 +61,9 @@ def compute_batting_war(bbb):
     Method:
     1. Compute mean runs-per-ball by phase across all seasons
     2. Replacement level = 15th percentile of player strike rates (per season)
-    3. batting_war = (actual_runs - balls * replacement_sr) / RUNS_PER_WIN
+    3. batting_war = (actual_runs - expected_runs - dismissal_penalty) / RUNS_PER_WIN
+
+    Dismissal penalty accounts for opportunity cost of losing a wicket.
     """
     print("\nComputing batting WAR...")
 
@@ -92,7 +98,7 @@ def compute_batting_war(bbb):
     qualified = batter_stats[batter_stats["balls_faced"] >= 30].copy()
 
     season_replacement = qualified.groupby("year")["strike_rate"].quantile(0.15)
-    print(f"\n  Replacement level SR by season (15th percentile):")
+    print("\n  Replacement level SR by season (15th percentile):")
     for year, sr in season_replacement.items():
         print(f"    {year}: {sr:.1f}")
 
@@ -111,16 +117,18 @@ def compute_batting_war(bbb):
     batter_stats["expected_runs"] = (
         batter_stats["balls_faced"] * batter_stats["replacement_sr"] / 100
     )
+    batter_stats["dismissal_penalty"] = batter_stats["dismissals"] * RUNS_PER_DISMISSAL
     batter_stats["runs_above_replacement"] = (
-        batter_stats["runs"] - batter_stats["expected_runs"]
+        batter_stats["runs"] - batter_stats["expected_runs"] - batter_stats["dismissal_penalty"]
     )
     batter_stats["batting_war"] = (
         batter_stats["runs_above_replacement"] / RUNS_PER_WIN
     )
+    print(f"  Including dismissal penalty: {RUNS_PER_DISMISSAL:.1f} runs per dismissal")
 
     batter_stats = batter_stats.rename(columns={"Batter": "player", "year": "season"})
     return batter_stats[
-        ["season", "player", "runs", "balls_faced", "strike_rate", "batting_war"]
+        ["season", "player", "runs", "balls_faced", "strike_rate", "dismissals", "batting_war"]
     ]
 
 
@@ -130,7 +138,9 @@ def compute_bowling_war(bbb):
 
     Method:
     1. Replacement level = 80th percentile of economy rate among qualified bowlers
-    2. bowling_war = (replacement_runs - actual_conceded) / RUNS_PER_WIN
+    2. bowling_war = (replacement_runs - actual_conceded + wicket_bonus) / RUNS_PER_WIN
+
+    Wicket bonus rewards bowlers for taking wickets (not just economy).
     """
     print("\nComputing bowling WAR...")
 
@@ -152,7 +162,7 @@ def compute_bowling_war(bbb):
     qualified = bowler_stats[bowler_stats["balls_bowled"] >= 60].copy()
 
     season_replacement = qualified.groupby("year")["economy"].quantile(0.80)
-    print(f"  Replacement level economy by season (80th percentile):")
+    print("  Replacement level economy by season (80th percentile):")
     for year, econ in season_replacement.items():
         print(f"    {year}: {econ:.2f}")
 
@@ -171,10 +181,12 @@ def compute_bowling_war(bbb):
     bowler_stats["replacement_runs"] = (
         bowler_stats["overs"] * bowler_stats["replacement_econ"]
     )
+    bowler_stats["wicket_bonus"] = bowler_stats["wickets"] * RUNS_PER_WICKET
     bowler_stats["runs_saved"] = (
-        bowler_stats["replacement_runs"] - bowler_stats["runs_conceded"]
+        bowler_stats["replacement_runs"] - bowler_stats["runs_conceded"] + bowler_stats["wicket_bonus"]
     )
     bowler_stats["bowling_war"] = bowler_stats["runs_saved"] / RUNS_PER_WIN
+    print(f"  Including wicket bonus: {RUNS_PER_WICKET:.1f} runs per wicket")
 
     bowler_stats = bowler_stats.rename(columns={"Bowler": "player", "year": "season"})
     return bowler_stats[

@@ -157,16 +157,6 @@ def create_player_features(player_name, year, ipl_war, t20i_war, name_map):
     if len(player_t20i) > 0:
         features["t20i_career_war"] = player_t20i["total_war"].sum()
 
-    features["combined_war_12m"] = (
-        features.get("ipl_war_lag1", 0) +
-        features.get("t20i_war_12m", 0) * 0.5
-    )
-    features["combined_war_24m"] = (
-        features.get("ipl_war_lag1", 0) +
-        features.get("ipl_war_lag2", 0) +
-        features.get("t20i_war_12m", 0) * 0.3
-    )
-
     features["has_ipl_history"] = 1 if "ipl_war_lag1" in features else 0
     features["has_t20i_history"] = 1 if "t20i_war_12m" in features else 0
 
@@ -346,9 +336,8 @@ def main():
         print("\nFalling back to lagged WAR approach (no trained model)")
         feature_cols = ["ipl_war_lag1", "ipl_war_lag2", "ipl_war_lag3",
                        "ipl_career_war", "ipl_seasons_played",
-                       "t20i_war_12m", "t20i_career_war",
+                       "t20i_war_12m", "t20i_war_24m", "t20i_career_war",
                        "ipl_war_trend", "ipl_war_avg_3y",
-                       "combined_war_12m", "combined_war_24m",
                        "has_ipl_history", "has_t20i_history", "is_mega_auction"]
         imputer = SimpleImputer(strategy="median")
         imputer.fit(np.zeros((1, len(feature_cols))))

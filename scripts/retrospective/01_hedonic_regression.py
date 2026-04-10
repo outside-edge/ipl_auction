@@ -11,6 +11,23 @@ Applies classic labor economics approaches to cricket player valuation:
 - Superstar premium analysis
 - Market efficiency test: Do prices predict future performance?
 
+IMPORTANT: Retrospective vs Prospective Analysis
+================================================
+This script performs RETROSPECTIVE (oracle) analysis where same-season
+performance is used as a regressor. This answers the question:
+"Given what players actually achieved, were prices fair?"
+
+This is NOT predictive - prices are set BEFORE the season, so teams cannot
+know actual performance at auction time. Models using same-season data
+(baseline, full_performance, war_current, war_components, war_mega, etc.)
+have intentional "lookahead" bias.
+
+For PREDICTIVE analysis, use the lagged specifications (lagged, full_lagged,
+war_lagged) which only use prior-season data available at auction time.
+
+The scripts in scripts/prediction/ provide proper out-of-sample prediction
+with temporal train/test splits.
+
 Output: Regression tables saved to tabs/regression_results.txt
 """
 
@@ -36,7 +53,7 @@ DATA_DIR = BASE_DIR / "data"
 JOINED_DIR = DATA_DIR / "analysis" / "joined"
 TABS_DIR = BASE_DIR / "tabs"
 
-MEGA_AUCTION_YEARS = [2022, 2025]
+MEGA_AUCTION_YEARS = [2008, 2011, 2014, 2018, 2022, 2025]
 
 
 def load_analysis_data():
@@ -114,14 +131,26 @@ def create_panel_data(df):
 
 
 def estimate_pooled_ols(df, spec_name="baseline"):
-    """Estimate pooled OLS with various specifications."""
+    """
+    Estimate pooled OLS with various specifications.
+
+    Specifications are categorized as:
+    - PREDICTIVE (lagged): Uses only prior-season data (no lookahead)
+    - RETROSPECTIVE (oracle): Uses same-season data (intentional lookahead)
+
+    Retrospective models answer: "Given actual performance, was price fair?"
+    Predictive models answer: "Can we forecast value from available data?"
+    """
     df_reg = df.dropna(subset=["log_price"]).copy()
 
+    # RETROSPECTIVE (oracle) models - use same-season performance
     if spec_name == "baseline":
+        # Oracle: uses same-season runs/wickets
         X_vars = ["runs", "wickets", "is_indian"]
         df_subset = df_reg[df_reg["runs"].notna() & df_reg["wickets"].notna()]
 
     elif spec_name == "full_performance":
+        # Oracle: uses same-season performance metrics
         X_vars = [
             "runs", "batting_avg", "batting_sr",
             "wickets", "economy", "catches",
@@ -129,11 +158,14 @@ def estimate_pooled_ols(df, spec_name="baseline"):
         ]
         df_subset = df_reg.dropna(subset=X_vars)
 
+    # PREDICTIVE models - use only prior-season data (available at auction time)
     elif spec_name == "lagged":
+        # Predictive: uses prior season only
         X_vars = ["runs_lag", "wickets_lag", "is_indian"]
         df_subset = df_reg.dropna(subset=X_vars)
 
     elif spec_name == "full_lagged":
+        # Predictive: uses prior season only
         X_vars = [
             "runs_lag", "batting_avg_lag", "batting_sr_lag",
             "wickets_lag", "economy_lag", "catches_lag",
@@ -141,33 +173,42 @@ def estimate_pooled_ols(df, spec_name="baseline"):
         ]
         df_subset = df_reg.dropna(subset=X_vars)
 
+    # RETROSPECTIVE WAR models
     elif spec_name == "war_current":
+        # Oracle: uses same-season WAR
         X_vars = ["total_war", "is_indian"]
         df_subset = df_reg.dropna(subset=X_vars)
         df_subset = df_subset[df_subset["total_war"] != 0]
 
     elif spec_name == "war_components":
+        # Oracle: uses same-season WAR components
         X_vars = ["batting_war", "bowling_war", "is_indian"]
         df_subset = df_reg.dropna(subset=X_vars)
         df_subset = df_subset[
             (df_subset["batting_war"] != 0) | (df_subset["bowling_war"] != 0)
         ]
 
+    # PREDICTIVE WAR model
     elif spec_name == "war_lagged":
+        # Predictive: uses prior season WAR
         X_vars = ["total_war_lag", "is_indian"]
         df_subset = df_reg.dropna(subset=X_vars)
         df_subset = df_subset[df_subset["total_war_lag"] != 0]
 
+    # RETROSPECTIVE with controls
     elif spec_name == "war_mega":
+        # Oracle: uses same-season WAR + mega auction
         X_vars = ["total_war", "is_indian", "is_mega_auction"]
         df_subset = df_reg.dropna(subset=X_vars)
         df_subset = df_subset[df_subset["total_war"] != 0]
 
     elif spec_name == "lagged_current":
+        # Mixed: uses both lagged and current (for decomposition)
         X_vars = ["runs", "wickets", "runs_lag", "wickets_lag", "is_indian"]
         df_subset = df_reg.dropna(subset=X_vars)
 
     elif spec_name == "with_roles":
+        # Oracle: uses same-season performance + roles
         X_vars = [
             "runs", "wickets", "is_indian",
             "is_batsman", "is_bowler", "is_allrounder"

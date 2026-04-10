@@ -13,7 +13,9 @@ Output:
 
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
+import statsmodels.api as sm
 from scipy.stats import spearmanr
 
 BASE_DIR = Path(__file__).parent.parent.parent
@@ -34,13 +36,15 @@ def load_predictions():
 
 
 def compute_fair_prices(df):
-    """Compute fair prices based on predicted WAR."""
-    total_pred_war = df["predicted_war"].clip(lower=0).sum()
+    """Compute fair prices based on actual WAR delivered (not predicted)."""
+    # Use actual WAR to compute market rate - avoids circular dependency on predictions
+    total_actual_war = df["actual_war"].clip(lower=0).sum()
     total_spent = df["final_price_cr"].sum()
-    price_per_war = total_spent / total_pred_war
+    price_per_war = total_spent / total_actual_war
 
     df = df.copy()
-    df["fair_price_cr"] = df["predicted_war"].clip(lower=0) * price_per_war
+    # Fair price based on what player actually delivered
+    df["fair_price_cr"] = df["actual_war"].clip(lower=0) * price_per_war
     df["overpay_cr"] = df["final_price_cr"] - df["fair_price_cr"]
     df["value_per_cr"] = df["prediction_error"] / (df["final_price_cr"] + 0.5)
     return df, price_per_war
@@ -202,6 +206,94 @@ def mega_vs_mini_analysis(df):
     return "\n".join(stats)
 
 
+def mincer_zarnowitz_test(df):
+    """
+    Mincer-Zarnowitz regression test for market efficiency.
+
+    Model: resid_war = alpha + beta * log(price) + eps
+
+    Where resid_war = actual_war - predicted_war
+
+    Under efficiency:
+    - alpha = 0 (no systematic bias)
+    - beta = 0 (price contains no information beyond model predictions)
+
+    If beta > 0: Markets overpay for expensive players (they underperform)
+    If beta < 0: Expensive players systematically outperform predictions
+    """
+    stats = []
+    stats.append("\n" + "-" * 70)
+    stats.append("MINCER-ZARNOWITZ MARKET EFFICIENCY TEST")
+    stats.append("-" * 70)
+
+    df = df.copy()
+    valid = df[
+        df["actual_war"].notna() &
+        df["predicted_war"].notna() &
+        df["final_price_cr"].notna() &
+        (df["final_price_cr"] > 0)
+    ].copy()
+
+    if len(valid) < 30:
+        stats.append("\nInsufficient data for efficiency test")
+        return "\n".join(stats), None
+
+    valid["resid_war"] = valid["actual_war"] - valid["predicted_war"]
+    valid["log_price"] = np.log(valid["final_price_cr"])
+
+    X = sm.add_constant(valid["log_price"])
+    y = valid["resid_war"]
+
+    model = sm.OLS(y, X).fit(cov_type="HC1")
+
+    stats.append(f"\nModel: resid_war = α + β × log(price)")
+    stats.append(f"N = {int(model.nobs)}")
+    stats.append(f"\nCoefficients:")
+    stats.append(f"  α (intercept): {model.params['const']:.3f} (p={model.pvalues['const']:.3f})")
+    stats.append(f"  β (log_price): {model.params['log_price']:.3f} (p={model.pvalues['log_price']:.3f})")
+    stats.append(f"\nR² = {model.rsquared:.3f}")
+
+    stats.append("\n" + "-" * 40)
+    stats.append("INTERPRETATION")
+    stats.append("-" * 40)
+
+    alpha = model.params['const']
+    beta = model.params['log_price']
+    alpha_sig = model.pvalues['const'] < 0.05
+    beta_sig = model.pvalues['log_price'] < 0.05
+
+    stats.append(f"\nIntercept (α = {alpha:.3f}):")
+    if alpha_sig:
+        if alpha > 0:
+            stats.append("  Model systematically UNDER-predicts WAR")
+        else:
+            stats.append("  Model systematically OVER-predicts WAR")
+    else:
+        stats.append("  No systematic prediction bias (efficient)")
+
+    stats.append(f"\nPrice coefficient (β = {beta:.3f}):")
+    if beta_sig:
+        if beta > 0:
+            stats.append("  Expensive players OUTPERFORM predictions")
+            stats.append("  → Markets may be informationally efficient")
+        else:
+            stats.append("  Expensive players UNDERPERFORM predictions")
+            stats.append("  → Possible overpayment for expensive players")
+    else:
+        stats.append("  Price adds no information beyond predictions")
+        stats.append("  → Predictions capture available information")
+
+    stats.append("\nNote: H0 (efficiency) = α=0 AND β=0")
+    f_stat = model.f_pvalue
+    stats.append(f"Joint F-test p-value: {f_stat:.4f}")
+    if f_stat < 0.05:
+        stats.append("  → Reject efficiency at 5% level")
+    else:
+        stats.append("  → Cannot reject efficiency")
+
+    return "\n".join(stats), model
+
+
 def main():
     print("=" * 60)
     print("Economic Analysis for IPL Auction Study")
@@ -215,8 +307,9 @@ def main():
 
     headline = headline_stats(df, price_per_war)
     mega_mini = mega_vs_mini_analysis(df)
+    mz_test, mz_model = mincer_zarnowitz_test(df)
 
-    full_report = headline + mega_mini
+    full_report = headline + mega_mini + mz_test
 
     TABS_DIR.mkdir(parents=True, exist_ok=True)
 

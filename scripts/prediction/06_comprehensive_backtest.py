@@ -219,17 +219,6 @@ def build_features_for_year(auction_df, ipl_war_indexed, t20i_war, year):
     mega_auction_years = [2008, 2011, 2014, 2018, 2022, 2025]
     auction_year["is_mega_auction"] = auction_year["year"].isin(mega_auction_years).astype(int)
 
-    auction_year["combined_war_12m"] = (
-        auction_year["ipl_war_lag1"].fillna(0) +
-        auction_year["t20i_war_12m"].fillna(0) * 0.5
-    )
-    auction_year["combined_war_24m"] = (
-        auction_year["ipl_war_lag1"].fillna(0) +
-        auction_year["ipl_war_lag2"].fillna(0) +
-        auction_year["t20i_war_12m"].fillna(0) * 0.3 +
-        auction_year["t20i_war_24m"].fillna(0) * 0.2
-    )
-
     auction_year["has_ipl_history"] = auction_year["ipl_war_lag1"].notna().astype(int)
     auction_year["has_t20i_history"] = auction_year["t20i_war_12m"].notna().astype(int)
 
@@ -288,9 +277,8 @@ def get_feature_cols():
     return [
         "ipl_war_lag1", "ipl_war_lag2", "ipl_war_lag3",
         "ipl_career_war", "ipl_seasons_played",
-        "t20i_war_12m", "t20i_career_war",
+        "t20i_war_12m", "t20i_war_24m", "t20i_career_war",
         "ipl_war_trend", "ipl_war_avg_3y",
-        "combined_war_12m", "combined_war_24m",
         "has_ipl_history", "has_t20i_history",
         "is_mega_auction",
     ]

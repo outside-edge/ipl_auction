@@ -18,6 +18,8 @@ DATA_DIR = BASE_DIR / "data"
 T20I_DIR = DATA_DIR / "perf" / "t20i"
 
 RUNS_PER_WIN = 8
+RUNS_PER_DISMISSAL = 6.0
+RUNS_PER_WICKET = 6.0
 
 
 def load_t20i_data():
@@ -162,7 +164,11 @@ def aggregate_to_year(bat_match, bowl_match):
 
 
 def compute_batting_war(bat_year):
-    """Compute batting WAR using 15th percentile replacement level."""
+    """
+    Compute batting WAR using 15th percentile replacement level.
+
+    Includes dismissal penalty to account for opportunity cost of losing wickets.
+    """
     print("\nComputing batting WAR...")
 
     qualified = bat_year[bat_year["balls_faced"] >= 30].copy()
@@ -171,7 +177,7 @@ def compute_batting_war(bat_year):
     overall_replacement = qualified["strike_rate"].quantile(0.15)
 
     print(f"  Overall replacement SR: {overall_replacement:.1f}")
-    print(f"  Replacement SR by year (sample):")
+    print("  Replacement SR by year (sample):")
     for year in sorted(season_replacement.index)[-5:]:
         print(f"    {year}: {season_replacement[year]:.1f}")
 
@@ -183,14 +189,20 @@ def compute_batting_war(bat_year):
     bat_year["replacement_sr"] = bat_year["replacement_sr"].fillna(overall_replacement)
 
     bat_year["expected_runs"] = bat_year["balls_faced"] * bat_year["replacement_sr"] / 100
-    bat_year["runs_above_replacement"] = bat_year["runs"] - bat_year["expected_runs"]
+    bat_year["dismissal_penalty"] = bat_year["dismissals"].fillna(0) * RUNS_PER_DISMISSAL
+    bat_year["runs_above_replacement"] = bat_year["runs"] - bat_year["expected_runs"] - bat_year["dismissal_penalty"]
     bat_year["batting_war"] = bat_year["runs_above_replacement"] / RUNS_PER_WIN
+    print(f"  Including dismissal penalty: {RUNS_PER_DISMISSAL:.1f} runs per dismissal")
 
     return bat_year
 
 
 def compute_bowling_war(bowl_year):
-    """Compute bowling WAR using 80th percentile replacement level."""
+    """
+    Compute bowling WAR using 80th percentile replacement level.
+
+    Includes wicket bonus to reward bowlers for taking wickets (not just economy).
+    """
     print("Computing bowling WAR...")
 
     qualified = bowl_year[bowl_year["balls_bowled"] >= 60].copy()
@@ -199,7 +211,7 @@ def compute_bowling_war(bowl_year):
     overall_replacement = qualified["economy"].quantile(0.80)
 
     print(f"  Overall replacement economy: {overall_replacement:.2f}")
-    print(f"  Replacement economy by year (sample):")
+    print("  Replacement economy by year (sample):")
     for year in sorted(season_replacement.index)[-5:]:
         print(f"    {year}: {season_replacement[year]:.2f}")
 
@@ -211,8 +223,12 @@ def compute_bowling_war(bowl_year):
     bowl_year["replacement_econ"] = bowl_year["replacement_econ"].fillna(overall_replacement)
 
     bowl_year["expected_runs_conceded"] = bowl_year["overs"] * bowl_year["replacement_econ"]
-    bowl_year["runs_saved"] = bowl_year["expected_runs_conceded"] - bowl_year["runs_conceded"]
+    bowl_year["wicket_bonus"] = bowl_year["wickets"].fillna(0) * RUNS_PER_WICKET
+    bowl_year["runs_saved"] = (
+        bowl_year["expected_runs_conceded"] - bowl_year["runs_conceded"] + bowl_year["wicket_bonus"]
+    )
     bowl_year["bowling_war"] = bowl_year["runs_saved"] / RUNS_PER_WIN
+    print(f"  Including wicket bonus: {RUNS_PER_WICKET:.1f} runs per wicket")
 
     return bowl_year
 

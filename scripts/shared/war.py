@@ -7,22 +7,32 @@ using quantile-based replacement levels. Used by both IPL and T20I
 WAR computation scripts.
 
 Based on baseball economics methodology (Scully 1974, Zimbalist).
+
+WAR formulas:
+- Batting: WAR = (runs - expected_runs - dismissal_penalty) / RUNS_PER_WIN
+  - Dismissal penalty accounts for opportunity cost of losing a wicket
+- Bowling: WAR = (replacement_runs - runs_conceded + wicket_bonus) / RUNS_PER_WIN
+  - Wicket bonus rewards bowlers for taking wickets (not just economy)
 """
 
-import pandas as pd
+import pandas as pd  # noqa: F401
 import numpy as np
 
 RUNS_PER_WIN = 8
+RUNS_PER_DISMISSAL = 6.0
+RUNS_PER_WICKET = 6.0
 
 
 def compute_batting_war(
     stats_df,
     balls_col="balls_faced",
     runs_col="runs",
+    dismissals_col="dismissals",
     year_col="season",
     player_col="player",
     min_balls=30,
     replacement_pct=0.15,
+    include_dismissal_penalty=True,
     verbose=True,
 ):
     """
@@ -36,6 +46,8 @@ def compute_batting_war(
         Column name for balls faced
     runs_col : str
         Column name for runs scored
+    dismissals_col : str
+        Column name for dismissals (defaults to "dismissals")
     year_col : str
         Column name for season/year
     player_col : str
@@ -44,6 +56,8 @@ def compute_batting_war(
         Minimum balls faced to qualify for replacement calculation
     replacement_pct : float
         Quantile for replacement level (default 0.15 = 15th percentile)
+    include_dismissal_penalty : bool
+        Whether to include penalty for dismissals (default True)
     verbose : bool
         Print progress information
 
@@ -80,6 +94,14 @@ def compute_batting_war(
 
     df["expected_runs"] = df[balls_col] * df["replacement_sr"] / 100
     df["runs_above_replacement"] = df[runs_col] - df["expected_runs"]
+
+    if include_dismissal_penalty and dismissals_col in df.columns:
+        df["dismissal_penalty"] = df[dismissals_col].fillna(0) * RUNS_PER_DISMISSAL
+        df["runs_above_replacement"] = df["runs_above_replacement"] - df["dismissal_penalty"]
+        if verbose:
+            print(f"  Including dismissal penalty: {RUNS_PER_DISMISSAL:.1f} runs per dismissal")
+        df = df.drop(columns=["dismissal_penalty"])
+
     df["batting_war"] = df["runs_above_replacement"] / RUNS_PER_WIN
 
     df = df.drop(columns=["replacement_sr", "expected_runs", "runs_above_replacement"])
@@ -91,10 +113,12 @@ def compute_bowling_war(
     stats_df,
     balls_col="balls_bowled",
     runs_col="runs_conceded",
+    wickets_col="wickets",
     year_col="season",
     player_col="player",
     min_balls=60,
     replacement_pct=0.80,
+    include_wicket_bonus=True,
     verbose=True,
 ):
     """
@@ -108,6 +132,8 @@ def compute_bowling_war(
         Column name for balls bowled
     runs_col : str
         Column name for runs conceded
+    wickets_col : str
+        Column name for wickets taken (defaults to "wickets")
     year_col : str
         Column name for season/year
     player_col : str
@@ -116,6 +142,8 @@ def compute_bowling_war(
         Minimum balls bowled to qualify for replacement calculation
     replacement_pct : float
         Quantile for replacement level (default 0.80 = 80th percentile economy)
+    include_wicket_bonus : bool
+        Whether to include bonus for wickets taken (default True)
     verbose : bool
         Print progress information
 
@@ -155,6 +183,14 @@ def compute_bowling_war(
 
     df["replacement_runs"] = df["overs"] * df["replacement_econ"]
     df["runs_saved"] = df["replacement_runs"] - df[runs_col]
+
+    if include_wicket_bonus and wickets_col in df.columns:
+        df["wicket_bonus"] = df[wickets_col].fillna(0) * RUNS_PER_WICKET
+        df["runs_saved"] = df["runs_saved"] + df["wicket_bonus"]
+        if verbose:
+            print(f"  Including wicket bonus: {RUNS_PER_WICKET:.1f} runs per wicket")
+        df = df.drop(columns=["wicket_bonus"])
+
     df["bowling_war"] = df["runs_saved"] / RUNS_PER_WIN
 
     df = df.drop(columns=["replacement_econ", "replacement_runs", "runs_saved"])

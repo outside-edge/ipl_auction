@@ -62,13 +62,6 @@ def validate_war_model(df, model, imputer, feature_cols):
         return None
 
     df = df.copy()
-    df["combined_war_12m"] = df["ipl_war_lag1"].fillna(0) + df["t20i_war_12m"].fillna(0) * 0.5
-    df["combined_war_24m"] = (
-        df["ipl_war_lag1"].fillna(0) +
-        df["ipl_war_lag2"].fillna(0) +
-        df["t20i_war_12m"].fillna(0) * 0.3 +
-        df["t20i_war_24m"].fillna(0) * 0.2
-    )
     df["has_ipl_history"] = df["ipl_war_lag1"].notna().astype(int)
     df["has_t20i_history"] = df["t20i_war_12m"].notna().astype(int)
 
