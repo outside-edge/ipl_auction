@@ -33,5 +33,5 @@ Scripts for processing ball-by-ball cricket data into player performance metrics
 
 ## Data Sources
 
-- `data/sources/kaggle/IPL-Data-viz/` - IPL ball-by-ball data
+- `data/perf/sources/kaggle/ipl-dataset/` - IPL ball-by-ball data
 - Cricsheet T20I JSON files (downloaded automatically)

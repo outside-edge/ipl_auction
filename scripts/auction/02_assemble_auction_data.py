@@ -24,8 +24,8 @@ from rapidfuzz.process import cdist
 
 BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "data"
-SOURCES_DIR = DATA_DIR / "sources"
 AUCTION_DIR = DATA_DIR / "auction"
+SOURCES_DIR = AUCTION_DIR / "sources"
 PERF_DIR = DATA_DIR / "perf"
 
 
@@ -243,7 +243,7 @@ def load_kaggle_main():
 
 def load_wikipedia_excel():
     """Load Wikipedia scraped Excel data (2009-2015)."""
-    path = DATA_DIR / "sources/ipl_auction_wikipedia.xlsx"
+    path = SOURCES_DIR / "wikipedia/ipl_auction_wikipedia.xlsx"
     if not path.exists():
         print(f"Warning: {path} not found")
         return pd.DataFrame()
@@ -350,7 +350,7 @@ def load_wikipedia_excel():
 
 def load_auction_2021():
     """Load 2021 auction data."""
-    path = DATA_DIR / "sources/auction_2021.csv"
+    path = SOURCES_DIR / "manual/auction_2021.csv"
     if not path.exists():
         print(f"Warning: {path} not found")
         return pd.DataFrame()
@@ -374,7 +374,7 @@ def load_auction_2021():
 
 def load_auction_2022():
     """Load 2022 auction data."""
-    path = SOURCES_DIR / "2022_auction/IPL_2022_Sold_Players.csv"
+    path = SOURCES_DIR / "kaggle_2022/IPL_2022_Sold_Players.csv"
     if not path.exists():
         print(f"Warning: {path} not found")
         return pd.DataFrame()
@@ -397,7 +397,7 @@ def load_auction_2022():
 
 def load_auction_2023():
     """Load 2023 auction data."""
-    path = SOURCES_DIR / "2023_auction/IPL_2023_Auction_Sold.csv"
+    path = SOURCES_DIR / "kaggle_2023/IPL_2023_Auction_Sold.csv"
     if not path.exists():
         print(f"Warning: {path} not found")
         return pd.DataFrame()
@@ -423,7 +423,7 @@ def load_auction_2023():
 
 def load_auction_2024():
     """Load 2024 auction data."""
-    path = SOURCES_DIR / "kaggle/IPL-2024-SOLD-PLAYER-DATA-ANALYSIS/IPL 2024 SOLD PLAYER DATA ANALYSIS.csv"
+    path = SOURCES_DIR / "kaggle/ipl-2024-auction/IPL 2024 SOLD PLAYER DATA ANALYSIS.csv"
     if not path.exists():
         print(f"Warning: {path} not found")
         return pd.DataFrame()
@@ -455,7 +455,7 @@ def load_auction_2024():
 
 def load_auction_2025():
     """Load 2025 auction data."""
-    path = SOURCES_DIR / "kaggle/IPL-Data-viz/frontend/public/ipl_dataset.csv"
+    path = SOURCES_DIR / "kaggle/ipl-2025-auction/ipl_dataset.csv"
     if not path.exists():
         print(f"Warning: {path} not found")
         return pd.DataFrame()
@@ -1111,12 +1111,15 @@ def main():
             df_all[col] = np.nan
     df_all = df_all[cols]
 
-    output_path = AUCTION_DIR / "auction_all_years.csv"
-    df_all.to_csv(output_path, index=False)
+    df_all["final_price_lakh"] = pd.to_numeric(df_all["final_price_lakh"], errors="coerce")
+    df_all["base_price_lakh"] = pd.to_numeric(df_all["base_price_lakh"], errors="coerce")
+    df_all["year"] = df_all["year"].astype(int)
+
+    output_path = AUCTION_DIR / "auction_all_years.parquet"
+    df_all.to_parquet(output_path, index=False)
     print(f"\nSaved to {output_path}")
 
     print("\n=== Summary by Year ===")
-    df_all["final_price_lakh"] = pd.to_numeric(df_all["final_price_lakh"], errors="coerce")
     summary = df_all.groupby("year").agg(
         players=("player_name", "count"),
         total_spent_lakh=("final_price_lakh", "sum"),

@@ -14,14 +14,14 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "data"
-SOURCES_DIR = DATA_DIR / "sources"
 PERF_DIR = DATA_DIR / "perf" / "ipl"
+SOURCES_DIR = DATA_DIR / "perf" / "sources"
 
 
 def load_data():
     """Load ball-by-ball and match info data."""
-    bbb_path = SOURCES_DIR / "kaggle/ipl-dataset/csv/Ball_By_Ball_Match_Data.csv"
-    match_path = SOURCES_DIR / "kaggle/ipl-dataset/csv/Match_Info.csv"
+    bbb_path = SOURCES_DIR / "kaggle/ipl-dataset/Ball_By_Ball_Match_Data.csv"
+    match_path = SOURCES_DIR / "kaggle/ipl-dataset/Match_Info.csv"
 
     print("Loading ball-by-ball data...")
     bbb = pd.read_csv(bbb_path)

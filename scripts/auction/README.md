@@ -21,9 +21,12 @@ All outputs go to `data/auction/`:
 
 ## Data Sources
 
-Input data from `data/sources/`:
+Input data from `data/auction/sources/`:
 
-- `kaggle/iplauctiondata/` - Historical auction data (2008-2021)
-- `kaggle/IPL-2024-SOLD-PLAYER-DATA-ANALYSIS/` - 2024 auction
-- `2022_auction/`, `2023_auction/` - Year-specific auction files
+- `kaggle/iplauctiondata/` - Historical auction data (2013-2022)
+- `kaggle/ipl-2024-auction/` - 2024 auction
+- `kaggle/ipl-2025-auction/` - 2025 auction
+- `kaggle_2022/`, `kaggle_2023/` - Year-specific auction files
 - `scraped/auction_2026.csv` - Wikipedia scrape for 2026
+- `wikipedia/` - Wikipedia Excel files (2009-2015)
+- `manual/` - Manual data (2008, 2021)

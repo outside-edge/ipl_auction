@@ -55,5 +55,13 @@ __pycache__/
 .venv/
 venv/
 
-# Downloaded data from external sources
-data/kaggle/
+# Large Kaggle datasets (download on-demand via scripts/*/00_download_kaggle.sh)
+data/auction/sources/kaggle/iplauctiondata/
+data/auction/sources/kaggle/ipl-2024-auction/
+data/auction/sources/kaggle/ipl-2025-auction/
+data/perf/sources/kaggle/
+
+# Pipeline outputs (regenerated)
+data/analysis/joined/
+data/analysis/diagnostics/
+data/model/
