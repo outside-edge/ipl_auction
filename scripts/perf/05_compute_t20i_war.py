@@ -17,7 +17,7 @@ BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "data"
 T20I_DIR = DATA_DIR / "perf" / "t20i"
 
-RUNS_PER_WIN = 8
+RUNS_PER_WIN = 10
 RUNS_PER_DISMISSAL = 6.0
 RUNS_PER_WICKET = 6.0
 

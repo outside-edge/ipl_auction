@@ -17,7 +17,7 @@ SOURCES_DIR = DATA_DIR / "sources"
 PERF_DIR = DATA_DIR / "perf" / "ipl"
 KAGGLE_DIR = SOURCES_DIR / "kaggle" / "ipl-dataset" / "csv"
 
-RUNS_PER_WIN = 8
+RUNS_PER_WIN = 10
 
 
 def load_ball_by_ball():

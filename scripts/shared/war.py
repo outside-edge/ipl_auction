@@ -18,7 +18,7 @@ WAR formulas:
 import pandas as pd  # noqa: F401
 import numpy as np
 
-RUNS_PER_WIN = 8
+RUNS_PER_WIN = 10
 RUNS_PER_DISMISSAL = 6.0
 RUNS_PER_WICKET = 6.0
 
