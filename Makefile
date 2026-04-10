@@ -1,4 +1,4 @@
-.PHONY: all run data verify retrospective prediction clean help auction perf t20i backtest download-auction download-perf download
+.PHONY: all run data verify retrospective prediction clean help auction perf t20i backtest analysis download-auction download-perf download
 
 PYTHON := python3
 
@@ -24,6 +24,7 @@ help:
 	@echo "  retrospective  Run retrospective analysis (hedonic regressions, identify duds)"
 	@echo "  prediction     Forward-looking prediction (WAR forecast, predict duds)"
 	@echo "  backtest       Run historical backtest of predictions"
+	@echo "  analysis       Run comprehensive backtest + economic analysis"
 	@echo "  clean          Remove generated analysis files"
 	@echo ""
 
@@ -78,6 +79,11 @@ prediction: t20i
 # Backtest (optional, manual run)
 backtest:
 	$(PYTHON) scripts/prediction/05_backtest_predictions.py
+
+# Comprehensive backtest + economic analysis
+analysis:
+	$(PYTHON) scripts/prediction/06_comprehensive_backtest.py
+	$(PYTHON) scripts/prediction/07_economic_analysis.py
 
 # Scrape latest auction (run manually when needed)
 scrape-2026:

@@ -1,0 +1,102 @@
+======================================================================
+IPL AUCTION ECONOMIC ANALYSIS
+======================================================================
+
+Data: 297 player-seasons from 2012-2025
+Total spending analyzed: ₹1854 Cr
+Average price: ₹6.24 Cr
+Implied price per WAR: ₹1.06 Cr
+
+----------------------------------------------------------------------
+THE WASTE: Money Spent on Underperformers
+----------------------------------------------------------------------
+
+Players who underperformed by 5+ WAR: 59
+  Total spent: ₹442 Cr
+  Average price: ₹7.50 Cr
+
+Players who underperformed by 10+ WAR: 8
+  Total spent: ₹38 Cr
+  Examples: Chris Gayle, Daniel Christian, Sherfane Rutherford, Nathan Coulter-Nile, Brendon McCullum
+
+----------------------------------------------------------------------
+THE FINDS: Breakout Performances
+----------------------------------------------------------------------
+
+Players who exceeded expectations by 10+ WAR: 28
+  Total spent: ₹217 Cr
+  Average price: ₹7.76 Cr
+
+Players who exceeded expectations by 15+ WAR: 8
+  Examples: Jos Buttler, Liam Livingstone, Sunil Narine, Cameron Green, Heinrich Klaasen
+
+----------------------------------------------------------------------
+THE GAMBLE: Expensive Bets Are Riskier
+----------------------------------------------------------------------
+
+<2 Cr: n=102
+  Mean error: -0.2 WAR
+  Std error: 5.0 WAR
+  Underperformance rate (>5 WAR miss): 12%
+
+2-5 Cr: n=53
+  Mean error: -1.1 WAR
+  Std error: 5.7 WAR
+  Underperformance rate (>5 WAR miss): 25%
+
+5-10 Cr: n=70
+  Mean error: +1.9 WAR
+  Std error: 7.4 WAR
+  Underperformance rate (>5 WAR miss): 20%
+
+10+ Cr: n=72
+  Mean error: +1.6 WAR
+  Std error: 7.9 WAR
+  Underperformance rate (>5 WAR miss): 28%
+
+----------------------------------------------------------------------
+THE BIGGEST MISSES: Costliest Disappointments
+----------------------------------------------------------------------
+
+
+  2014 Chris Gayle               | Paid: ₹7.5Cr | Expected: 14.9 WAR | Got: 0.4 WAR
+  2021 Daniel Christian          | Paid: ₹4.0Cr | Expected: 9.2 WAR | Got: -2.5 WAR
+  2022 Sherfane Rutherford       | Paid: ₹1.0Cr | Expected: 8.4 WAR | Got: -2.4 WAR
+  2022 Nathan Coulter-Nile       | Paid: ₹2.0Cr | Expected: 8.2 WAR | Got: -2.5 WAR
+  2012 Brendon McCullum          | Paid: ₹4.5Cr | Expected: 9.9 WAR | Got: -0.6 WAR
+  2021 Harbhajan Singh           | Paid: ₹2.0Cr | Expected: 10.5 WAR | Got: 0.0 WAR
+  2014 Dwayne Bravo              | Paid: ₹4.0Cr | Expected: 11.1 WAR | Got: 0.6 WAR
+  2014 Gautam Gambhir            | Paid: ₹12.5Cr | Expected: 13.6 WAR | Got: 3.3 WAR
+  2021 Chris Morris              | Paid: ₹16.0Cr | Expected: 8.2 WAR | Got: -1.7 WAR
+  2025 Shivam Dube               | Paid: ₹12.0Cr | Expected: 8.4 WAR | Got: -1.3 WAR
+
+----------------------------------------------------------------------
+THE STEALS: Best Value Finds
+----------------------------------------------------------------------
+
+
+  2023 Sonu Yadav                | Paid: ₹0.2Cr | Expected: 15.4 WAR | Got: 29.1 WAR
+  2022 Jitesh Sharma             | Paid: ₹0.2Cr | Expected: -0.5 WAR | Got: 10.7 WAR
+  2023 Ajinkya Rahane            | Paid: ₹0.5Cr | Expected: 0.0 WAR | Got: 14.4 WAR
+  2023 Piyush Chawla             | Paid: ₹0.5Cr | Expected: 1.1 WAR | Got: 13.4 WAR
+  2012 Darren Bravo              | Paid: ₹0.5Cr | Expected: 5.1 WAR | Got: 16.7 WAR
+  2023 Mayank Markande           | Paid: ₹0.5Cr | Expected: -0.1 WAR | Got: 10.1 WAR
+  2022 Mohsin Khan               | Paid: ₹0.2Cr | Expected: 8.2 WAR | Got: 14.2 WAR
+  2022 Ansh Patel                | Paid: ₹0.2Cr | Expected: 10.7 WAR | Got: 16.5 WAR
+  2023 Mohit Sharma              | Paid: ₹0.5Cr | Expected: 1.9 WAR | Got: 9.2 WAR
+  2022 Ashok Sharma              | Paid: ₹0.6Cr | Expected: 4.2 WAR | Got: 11.9 WAR
+----------------------------------------------------------------------
+MEGA vs MINI AUCTION DYNAMICS
+----------------------------------------------------------------------
+
+Mega Auctions: n=231
+  Mean prediction error: +0.86 WAR
+  Std prediction error: 6.47 WAR
+  Total spent: ₹1633 Cr
+  Price-performance correlation: ρ=0.52 (p=0.000)
+
+Mini Auctions: n=66
+  Mean prediction error: -0.47 WAR
+  Std prediction error: 6.90 WAR
+  Total spent: ₹221 Cr
+  Price-performance correlation: ρ=0.15 (p=0.217)
