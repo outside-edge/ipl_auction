@@ -1,0 +1,32 @@
+name: Update README Tables
+
+on:
+  push:
+    paths:
+      - 'tabs/*.csv'
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pandas
+
+      - name: Update README tables
+        run: python scripts/update_readme_tables.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet readme.md || (git add readme.md && git commit -m "Update README tables [skip ci]")
+          git push || echo "No changes to push"
