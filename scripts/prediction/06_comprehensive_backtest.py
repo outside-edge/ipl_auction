@@ -409,7 +409,9 @@ def main():
 
     ipl_war_indexed = build_name_index(ipl_war)
 
-    test_years = [2009, 2010, 2011, 2012, 2014, 2018, 2021, 2022, 2023, 2025]
+    # Get available years from auction data (excluding 2024 which is missing)
+    available_years = sorted(auction["year"].unique())
+    test_years = [y for y in available_years if y >= 2009 and y != 2024 and y != 2026]
 
     all_predictions = []
     year_summaries = []
