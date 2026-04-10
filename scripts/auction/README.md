@@ -10,7 +10,7 @@ Scripts for assembling and managing IPL auction data from various sources.
 
 ## Outputs
 
-All outputs go to `data/auction/`:
+All outputs go to `data/acquisitions/`:
 
 | File | Description |
 |------|-------------|
@@ -21,7 +21,7 @@ All outputs go to `data/auction/`:
 
 ## Data Sources
 
-Input data from `data/auction/sources/`:
+Input data from `data/acquisitions/sources/`:
 
 - `kaggle/iplauctiondata/` - Historical auction data (2013-2022)
 - `kaggle/ipl-2024-auction/` - 2024 auction

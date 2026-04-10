@@ -22,7 +22,7 @@ from shared.names import normalize_name
 from shared.io import save_dataset
 
 DATA_DIR = BASE_DIR / "data"
-AUCTION_DIR = DATA_DIR / "auction"
+ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
 PERF_SOURCES_DIR = DATA_DIR / "perf" / "sources"
 JOINED_DIR = DATA_DIR / "analysis" / "joined"
 DIAGNOSTICS_DIR = DATA_DIR / "analysis" / "diagnostics"
@@ -64,7 +64,7 @@ def extract_ipl_registry():
 
 def load_existing_registry():
     """Load existing player_registry.csv."""
-    registry_path = AUCTION_DIR / "player_registry.csv"
+    registry_path = ACQUISITIONS_DIR / "player_registry.csv"
     registry = pd.read_csv(registry_path)
     print(f"Loaded existing registry: {len(registry)} players")
     return registry
@@ -238,13 +238,10 @@ def main():
     output_path = save_dataset(player_master, JOINED_DIR / "player_master", format="parquet")
     print(f"\nSaved to {output_path}")
 
-    unmatched_path = DIAGNOSTICS_DIR / "ipl_unmatched_cricsheet.csv"
-    unmatched_df.to_csv(unmatched_path, index=False)
-    print(f"Saved unmatched to {unmatched_path}")
-
-    ipl_registry_path = JOINED_DIR / "ipl_cricsheet_registry.csv"
-    ipl_registry.to_csv(ipl_registry_path, index=False)
-    print(f"Saved IPL Cricsheet registry to {ipl_registry_path}")
+    if len(ipl_registry) > 0:
+        ipl_registry_path = JOINED_DIR / "ipl_cricsheet_registry.csv"
+        ipl_registry.to_csv(ipl_registry_path, index=False)
+        print(f"Saved IPL Cricsheet registry to {ipl_registry_path}")
 
     print("\n" + "=" * 60)
     print("DONE")

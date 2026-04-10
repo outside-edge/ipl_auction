@@ -1,6 +1,8 @@
 IPL Auction Hedonic Wage Regression Results
-============================================================
+======================================================================
 
+POOLED OLS MODELS
+----------------------------------------------------------------------
 
 Lagged Model:
                             OLS Regression Results                            
@@ -9,7 +11,7 @@ Dep. Variable:              log_price   R-squared:                       0.430
 Model:                            OLS   Adj. R-squared:                  0.423
 Method:                 Least Squares   F-statistic:                     63.80
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           8.85e-31
-Time:                        19:18:35   Log-Likelihood:                -352.19
+Time:                        20:43:06   Log-Likelihood:                -352.19
 No. Observations:                 258   AIC:                             712.4
 Df Residuals:                     254   BIC:                             726.6
 Df Model:                           3                                         
@@ -38,7 +40,7 @@ Dep. Variable:              log_price   R-squared:                       0.453
 Model:                            OLS   Adj. R-squared:                  0.437
 Method:                 Least Squares   F-statistic:                     33.11
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           2.19e-32
-Time:                        19:18:35   Log-Likelihood:                -346.96
+Time:                        20:43:06   Log-Likelihood:                -346.96
 No. Observations:                 258   AIC:                             709.9
 Df Residuals:                     250   BIC:                             738.3
 Df Model:                           7                                         
@@ -71,7 +73,7 @@ Dep. Variable:              log_price   R-squared:                       0.344
 Model:                            OLS   Adj. R-squared:                  0.338
 Method:                 Least Squares   F-statistic:                     58.45
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           3.22e-21
-Time:                        19:18:35   Log-Likelihood:                -325.76
+Time:                        20:43:06   Log-Likelihood:                -325.76
 No. Observations:                 231   AIC:                             657.5
 Df Residuals:                     228   BIC:                             667.8
 Df Model:                           2                                         
@@ -99,7 +101,7 @@ Dep. Variable:              log_price   R-squared:                       0.438
 Model:                            OLS   Adj. R-squared:                  0.436
 Method:                 Least Squares   F-statistic:                     197.8
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           9.74e-96
-Time:                        19:18:35   Log-Likelihood:                -1195.8
+Time:                        20:43:06   Log-Likelihood:                -1195.8
 No. Observations:                 797   AIC:                             2400.
 Df Residuals:                     793   BIC:                             2418.
 Df Model:                           3                                         
@@ -128,7 +130,7 @@ Dep. Variable:              log_price   R-squared:                       0.456
 Model:                            OLS   Adj. R-squared:                  0.451
 Method:                 Least Squares   F-statistic:                     106.1
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):          3.26e-109
-Time:                        19:18:35   Log-Likelihood:                -1182.6
+Time:                        20:43:06   Log-Likelihood:                -1182.6
 No. Observations:                 797   AIC:                             2381.
 Df Residuals:                     789   BIC:                             2419.
 Df Model:                           7                                         
@@ -161,7 +163,7 @@ Dep. Variable:              log_price   R-squared:                       0.240
 Model:                            OLS   Adj. R-squared:                  0.238
 Method:                 Least Squares   F-statistic:                     96.95
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           4.46e-37
-Time:                        19:18:35   Log-Likelihood:                -923.95
+Time:                        20:43:06   Log-Likelihood:                -923.95
 No. Observations:                 586   AIC:                             1854.
 Df Residuals:                     583   BIC:                             1867.
 Df Model:                           2                                         
@@ -189,7 +191,7 @@ Dep. Variable:              log_price   R-squared:                       0.242
 Model:                            OLS   Adj. R-squared:                  0.238
 Method:                 Least Squares   F-statistic:                     64.04
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           8.60e-36
-Time:                        19:18:35   Log-Likelihood:                -923.26
+Time:                        20:43:06   Log-Likelihood:                -923.26
 No. Observations:                 586   AIC:                             1855.
 Df Residuals:                     582   BIC:                             1872.
 Df Model:                           3                                         
@@ -218,7 +220,7 @@ Dep. Variable:              log_price   R-squared:                       0.516
 Model:                            OLS   Adj. R-squared:                  0.494
 Method:                 Least Squares   F-statistic:                     17.86
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           9.07e-11
-Time:                        19:18:35   Log-Likelihood:                -118.08
+Time:                        20:43:06   Log-Likelihood:                -118.08
 No. Observations:                  93   AIC:                             246.2
 Df Residuals:                      88   BIC:                             258.8
 Df Model:                           4                                         
@@ -248,7 +250,7 @@ Dep. Variable:              log_price   R-squared:                       0.337
 Model:                            OLS   Adj. R-squared:                  0.318
 Method:                 Least Squares   F-statistic:                     22.17
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           3.08e-14
-Time:                        19:18:35   Log-Likelihood:                -218.64
+Time:                        20:43:06   Log-Likelihood:                -218.64
 No. Observations:                 147   AIC:                             447.3
 Df Residuals:                     142   BIC:                             462.2
 Df Model:                           4                                         
@@ -271,14 +273,16 @@ Kurtosis:                       2.872   Cond. No.                         80.6
 Notes:
 [1] Standard Errors are heteroscedasticity robust (HC1)
 
-Market Efficiency Test:
+======================================================================
+MARKET EFFICIENCY TEST
+----------------------------------------------------------------------
                             OLS Regression Results                            
 ==============================================================================
 Dep. Variable:       total_war_future   R-squared:                       0.088
 Model:                            OLS   Adj. R-squared:                  0.079
 Method:                 Least Squares   F-statistic:                     14.12
 Date:                Thu, 09 Apr 2026   Prob (F-statistic):           1.76e-06
-Time:                        19:18:35   Log-Likelihood:                -716.13
+Time:                        20:43:06   Log-Likelihood:                -716.13
 No. Observations:                 213   AIC:                             1438.
 Df Residuals:                     210   BIC:                             1448.
 Df Model:                           2                                         
@@ -298,3 +302,373 @@ Kurtosis:                       2.757   Cond. No.                         5.51
 
 Notes:
 [1] Standard Errors are heteroscedasticity robust (HC1)
+
+======================================================================
+PANEL DATA MODELS
+----------------------------------------------------------------------
+
+Pooled OLS:
+                          PooledOLS Estimation Summary                          
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.4158
+Estimator:                  PooledOLS   R-squared (Between):              0.5107
+No. Observations:                 442   R-squared (Within):               0.1608
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.4158
+Time:                        20:43:06   Log-likelihood                   -626.89
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      103.90
+Entities:                         184   P-value                           0.0000
+Avg Obs:                       2.4022   Distribution:                   F(3,438)
+Min Obs:                       2.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             71.616
+                                        P-value                           0.0000
+Time periods:                      12   Distribution:                   F(3,438)
+Avg Obs:                       36.833                                           
+Min Obs:                       5.0000                                           
+Max Obs:                       101.00                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+const          0.7825     0.0989     7.9146     0.0000      0.5882      0.9768
+runs           0.0037     0.0003     11.187     0.0000      0.0031      0.0044
+wickets        0.0670     0.0093     7.2104     0.0000      0.0487      0.0853
+is_indian     -0.7969     0.1111    -7.1757     0.0000     -1.0151     -0.5786
+==============================================================================
+
+Player FE:
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.1329
+Estimator:                   PanelOLS   R-squared (Between):              0.4757
+No. Observations:                 442   R-squared (Within):               0.1329
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.4403
+Time:                        20:43:06   Log-likelihood                   -466.38
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      19.616
+Entities:                         184   P-value                           0.0000
+Avg Obs:                       2.4022   Distribution:                   F(2,256)
+Min Obs:                       2.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             14.150
+                                        P-value                           0.0000
+Time periods:                      12   Distribution:                   F(2,256)
+Avg Obs:                       36.833                                           
+Min Obs:                       5.0000                                           
+Max Obs:                       101.00                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+runs           0.0034     0.0006     5.2953     0.0000      0.0021      0.0046
+wickets        0.0052     0.0142     0.3679     0.7132     -0.0228      0.0332
+==============================================================================
+
+F-test for Poolability: 1.9091
+P-value: 0.0000
+Distribution: F(183,256)
+
+Included effects: Entity
+
+Year FE:
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.2808
+Estimator:                   PanelOLS   R-squared (Between):              0.4834
+No. Observations:                 442   R-squared (Within):               0.1786
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.4024
+Time:                        20:43:06   Log-likelihood                   -600.06
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      55.562
+Entities:                         184   P-value                           0.0000
+Avg Obs:                       2.4022   Distribution:                   F(3,427)
+Min Obs:                       2.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             36.648
+                                        P-value                           0.0000
+Time periods:                      12   Distribution:                   F(3,427)
+Avg Obs:                       36.833                                           
+Min Obs:                       5.0000                                           
+Max Obs:                       101.00                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+const          0.8260     0.0959     8.6092     0.0000      0.6374      1.0146
+runs           0.0032     0.0003     9.2471     0.0000      0.0025      0.0039
+wickets        0.0561     0.0092     6.1292     0.0000      0.0381      0.0741
+is_indian     -0.6019     0.1177    -5.1147     0.0000     -0.8332     -0.3706
+==============================================================================
+
+F-test for Poolability: 5.0096
+P-value: 0.0000
+Distribution: F(11,427)
+
+Included effects: Time
+
+Two-Way FE:
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.1075
+Estimator:                   PanelOLS   R-squared (Between):              0.3815
+No. Observations:                 442   R-squared (Within):               0.1262
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.3572
+Time:                        20:43:06   Log-likelihood                   -394.10
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      14.762
+Entities:                         184   P-value                           0.0000
+Avg Obs:                       2.4022   Distribution:                   F(2,245)
+Min Obs:                       2.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             6.9113
+                                        P-value                           0.0012
+Time periods:                      12   Distribution:                   F(2,245)
+Avg Obs:                       36.833                                           
+Min Obs:                       5.0000                                           
+Max Obs:                       101.00                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+runs           0.0027     0.0007     3.7142     0.0003      0.0013      0.0042
+wickets       -0.0037     0.0154    -0.2404     0.8102     -0.0340      0.0266
+==============================================================================
+
+F-test for Poolability: 2.8789
+P-value: 0.0000
+Distribution: F(194,245)
+
+Included effects: Entity, Time
+
+First Diff:
+                     FirstDifferenceOLS Estimation Summary                      
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.0720
+Estimator:         FirstDifferenceOLS   R-squared (Between):              0.2327
+No. Observations:                 140   R-squared (Within):               0.0991
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.2257
+Time:                        20:43:06   Log-likelihood                   -225.18
+Cov. Estimator:                Robust                                           
+                                        F-statistic:                      5.3561
+Entities:                         184   P-value                           0.0058
+Avg Obs:                       2.4022   Distribution:                   F(2,138)
+Min Obs:                       2.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             3.4768
+                                        P-value                           0.0336
+Time periods:                      12   Distribution:                   F(2,138)
+Avg Obs:                       36.833                                           
+Min Obs:                       5.0000                                           
+Max Obs:                       101.00                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+runs           0.0020     0.0008     2.5370     0.0123      0.0005      0.0036
+wickets       -0.0196     0.0244    -0.8028     0.4235     -0.0677      0.0286
+==============================================================================
+
+Between:
+                         BetweenOLS Estimation Summary                          
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.7503
+Estimator:                 BetweenOLS   R-squared (Between):              0.7503
+No. Observations:                 184   R-squared (Within):              -0.1241
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.6338
+Time:                        20:43:06   Log-likelihood                   -218.99
+Cov. Estimator:            Unadjusted                                           
+                                        F-statistic:                      273.41
+Entities:                         184   P-value                           0.0000
+Avg Obs:                       2.4022   Distribution:                   F(2,182)
+Min Obs:                       2.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             273.41
+                                        P-value                           0.0000
+Time periods:                      12   Distribution:                   F(2,182)
+Avg Obs:                       36.833                                           
+Min Obs:                       5.0000                                           
+Max Obs:                       101.00                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+runs           0.0051     0.0003     16.829     0.0000      0.0045      0.0057
+wickets        0.1169     0.0100     11.725     0.0000      0.0972      0.1365
+==============================================================================
+
+--- Coefficient Comparison (runs, wickets) ---
+     Model    runs  wickets
+Pooled OLS 0.00372  0.06699
+ Player FE 0.00337  0.00523
+   Year FE 0.00318  0.05610
+Two-Way FE 0.00272 -0.00370
+First Diff 0.00204 -0.01955
+
+======================================================================
+WAR-BASED PANEL MODELS
+----------------------------------------------------------------------
+
+WAR Pooled:
+                          PooledOLS Estimation Summary                          
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.2732
+Estimator:                  PooledOLS   R-squared (Between):              0.3070
+No. Observations:                 375   R-squared (Within):               0.0998
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.2732
+Time:                        20:43:06   Log-likelihood                   -554.33
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      69.922
+Entities:                         179   P-value                           0.0000
+Avg Obs:                       2.0950   Distribution:                   F(2,372)
+Min Obs:                       1.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             51.678
+                                        P-value                           0.0000
+Time periods:                      11   Distribution:                   F(2,372)
+Avg Obs:                       34.091                                           
+Min Obs:                       4.0000                                           
+Max Obs:                       95.000                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+const          1.3353     0.1063     12.556     0.0000      1.1261      1.5444
+total_war      0.0588     0.0086     6.8521     0.0000      0.0419      0.0757
+is_indian     -0.8355     0.1338    -6.2454     0.0000     -1.0986     -0.5725
+==============================================================================
+
+WAR Player FE:
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.0096
+Estimator:                   PanelOLS   R-squared (Between):              0.1195
+No. Observations:                 375   R-squared (Within):               0.0096
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.1171
+Time:                        20:43:06   Log-likelihood                   -379.12
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      1.8880
+Entities:                         179   P-value                           0.1710
+Avg Obs:                       2.0950   Distribution:                   F(1,195)
+Min Obs:                       1.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             1.5145
+                                        P-value                           0.2199
+Time periods:                      11   Distribution:                   F(1,195)
+Avg Obs:                       34.091                                           
+Min Obs:                       4.0000                                           
+Max Obs:                       95.000                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+total_war      0.0160     0.0130     1.2307     0.2199     -0.0097      0.0417
+==============================================================================
+
+F-test for Poolability: 2.0836
+P-value: 0.0000
+Distribution: F(178,195)
+
+Included effects: Entity
+
+WAR Two-Way FE:
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:              log_price   R-squared:                        0.0151
+Estimator:                   PanelOLS   R-squared (Between):              0.1251
+No. Observations:                 375   R-squared (Within):               0.0096
+Date:                Thu, Apr 09 2026   R-squared (Overall):              0.1226
+Time:                        20:43:06   Log-likelihood                   -297.28
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      2.8346
+Entities:                         179   P-value                           0.0939
+Avg Obs:                       2.0950   Distribution:                   F(1,185)
+Min Obs:                       1.0000                                           
+Max Obs:                       7.0000   F-statistic (robust):             1.6287
+                                        P-value                           0.2035
+Time periods:                      11   Distribution:                   F(1,185)
+Avg Obs:                       34.091                                           
+Min Obs:                       4.0000                                           
+Max Obs:                       95.000                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+total_war      0.0168     0.0132     1.2762     0.2035     -0.0092      0.0428
+==============================================================================
+
+F-test for Poolability: 3.4343
+P-value: 0.0000
+Distribution: F(188,185)
+
+Included effects: Entity, Time
+
+======================================================================
+VARIANCE DECOMPOSITION
+----------------------------------------------------------------------
+
+Raw Stats Models:
+  Pooled OLS R²:     0.416
+  Player FE R²:      0.440
+  Within R²:         0.133
+  Between R²:        0.750
+
+  Player FE absorbs 4.2% of pooled residual variance
+
+WAR Models:
+  WAR Pooled R²:     0.273
+  WAR Player FE R²:  0.117
+  WAR Within R²:     0.010
+
+  Player FE absorbs -21.5% of WAR model residual variance
+
+======================================================================
+SUPERSTAR PREMIUM MODEL
+----------------------------------------------------------------------
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              log_price   R-squared:                       0.443
+Model:                            OLS   Adj. R-squared:                  0.440
+Method:                 Least Squares   F-statistic:                     155.7
+Date:                Thu, 09 Apr 2026   Prob (F-statistic):           3.06e-98
+Time:                        20:43:06   Log-Likelihood:                -1192.2
+No. Observations:                 797   AIC:                             2394.
+Df Residuals:                     792   BIC:                             2418.
+Df Model:                           4                                         
+Covariance Type:                  HC1                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.3642      0.070      5.205      0.000       0.227       0.501
+runs           0.0049      0.000     17.425      0.000       0.004       0.005
+wickets        0.0942      0.009     10.638      0.000       0.077       0.112
+is_indian     -0.7945      0.082     -9.747      0.000      -0.954      -0.635
+superstar     -0.3635      0.126     -2.878      0.004      -0.611      -0.116
+==============================================================================
+Omnibus:                        1.946   Durbin-Watson:                   1.747
+Prob(Omnibus):                  0.378   Jarque-Bera (JB):                1.883
+Skew:                           0.060   Prob(JB):                        0.390
+Kurtosis:                       2.795   Cond. No.                         669.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+Superstar premium (top 10% runs OR wickets): -30.5%
+
+======================================================================
+QUANTILE REGRESSION
+----------------------------------------------------------------------
+
+Coefficients by Quantile:
+              0.10     0.25     0.50     0.75     0.90
+const     -0.68557 -0.34377  0.33066  1.18094  2.07375
+runs       0.00367  0.00510  0.00479  0.00390  0.00234
+wickets    0.03748  0.08028  0.10106  0.07423  0.04177
+is_indian -0.88021 -1.10540 -0.86243 -0.55354 -0.50939
+
+--- Interpretation ---
+Q10 = bottom 10% of prices (budget players)
+Q50 = median price
+Q90 = top 10% of prices (premium players)

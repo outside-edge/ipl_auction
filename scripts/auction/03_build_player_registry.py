@@ -20,7 +20,7 @@ from rapidfuzz.process import cdist
 
 BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "data"
-AUCTION_DIR = DATA_DIR / "auction"
+ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
 
 
 def normalize_name_for_clustering(name):
@@ -118,7 +118,7 @@ def select_canonical_name(names, name_counts):
 
 def build_registry():
     """Build the player registry from auction data."""
-    auction_path = AUCTION_DIR / "auction_all_years.csv"
+    auction_path = ACQUISITIONS_DIR / "auction_all_years.csv"
     if not auction_path.exists():
         print(f"ERROR: {auction_path} not found. Run assemble_auction_data.py first.")
         return None
@@ -155,7 +155,7 @@ def build_registry():
     for i, _ in enumerate(registry_df.itertuples()):
         registry_df.loc[i, "player_id"] = f"P{i+1:04d}"
 
-    output_path = AUCTION_DIR / "player_registry.csv"
+    output_path = ACQUISITIONS_DIR / "player_registry.csv"
     registry_df.to_csv(output_path, index=False)
     print(f"\nSaved registry to {output_path}")
     print(f"  Total players: {len(registry_df)}")
@@ -171,7 +171,7 @@ def build_registry():
 
 def load_registry():
     """Load existing player registry."""
-    registry_path = AUCTION_DIR / "player_registry.csv"
+    registry_path = ACQUISITIONS_DIR / "player_registry.csv"
     if not registry_path.exists():
         return None
     return pd.read_csv(registry_path)

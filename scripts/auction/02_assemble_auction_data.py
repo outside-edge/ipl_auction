@@ -11,7 +11,7 @@ Sources:
 6. ipl_dataset.csv: 2025
 7. Manual entry for 2008 inaugural auction
 
-Output: data/auction/auction_all_years.csv
+Output: data/acquisitions/auction_all_years.parquet
 """
 
 import re
@@ -24,8 +24,8 @@ from rapidfuzz.process import cdist
 
 BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "data"
-AUCTION_DIR = DATA_DIR / "auction"
-SOURCES_DIR = AUCTION_DIR / "sources"
+ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
+SOURCES_DIR = ACQUISITIONS_DIR / "sources"
 PERF_DIR = DATA_DIR / "perf"
 
 
@@ -361,8 +361,8 @@ def load_auction_2021():
         "year": 2021,
         "player_name": df["Name"].str.strip(),
         "team": df["Team"].apply(standardize_team_name),
-        "base_price_lakh": df["Base_Price(Lakh)"],
-        "final_price_lakh": df["Final_Price(Lakh)"],
+        "base_price_lakh": pd.to_numeric(df["Base_Price(Lakh)"], errors="coerce"),
+        "final_price_lakh": pd.to_numeric(df["Final_Price(Lakh)"], errors="coerce"),
         "role": df["Role"].apply(standardize_role),
         "nationality": df["Country"].apply(standardize_nationality),
         "status": df["Status"],
@@ -487,12 +487,13 @@ def load_auction_2026():
         return pd.DataFrame()
 
     df = pd.read_csv(path)
+    df["final_price_lakh"] = df["final_price_lakh"].astype(float)
     return df
 
 
 def load_retained_players():
     """Load retained players data for mega auction years."""
-    path = AUCTION_DIR / "retained_players.csv"
+    path = ACQUISITIONS_DIR / "retained_players.csv"
     if not path.exists():
         print(f"Warning: {path} not found")
         return pd.DataFrame()
@@ -503,7 +504,7 @@ def load_retained_players():
         "year": df["year"].astype(int),
         "player_name": df["player_name"].str.strip(),
         "team": df["team"].apply(standardize_team_name),
-        "final_price_lakh": df["retention_price_lakh"],
+        "final_price_lakh": df["retention_price_lakh"].astype(float),
         "status": "RETAINED",
         "source": "retained_" + df["source"].astype(str),
         "acquisition_type": "retained"
@@ -678,6 +679,7 @@ def create_2008_data():
     df["year"] = 2008
     df["status"] = "SOLD"
     df["source"] = "manual_2008"
+    df["final_price_lakh"] = df["final_price_lakh"].astype(float)
 
     return df
 
@@ -1096,7 +1098,7 @@ def main():
     df_all = assign_player_ids(df_all, name_to_id)
     print(f"  Unique players: {len(registry_df)}")
 
-    registry_path = AUCTION_DIR / "player_registry.csv"
+    registry_path = ACQUISITIONS_DIR / "player_registry.csv"
     registry_df.to_csv(registry_path, index=False)
     print(f"  Saved registry to {registry_path}")
 
@@ -1111,11 +1113,9 @@ def main():
             df_all[col] = np.nan
     df_all = df_all[cols]
 
-    df_all["final_price_lakh"] = pd.to_numeric(df_all["final_price_lakh"], errors="coerce")
-    df_all["base_price_lakh"] = pd.to_numeric(df_all["base_price_lakh"], errors="coerce")
     df_all["year"] = df_all["year"].astype(int)
 
-    output_path = AUCTION_DIR / "auction_all_years.parquet"
+    output_path = ACQUISITIONS_DIR / "auction_all_years.parquet"
     df_all.to_parquet(output_path, index=False)
     print(f"\nSaved to {output_path}")
 

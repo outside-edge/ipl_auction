@@ -8,7 +8,7 @@ set -e
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BASE_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
-KAGGLE_DIR="$BASE_DIR/data/auction/sources/kaggle"
+KAGGLE_DIR="$BASE_DIR/data/acquisitions/sources/kaggle"
 
 mkdir -p "$KAGGLE_DIR"
 cd "$KAGGLE_DIR"

@@ -11,47 +11,41 @@ OOS prediction of sports performance is inherently difficult.
 ----------------------------------------
 PERFORMANCE SUMMARY
 ----------------------------------------
-Training R²:   0.339 (in-sample)
-Validation R²: 0.185 (2023 holdout)
-Test R²:       0.228 (2024 holdout - TRUE OOS)
+Training R²:   0.729 (in-sample)
+Validation R²: -2.486 (2023 holdout)
+Test R²:       nan (2024 holdout - TRUE OOS)
 
-Test RMSE: 6.08
-Test MAE:  4.47
+Test RMSE: nan
+Test MAE:  nan
 
 ----------------------------------------
 CROSS-VALIDATION (Rolling Window)
 ----------------------------------------
-  2015: R²=-0.426
-  2016: R²=0.326
-  2017: R²=-0.012
-  2018: R²=-6.206
-  2019: R²=0.200
-  2020: R²=0.083
-  2021: R²=-0.113
-  2022: R²=0.429
-  2023: R²=0.145
-  2024: R²=0.174
+  2018: R²=-2.725
+  2021: R²=-14.883
+  2022: R²=0.308
+  2023: R²=-4.443
 
-  Mean R²: -0.540 ± 2.005
+  Mean R²: -5.436 ± 6.597
 
 ----------------------------------------
 FEATURE IMPORTANCE (Top 10)
 ----------------------------------------
-  feature_6                : 0.225
-  feature_8                : 0.161
-  feature_0                : 0.117
-  feature_7                : 0.091
-  feature_3                : 0.084
-  feature_4                : 0.070
-  feature_2                : 0.068
-  feature_1                : 0.062
-  feature_5                : 0.061
-  feature_11               : 0.060
+  combined_war_24m         : 0.325
+  ipl_war_avg_3y           : 0.170
+  ipl_career_war           : 0.117
+  combined_war_12m         : 0.090
+  ipl_war_lag2             : 0.057
+  ipl_war_lag1             : 0.049
+  ipl_war_lag3             : 0.047
+  t20i_career_war          : 0.035
+  t20i_war_12m             : 0.035
+  ipl_war_trend            : 0.030
 
 ----------------------------------------
 CONCLUSION
 ----------------------------------------
-Test R² of 22.8% is realistic for OOS sports prediction.
+Test R² of nan% is realistic for OOS sports prediction.
 For context:
   - Random baseline R² = 0%
   - Simple lag-1 correlation = ~18% (0.428² for lag1 WAR)

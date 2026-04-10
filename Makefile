@@ -43,8 +43,12 @@ auction:
 	$(PYTHON) scripts/auction/02_assemble_auction_data.py
 
 perf:
-	$(PYTHON) scripts/perf/01_process_ipl_deliveries.py
-	$(PYTHON) scripts/perf/02_compute_ipl_war.py
+	@if [ -f data/perf/ipl/player_season_stats.csv ] && [ -f data/perf/ipl/player_season_war.csv ]; then \
+		echo "Using cached perf data (data/perf/ipl/*.csv exist)"; \
+	else \
+		$(PYTHON) scripts/perf/01_process_ipl_deliveries.py; \
+		$(PYTHON) scripts/perf/02_compute_ipl_war.py; \
+	fi
 
 # T20I data pipeline (optional, for prediction features)
 t20i:

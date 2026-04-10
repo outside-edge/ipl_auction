@@ -24,8 +24,8 @@ sys.path.insert(0, str(BASE_DIR / "scripts"))
 from shared.io import load_dataset, dataset_exists
 
 DATA_DIR = BASE_DIR / "data"
-AUCTION_DIR = DATA_DIR / "auction"
-AUCTION_SOURCES_DIR = AUCTION_DIR / "sources"
+ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
+AUCTION_SOURCES_DIR = ACQUISITIONS_DIR / "sources"
 DIAGNOSTICS_DIR = DATA_DIR / "analysis" / "diagnostics"
 
 
@@ -150,11 +150,11 @@ def verify_year_completeness():
         2026: 70,
     }
 
-    if not dataset_exists(AUCTION_DIR / "auction_all_years"):
+    if not dataset_exists(ACQUISITIONS_DIR / "auction_all_years"):
         print("ERROR: auction_all_years not found. Run assemble_auction_data.py first.")
         return ["auction_all_years not found"]
 
-    df = load_dataset(AUCTION_DIR / "auction_all_years")
+    df = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
     year_counts = df.groupby("year").size()
 
     issues = []
@@ -186,10 +186,10 @@ def verify_data_quality():
     print("DATA QUALITY CHECKS")
     print("=" * 60)
 
-    if not dataset_exists(AUCTION_DIR / "auction_all_years"):
+    if not dataset_exists(ACQUISITIONS_DIR / "auction_all_years"):
         return ["auction_all_years not found"]
 
-    df = load_dataset(AUCTION_DIR / "auction_all_years")
+    df = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
     issues = []
 
     country_prefixes = [
@@ -246,10 +246,10 @@ def detect_similar_names_within_year(threshold=85):
     print("SIMILAR NAME DETECTION WITHIN SAME YEAR")
     print("=" * 60)
 
-    if not dataset_exists(AUCTION_DIR / "auction_all_years"):
+    if not dataset_exists(ACQUISITIONS_DIR / "auction_all_years"):
         return ["auction_all_years not found"]
 
-    df = load_dataset(AUCTION_DIR / "auction_all_years")
+    df = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
     issues = []
 
     def normalize_for_match(name):
@@ -324,18 +324,18 @@ def verify_player_registry():
     print("PLAYER REGISTRY VERIFICATION")
     print("=" * 60)
 
-    registry_path = AUCTION_DIR / "player_registry.csv"
+    registry_path = ACQUISITIONS_DIR / "player_registry.csv"
     issues = []
 
     if not registry_path.exists():
         print("WARNING: player_registry.csv not found")
         return ["player_registry.csv not found"]
 
-    if not dataset_exists(AUCTION_DIR / "auction_all_years"):
+    if not dataset_exists(ACQUISITIONS_DIR / "auction_all_years"):
         return ["auction_all_years not found"]
 
     registry = pd.read_csv(registry_path)
-    auction = load_dataset(AUCTION_DIR / "auction_all_years")
+    auction = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
 
     print(f"\nRegistry: {len(registry)} unique players")
     print(f"Auction records: {len(auction)}")
@@ -379,10 +379,10 @@ def verify_top_deals():
     print("TOP DEALS VERIFICATION (Sanity Check)")
     print("=" * 60)
 
-    if not dataset_exists(AUCTION_DIR / "auction_all_years"):
+    if not dataset_exists(ACQUISITIONS_DIR / "auction_all_years"):
         return []
 
-    df = load_dataset(AUCTION_DIR / "auction_all_years")
+    df = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
     df["final_price_lakh"] = pd.to_numeric(df["final_price_lakh"], errors="coerce")
 
     known_top_deals = {
@@ -438,8 +438,8 @@ def generate_report(all_issues):
             for issue in all_issues:
                 f.write(f"- {issue}\n")
 
-        if dataset_exists(AUCTION_DIR / "auction_all_years"):
-            df = load_dataset(AUCTION_DIR / "auction_all_years")
+        if dataset_exists(ACQUISITIONS_DIR / "auction_all_years"):
+            df = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
             f.write("\n### Data Summary\n\n")
             f.write(f"- Total records: {len(df)}\n")
             f.write(f"- Years covered: {df['year'].min()} - {df['year'].max()}\n")

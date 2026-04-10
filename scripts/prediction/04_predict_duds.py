@@ -30,7 +30,7 @@ from shared.io import load_dataset, dataset_exists
 DATA_DIR = BASE_DIR / "data"
 MODELS_DIR = BASE_DIR / "models"
 T20I_DIR = DATA_DIR / "perf" / "t20i"
-AUCTION_DIR = DATA_DIR / "auction"
+ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
 PERF_DIR = DATA_DIR / "perf" / "ipl"
 TABS_DIR = BASE_DIR / "tabs"
 
@@ -39,7 +39,7 @@ def load_data():
     """Load auction, WAR, and T20I data."""
     print("Loading data...")
 
-    auction = load_dataset(AUCTION_DIR / "auction_all_years")
+    auction = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
     print(f"  Auction records: {len(auction)}")
 
     ipl_war = load_dataset(PERF_DIR / "player_season_war")

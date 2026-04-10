@@ -20,7 +20,7 @@ from shared.names import normalize_name
 from shared.io import load_dataset
 
 DATA_DIR = BASE_DIR / "data"
-AUCTION_DIR = DATA_DIR / "auction"
+ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
 PERF_DIR = DATA_DIR / "perf" / "ipl"
 JOINED_DIR = DATA_DIR / "analysis" / "joined"
 DIAGNOSTICS_DIR = DATA_DIR / "analysis" / "diagnostics"
@@ -30,7 +30,7 @@ def load_data():
     """Load auction and performance data."""
     print("Loading data...")
 
-    auction = load_dataset(AUCTION_DIR / "auction_all_years")
+    auction = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
     print(f"  Auction records: {len(auction)}")
 
     perf = load_dataset(PERF_DIR / "player_season_stats")

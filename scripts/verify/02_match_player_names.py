@@ -34,7 +34,7 @@ from shared.constants import SUFFIX_AUCTION, SUFFIX_IPL, COL_HAS_IPL_HISTORY
 from shared.io import save_dataset, load_dataset
 
 DATA_DIR = BASE_DIR / "data"
-AUCTION_DIR = DATA_DIR / "auction"
+ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
 PERF_DIR = DATA_DIR / "perf" / "ipl"
 ANALYSIS_DIR = DATA_DIR / "analysis"
 JOINED_DIR = ANALYSIS_DIR / "joined"
@@ -43,7 +43,7 @@ DIAGNOSTICS_DIR = ANALYSIS_DIR / "diagnostics"
 
 def load_alias_table():
     """Load manual alias table from CSV if it exists."""
-    alias_path = AUCTION_DIR / "name_aliases.csv"
+    alias_path = ACQUISITIONS_DIR / "name_aliases.csv"
     if not alias_path.exists():
         return {}
 
@@ -240,7 +240,7 @@ def generate_alias_suggestions(auction, perf):
 
 def load_non_auction_acquisitions():
     """Load the non-auction acquisitions file if it exists."""
-    non_auction_path = AUCTION_DIR / "non_auction_acquisitions.csv"
+    non_auction_path = ACQUISITIONS_DIR / "non_auction_acquisitions.csv"
     if non_auction_path.exists():
         df = pd.read_csv(non_auction_path)
         non_auction_set = set()
@@ -292,7 +292,7 @@ def find_perf_without_auction(perf, auction, mapping_df):
 def merge_auction_performance():
     """Merge auction and performance data using name mapping."""
     print("Loading data...")
-    auction = load_dataset(AUCTION_DIR / "auction_all_years")
+    auction = load_dataset(ACQUISITIONS_DIR / "auction_all_years")
     perf = load_dataset(PERF_DIR / "player_season_stats")
 
     try:
@@ -375,17 +375,7 @@ def merge_auction_performance():
 
     output_path = save_dataset(merged, JOINED_DIR / "auction_with_performance", format="parquet")
     print(f"\nSaved to {output_path}")
-
-    if len(unmatched_df) > 0:
-        unmatched_path = DIAGNOSTICS_DIR / "unmatched_players.csv"
-        unmatched_df.to_csv(unmatched_path, index=False)
-        print(f"Saved unmatched list to {unmatched_path}")
-
-    perf_unmatched_df = find_perf_without_auction(perf, auction, mapping_df)
-    if len(perf_unmatched_df) > 0:
-        perf_unmatched_path = DIAGNOSTICS_DIR / "unmatched_perf_players.csv"
-        perf_unmatched_df.to_csv(perf_unmatched_path, index=False)
-        print(f"Saved reverse unmatched list ({len(perf_unmatched_df)} players) to {perf_unmatched_path}")
+    print(f"  Unmatched auction players: {len(unmatched_df)}")
 
     return merged
 

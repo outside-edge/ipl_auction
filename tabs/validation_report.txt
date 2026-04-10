@@ -4,20 +4,7 @@ COMPREHENSIVE MODEL VALIDATION REPORT
 
 1. WAR FORECASTING MODEL
 ----------------------------------------
-Rolling CV years: 2015-2024
-Mean R²: 0.123 ± 0.196
-Mean RMSE: 6.21 ± 0.39
-
-Year-by-year:
-  2015: R²=-0.261
-  2016: R²=0.326
-  2017: R²=-0.066
-  2019: R²=0.264
-  2020: R²=0.151
-  2021: R²=0.043
-  2022: R²=0.354
-  2023: R²=0.130
-  2024: R²=0.164
+No WAR model validation results
 
 2. PRICE PREDICTION MODEL
 ----------------------------------------
@@ -25,4 +12,3 @@ No price model validation results
 
 3. KEY INSIGHTS
 ----------------------------------------
-Stable prediction years (R² > 15%): 5/9
