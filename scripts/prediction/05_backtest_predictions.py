@@ -154,7 +154,7 @@ def calculate_predicted_premium(df, price_model):
 def evaluate_dud_predictions(df):
     """Evaluate whether high-premium players actually underperformed."""
     if "premium_pct" not in df.columns:
-        return None
+        return None, None
 
     valid = df[
         df["war_lag1"].notna() &
@@ -163,7 +163,7 @@ def evaluate_dud_predictions(df):
     ].copy()
 
     if len(valid) < 10:
-        return None
+        return None, None
 
     valid["underperformance"] = valid["war_lag1"] - valid["war_actual"]
 
@@ -181,7 +181,58 @@ def evaluate_dud_predictions(df):
         "top_quintile_underperf": top_underperf,
         "bottom_quintile_underperf": bottom_underperf,
         "diff": top_underperf - bottom_underperf,
-    }
+    }, valid
+
+
+def save_2025_evaluation(df, output_dir):
+    """Save detailed per-player evaluation for 2025."""
+    df = df.copy()
+
+    df["predicted_dud"] = df["premium_pct"] >= df["premium_pct"].quantile(0.8)
+    df["actual_dud"] = df["underperformance"] >= df["underperformance"].quantile(0.8)
+
+    output = pd.DataFrame({
+        "Player": df["player_name"],
+        "Team": df["team"],
+        "Price (Cr)": (df["final_price_lakh"] / 100).round(2),
+        "Prior WAR": df["war_lag1"].round(2),
+        "Predicted Price (Cr)": (df["price_predicted_lakh"] / 100).round(2),
+        "Premium %": df["premium_pct"].round(1),
+        "Actual WAR": df["war_actual"].round(2),
+        "Underperformance": df["underperformance"].round(2),
+        "Predicted Dud?": df["predicted_dud"].map({True: "Yes", False: "No"}),
+        "Actual Dud?": df["actual_dud"].map({True: "Yes", False: "No"}),
+    })
+
+    output = output.sort_values("Premium %", ascending=False)
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / "prediction_eval_2025.csv"
+    output.to_csv(output_path, index=False)
+    print(f"\n  Saved 2025 player-level evaluation to {output_path}")
+
+    return output
+
+
+def print_2025_summary(eval_df):
+    """Print summary of 2025 predictions to console."""
+    print("\n" + "=" * 60)
+    print("2025 PREDICTION EVALUATION - PLAYER LEVEL")
+    print("=" * 60)
+
+    predicted_duds = eval_df[eval_df["Predicted Dud?"] == "Yes"].copy()
+
+    print(f"\nTop 10 Predicted Duds (by Premium %):")
+    print("-" * 80)
+    top10 = predicted_duds.head(10)
+    for _, row in top10.iterrows():
+        actual_dud = "✓ HIT" if row["Actual Dud?"] == "Yes" else "✗ MISS"
+        print(f"  {row['Player']:25} | Premium: {row['Premium %']:+6.1f}% | "
+              f"Actual WAR: {row['Actual WAR']:5.2f} | {actual_dud}")
+
+    hits = len(predicted_duds[predicted_duds["Actual Dud?"] == "Yes"])
+    total = len(predicted_duds)
+    print(f"\nPredicted Duds Performance: {hits}/{total} correctly identified ({100*hits/total:.1f}%)")
 
 
 def main():
@@ -191,7 +242,7 @@ def main():
 
     auction, ipl_war = load_data()
 
-    test_years = list(range(2015, 2025))
+    test_years = list(range(2015, 2026))
     results = []
 
     for year in test_years:
@@ -211,7 +262,7 @@ def main():
 
         with_premium = calculate_predicted_premium(auction_year, price_model)
 
-        evaluation = evaluate_dud_predictions(with_premium)
+        evaluation, valid_df = evaluate_dud_predictions(with_premium)
         if evaluation is None:
             print("  Insufficient data for evaluation")
             continue
@@ -225,6 +276,10 @@ def main():
         print(f"  Top quintile underperformance: {evaluation['top_quintile_underperf']:.2f}")
         print(f"  Bottom quintile underperformance: {evaluation['bottom_quintile_underperf']:.2f}")
         print(f"  Difference: {evaluation['diff']:.2f}")
+
+        if year == 2025:
+            eval_2025_df = save_2025_evaluation(valid_df, TABS_DIR)
+            print_2025_summary(eval_2025_df)
 
     results_df = pd.DataFrame(results)
 
