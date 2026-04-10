@@ -7,25 +7,25 @@ IPL teams spent **₹717 Cr** on disappointing players from 2012-2025. Using bal
 ## Top Disappointments (by Wasted Money)
 
 <!-- TABLE:disappointments:start -->
-**Total wasted: ₹717 Cr** across 369 disappointing players
+**Total wasted: ₹687 Cr** across 376 disappointing players
 
 | Year | Player | Team | Paid | Predicted | Actual | Wasted |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025 | Ravi Bishnoi | LSG | ₹11.0Cr | 10.9 | -0.9 | ₹10.4Cr |
-| 2014 | Gautam Gambhir | KKR | ₹12.5Cr | 14.1 | 3.3 | ₹9.5Cr |
-| 2025 | Shivam Dube | CSK | ₹12.0Cr | 8.9 | -1.3 | ₹9.0Cr |
-| 2025 | Tilak Varma | MI | ₹8.0Cr | 14.6 | 2.9 | ₹8.0Cr |
-| 2015 | Yuvraj Singh | DC | ₹16.0Cr | 11.2 | 2.6 | ₹7.6Cr |
-| 2014 | Chris Gayle | RCB | ₹7.5Cr | 15.4 | 0.4 | ₹7.5Cr |
-| 2014 | Shane Watson | RR | ₹12.5Cr | 16.6 | 8.2 | ₹7.4Cr |
-| 2018 | Chris Morris | DC | ₹11.0Cr | 9.2 | 0.9 | ₹7.4Cr |
-| 2014 | Virat Kohli | RCB | ₹12.5Cr | 14.5 | 6.3 | ₹7.3Cr |
-| 2018 | Chris Woakes | RCB | ₹7.4Cr | 6.6 | -1.7 | ₹7.3Cr |
-| 2020 | Glenn Maxwell | PBKS | ₹10.8Cr | 9.3 | 1.3 | ₹7.1Cr |
-| 2018 | Manish Pandey | SRH | ₹11.0Cr | 8.1 | 0.0 | ₹7.1Cr |
-| 2022 | Mohammed Siraj | RCB | ₹7.0Cr | 7.1 | -4.6 | ₹7.0Cr |
-| 2014 | Dale Steyn | SRH | ₹9.5Cr | 15.7 | 7.8 | ₹6.9Cr |
-| 2025 | Sanju Samson | RR | ₹18.0Cr | 11.6 | 4.0 | ₹6.8Cr |
+| 2014 | Gautam Gambhir | KKR | ₹12.5Cr | 13.9 | 3.3 | ₹8.6Cr |
+| 2025 | Ravi Bishnoi | LSG | ₹11.0Cr | 9.7 | -0.9 | ₹8.6Cr |
+| 2025 | Shivam Dube | CSK | ₹12.0Cr | 8.9 | -1.3 | ₹8.3Cr |
+| 2025 | Tilak Varma | MI | ₹8.0Cr | 13.0 | 2.9 | ₹8.0Cr |
+| 2014 | Chris Gayle | RCB | ₹7.5Cr | 15.1 | 0.4 | ₹7.5Cr |
+| 2018 | Chris Morris | DC | ₹11.0Cr | 10.1 | 0.9 | ₹7.5Cr |
+| 2020 | Glenn Maxwell | PBKS | ₹10.8Cr | 10.4 | 1.3 | ₹7.5Cr |
+| 2025 | Sanju Samson | RR | ₹18.0Cr | 13.0 | 4.0 | ₹7.3Cr |
+| 2014 | Virat Kohli | RCB | ₹12.5Cr | 15.0 | 6.3 | ₹7.1Cr |
+| 2015 | Yuvraj Singh | DC | ₹16.0Cr | 11.3 | 2.6 | ₹7.1Cr |
+| 2014 | Shane Watson | RR | ₹12.5Cr | 16.9 | 8.2 | ₹7.0Cr |
+| 2022 | Mohammed Siraj | RCB | ₹7.0Cr | 9.8 | -4.6 | ₹7.0Cr |
+| 2018 | Manish Pandey | SRH | ₹11.0Cr | 8.4 | 0.0 | ₹6.8Cr |
+| 2014 | Shikhar Dhawan | SRH | ₹12.5Cr | 12.6 | 4.6 | ₹6.5Cr |
+| 2022 | Anrich Nortje | DC | ₹6.5Cr | 7.7 | -1.1 | ₹6.5Cr |
 <!-- TABLE:disappointments:end -->
 
 ---
@@ -35,15 +35,15 @@ IPL teams spent **₹717 Cr** on disappointing players from 2012-2025. Using bal
 <!-- TABLE:team_efficiency:start -->
 | Team | N | Spent | WAR | WAR/Cr |
 | --- | --- | --- | --- | --- |
-| KKR | 34 | ₹170Cr | 221 | 1.30 |
-| PBKS | 26 | ₹141Cr | 168 | 1.19 |
-| DC | 30 | ₹173Cr | 180 | 1.04 |
-| RCB | 27 | ₹189Cr | 185 | 0.98 |
-| LSG | 24 | ₹147Cr | 142 | 0.96 |
-| RR | 35 | ₹225Cr | 217 | 0.96 |
-| SRH | 34 | ₹204Cr | 196 | 0.96 |
-| MI | 37 | ₹249Cr | 230 | 0.92 |
-| CSK | 31 | ₹238Cr | 217 | 0.91 |
+| KKR | 74 | ₹281Cr | 369 | 1.31 |
+| SRH | 78 | ₹311Cr | 383 | 1.23 |
+| PBKS | 76 | ₹285Cr | 351 | 1.23 |
+| RCB | 69 | ₹300Cr | 350 | 1.17 |
+| CSK | 60 | ₹313Cr | 364 | 1.16 |
+| RR | 72 | ₹310Cr | 337 | 1.09 |
+| DC | 83 | ₹348Cr | 367 | 1.06 |
+| MI | 68 | ₹330Cr | 322 | 0.97 |
+| LSG | 25 | ₹148Cr | 142 | 0.96 |
 <!-- TABLE:team_efficiency:end -->
 
 ---
@@ -55,19 +55,19 @@ How well can we predict player performance at auction time using only prior data
 <!-- TABLE:backtest_summary:start -->
 | Year | N | R² | Rank ρ | RMSE |
 | --- | --- | --- | --- | --- |
-| 2012 | 10 | -0.47 | 0.35 | 6.8 |
-| 2013 | 14 | -1.19 | -0.25 | 6.3 |
+| 2012 | 10 | -0.23 | 0.56 | 6.2 |
+| 2013 | 14 | -1.27 | -0.27 | 6.4 |
 | 2014 | 125 | -0.05 | 0.39 | 6.2 |
-| 2015 | 17 | -0.21 | 0.14 | 5.1 |
-| 2016 | 43 | 0.05 | 0.24 | 4.8 |
-| 2017 | 24 | -0.27 | 0.01 | 5.4 |
-| 2018 | 116 | 0.16 | 0.31 | 6.4 |
-| 2019 | 22 | 0.21 | 0.33 | 4.6 |
-| 2020 | 28 | -0.14 | 0.24 | 5.7 |
-| 2021 | 31 | 0.07 | 0.38 | 4.6 |
-| 2022 | 150 | 0.17 | 0.40 | 6.4 |
-| 2023 | 33 | -0.10 | 0.13 | 7.7 |
-| 2025 | 43 | 0.26 | 0.52 | 6.1 |
+| 2015 | 17 | -0.11 | 0.14 | 4.8 |
+| 2016 | 43 | -0.01 | 0.16 | 4.9 |
+| 2017 | 24 | -0.31 | -0.06 | 5.5 |
+| 2018 | 116 | 0.15 | 0.32 | 6.4 |
+| 2019 | 22 | 0.19 | 0.40 | 4.6 |
+| 2020 | 28 | -0.17 | 0.26 | 5.8 |
+| 2021 | 31 | -0.00 | 0.42 | 4.8 |
+| 2022 | 150 | 0.12 | 0.37 | 6.6 |
+| 2023 | 33 | 0.03 | 0.27 | 7.2 |
+| 2025 | 43 | 0.28 | 0.54 | 6.0 |
 <!-- TABLE:backtest_summary:end -->
 
 ---
