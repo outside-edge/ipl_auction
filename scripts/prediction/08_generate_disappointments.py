@@ -11,8 +11,8 @@ Where:
 - shortfall_war = max(0, predicted_war - actual_war)
 - price_per_war = total_spent / total_actual_war (from realized outcomes)
 
-Bootstrap CIs account for model RMSE (~6 WAR), so we can distinguish
-genuine overpayment from prediction noise.
+Bootstrap CIs use empirical residual resampling to capture the actual
+distribution of prediction errors (skewness, fat tails, etc.).
 
 Output: tabs/disappointments.csv
 """
@@ -28,11 +28,11 @@ TABS_DIR = BASE_DIR / "tabs"
 MODEL_RMSE = 6.0
 
 
-def bootstrap_wasted_money(pred_war, actual_war, price_cr, price_per_war, n_boot=1000, seed=42):
+def bootstrap_wasted_money(pred_war, actual_war, price_cr, price_per_war, residuals, n_boot=1000, seed=42):
     """
     Bootstrap confidence intervals for wasted money estimates.
 
-    Accounts for prediction uncertainty by adding noise to predictions
+    Accounts for prediction uncertainty by resampling empirical residuals
     and computing the distribution of implied waste.
 
     Returns dict with point estimate and 95% CI.
@@ -41,7 +41,7 @@ def bootstrap_wasted_money(pred_war, actual_war, price_cr, price_per_war, n_boot
 
     wasted_samples = []
     for _ in range(n_boot):
-        noise = rng.normal(0, MODEL_RMSE, size=len(pred_war))
+        noise = rng.choice(residuals, size=len(pred_war), replace=True)
         noisy_pred = pred_war + noise
 
         shortfall = np.maximum(0, noisy_pred - actual_war)
@@ -60,7 +60,7 @@ def bootstrap_wasted_money(pred_war, actual_war, price_cr, price_per_war, n_boot
     }
 
 
-def bootstrap_individual_waste(pred_war, actual_war, price_cr, price_per_war, n_boot=1000, seed=42):
+def bootstrap_individual_waste(pred_war, actual_war, price_cr, price_per_war, residuals, n_boot=1000, seed=42):
     """
     Bootstrap individual player wasted money with CIs.
 
@@ -72,7 +72,7 @@ def bootstrap_individual_waste(pred_war, actual_war, price_cr, price_per_war, n_
     waste_matrix = np.zeros((n_boot, n_players))
 
     for b in range(n_boot):
-        noise = rng.normal(0, MODEL_RMSE, size=n_players)
+        noise = rng.choice(residuals, size=n_players, replace=True)
         noisy_pred = pred_war + noise
 
         shortfall = np.maximum(0, noisy_pred - actual_war)
@@ -107,10 +107,13 @@ def main():
     total_actual_war = valid["actual_war"].clip(lower=0).sum()
     PRICE_PER_WAR = total_spent / total_actual_war
 
+    residuals = (valid["actual_war"] - valid["predicted_war"]).values
+    empirical_std = np.std(residuals)
+
     print(f"Total spent: {total_spent:.0f} Cr")
     print(f"Total actual WAR delivered: {total_actual_war:.0f}")
     print(f"Implied price per WAR: {PRICE_PER_WAR:.2f} Cr")
-    print(f"Model RMSE: {MODEL_RMSE:.1f} WAR")
+    print(f"Empirical residual std: {empirical_std:.2f} WAR (vs fitted RMSE: {MODEL_RMSE:.1f})")
 
     valid["war_shortfall"] = (valid["predicted_war"] - valid["actual_war"]).clip(lower=0)
     valid["implied_waste_cr"] = valid["war_shortfall"] * PRICE_PER_WAR
@@ -123,6 +126,7 @@ def main():
         valid["actual_war"].values,
         valid["final_price_cr"].values,
         PRICE_PER_WAR,
+        residuals,
     )
 
     medians, ci_low, ci_high = bootstrap_individual_waste(
@@ -130,6 +134,7 @@ def main():
         valid["actual_war"].values,
         valid["final_price_cr"].values,
         PRICE_PER_WAR,
+        residuals,
     )
     valid["wasted_cr_median"] = medians
     valid["wasted_cr_ci_low"] = ci_low
@@ -158,7 +163,7 @@ def main():
     print(f"Total wasted (point): {output['wasted_cr'].sum():.0f} Cr")
     print(f"Total wasted (median): {aggregate_ci['total_wasted_point']:.0f} Cr")
     print(f"95% CI: [{aggregate_ci['total_wasted_ci_low']:.0f}, {aggregate_ci['total_wasted_ci_high']:.0f}] Cr")
-    print(f"\nInterpretation: Given model RMSE of {MODEL_RMSE:.0f} WAR,")
+    print(f"\nInterpretation: Using empirical residual resampling (std={empirical_std:.1f} WAR),")
     print(f"the 95% CI reflects uncertainty in 'true' overpayment.")
 
     print(f"\n=== TOP 15 (with CI) ===")
