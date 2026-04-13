@@ -2,128 +2,128 @@
 IPL AUCTION ECONOMIC ANALYSIS
 ======================================================================
 
-Data: 649 player-seasons from 2012-2025
-Total spending analyzed: ₹2777 Cr
-Average price: ₹4.28 Cr
-Implied price per WAR: ₹1.01 Cr
+Data: 602 player-seasons from 2012-2025
+Total spending analyzed: ₹2256 Cr
+Average price: ₹3.75 Cr
+Implied price per WAR: ₹0.78 Cr
 
 ----------------------------------------------------------------------
 THE WASTE: Money Spent on Underperformers
 ----------------------------------------------------------------------
 
-Players who underperformed by 5+ WAR: 70
-  Total spent: ₹334 Cr
-  Average price: ₹4.78 Cr
+Players who underperformed by 5+ WAR: 85
+  Total spent: ₹350 Cr
+  Average price: ₹4.12 Cr
 
-Players who underperformed by 10+ WAR: 5
-  Total spent: ₹25 Cr
-  Examples: Chris Gayle, Michael Hussey, Amit Mishra, Mohammed Siraj, Murali Vijay
+Players who underperformed by 10+ WAR: 13
+  Total spent: ₹39 Cr
+  Examples: Amit Mishra, Murali Vijay, Shadab Jakati, Jean-Paul Duminy, Harbhajan Singh
 
 ----------------------------------------------------------------------
 THE FINDS: Breakout Performances
 ----------------------------------------------------------------------
 
-Players who exceeded expectations by 10+ WAR: 29
-  Total spent: ₹183 Cr
-  Average price: ₹6.31 Cr
+Players who exceeded expectations by 10+ WAR: 39
+  Total spent: ₹234 Cr
+  Average price: ₹6.01 Cr
 
-Players who exceeded expectations by 15+ WAR: 7
-  Examples: Jos Buttler, Glenn Maxwell, Sunil Narine, Sonu Yadav, Sunil Narine
+Players who exceeded expectations by 15+ WAR: 11
+  Examples: James Faulkner, Mohit Sharma, Sunil Narine, Jaydev Unadkat, Pawan Negi
 
 ----------------------------------------------------------------------
 THE GAMBLE: Expensive Bets Are Riskier
 ----------------------------------------------------------------------
 
-<2 Cr: n=296
-  Mean error: -0.7 WAR
-  Std error: 3.9 WAR
-  Underperformance rate (>5 WAR miss): 9%
+<2 Cr: n=292
+  Mean error: -0.8 WAR
+  Std error: 5.2 WAR
+  Underperformance rate (>5 WAR miss): 13%
 
-2-5 Cr: n=163
-  Mean error: -0.0 WAR
-  Std error: 4.8 WAR
-  Underperformance rate (>5 WAR miss): 12%
+2-5 Cr: n=153
+  Mean error: +0.2 WAR
+  Std error: 5.6 WAR
+  Underperformance rate (>5 WAR miss): 14%
 
-5-10 Cr: n=110
-  Mean error: +1.5 WAR
-  Std error: 5.8 WAR
-  Underperformance rate (>5 WAR miss): 11%
+5-10 Cr: n=106
+  Mean error: +2.0 WAR
+  Std error: 6.2 WAR
+  Underperformance rate (>5 WAR miss): 13%
 
-10+ Cr: n=80
-  Mean error: +1.4 WAR
-  Std error: 6.4 WAR
-  Underperformance rate (>5 WAR miss): 15%
+10+ Cr: n=51
+  Mean error: +1.7 WAR
+  Std error: 7.6 WAR
+  Underperformance rate (>5 WAR miss): 22%
 
 ----------------------------------------------------------------------
 THE BIGGEST MISSES: Costliest Disappointments
 ----------------------------------------------------------------------
 
 
-  2014 Chris Gayle               | Paid: ₹7.5Cr | Expected: 12.2 WAR | Got: 0.3 WAR
-  2014 Michael Hussey            | Paid: ₹5.0Cr | Expected: 13.2 WAR | Got: 1.7 WAR
-  2014 Amit Mishra               | Paid: ₹0.1Cr | Expected: 11.1 WAR | Got: -0.3 WAR
-  2022 Mohammed Siraj            | Paid: ₹7.0Cr | Expected: 7.6 WAR | Got: -3.7 WAR
-  2014 Murali Vijay              | Paid: ₹5.0Cr | Expected: 10.1 WAR | Got: 0.1 WAR
-  2013 Daniel Christian          | Paid: ₹0.8Cr | Expected: 7.5 WAR | Got: -1.3 WAR
-  2018 Yuvraj Singh              | Paid: ₹2.0Cr | Expected: 6.7 WAR | Got: -1.9 WAR
-  2025 Ravi Bishnoi              | Paid: ₹11.0Cr | Expected: 7.8 WAR | Got: -0.7 WAR
-  2012 Brendon McCullum          | Paid: ₹4.5Cr | Expected: 7.8 WAR | Got: -0.5 WAR
-  2014 Gautam Gambhir            | Paid: ₹12.5Cr | Expected: 10.9 WAR | Got: 2.6 WAR
+  2014 Amit Mishra               | Paid: ₹0.1Cr | Expected: 15.7 WAR | Got: 0.5 WAR
+  2014 Murali Vijay              | Paid: ₹5.0Cr | Expected: 13.8 WAR | Got: 0.1 WAR
+  2014 Shadab Jakati             | Paid: ₹0.2Cr | Expected: 11.7 WAR | Got: -1.3 WAR
+  2018 Jean-Paul Duminy          | Paid: ₹1.0Cr | Expected: 9.3 WAR | Got: -3.0 WAR
+  2021 Harbhajan Singh           | Paid: ₹2.0Cr | Expected: 10.2 WAR | Got: -1.0 WAR
+  2013 Daniel Christian          | Paid: ₹0.8Cr | Expected: 9.5 WAR | Got: -1.6 WAR
+  2014 Chris Gayle               | Paid: ₹7.5Cr | Expected: 10.7 WAR | Got: -0.2 WAR
+  2014 MS Dhoni                  | Paid: ₹12.5Cr | Expected: 15.8 WAR | Got: 5.4 WAR
+  2014 Shaun Marsh               | Paid: ₹2.2Cr | Expected: 11.9 WAR | Got: 1.5 WAR
+  2014 Darren Sammy              | Paid: ₹3.5Cr | Expected: 7.2 WAR | Got: -3.1 WAR
 
 ----------------------------------------------------------------------
 THE STEALS: Best Value Finds
 ----------------------------------------------------------------------
 
 
-  2023 Sonu Yadav                | Paid: ₹0.2Cr | Expected: 5.8 WAR | Got: 23.3 WAR
-  2014 Yuzvendra Singh Chahal    | Paid: ₹0.1Cr | Expected: 1.0 WAR | Got: 10.5 WAR
-  2020 Sanjay Yadav              | Paid: ₹0.2Cr | Expected: 1.2 WAR | Got: 12.0 WAR
-  2022 Jitesh Sharma             | Paid: ₹0.2Cr | Expected: -0.4 WAR | Got: 8.5 WAR
-  2014 Pravin Tambe              | Paid: ₹0.1Cr | Expected: 0.8 WAR | Got: 8.3 WAR
-  2022 Mohsin Khan               | Paid: ₹0.2Cr | Expected: 3.5 WAR | Got: 11.3 WAR
-  2017 Jaydev Unadkat            | Paid: ₹0.3Cr | Expected: 0.0 WAR | Got: 8.6 WAR
-  2023 Ajinkya Rahane            | Paid: ₹0.5Cr | Expected: 1.2 WAR | Got: 11.5 WAR
-  2017 Pawan Negi                | Paid: ₹1.0Cr | Expected: 0.2 WAR | Got: 12.4 WAR
-  2022 Ashok Sharma              | Paid: ₹0.6Cr | Expected: 1.0 WAR | Got: 9.5 WAR
+  2017 Jaydev Unadkat            | Paid: ₹0.3Cr | Expected: 0.5 WAR | Got: 21.5 WAR
+  2023 Mohit Sharma              | Paid: ₹0.5Cr | Expected: 1.9 WAR | Got: 23.4 WAR
+  2023 Sonu Yadav                | Paid: ₹0.2Cr | Expected: 7.2 WAR | Got: 20.4 WAR
+  2022 Mohsin Khan               | Paid: ₹0.2Cr | Expected: 3.0 WAR | Got: 15.8 WAR
+  2014 Yuzvendra Singh Chahal    | Paid: ₹0.1Cr | Expected: 1.9 WAR | Got: 10.5 WAR
+  2014 Pravin Tambe              | Paid: ₹0.1Cr | Expected: 1.9 WAR | Got: 10.2 WAR
+  2020 Sanjay Yadav              | Paid: ₹0.2Cr | Expected: 2.4 WAR | Got: 11.8 WAR
+  2022 Aman Khan                 | Paid: ₹0.2Cr | Expected: 4.2 WAR | Got: 13.5 WAR
+  2012 Darren Bravo              | Paid: ₹0.5Cr | Expected: 6.8 WAR | Got: 19.8 WAR
+  2023 Piyush Chawla             | Paid: ₹0.5Cr | Expected: 2.3 WAR | Got: 14.9 WAR
 ----------------------------------------------------------------------
 MEGA vs MINI AUCTION DYNAMICS
 ----------------------------------------------------------------------
 
-Mega Auctions: n=434
-  Mean prediction error: +0.15 WAR
-  Std prediction error: 5.11 WAR
-  Total spent: ₹2173 Cr
-  Price-performance correlation: ρ=0.51 (p=0.000)
+Mega Auctions: n=390
+  Mean prediction error: -0.01 WAR
+  Std prediction error: 5.71 WAR
+  Total spent: ₹1654 Cr
+  Price-performance correlation: ρ=0.44 (p=0.000)
 
-Mini Auctions: n=215
-  Mean prediction error: +0.00 WAR
-  Std prediction error: 4.55 WAR
-  Total spent: ₹604 Cr
-  Price-performance correlation: ρ=0.18 (p=0.007)
+Mini Auctions: n=212
+  Mean prediction error: +0.49 WAR
+  Std prediction error: 5.99 WAR
+  Total spent: ₹602 Cr
+  Price-performance correlation: ρ=0.23 (p=0.001)
 ----------------------------------------------------------------------
 MINCER-ZARNOWITZ MARKET EFFICIENCY TEST
 ----------------------------------------------------------------------
 
 Model: resid_war = α + β × log(price)
-N = 649
+N = 602
 
 Coefficients:
-  α (intercept): -0.264 (p=0.166)
-  β (log_price): 0.493 (p=0.001)
+  α (intercept): -0.242 (p=0.318)
+  β (log_price): 0.647 (p=0.000)
 
-R² = 0.019
+R² = 0.022
 
 ----------------------------------------
 INTERPRETATION
 ----------------------------------------
 
-Intercept (α = -0.264):
+Intercept (α = -0.242):
   No systematic prediction bias (efficient)
 
-Price coefficient (β = 0.493):
+Price coefficient (β = 0.647):
   Expensive players OUTPERFORM predictions
   → Markets may be informationally efficient
 
 Note: H0 (efficiency) = α=0 AND β=0
-Joint F-test p-value: 0.0006
+Joint F-test p-value: 0.0004
   → Reject efficiency at 5% level

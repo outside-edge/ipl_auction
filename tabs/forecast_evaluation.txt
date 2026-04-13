@@ -11,8 +11,8 @@ OOS prediction of sports performance is inherently difficult.
 ----------------------------------------
 PERFORMANCE SUMMARY
 ----------------------------------------
-Training R²:   0.729 (in-sample)
-Validation R²: -2.486 (2023 holdout)
+Training R²:   0.360 (in-sample)
+Validation R²: -22.744 (2023 holdout)
 Test R²:       nan (2024 holdout - TRUE OOS)
 
 Test RMSE: nan
@@ -21,26 +21,28 @@ Test MAE:  nan
 ----------------------------------------
 CROSS-VALIDATION (Rolling Window)
 ----------------------------------------
-  2018: R²=-2.725
-  2021: R²=-14.883
-  2022: R²=0.308
-  2023: R²=-4.443
+  2016: R²=-0.267
+  2018: R²=-0.086
+  2019: R²=-0.158
+  2021: R²=0.115
+  2022: R²=0.124
+  2023: R²=-85.212
 
-  Mean R²: -5.436 ± 6.597
+  Mean R²: -14.247 ± 34.766
 
 ----------------------------------------
 FEATURE IMPORTANCE (Top 10)
 ----------------------------------------
-  combined_war_24m         : 0.325
-  ipl_war_avg_3y           : 0.170
-  ipl_career_war           : 0.117
-  combined_war_12m         : 0.090
-  ipl_war_lag2             : 0.057
-  ipl_war_lag1             : 0.049
-  ipl_war_lag3             : 0.047
-  t20i_career_war          : 0.035
-  t20i_war_12m             : 0.035
-  ipl_war_trend            : 0.030
+  t20i_war_12m             : 0.156
+  ipl_war_avg_3y           : 0.146
+  t20i_war_24m             : 0.124
+  ipl_war_lag1             : 0.108
+  ipl_war_lag2             : 0.087
+  ipl_war_lag3             : 0.069
+  ipl_career_war           : 0.062
+  t20i_career_war          : 0.060
+  is_mega_auction          : 0.059
+  ipl_war_trend            : 0.057
 
 ----------------------------------------
 CONCLUSION

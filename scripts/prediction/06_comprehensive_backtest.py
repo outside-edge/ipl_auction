@@ -113,15 +113,15 @@ def find_player_war_for_season(player_name, ipl_war_indexed, season):
 
     exact_match = season_war[season_war["player_norm"] == player_norm]
     if len(exact_match) > 0:
-        return exact_match.iloc[0]["total_war"]
+        return exact_match.iloc[0]["total_war_gam"]
 
     initial_match = season_war[season_war["player_initial"] == player_initial]
     if len(initial_match) > 0:
-        return initial_match.iloc[0]["total_war"]
+        return initial_match.iloc[0]["total_war_gam"]
 
     for _, row in season_war.iterrows():
         if names_compatible(player_norm, row["player_norm"]):
-            return row["total_war"]
+            return row["total_war_gam"]
 
     return np.nan
 
@@ -148,19 +148,19 @@ def build_features_for_year(auction_df, ipl_war_indexed, t20i_war, year):
         )
 
         if len(player_history) >= 1:
-            auction_year.at[idx, "ipl_war_lag1"] = player_history.iloc[0]["total_war"]
+            auction_year.at[idx, "ipl_war_lag1"] = player_history.iloc[0]["total_war_gam"]
             bf = player_history.iloc[0].get("balls_faced", 0) or 0
             bb = player_history.iloc[0].get("balls_bowled", 0) or 0
             auction_year.at[idx, "ipl_matches_lag1"] = (bf + bb) / 30
 
         if len(player_history) >= 2:
-            auction_year.at[idx, "ipl_war_lag2"] = player_history.iloc[1]["total_war"]
+            auction_year.at[idx, "ipl_war_lag2"] = player_history.iloc[1]["total_war_gam"]
 
         if len(player_history) >= 3:
-            auction_year.at[idx, "ipl_war_lag3"] = player_history.iloc[2]["total_war"]
+            auction_year.at[idx, "ipl_war_lag3"] = player_history.iloc[2]["total_war_gam"]
 
         if len(player_history) > 0:
-            auction_year.at[idx, "ipl_career_war"] = player_history["total_war"].sum()
+            auction_year.at[idx, "ipl_career_war"] = player_history["total_war_gam"].sum()
             auction_year.at[idx, "ipl_seasons_played"] = len(player_history)
 
     if len(t20i_war) > 0:

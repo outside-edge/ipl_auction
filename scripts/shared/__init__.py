@@ -17,6 +17,12 @@ from .war import (
     combine_war,
     validate_war,
 )
+from .war_gam import (
+    compute_batting_war_gam,
+    compute_bowling_war_gam,
+    validate_gam_war,
+    infer_batting_position,
+)
 from .names import normalize_name, get_initials_last, get_last_name, names_compatible
 from .io import save_dataset, load_dataset, dataset_exists
 from .constants import (

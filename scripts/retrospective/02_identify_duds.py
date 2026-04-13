@@ -48,8 +48,8 @@ def create_lagged_and_future_war(war_df):
     war_df = war_df.copy()
     war_df = war_df.sort_values(["player", "season"])
 
-    war_df["war_lag"] = war_df.groupby("player")["total_war"].shift(1)
-    war_df["war_future"] = war_df.groupby("player")["total_war"].shift(-1)
+    war_df["war_lag"] = war_df.groupby("player")["total_war_gam"].shift(1)
+    war_df["war_future"] = war_df.groupby("player")["total_war_gam"].shift(-1)
 
     war_df["balls_faced_lag"] = war_df.groupby("player")["balls_faced"].shift(1)
     war_df["balls_bowled_lag"] = war_df.groupby("player")["balls_bowled"].shift(1)

@@ -13,9 +13,8 @@ help:
 	@echo ""
 	@echo "Targets:"
 	@echo "  all            Run full pipeline (data + verify + retrospective + prediction)"
-	@echo "  download       Download all Kaggle data (auction + perf)"
+	@echo "  download       Download auction data from Kaggle"
 	@echo "  download-auction  Download auction data from Kaggle"
-	@echo "  download-perf  Download performance data from Kaggle"
 	@echo "  data           Data collection and assembly (auction + perf)"
 	@echo "  auction        Assemble auction data"
 	@echo "  perf           Process IPL ball-by-ball data into WAR"
@@ -29,13 +28,10 @@ help:
 	@echo ""
 
 # Download data from Kaggle
-download: download-auction download-perf
+download: download-auction
 
 download-auction:
 	bash scripts/auction/00_download_kaggle.sh
-
-download-perf:
-	bash scripts/perf/00_download_kaggle.sh
 
 # Data collection and assembly
 data: auction perf

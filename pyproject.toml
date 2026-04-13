@@ -14,6 +14,8 @@ dependencies = [
     "joblib",
     "requests",
     "linearmodels",
+    "pygam",
+    "pyarrow>=23.0.1",
 ]
 
 [project.optional-dependencies]

@@ -2,10 +2,9 @@
 """
 Process ball-by-ball IPL data to create match-level and season-level player statistics.
 
-Input: data/kaggle/ipl-dataset/csv/Ball_By_Ball_Match_Data.csv
-       data/kaggle/ipl-dataset/csv/Match_Info.csv
+Input: data/perf/sources/kaggle/ball_by_ball_ipl.csv
 
-Output: data/player_season_stats.csv
+Output: data/perf/ipl/player_season_stats.csv
 """
 
 import pandas as pd
@@ -19,26 +18,41 @@ SOURCES_DIR = DATA_DIR / "perf" / "sources"
 
 
 def load_data():
-    """Load ball-by-ball and match info data."""
-    bbb_path = SOURCES_DIR / "kaggle/ipl-dataset/Ball_By_Ball_Match_Data.csv"
-    match_path = SOURCES_DIR / "kaggle/ipl-dataset/Match_Info.csv"
+    """Load ball-by-ball data with standardized column names."""
+    bbb_path = SOURCES_DIR / "kaggle" / "ball_by_ball_ipl.csv"
 
     print("Loading ball-by-ball data...")
     bbb = pd.read_csv(bbb_path)
     print(f"  {len(bbb):,} deliveries loaded")
 
-    print("Loading match info...")
-    matches = pd.read_csv(match_path)
-    matches["match_date"] = pd.to_datetime(matches["match_date"])
-    matches["season"] = matches["match_date"].dt.year
-    print(f"  {len(matches):,} matches loaded")
+    bbb = bbb.rename(columns={
+        "Match ID": "ID",
+        "Over": "Overs",
+        "Ball": "Ball",
+        "Batter": "Batter",
+        "Bowler": "Bowler",
+        "Batter Runs": "BatsmanRun",
+        "Runs From Ball": "TotalRun",
+        "Extra Type": "ExtraType",
+        "Extra Runs": "ExtrasRun",
+        "Wicket": "IsWicketDelivery",
+        "Method": "Kind",
+        "Player Out": "PlayerOut",
+        "Innings": "Innings",
+    })
 
-    bbb = bbb.merge(
-        matches[["match_number", "season", "winner", "team1", "team2"]],
-        left_on="ID",
-        right_on="match_number",
-        how="left"
+    bbb["BattingTeam"] = np.where(
+        bbb["Innings"] == 1,
+        bbb["Bat First"],
+        bbb["Bat Second"]
     )
+
+    bbb["season"] = pd.to_datetime(bbb["Date"]).dt.year
+
+    matches = bbb[["ID", "Date", "Venue", "Bat First", "Bat Second", "Winner"]].drop_duplicates(subset="ID")
+    matches["match_date"] = pd.to_datetime(matches["Date"])
+    matches["season"] = matches["match_date"].dt.year
+    print(f"  {len(matches):,} unique matches")
 
     return bbb, matches
 
@@ -119,8 +133,16 @@ def compute_bowling_stats(bbb):
 
 
 def compute_fielding_stats(bbb):
-    """Compute match-level fielding statistics."""
+    """Compute match-level fielding statistics.
+
+    Note: The new ball_by_ball_ipl.csv data does not include fielder information,
+    so we return empty fielding stats.
+    """
     print("Computing fielding statistics...")
+
+    if "FieldersInvolved" not in bbb.columns:
+        print("  No fielder data available in this dataset")
+        return pd.DataFrame(columns=["ID", "season", "player", "catches", "run_outs", "stumpings"])
 
     wickets = bbb[bbb["IsWicketDelivery"] == 1].copy()
 

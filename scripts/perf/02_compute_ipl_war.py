@@ -5,46 +5,61 @@ Compute IPL WAR (Wins Above Replacement) from ball-by-ball data.
 WAR provides a context-adjusted, replacement-level-normalized performance metric.
 Based on baseball economics methodology (Scully 1974, Zimbalist).
 
-Uses quantile-based replacement level (simpler than GAM, no extra dependencies).
+Includes both:
+- Naive WAR: quantile-based replacement level
+- GAM WAR: context-adjusted using Generalized Additive Models
 """
 
+import sys
 import pandas as pd
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(BASE_DIR))
+
+from scripts.shared.war_gam import (
+    compute_batting_war_gam,
+    compute_bowling_war_gam,
+    validate_gam_war,
+)
 DATA_DIR = BASE_DIR / "data"
-SOURCES_DIR = DATA_DIR / "sources"
 PERF_DIR = DATA_DIR / "perf" / "ipl"
-KAGGLE_DIR = SOURCES_DIR / "kaggle" / "ipl-dataset" / "csv"
+SOURCES_DIR = DATA_DIR / "perf" / "sources"
+KAGGLE_DIR = SOURCES_DIR / "kaggle"
 
 RUNS_PER_WIN = 10
 
 
 def load_ball_by_ball():
-    """Load ball-by-ball data and merge with match info for season."""
+    """Load ball-by-ball data with year extracted from date."""
     print("Loading ball-by-ball data...")
-    bbb = pd.read_csv(KAGGLE_DIR / "Ball_By_Ball_Match_Data.csv")
+    bbb = pd.read_csv(KAGGLE_DIR / "ball_by_ball_ipl.csv")
     print(f"  Loaded {len(bbb):,} deliveries")
 
-    print("Loading match info...")
-    matches = pd.read_csv(KAGGLE_DIR / "Match_Info.csv")
+    bbb = bbb.rename(columns={
+        "Match ID": "ID",
+        "Over": "Overs",
+        "Ball": "Ball",
+        "Batter": "Batter",
+        "Bowler": "Bowler",
+        "Batter Runs": "BatsmanRun",
+        "Runs From Ball": "TotalRun",
+        "Extra Type": "ExtraType",
+        "Wicket": "IsWicketDelivery",
+        "Innings": "Innings",
+    })
 
-    matches["year"] = pd.to_datetime(matches["match_date"]).dt.year
-    match_years = matches[["match_number", "year"]].rename(
-        columns={"match_number": "ID"}
-    )
-
-    bbb = bbb.merge(match_years, on="ID", how="left")
+    bbb["year"] = pd.to_datetime(bbb["Date"]).dt.year
 
     print(f"  Years covered: {sorted(bbb['year'].dropna().unique().astype(int))}")
     return bbb
 
 
 def get_phase(over):
-    """Determine T20 phase from over number (0-indexed)."""
-    if over <= 5:
+    """Determine T20 phase from over number (1-indexed)."""
+    if over <= 6:
         return "powerplay"
-    elif over <= 14:
+    elif over <= 15:
         return "middle"
     else:
         return "death"
@@ -285,12 +300,34 @@ def main():
 
     validate_war(war_df)
 
+    batting_war_gam = compute_batting_war_gam(bbb, year_col="year", player_col="Batter")
+    bowling_war_gam = compute_bowling_war_gam(bbb, year_col="year", player_col="Bowler")
+
+    war_df = war_df.merge(
+        batting_war_gam[["season", "player", "batting_war_gam"]],
+        on=["season", "player"],
+        how="left",
+    )
+    war_df = war_df.merge(
+        bowling_war_gam[["season", "player", "bowling_war_gam"]],
+        on=["season", "player"],
+        how="left",
+    )
+    war_df["batting_war_gam"] = war_df["batting_war_gam"].fillna(0)
+    war_df["bowling_war_gam"] = war_df["bowling_war_gam"].fillna(0)
+    war_df["total_war_gam"] = war_df["batting_war_gam"] + war_df["bowling_war_gam"]
+
+    validate_gam_war(war_df)
+
     output_cols = [
         "season",
         "player",
         "batting_war",
         "bowling_war",
         "total_war",
+        "batting_war_gam",
+        "bowling_war_gam",
+        "total_war_gam",
         "balls_faced",
         "runs",
         "strike_rate",

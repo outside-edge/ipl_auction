@@ -88,19 +88,19 @@ def create_ipl_lagged_features(auction, ipl_war):
         ].sort_values("season", ascending=False)
 
         if len(player_history) >= 1:
-            auction.at[idx, "ipl_war_lag1"] = player_history.iloc[0]["total_war"]
+            auction.at[idx, "ipl_war_lag1"] = player_history.iloc[0]["total_war_gam"]
             bf = player_history.iloc[0]["balls_faced"]
             bb = player_history.iloc[0]["balls_bowled"]
             auction.at[idx, "ipl_matches_lag1"] = (bf + bb) / 30
 
         if len(player_history) >= 2:
-            auction.at[idx, "ipl_war_lag2"] = player_history.iloc[1]["total_war"]
+            auction.at[idx, "ipl_war_lag2"] = player_history.iloc[1]["total_war_gam"]
 
         if len(player_history) >= 3:
-            auction.at[idx, "ipl_war_lag3"] = player_history.iloc[2]["total_war"]
+            auction.at[idx, "ipl_war_lag3"] = player_history.iloc[2]["total_war_gam"]
 
         if len(player_history) > 0:
-            auction.at[idx, "ipl_career_war"] = player_history["total_war"].sum()
+            auction.at[idx, "ipl_career_war"] = player_history["total_war_gam"].sum()
             auction.at[idx, "ipl_seasons_played"] = len(player_history)
 
     matched = auction["ipl_war_lag1"].notna().sum()
@@ -166,7 +166,7 @@ def create_next_season_target(auction, ipl_war):
 
     auction["next_season_war"] = np.nan
 
-    war_dict = ipl_war.set_index(["player_norm", "season"])["total_war"].to_dict()
+    war_dict = ipl_war.set_index(["player_norm", "season"])["total_war_gam"].to_dict()
 
     for idx, row in auction.iterrows():
         player_norm = row["player_norm"]
