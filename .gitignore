@@ -59,7 +59,7 @@ venv/
 data/auction/sources/kaggle/iplauctiondata/
 data/auction/sources/kaggle/ipl-2024-auction/
 data/auction/sources/kaggle/ipl-2025-auction/
-data/perf/sources/kaggle/
+data/perf/sources/kaggle/ball_by_ball_ipl.csv
 
 # Pipeline outputs (regenerated)
 data/analysis/joined/
