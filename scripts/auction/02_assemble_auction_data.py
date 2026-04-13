@@ -348,6 +348,52 @@ def load_wikipedia_excel():
     return df_std
 
 
+def load_auction_2009():
+    """Load 2009 auction data from manual file."""
+    path = SOURCES_DIR / "manual/auction_2009.csv"
+    if not path.exists():
+        print(f"Warning: {path} not found")
+        return pd.DataFrame()
+
+    df = pd.read_csv(path)
+
+    df_std = pd.DataFrame({
+        "year": df["year"].astype(int),
+        "player_name": df["player_name"].str.strip(),
+        "team": df["team"].apply(standardize_team_name),
+        "final_price_lakh": pd.to_numeric(df["final_price_lakh"], errors="coerce"),
+        "role": df["role"].apply(standardize_role),
+        "nationality": df["nationality"].apply(standardize_nationality),
+        "status": df["status"],
+        "source": "manual_2009"
+    })
+
+    return df_std
+
+
+def load_auction_2010():
+    """Load 2010 auction data from manual file."""
+    path = SOURCES_DIR / "manual/auction_2010.csv"
+    if not path.exists():
+        print(f"Warning: {path} not found")
+        return pd.DataFrame()
+
+    df = pd.read_csv(path)
+
+    df_std = pd.DataFrame({
+        "year": df["year"].astype(int),
+        "player_name": df["player_name"].str.strip(),
+        "team": df["team"].apply(standardize_team_name),
+        "final_price_lakh": pd.to_numeric(df["final_price_lakh"], errors="coerce"),
+        "role": df["role"].apply(standardize_role),
+        "nationality": df["nationality"].apply(standardize_nationality),
+        "status": df["status"],
+        "source": "manual_2010"
+    })
+
+    return df_std
+
+
 def load_auction_2021():
     """Load 2021 auction data."""
     path = SOURCES_DIR / "manual/auction_2021.csv"
@@ -697,6 +743,8 @@ def deduplicate_by_source_priority(df):
         "auction_2025": 1,
         "wikipedia_2026": 1,
         "manual_2008": 1,
+        "manual_2009": 1,
+        "manual_2010": 1,
         "kaggle_main": 2,
         "wikipedia_excel": 3,
     }
@@ -729,6 +777,8 @@ def deduplicate_fuzzy_same_year(df, threshold=85):
         "auction_2025": 1,
         "wikipedia_2026": 1,
         "manual_2008": 1,
+        "manual_2009": 1,
+        "manual_2010": 1,
         "kaggle_main": 2,
         "wikipedia_excel": 3,
     }
@@ -834,6 +884,160 @@ KNOWN_SAME_PLAYER = [
     {"Suyash Prabhudessai", "Suyash Prabhudesai"},
     {"Mohammed Azharuddeen", "Mohammed Azharudeen"},
     {"Dan Christian", "Daniel Christian"},
+    {"Andrew Symonds", "A Symonds"},
+    {"Brett Lee", "B Lee"},
+    {"Anil Kumble", "A Kumble"},
+    {"Adam Gilchrist", "AC Gilchrist"},
+    {"Ajit Agarkar", "AB Agarkar"},
+    {"Brendon McCullum", "BB McCullum"},
+    {"David Hussey", "DJ Hussey"},
+    {"Dwayne Bravo", "DJ Bravo"},
+    {"Mahela Jayawardene", "DPMD Jayawardene"},
+    {"Brad Hodge", "BJ Hodge"},
+    {"Dimitri Mascarenhas", "AD Mascarenhas"},
+    {"Amit Mishra", "A Mishra"},
+    {"Ajinkya Rahane", "AM Rahane"},
+    {"Ashok Dinda", "AB Dinda"},
+    {"Dhawal Kulkarni", "DS Kulkarni"},
+    {"Ambati Rayudu", "AT Rayudu"},
+    {"Aakash Chopra", "A Chopra"},
+    {"Lakshmipathy Balaji", "L Balaji"},
+    {"Munaf Patel", "MM Patel"},
+    {"Pragyan Ojha", "PP Ojha"},
+    {"Ravindra Jadeja", "RA Jadeja"},
+    {"Suresh Raina", "SK Raina"},
+    {"Zaheer Khan", "Z Khan"},
+    {"Virender Sehwag", "V Sehwag"},
+    {"Gautam Gambhir", "G Gambhir"},
+    {"Yuvraj Singh", "Yuvraj Singh"},
+    {"Harbhajan Singh", "Harbhajan Singh"},
+    {"Irfan Pathan", "IK Pathan"},
+    {"Yusuf Pathan", "YK Pathan"},
+    {"Rohit Sharma", "RG Sharma"},
+    {"Shikhar Dhawan", "S Dhawan"},
+    {"Robin Uthappa", "RV Uthappa"},
+    {"Dinesh Karthik", "KD Karthik"},
+    {"Parthiv Patel", "PA Patel"},
+    {"Dale Steyn", "DW Steyn"},
+    {"Jacques Kallis", "JH Kallis"},
+    {"Shaun Marsh", "SE Marsh"},
+    {"Shane Watson", "SR Watson"},
+    {"Chris Gayle", "CH Gayle"},
+    {"Kieron Pollard", "KA Pollard"},
+    {"Lasith Malinga", "SL Malinga"},
+    {"Kumar Sangakkara", "KC Sangakkara"},
+    {"Angelo Mathews", "AD Mathews"},
+    {"Sunil Narine", "SP Narine"},
+    {"Andre Russell", "AD Russell"},
+    {"David Warner", "DA Warner"},
+    {"AB de Villiers", "AB de Villiers"},
+    {"Faf du Plessis", "F du Plessis"},
+    {"Quinton de Kock", "Q de Kock"},
+    {"Glenn Maxwell", "GJ Maxwell"},
+    {"Steve Smith", "SPD Smith"},
+    {"Mitchell Johnson", "MG Johnson"},
+    {"Pat Cummins", "PJ Cummins"},
+    {"Mitchell Starc", "MA Starc"},
+    {"Rashid Khan", "Rashid Khan"},
+    {"Jasprit Bumrah", "JJ Bumrah"},
+    {"Bhuvneshwar Kumar", "B Kumar"},
+    {"Ravichandran Ashwin", "R Ashwin"},
+    {"Umesh Yadav", "UT Yadav"},
+    {"Mohammed Shami", "Mohammed Shami"},
+    {"Hardik Pandya", "HH Pandya"},
+    {"Rishabh Pant", "RR Pant"},
+    {"KL Rahul", "KL Rahul"},
+    {"Shreyas Iyer", "SS Iyer"},
+    {"Mayank Agarwal", "MA Agarwal", "KL Agarwal"},
+    {"Manish Pandey", "MK Pandey"},
+    {"Sanju Samson", "SV Samson"},
+    {"Ruturaj Gaikwad", "RD Gaikwad"},
+    {"Prithvi Shaw", "PP Shaw"},
+    {"Shubman Gill", "S Gill"},
+    {"Ishan Kishan", "I Kishan"},
+    {"Suryakumar Yadav", "SA Yadav"},
+    {"Devdutt Padikkal", "D Padikkal"},
+    {"Venkatesh Iyer", "V Iyer"},
+    {"Morne Morkel", "M Morkel"},
+    {"Albie Morkel", "JA Morkel"},
+    {"Sachin Tendulkar", "SR Tendulkar"},
+    {"Sourav Ganguly", "SC Ganguly"},
+    {"Rahul Dravid", "R Dravid"},
+    {"Matthew Hayden", "ML Hayden"},
+    {"Muttiah Muralitharan", "M Muralitharan"},
+    {"Murali Kartik", "M Kartik"},
+    {"Ishant Sharma", "I Sharma"},
+    {"Piyush Chawla", "PP Chawla"},
+    {"Praveen Kumar", "P Kumar"},
+    {"Ramesh Powar", "RR Powar"},
+    {"Wriddhiman Saha", "WP Saha"},
+    {"Herschelle Gibbs", "HH Gibbs"},
+    {"Graeme Smith", "GC Smith"},
+    {"Tillakaratne Dilshan", "TM Dilshan"},
+    {"Shane Warne", "SK Warne"},
+    {"Sanath Jayasuriya", "ST Jayasuriya"},
+    {"Chaminda Vaas", "WPUJC Vaas"},
+    {"Ross Taylor", "LRPL Taylor"},
+    {"Scott Styris", "SB Styris"},
+    {"Jacob Oram", "JDP Oram"},
+    {"Stephen Fleming", "SP Fleming"},
+    {"Michael Clarke", "MJ Clarke"},
+    {"Michael Hussey", "MEK Hussey"},
+    {"Simon Katich", "SM Katich"},
+    {"Cameron White", "CL White"},
+    {"David Hussey", "DJ Hussey"},
+    {"Luke Ronchi", "L Ronchi"},
+    {"Luke Pomersbach", "LA Pomersbach"},
+    {"Saurabh Tiwary", "SS Tiwary"},
+    {"Manoj Tiwary", "MK Tiwary"},
+    {"Murali Vijay", "M Vijay"},
+    {"Parvinder Awana", "P Awana"},
+    {"Pawan Negi", "P Negi"},
+    {"Vinay Kumar", "R Vinay Kumar"},
+    {"Ashish Nehra", "A Nehra"},
+    {"Mohammad Kaif", "M Kaif"},
+    {"Daniel Vettori", "DL Vettori"},
+    {"Dwayne Smith", "DR Smith"},
+    {"Farveez Maharoof", "MF Maharoof"},
+    {"Aakash Chopra", "A Chopra"},
+    {"Ajay Ratra", "A Ratra"},
+    {"Luke Ronchi", "L Ronchi"},
+    {"Biplab Samantray", "BB Samantray"},
+    {"Balachandra Akhil", "B Akhil"},
+    {"Saurabh Tiwary", "SS Tiwary"},
+    {"Laxmi Shukla", "LR Shukla"},
+    {"Manish Pandey", "MK Pandey"},
+    {"Pragyan Ojha", "PP Ojha", "Pragyan Ojha"},
+    {"Piyush Chawla", "PP Chawla"},
+    {"Munaf Patel", "MM Patel"},
+    {"Suresh Raina", "SK Raina"},
+    {"Sachin Tendulkar", "SR Tendulkar"},
+    {"Sourav Ganguly", "SC Ganguly"},
+    {"Rahul Dravid", "R Dravid"},
+    {"Sanjay Bangar", "SB Bangar"},
+    {"Saurabh Tiwary", "SS Tiwary", "MK Tiwary"},
+    {"Manoj Tiwary", "MK Tiwary"},
+    {"Pragyan Ojha", "PP Ojha"},
+    {"Muttiah Muralitharan", "M Muralitharan"},
+    {"Shahid Afridi", "Shahid Afridi"},
+    {"Ajantha Mendis", "BAW Mendis", "BMAJ Mendis"},
+    {"Chamara Silva", "LPC Silva"},
+    {"Dilhara Fernando", "CRD Fernando"},
+    {"Nuwan Kulasekara", "KMDN Kulasekara"},
+    {"Thisara Perera", "NLTC Perera"},
+    {"Angelo Mathews", "AD Mathews"},
+    {"Kemar Roach", "KAJ Roach"},
+    {"Dwayne Bravo", "DJ Bravo"},
+    {"Kieron Pollard", "KA Pollard"},
+    {"Ravi Rampaul", "R Rampaul"},
+    {"Iqbal Abdulla", "Iqbal Abdulla"},
+    {"Murali Vijay", "M Vijay"},
+    {"Dinesh Karthik", "KD Karthik"},
+    {"Wriddhiman Saha", "WP Saha"},
+    {"Manpreet Gony", "MS Gony"},
+    {"Parvinder Awana", "P Awana"},
+    {"Piyush Sangwan", "PJ Sangwan"},
+    {"Naman Ojha", "NV Ojha"},
 ]
 
 NAME_EQUIVALENTS = {
@@ -848,6 +1052,61 @@ NAME_EQUIVALENTS = {
     "mike": "michael",
     "michael": "mike",
 }
+
+
+def fill_missing_retention_prices(df):
+    """
+    Fill missing prices for retained players by carrying prices
+    forward and backward within each player's records.
+
+    Uses player_id for matching across name variations.
+    """
+    missing_before = df["final_price_lakh"].isna().sum()
+
+    if "player_id" not in df.columns:
+        print("  Warning: player_id not available, using name matching")
+        df = df.sort_values(["player_name", "year"]).copy()
+        df["_match_key"] = df["player_name"].str.lower().str.strip()
+    else:
+        df = df.sort_values(["player_id", "year"]).copy()
+        df["_match_key"] = df["player_id"]
+
+    filled_forward = 0
+    filled_backward = 0
+
+    player_last_price = {}
+    for idx, row in df.iterrows():
+        key = row["_match_key"]
+        price = row["final_price_lakh"]
+
+        if pd.notna(price):
+            player_last_price[key] = price
+        elif key in player_last_price:
+            df.at[idx, "final_price_lakh"] = player_last_price[key]
+            filled_forward += 1
+
+    df = df.sort_values(["_match_key", "year"], ascending=[True, False])
+    player_last_price = {}
+    for idx, row in df.iterrows():
+        key = row["_match_key"]
+        price = row["final_price_lakh"]
+
+        if pd.notna(price):
+            player_last_price[key] = price
+        elif key in player_last_price:
+            df.at[idx, "final_price_lakh"] = player_last_price[key]
+            filled_backward += 1
+
+    df = df.drop(columns=["_match_key"])
+
+    print(f"  Missing prices before: {missing_before}")
+    print(f"  Filled forward: {filled_forward}")
+    print(f"  Filled backward: {filled_backward}")
+
+    still_missing = df["final_price_lakh"].isna().sum()
+    print(f"  Records still without price: {still_missing}")
+
+    return df
 
 
 def build_player_registry(df):
@@ -999,12 +1258,24 @@ def main():
         dfs.append(df_2008)
         print(f"    2008: {len(df_2008)} records")
 
-    print("  Loading Wikipedia Excel (2009-2012)...")
+    print("  Loading 2009 manual data...")
+    df_2009 = load_auction_2009()
+    if not df_2009.empty:
+        dfs.append(df_2009)
+        print(f"    2009: {len(df_2009)} records")
+
+    print("  Loading 2010 manual data...")
+    df_2010 = load_auction_2010()
+    if not df_2010.empty:
+        dfs.append(df_2010)
+        print(f"    2010: {len(df_2010)} records")
+
+    print("  Loading Wikipedia Excel (2011-2012)...")
     df_wiki = load_wikipedia_excel()
     if not df_wiki.empty:
-        df_wiki_2009_2012 = df_wiki[df_wiki["year"].between(2009, 2012)]
-        dfs.append(df_wiki_2009_2012)
-        print(f"    2009-2012: {len(df_wiki_2009_2012)} records")
+        df_wiki_2011_2012 = df_wiki[df_wiki["year"].between(2011, 2012)]
+        dfs.append(df_wiki_2011_2012)
+        print(f"    2011-2012: {len(df_wiki_2011_2012)} records")
 
     print("  Loading Kaggle main dataset (2013-2022)...")
     df_kaggle = load_kaggle_main()
@@ -1077,7 +1348,7 @@ def main():
         print(f"  Total after adding retained players: {len(df_all)} records")
 
     print("\nInferring retained players for non-mega auction years...")
-    perf_path = PERF_DIR / "player_season_stats.csv"
+    perf_path = PERF_DIR / "ipl" / "player_season_stats.csv"
     if perf_path.exists():
         perf_df = pd.read_csv(perf_path)
         df_inferred = infer_retained_players(df_all, perf_df)
@@ -1097,6 +1368,11 @@ def main():
     registry_df, name_to_id = build_player_registry(df_all)
     df_all = assign_player_ids(df_all, name_to_id)
     print(f"  Unique players: {len(registry_df)}")
+
+    print("\nFilling missing prices for retained players...")
+    df_all = fill_missing_retention_prices(df_all)
+    missing_after = df_all["final_price_lakh"].isna().sum()
+    print(f"  Records still missing price: {missing_after}")
 
     registry_path = ACQUISITIONS_DIR / "player_registry.csv"
     registry_df.to_csv(registry_path, index=False)

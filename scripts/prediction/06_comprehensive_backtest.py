@@ -126,6 +126,41 @@ def find_player_war_for_season(player_name, ipl_war_indexed, season):
     return np.nan
 
 
+def build_t20i_name_index(t20i_war):
+    """Build index mapping normalized names to T20I player records."""
+    t20i_war = t20i_war.copy()
+    t20i_war["player_norm"] = t20i_war["player"].apply(normalize_name)
+    t20i_war["player_initial"] = t20i_war["player_norm"].apply(convert_full_to_initial_format)
+    return t20i_war
+
+
+def find_player_t20i_history(player_name, t20i_war_indexed, max_year):
+    """Find player's T20I history using fuzzy name matching (like IPL matching)."""
+    player_norm = normalize_name(player_name)
+    player_initial = convert_full_to_initial_format(player_norm)
+
+    prior_war = t20i_war_indexed[t20i_war_indexed["year"] < max_year]
+
+    exact_match = prior_war[prior_war["player_norm"] == player_norm]
+    if len(exact_match) > 0:
+        return exact_match.sort_values("year", ascending=False)
+
+    initial_match = prior_war[prior_war["player_initial"] == player_initial]
+    if len(initial_match) > 0:
+        return initial_match.sort_values("year", ascending=False)
+
+    compatible_matches = []
+    for idx, row in prior_war.iterrows():
+        if names_compatible(player_norm, row["player_norm"]):
+            compatible_matches.append(row)
+
+    if compatible_matches:
+        result = pd.DataFrame(compatible_matches)
+        return result.sort_values("year", ascending=False)
+
+    return pd.DataFrame()
+
+
 def build_features_for_year(auction_df, ipl_war_indexed, t20i_war, year):
     """Build features for a specific auction year using only prior data."""
     auction_year = auction_df[auction_df["year"] == year].copy()
@@ -164,35 +199,28 @@ def build_features_for_year(auction_df, ipl_war_indexed, t20i_war, year):
             auction_year.at[idx, "ipl_seasons_played"] = len(player_history)
 
     if len(t20i_war) > 0:
-        t20i_war_norm = t20i_war.copy()
-        t20i_war_norm["player_norm"] = t20i_war_norm["player"].apply(normalize_name)
+        t20i_war_indexed = build_t20i_name_index(t20i_war)
 
         auction_year["t20i_war_12m"] = np.nan
         auction_year["t20i_war_24m"] = np.nan
         auction_year["t20i_career_war"] = np.nan
 
         for idx, row in auction_year.iterrows():
-            player_norm = row["player_norm"]
-
-            player_t20i = t20i_war_norm[
-                t20i_war_norm["player_norm"] == player_norm
-            ].copy()
+            player_t20i = find_player_t20i_history(
+                row["player_name"], t20i_war_indexed, year
+            )
 
             if len(player_t20i) == 0:
                 continue
 
-            prior_t20i = player_t20i[player_t20i["year"] < year].sort_values(
-                "year", ascending=False
-            )
+            if len(player_t20i) >= 1:
+                auction_year.at[idx, "t20i_war_12m"] = player_t20i.iloc[0]["total_war"]
 
-            if len(prior_t20i) >= 1:
-                auction_year.at[idx, "t20i_war_12m"] = prior_t20i.iloc[0]["total_war"]
+            if len(player_t20i) >= 2:
+                auction_year.at[idx, "t20i_war_24m"] = player_t20i.iloc[:2]["total_war"].sum()
 
-            if len(prior_t20i) >= 2:
-                auction_year.at[idx, "t20i_war_24m"] = prior_t20i.iloc[:2]["total_war"].sum()
-
-            if len(prior_t20i) > 0:
-                auction_year.at[idx, "t20i_career_war"] = prior_t20i["total_war"].sum()
+            if len(player_t20i) > 0:
+                auction_year.at[idx, "t20i_career_war"] = player_t20i["total_war"].sum()
     else:
         auction_year["t20i_war_12m"] = np.nan
         auction_year["t20i_war_24m"] = np.nan
