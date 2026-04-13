@@ -89,13 +89,16 @@ From 3,137 player-season records of ball-by-ball data:
 
 ### Empirically Estimated Constants
 
-| Constant | Value | Derivation |
-|----------|-------|------------|
-| RUNS_PER_DISMISSAL | 6.0 | OLS regression: innings_runs ~ wickets_lost + overs_batted (n=2,677 T20I innings) |
-| RUNS_PER_WICKET | 6.0 | Same regression; symmetric by assumption (see note below) |
-| RUNS_PER_WIN | 10 | Logistic regression on match outcomes + close-game heuristic |
+We estimate WAR constants directly from IPL data using year-specific (contemporaneous) estimation:
 
-**Note on symmetry**: RUNS_PER_DISMISSAL and RUNS_PER_WICKET are conceptually distinct (batting opportunity cost vs. bowling value), but the innings-level regression provides a single estimate for the marginal effect of a wicket on team total (~6 runs). We apply this symmetrically: a dismissed batter costs their team ~6 potential runs; a bowler taking a wicket saves their team ~6 runs. This is a modeling choice that simplifies the framework while remaining empirically grounded.
+| Constant | IPL Mean | Range | Derivation |
+|----------|----------|-------|------------|
+| RUNS_PER_WICKET | 5.8 | 5.0-7.4 | OLS regression: innings_runs ~ wickets_lost + overs_batted |
+| RUNS_PER_WIN | 16.0 | 11-20 | Mean victory margin per season |
+
+Constants are estimated separately for each IPL season to capture year-specific game dynamics (e.g., 2023 had higher runs per wicket than 2022). The overall pooled IPL estimates are RUNS_PER_WICKET=5.72 and RUNS_PER_WIN=16.04.
+
+**Note on symmetry**: RUNS_PER_DISMISSAL and RUNS_PER_WICKET are conceptually distinct (batting opportunity cost vs. bowling value), but the innings-level regression provides a single estimate for the marginal effect of a wicket on team total. We apply this symmetrically: a dismissed batter costs their team potential runs; a bowler taking a wicket saves their team runs. This is a modeling choice that simplifies the framework while remaining empirically grounded.
 
 ### Wasted Money Calculation
 
