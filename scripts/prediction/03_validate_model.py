@@ -7,6 +7,7 @@ Performs:
 2. Price model OOS validation (currently missing)
 3. Calibration assessment
 4. Comparison to baselines
+5. Year-by-year validation tables with Spearman rank correlation
 """
 
 import sys
@@ -15,6 +16,7 @@ from pathlib import Path
 import joblib
 import numpy as np
 import pandas as pd
+from scipy.stats import spearmanr
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
@@ -218,7 +220,79 @@ def validate_price_model(df):
     return results_df
 
 
-def generate_validation_report(war_cv, price_cv):
+def create_year_by_year_validation(df, model, imputer, feature_cols):
+    """
+    Create detailed year-by-year validation table with Spearman rank correlation.
+
+    Returns DataFrame with columns: Year, N, R², Rank_rho, RMSE
+    """
+    df = df.copy()
+    df["has_ipl_history"] = df["ipl_war_lag1"].notna().astype(int)
+    df["has_t20i_history"] = df["t20i_war_12m"].notna().astype(int)
+
+    available_cols = [c for c in feature_cols if c in df.columns]
+
+    results = []
+
+    for year in range(2015, 2025):
+        train_mask = df["year"] < year
+        test_mask = df["year"] == year
+
+        train_df = df[train_mask]
+        test_df = df[test_mask]
+
+        if len(train_df) < 50 or len(test_df) < 10:
+            continue
+
+        X_train = train_df[available_cols]
+        y_train = train_df["next_season_war"]
+        X_test = test_df[available_cols]
+        y_test = test_df["next_season_war"]
+
+        imp = SimpleImputer(strategy="median")
+        X_train_imp = imp.fit_transform(X_train)
+        X_test_imp = imp.transform(X_test)
+
+        import xgboost as xgb
+        m = xgb.XGBRegressor(
+            objective="reg:squarederror",
+            max_depth=3,
+            learning_rate=0.05,
+            n_estimators=200,
+            min_child_weight=10,
+            random_state=42
+        )
+        m.fit(X_train_imp, y_train, verbose=False)
+        y_pred = m.predict(X_test_imp)
+
+        r2 = r2_score(y_test, y_pred)
+        rmse = np.sqrt(mean_squared_error(y_test, y_pred))
+        rho, _ = spearmanr(y_test, y_pred)
+
+        lag1_available = test_df["ipl_war_lag1"].notna()
+        if lag1_available.sum() >= 5:
+            y_naive = test_df.loc[lag1_available, "ipl_war_lag1"]
+            y_actual_naive = test_df.loc[lag1_available, "next_season_war"]
+            naive_r2 = r2_score(y_actual_naive, y_naive)
+            naive_rmse = np.sqrt(mean_squared_error(y_actual_naive, y_naive))
+        else:
+            naive_r2 = np.nan
+            naive_rmse = np.nan
+
+        results.append({
+            "Year": year,
+            "N": len(test_df),
+            "R2": r2,
+            "Rank_rho": rho,
+            "RMSE": rmse,
+            "Naive_R2": naive_r2,
+            "Naive_RMSE": naive_rmse,
+        })
+
+    return pd.DataFrame(results)
+
+
+def generate_validation_report(war_cv, price_cv, year_by_year=None):
     """Generate comprehensive validation report."""
     TABS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -255,17 +329,45 @@ def generate_validation_report(war_cv, price_cv):
         report.append("No price model validation results")
     report.append("")
 
-    report.append("3. KEY INSIGHTS")
+    if year_by_year is not None and len(year_by_year) > 0:
+        report.append("3. DETAILED YEAR-BY-YEAR VALIDATION")
+        report.append("-" * 40)
+        report.append(f"{'Year':<6} {'N':>4} {'R²':>8} {'Rank ρ':>8} {'RMSE':>8} {'Naive R²':>10}")
+        for _, row in year_by_year.iterrows():
+            naive_str = f"{row['Naive_R2']:.3f}" if pd.notna(row["Naive_R2"]) else "N/A"
+            report.append(
+                f"{int(row['Year']):<6} {int(row['N']):>4} "
+                f"{row['R2']:>8.3f} {row['Rank_rho']:>8.3f} "
+                f"{row['RMSE']:>8.2f} {naive_str:>10}"
+            )
+        report.append("")
+        report.append(f"Mean Model R²: {year_by_year['R2'].mean():.3f}")
+        report.append(f"Mean Rank ρ:   {year_by_year['Rank_rho'].mean():.3f}")
+        valid_naive = year_by_year["Naive_R2"].dropna()
+        if len(valid_naive) > 0:
+            report.append(f"Mean Naive R²: {valid_naive.mean():.3f}")
+        report.append("")
+
+    report.append("4. KEY INSIGHTS")
     report.append("-" * 40)
     if war_cv is not None and len(war_cv) > 0:
         stable_years = war_cv[war_cv["r2"] > 0.15]
         report.append(f"Stable prediction years (R² > 15%): {len(stable_years)}/{len(war_cv)}")
+
+    if year_by_year is not None and len(year_by_year) > 0:
+        total_n = year_by_year["N"].sum()
+        report.append(f"Total validation observations: {total_n}")
 
     report_text = "\n".join(report)
 
     report_path = TABS_DIR / "validation_report.txt"
     report_path.write_text(report_text)
     print(f"\nSaved validation report to {report_path}")
+
+    if year_by_year is not None:
+        csv_path = TABS_DIR / "validation_by_year.csv"
+        year_by_year.to_csv(csv_path, index=False)
+        print(f"Saved year-by-year validation to {csv_path}")
 
     return report_text
 
@@ -281,7 +383,14 @@ def main():
 
     price_cv = validate_price_model(df)
 
-    report = generate_validation_report(war_cv, price_cv)
+    year_by_year = None
+    if model is not None and feature_cols is not None:
+        print("\n" + "=" * 60)
+        print("YEAR-BY-YEAR DETAILED VALIDATION")
+        print("=" * 60)
+        year_by_year = create_year_by_year_validation(df, model, imputer, feature_cols)
+
+    report = generate_validation_report(war_cv, price_cv, year_by_year)
 
     print("\n" + report)
     print("\n" + "=" * 60)

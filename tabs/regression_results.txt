@@ -11,7 +11,7 @@ Dep. Variable:              log_price   R-squared:                       0.354
 Model:                            OLS   Adj. R-squared:                  0.351
 Method:                 Least Squares   F-statistic:                     139.8
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):           4.84e-72
-Time:                        19:48:45   Log-Likelihood:                -1135.1
+Time:                        20:16:07   Log-Likelihood:                -1135.1
 No. Observations:                 760   AIC:                             2278.
 Df Residuals:                     756   BIC:                             2297.
 Df Model:                           3                                         
@@ -40,7 +40,7 @@ Dep. Variable:              log_price   R-squared:                       0.356
 Model:                            OLS   Adj. R-squared:                  0.351
 Method:                 Least Squares   F-statistic:                     71.95
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):           7.57e-71
-Time:                        19:48:45   Log-Likelihood:                -1133.8
+Time:                        20:16:07   Log-Likelihood:                -1133.8
 No. Observations:                 760   AIC:                             2282.
 Df Residuals:                     753   BIC:                             2314.
 Df Model:                           6                                         
@@ -75,7 +75,7 @@ Dep. Variable:              log_price   R-squared:                       0.150
 Model:                            OLS   Adj. R-squared:                  0.148
 Method:                 Least Squares   F-statistic:                     56.33
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):           3.49e-23
-Time:                        19:48:45   Log-Likelihood:                -953.26
+Time:                        20:16:07   Log-Likelihood:                -953.26
 No. Observations:                 615   AIC:                             1913.
 Df Residuals:                     612   BIC:                             1926.
 Df Model:                           2                                         
@@ -103,7 +103,7 @@ Dep. Variable:              log_price   R-squared:                       0.376
 Model:                            OLS   Adj. R-squared:                  0.375
 Method:                 Least Squares   F-statistic:                     326.3
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):          3.24e-163
-Time:                        19:48:45   Log-Likelihood:                -2355.8
+Time:                        20:16:07   Log-Likelihood:                -2355.8
 No. Observations:                1510   AIC:                             4720.
 Df Residuals:                    1506   BIC:                             4741.
 Df Model:                           3                                         
@@ -132,7 +132,7 @@ Dep. Variable:              log_price   R-squared:                       0.381
 Model:                            OLS   Adj. R-squared:                  0.379
 Method:                 Least Squares   F-statistic:                     175.0
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):          6.35e-169
-Time:                        19:48:45   Log-Likelihood:                -2349.1
+Time:                        20:16:07   Log-Likelihood:                -2349.1
 No. Observations:                1510   AIC:                             4712.
 Df Residuals:                    1503   BIC:                             4749.
 Df Model:                           6                                         
@@ -167,7 +167,7 @@ Dep. Variable:              log_price   R-squared:                       0.111
 Model:                            OLS   Adj. R-squared:                  0.109
 Method:                 Least Squares   F-statistic:                     70.79
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):           1.59e-29
-Time:                        19:48:45   Log-Likelihood:                -1688.8
+Time:                        20:16:07   Log-Likelihood:                -1688.8
 No. Observations:                1029   AIC:                             3384.
 Df Residuals:                    1026   BIC:                             3398.
 Df Model:                           2                                         
@@ -195,7 +195,7 @@ Dep. Variable:              log_price   R-squared:                       0.113
 Model:                            OLS   Adj. R-squared:                  0.110
 Method:                 Least Squares   F-statistic:                     48.90
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):           1.53e-29
-Time:                        19:48:45   Log-Likelihood:                -1687.9
+Time:                        20:16:07   Log-Likelihood:                -1687.9
 No. Observations:                1029   AIC:                             3384.
 Df Residuals:                    1025   BIC:                             3404.
 Df Model:                           3                                         
@@ -224,7 +224,7 @@ Dep. Variable:              log_price   R-squared:                       0.526
 Model:                            OLS   Adj. R-squared:                  0.517
 Method:                 Least Squares   F-statistic:                     55.53
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):           2.82e-32
-Time:                        19:48:45   Log-Likelihood:                -297.21
+Time:                        20:16:07   Log-Likelihood:                -297.21
 No. Observations:                 224   AIC:                             604.4
 Df Residuals:                     219   BIC:                             621.5
 Df Model:                           4                                         
@@ -254,7 +254,7 @@ Dep. Variable:              log_price   R-squared:                       0.301
 Model:                            OLS   Adj. R-squared:                  0.295
 Method:                 Least Squares   F-statistic:                     50.96
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):           9.01e-35
-Time:                        19:48:45   Log-Likelihood:                -624.10
+Time:                        20:16:07   Log-Likelihood:                -624.10
 No. Observations:                 412   AIC:                             1258.
 Df Residuals:                     407   BIC:                             1278.
 Df Model:                           4                                         
@@ -286,7 +286,7 @@ Dep. Variable:       total_war_future   R-squared:                       0.010
 Model:                            OLS   Adj. R-squared:                  0.006
 Method:                 Least Squares   F-statistic:                     2.795
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):             0.0620
-Time:                        19:48:45   Log-Likelihood:                -1942.9
+Time:                        20:16:07   Log-Likelihood:                -1942.9
 No. Observations:                 575   AIC:                             3892.
 Df Residuals:                     572   BIC:                             3905.
 Df Model:                           2                                         
@@ -318,7 +318,7 @@ Dep. Variable:              log_price   R-squared:                        0.3562
 Estimator:                  PooledOLS   R-squared (Between):              0.4888
 No. Observations:                1133   R-squared (Within):               0.1131
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.3562
-Time:                        19:48:45   Log-likelihood                   -1740.6
+Time:                        20:16:07   Log-likelihood                   -1740.6
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      208.20
 Entities:                         373   P-value                           0.0000
@@ -348,7 +348,7 @@ Dep. Variable:              log_price   R-squared:                        0.0846
 Estimator:                   PanelOLS   R-squared (Between):              0.3434
 No. Observations:                1133   R-squared (Within):               0.0846
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.3018
-Time:                        19:48:45   Log-likelihood                   -1376.2
+Time:                        20:16:07   Log-likelihood                   -1376.2
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      35.029
 Entities:                         373   P-value                           0.0000
@@ -382,7 +382,7 @@ Dep. Variable:              log_price   R-squared:                        0.3537
 Estimator:                   PanelOLS   R-squared (Between):              0.4920
 No. Observations:                1133   R-squared (Within):               0.0819
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.3506
-Time:                        19:48:45   Log-likelihood                   -1645.7
+Time:                        20:16:07   Log-likelihood                   -1645.7
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      202.86
 Entities:                         373   P-value                           0.0000
@@ -418,7 +418,7 @@ Dep. Variable:              log_price   R-squared:                        0.1328
 Estimator:                   PanelOLS   R-squared (Between):              0.3972
 No. Observations:                1133   R-squared (Within):               0.0801
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.3453
-Time:                        19:48:45   Log-likelihood                   -1228.3
+Time:                        20:16:07   Log-likelihood                   -1228.3
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      56.755
 Entities:                         373   P-value                           0.0000
@@ -452,7 +452,7 @@ Dep. Variable:              log_price   R-squared:                        0.1265
 Estimator:         FirstDifferenceOLS   R-squared (Between):              0.3841
 No. Observations:                 301   R-squared (Within):               0.0746
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.3296
-Time:                        19:48:45   Log-likelihood                   -511.48
+Time:                        20:16:07   Log-likelihood                   -511.48
 Cov. Estimator:                Robust                                           
                                         F-statistic:                      21.657
 Entities:                         373   P-value                           0.0000
@@ -480,7 +480,7 @@ Dep. Variable:              log_price   R-squared:                        0.5419
 Estimator:                 BetweenOLS   R-squared (Between):              0.5419
 No. Observations:                 373   R-squared (Within):              -0.1190
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.4164
-Time:                        19:48:45   Log-likelihood                   -484.37
+Time:                        20:16:07   Log-likelihood                   -484.37
 Cov. Estimator:            Unadjusted                                           
                                         F-statistic:                      219.47
 Entities:                         373   P-value                           0.0000
@@ -520,7 +520,7 @@ Dep. Variable:              log_price   R-squared:                        0.1213
 Estimator:                  PooledOLS   R-squared (Between):              0.1508
 No. Observations:                 854   R-squared (Within):               0.0745
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.1213
-Time:                        19:48:45   Log-likelihood                   -1363.7
+Time:                        20:16:07   Log-likelihood                   -1363.7
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      58.736
 Entities:                         344   P-value                           0.0000
@@ -549,7 +549,7 @@ Dep. Variable:              log_price   R-squared:                        0.0171
 Estimator:                   PanelOLS   R-squared (Between):              0.0978
 No. Observations:                 854   R-squared (Within):               0.0171
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.0887
-Time:                        19:48:45   Log-likelihood                   -975.83
+Time:                        20:16:07   Log-likelihood                   -975.83
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      8.8371
 Entities:                         344   P-value                           0.0031
@@ -582,7 +582,7 @@ Dep. Variable:              log_price   R-squared:                        0.0187
 Estimator:                   PanelOLS   R-squared (Between):              0.0994
 No. Observations:                 854   R-squared (Within):               0.0171
 Date:                Sun, Apr 12 2026   R-squared (Overall):              0.0901
-Time:                        19:48:45   Log-likelihood                   -914.58
+Time:                        20:16:07   Log-likelihood                   -914.58
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      9.4229
 Entities:                         344   P-value                           0.0023
@@ -636,7 +636,7 @@ Dep. Variable:              log_price   R-squared:                       0.379
 Model:                            OLS   Adj. R-squared:                  0.377
 Method:                 Least Squares   F-statistic:                     242.5
 Date:                Sun, 12 Apr 2026   Prob (F-statistic):          7.87e-161
-Time:                        19:48:45   Log-Likelihood:                -2352.1
+Time:                        20:16:07   Log-Likelihood:                -2352.1
 No. Observations:                1510   AIC:                             4714.
 Df Residuals:                    1505   BIC:                             4741.
 Df Model:                           4                                         

@@ -58,18 +58,44 @@ def load_data():
         player_master = pd.DataFrame()
         print("  Player master: not found")
 
-    return auction, ipl_war, t20i_war, player_master
+    ipl_registry_path = JOINED_DIR / "ipl_cricsheet_registry.csv"
+    if ipl_registry_path.exists():
+        ipl_registry = pd.read_csv(ipl_registry_path)
+        print(f"  IPL registry: {len(ipl_registry)}")
+    else:
+        ipl_registry = pd.DataFrame(columns=["ipl_name", "cricsheet_id"])
+        print("  IPL registry: not found")
+
+    return auction, ipl_war, t20i_war, player_master, ipl_registry
 
 
-def create_ipl_lagged_features(auction, ipl_war):
-    """Create lagged IPL WAR features for each auction entry."""
+def build_player_ipl_name_mapping(player_master, ipl_registry):
+    """
+    Build mapping from player_id to IPL name (abbreviated format).
+
+    Chain: player_id → cricsheet_id (via player_master) → ipl_name (via ipl_registry)
+    """
+    if player_master.empty or ipl_registry.empty:
+        return {}
+
+    merged = player_master.merge(
+        ipl_registry,
+        on="cricsheet_id",
+        how="inner"
+    )
+
+    pid_to_ipl_name = dict(zip(merged["player_id"], merged["ipl_name"]))
+
+    print(f"\nPlayer ID to IPL name mapping: {len(pid_to_ipl_name)} players")
+    return pid_to_ipl_name
+
+
+def create_ipl_lagged_features(auction, ipl_war, pid_to_ipl_name):
+    """Create lagged IPL WAR features for each auction entry using ID-based matching."""
     print("\nCreating IPL lagged WAR features...")
 
     auction = auction.copy()
     ipl_war = ipl_war.copy()
-
-    auction["player_norm"] = auction["player_name"].apply(normalize_name)
-    ipl_war["player_norm"] = ipl_war["player"].apply(normalize_name)
 
     auction["ipl_war_lag1"] = np.nan
     auction["ipl_war_lag2"] = np.nan
@@ -79,11 +105,15 @@ def create_ipl_lagged_features(auction, ipl_war):
     auction["ipl_matches_lag1"] = np.nan
 
     for idx, row in auction.iterrows():
-        player_norm = row["player_norm"]
+        player_id = row["player_id"]
         year = row["year"]
 
+        ipl_name = pid_to_ipl_name.get(player_id)
+        if ipl_name is None:
+            continue
+
         player_history = ipl_war[
-            (ipl_war["player_norm"] == player_norm) &
+            (ipl_war["player"] == ipl_name) &
             (ipl_war["season"] < year)
         ].sort_values("season", ascending=False)
 
@@ -154,25 +184,26 @@ def create_t20i_features(auction, t20i_war, player_master):
     return auction
 
 
-def create_next_season_target(auction, ipl_war):
-    """Create target variable: next season IPL WAR."""
+def create_next_season_target(auction, ipl_war, pid_to_ipl_name):
+    """Create target variable: next season IPL WAR using ID-based matching."""
     print("\nCreating target variable (next_season_war)...")
 
     auction = auction.copy()
     ipl_war = ipl_war.copy()
 
-    auction["player_norm"] = auction["player_name"].apply(normalize_name)
-    ipl_war["player_norm"] = ipl_war["player"].apply(normalize_name)
-
     auction["next_season_war"] = np.nan
 
-    war_dict = ipl_war.set_index(["player_norm", "season"])["total_war_gam"].to_dict()
+    war_dict = ipl_war.set_index(["player", "season"])["total_war_gam"].to_dict()
 
     for idx, row in auction.iterrows():
-        player_norm = row["player_norm"]
+        player_id = row["player_id"]
         year = row["year"]
 
-        key = (player_norm, year)
+        ipl_name = pid_to_ipl_name.get(player_id)
+        if ipl_name is None:
+            continue
+
+        key = (ipl_name, year)
         if key in war_dict:
             auction.at[idx, "next_season_war"] = war_dict[key]
 
@@ -262,11 +293,13 @@ def main():
     print("Building Auction Feature Matrix")
     print("=" * 60)
 
-    auction, ipl_war, t20i_war, player_master = load_data()
+    auction, ipl_war, t20i_war, player_master, ipl_registry = load_data()
 
-    auction = create_ipl_lagged_features(auction, ipl_war)
+    pid_to_ipl_name = build_player_ipl_name_mapping(player_master, ipl_registry)
+
+    auction = create_ipl_lagged_features(auction, ipl_war, pid_to_ipl_name)
     auction = create_t20i_features(auction, t20i_war, player_master)
-    auction = create_next_season_target(auction, ipl_war)
+    auction = create_next_season_target(auction, ipl_war, pid_to_ipl_name)
     auction = create_context_features(auction)
     auction = create_form_features(auction)
 

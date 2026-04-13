@@ -11,8 +11,8 @@ OOS prediction of sports performance is inherently difficult.
 ----------------------------------------
 PERFORMANCE SUMMARY
 ----------------------------------------
-Training R²:   0.380 (in-sample)
-Validation R²: -148.860 (2023 holdout)
+Training R²:   0.079 (in-sample)
+Validation R²: -0.009 (2023 holdout)
 Test R²:       nan (2024 holdout - TRUE OOS)
 
 Test RMSE: nan
@@ -21,28 +21,31 @@ Test MAE:  nan
 ----------------------------------------
 CROSS-VALIDATION (Rolling Window)
 ----------------------------------------
-  2016: R²=-0.149
-  2018: R²=-0.602
-  2019: R²=-1.658
-  2021: R²=0.281
-  2022: R²=0.127
-  2023: R²=-717.967
+  2015: R²=-0.346
+  2016: R²=0.071
+  2017: R²=-0.132
+  2018: R²=0.207
+  2019: R²=-0.308
+  2020: R²=0.193
+  2021: R²=0.430
+  2022: R²=0.184
+  2023: R²=-0.402
 
-  Mean R²: -119.995 ± 292.946
+  Mean R²: -0.012 ± 0.295
 
 ----------------------------------------
 FEATURE IMPORTANCE (Top 10)
 ----------------------------------------
-  ipl_career_war           : 0.161
-  t20i_war_12m             : 0.145
-  ipl_war_avg_3y           : 0.134
-  ipl_war_lag1             : 0.132
-  ipl_war_lag2             : 0.083
-  has_t20i_history         : 0.078
-  t20i_career_war          : 0.062
-  ipl_war_trend            : 0.062
-  t20i_war_24m             : 0.056
-  ipl_seasons_played       : 0.054
+  ipl_war_avg_3y           : 0.315
+  ipl_career_war           : 0.174
+  ipl_war_lag1             : 0.129
+  t20i_war_12m             : 0.085
+  ipl_war_lag2             : 0.065
+  has_t20i_history         : 0.064
+  ipl_war_lag3             : 0.061
+  ipl_seasons_played       : 0.044
+  ipl_war_trend            : 0.041
+  is_mega_auction          : 0.023
 
 ----------------------------------------
 CONCLUSION
