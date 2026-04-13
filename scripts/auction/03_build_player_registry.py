@@ -21,6 +21,7 @@ from rapidfuzz.process import cdist
 BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "data"
 ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
+DO_NOT_MERGE_PATH = ACQUISITIONS_DIR / "do_not_merge.csv"
 
 
 def normalize_name_for_clustering(name):
@@ -45,7 +46,20 @@ def get_name_parts(name):
     return parts[0], parts[-1]
 
 
-def cluster_similar_names(names, threshold=88):
+def load_do_not_merge():
+    """Load pairs of names that should not be merged."""
+    if not DO_NOT_MERGE_PATH.exists():
+        return set()
+    df = pd.read_csv(DO_NOT_MERGE_PATH)
+    pairs = set()
+    for _, row in df.iterrows():
+        n1 = normalize_name_for_clustering(row["name1"])
+        n2 = normalize_name_for_clustering(row["name2"])
+        pairs.add((min(n1, n2), max(n1, n2)))
+    return pairs
+
+
+def cluster_similar_names(names, threshold=88, do_not_merge=None):
     """
     Cluster similar names together using fuzzy matching.
 
@@ -86,6 +100,13 @@ def cluster_similar_names(names, threshold=88):
                     if last_i[:3] != last_j[:3]:
                         continue
 
+                if do_not_merge:
+                    n1 = names_normalized[i]
+                    n2 = names_normalized[j]
+                    pair = (min(n1, n2), max(n1, n2))
+                    if pair in do_not_merge:
+                        continue
+
                 cluster.add(names[j])
                 visited.add(j)
 
@@ -118,13 +139,13 @@ def select_canonical_name(names, name_counts):
 
 def build_registry():
     """Build the player registry from auction data."""
-    auction_path = ACQUISITIONS_DIR / "auction_all_years.csv"
+    auction_path = ACQUISITIONS_DIR / "auction_all_years.parquet"
     if not auction_path.exists():
         print(f"ERROR: {auction_path} not found. Run assemble_auction_data.py first.")
         return None
 
     print("Loading auction data...")
-    df = pd.read_csv(auction_path)
+    df = pd.read_parquet(auction_path)
     print(f"  Loaded {len(df)} auction records")
 
     name_counts = df["player_name"].value_counts().to_dict()
@@ -132,7 +153,10 @@ def build_registry():
     print(f"  Found {len(unique_names)} unique names")
 
     print("\nClustering similar names...")
-    clusters = cluster_similar_names(unique_names, threshold=88)
+    do_not_merge = load_do_not_merge()
+    if do_not_merge:
+        print(f"  Loaded {len(do_not_merge)} do-not-merge pairs")
+    clusters = cluster_similar_names(unique_names, threshold=88, do_not_merge=do_not_merge)
     print(f"  Created {len(clusters)} player clusters")
 
     multi_alias = [c for c in clusters if len(c) > 1]

@@ -9,10 +9,10 @@ No WAR model validation results
 2. PRICE PREDICTION MODEL
 ----------------------------------------
 Rolling CV years: 2022-2022
-Mean R²: 0.197 ± nan
+Mean R²: -0.008 ± nan
 
 Year-by-year:
-  2022: R²=0.197
+  2022: R²=-0.008
 
 3. KEY INSIGHTS
 ----------------------------------------

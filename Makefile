@@ -1,6 +1,6 @@
 .PHONY: all run data verify retrospective prediction clean help auction perf t20i backtest analysis download-auction download-perf download
 
-PYTHON := python3
+PYTHON := uv run python
 
 all: data verify retrospective prediction
 

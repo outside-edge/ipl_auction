@@ -5,7 +5,9 @@ Build unified player master table linking IPL and T20I players via Cricsheet IDs
 Uses Cricsheet's 8-character hex player IDs as the canonical global identifier.
 Extracts registry from IPL JSON files and merges with existing player_registry.csv.
 
-Output: data/analysis/joined/player_master.csv
+Uses preclink for high-precision 1:1 record linkage.
+
+Output: data/analysis/joined/player_master.parquet
 """
 
 import json
@@ -13,13 +15,13 @@ import sys
 from pathlib import Path
 
 import pandas as pd
-from rapidfuzz import fuzz
+from preclink import Pipeline, StringComparison
 
 BASE_DIR = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(BASE_DIR / "scripts"))
 
-from shared.names import normalize_name
-from shared.io import save_dataset
+from shared.io import save_dataset  # noqa: E402
+from shared.names import convert_full_to_initial_format, normalize_name  # noqa: E402
 
 DATA_DIR = BASE_DIR / "data"
 ACQUISITIONS_DIR = DATA_DIR / "acquisitions"
@@ -54,10 +56,9 @@ def extract_ipl_registry():
     print(f"  Processed {match_count} IPL matches")
     print(f"  Found {len(registry)} unique IPL players with Cricsheet IDs")
 
-    registry_df = pd.DataFrame([
-        {"ipl_name": name, "cricsheet_id": cid}
-        for name, cid in registry.items()
-    ])
+    registry_df = pd.DataFrame(
+        [{"ipl_name": name, "cricsheet_id": cid} for name, cid in registry.items()]
+    )
 
     return registry_df
 
@@ -80,93 +81,146 @@ def load_t20i_registry():
     return pd.DataFrame(columns=["player_name", "cricsheet_id"])
 
 
-def match_ipl_to_registry(ipl_registry, existing_registry):
-    """Match IPL players (with Cricsheet IDs) to existing registry (with player_id)."""
-    print("\nMatching IPL players to existing registry...")
+def get_last_name(name: str) -> str:
+    """Extract last name from normalized name."""
+    parts = name.split()
+    return parts[-1] if parts else ""
+
+
+def match_ipl_to_registry_preclink(ipl_registry, existing_registry):
+    """Match IPL players to existing registry using preclink for 1:1 assignment."""
+    print("\nMatching IPL players to existing registry using preclink...")
 
     if len(ipl_registry) == 0:
         print("  No IPL registry data available - skipping matching")
-        return pd.DataFrame(columns=["cricsheet_id", "player_id", "canonical_name", "ipl_name", "match_type", "match_score"]), pd.DataFrame(columns=["cricsheet_id", "ipl_name"])
+        empty_matches = pd.DataFrame(
+            columns=[
+                "cricsheet_id",
+                "player_id",
+                "canonical_name",
+                "ipl_name",
+                "match_type",
+                "match_score",
+            ]
+        )
+        empty_unmatched = pd.DataFrame(columns=["cricsheet_id", "ipl_name"])
+        return empty_matches, empty_unmatched
 
-    existing_registry["canonical_norm"] = existing_registry["canonical_name"].apply(normalize_name)
+    left = existing_registry[["player_id", "canonical_name"]].copy()
+    left["name_norm"] = left["canonical_name"].apply(normalize_name)
+    left["name_init"] = left["name_norm"].apply(convert_full_to_initial_format)
+    left["last_name"] = left["name_norm"].apply(get_last_name)
 
-    existing_registry["all_aliases"] = existing_registry.apply(
-        lambda row: [normalize_name(a) for a in str(row.get("aliases", "")).split("|") if a],
-        axis=1
+    right = ipl_registry[["cricsheet_id", "ipl_name"]].copy()
+    right["name_norm"] = right["ipl_name"].apply(normalize_name)
+    right["last_name"] = right["name_norm"].apply(get_last_name)
+
+    pipeline = (
+        Pipeline()
+        .block(on="last_name")
+        .score(
+            [
+                StringComparison("name_norm", algorithm="jaro_winkler", weight=1.5),
+                StringComparison("last_name", algorithm="jaro_winkler", weight=1.0),
+            ]
+        )
+        .filter(min_score=0.80)
+        .decide(method="greedy")
+        .build()
     )
 
-    ipl_registry["ipl_norm"] = ipl_registry["ipl_name"].apply(normalize_name)
+    print("  Running preclink pipeline (high threshold: 0.80)...")
+    result = pipeline.link(left, right)
+    matches_high = result.matches.copy()
+    print(f"  High-confidence matches: {len(matches_high)}")
 
-    matches = []
-    unmatched_ipl = []
+    matched_left = set(matches_high["left_index"]) if len(matches_high) > 0 else set()
+    matched_right = set(matches_high["right_index"]) if len(matches_high) > 0 else set()
 
-    for _, ipl_row in ipl_registry.iterrows():
-        ipl_name = ipl_row["ipl_name"]
-        ipl_norm = ipl_row["ipl_norm"]
-        cricsheet_id = ipl_row["cricsheet_id"]
+    left_remaining = left[~left.index.isin(matched_left)].copy()
+    right_remaining = right[~right.index.isin(matched_right)].copy()
 
-        best_match = None
-        best_score = 0
-        match_type = None
+    if len(left_remaining) > 0 and len(right_remaining) > 0:
+        left_remaining["name_compare"] = left_remaining["name_init"]
+        right_remaining["name_compare"] = right_remaining["name_norm"]
 
-        for _, reg_row in existing_registry.iterrows():
-            canon_norm = reg_row["canonical_norm"]
+        pipeline_init = (
+            Pipeline()
+            .block(on="last_name")
+            .score(
+                [
+                    StringComparison(
+                        "name_compare", algorithm="jaro_winkler", weight=2.0
+                    ),
+                    StringComparison("last_name", algorithm="jaro_winkler", weight=1.0),
+                ]
+            )
+            .filter(min_score=0.88)
+            .decide(method="greedy")
+            .build()
+        )
 
-            if ipl_norm == canon_norm:
-                best_match = reg_row
-                best_score = 100
-                match_type = "exact"
-                break
+        print("  Running initial-format matching pass...")
+        result_init = pipeline_init.link(left_remaining, right_remaining)
+        matches_init = result_init.matches.copy()
+        print(f"  Initial-format matches: {len(matches_init)}")
 
-            if ipl_norm in reg_row["all_aliases"]:
-                best_match = reg_row
-                best_score = 100
-                match_type = "alias"
-                break
+        matched_left.update(matches_init["left_index"])
+        matched_right.update(matches_init["right_index"])
 
-        if best_match is None:
-            for _, reg_row in existing_registry.iterrows():
-                canon_norm = reg_row["canonical_norm"]
+    all_matches = []
 
-                score = fuzz.WRatio(ipl_norm, canon_norm)
-                if score > best_score and score >= 90:
-                    best_match = reg_row
-                    best_score = score
-                    match_type = "fuzzy"
+    if len(matches_high) > 0:
+        for _, row in matches_high.iterrows():
+            left_idx = row["left_index"]
+            right_idx = row["right_index"]
+            all_matches.append(
+                {
+                    "cricsheet_id": right.loc[right_idx, "cricsheet_id"],
+                    "player_id": left.loc[left_idx, "player_id"],
+                    "canonical_name": left.loc[left_idx, "canonical_name"],
+                    "ipl_name": right.loc[right_idx, "ipl_name"],
+                    "match_type": "preclink_high",
+                    "match_score": row["score"],
+                }
+            )
 
-                for alias in reg_row["all_aliases"]:
-                    score = fuzz.WRatio(ipl_norm, alias)
-                    if score > best_score and score >= 90:
-                        best_match = reg_row
-                        best_score = score
-                        match_type = "fuzzy_alias"
+    if len(left_remaining) > 0 and len(right_remaining) > 0 and len(matches_init) > 0:
+        for _, row in matches_init.iterrows():
+            left_idx = row["left_index"]
+            right_idx = row["right_index"]
+            all_matches.append(
+                {
+                    "cricsheet_id": right_remaining.loc[right_idx, "cricsheet_id"],
+                    "player_id": left_remaining.loc[left_idx, "player_id"],
+                    "canonical_name": left_remaining.loc[left_idx, "canonical_name"],
+                    "ipl_name": right_remaining.loc[right_idx, "ipl_name"],
+                    "match_type": "preclink_init",
+                    "match_score": row["score"],
+                }
+            )
 
-        if best_match is not None:
-            matches.append({
-                "cricsheet_id": cricsheet_id,
-                "player_id": best_match["player_id"],
-                "canonical_name": best_match["canonical_name"],
-                "ipl_name": ipl_name,
-                "match_type": match_type,
-                "match_score": best_score,
-            })
-        else:
-            unmatched_ipl.append({
-                "cricsheet_id": cricsheet_id,
-                "ipl_name": ipl_name,
-            })
+    matches_df = pd.DataFrame(all_matches)
 
-    matches_df = pd.DataFrame(matches)
+    unmatched_right_idx = set(right.index) - matched_right
+    unmatched_ipl = [
+        {
+            "cricsheet_id": right.loc[idx, "cricsheet_id"],
+            "ipl_name": right.loc[idx, "ipl_name"],
+        }
+        for idx in unmatched_right_idx
+    ]
     unmatched_df = pd.DataFrame(unmatched_ipl)
 
-    print(f"  Matched: {len(matches_df)} players")
+    print(f"\n  Total matched: {len(matches_df)} players")
     print(f"  Unmatched IPL players: {len(unmatched_df)}")
-    print(f"  Match types: {matches_df['match_type'].value_counts().to_dict()}")
+    if len(matches_df) > 0:
+        print(f"  Match types: {matches_df['match_type'].value_counts().to_dict()}")
 
     return matches_df, unmatched_df
 
 
-def build_player_master(matches_df, unmatched_ipl_df, t20i_registry, existing_registry):
+def build_player_master(matches_df, t20i_registry, existing_registry):
     """Build the final player master table."""
     print("\nBuilding player master table...")
 
@@ -178,17 +232,29 @@ def build_player_master(matches_df, unmatched_ipl_df, t20i_registry, existing_re
         player_master["has_t20i"] = False
         return player_master
 
-    player_master = matches_df[["cricsheet_id", "player_id", "canonical_name"]].copy()
+    matched_pids = set(matches_df["player_id"])
+    all_registry_pids = set(existing_registry["player_id"])
+    unmatched_pids = all_registry_pids - matched_pids
+
+    matched_part = matches_df[["player_id", "canonical_name", "cricsheet_id"]].copy()
+
+    unmatched_part = existing_registry[
+        existing_registry["player_id"].isin(unmatched_pids)
+    ][["player_id", "canonical_name"]].copy()
+    unmatched_part["cricsheet_id"] = None
+
+    player_master = pd.concat([matched_part, unmatched_part], ignore_index=True)
 
     t20i_ids = set(t20i_registry["cricsheet_id"]) if len(t20i_registry) > 0 else set()
-    ipl_ids = set(player_master["cricsheet_id"])
-    t20i_only = t20i_ids - ipl_ids
-
-    print(f"  Players in both IPL and T20I: {len(ipl_ids.intersection(t20i_ids))}")
-    print(f"  T20I-only players (not in IPL): {len(t20i_only)}")
-
     player_master["has_ipl"] = True
     player_master["has_t20i"] = player_master["cricsheet_id"].isin(t20i_ids)
+
+    matched_with_t20i = (
+        player_master["cricsheet_id"].notna() & player_master["has_t20i"]
+    )
+    print(f"  Total registry players: {len(player_master)}")
+    print(f"  With Cricsheet ID: {player_master['cricsheet_id'].notna().sum()}")
+    print(f"  With T20I data: {matched_with_t20i.sum()}")
 
     return player_master
 
@@ -200,21 +266,25 @@ def verify_player_master(player_master):
     print("=" * 60)
 
     print(f"\nTotal players: {len(player_master)}")
-    print(f"With IPL: {player_master['has_ipl'].sum()}")
+    print(f"With Cricsheet ID: {player_master['cricsheet_id'].notna().sum()}")
+    print(f"Without Cricsheet ID: {player_master['cricsheet_id'].isna().sum()}")
     print(f"With T20I: {player_master['has_t20i'].sum()}")
-    print(f"Both IPL and T20I: {(player_master['has_ipl'] & player_master['has_t20i']).sum()}")
 
-    dup_cricsheet = player_master["cricsheet_id"].duplicated()
+    has_id = player_master["cricsheet_id"].notna()
+    dup_cricsheet = player_master[has_id]["cricsheet_id"].duplicated()
     dup_player_id = player_master["player_id"].duplicated()
 
     print(f"\nDuplicate Cricsheet IDs: {dup_cricsheet.sum()}")
     print(f"Duplicate player_ids: {dup_player_id.sum()}")
 
     if dup_cricsheet.sum() > 0:
-        print("  Sample duplicates:")
-        dups = player_master[dup_cricsheet]["cricsheet_id"].head(5)
+        print("  Sample duplicate Cricsheet IDs:")
+        dups = player_master[has_id][dup_cricsheet]["cricsheet_id"].head(5)
         for cid in dups:
-            print(f"    {cid}: {player_master[player_master['cricsheet_id'] == cid]['canonical_name'].tolist()}")
+            names = player_master[player_master["cricsheet_id"] == cid][
+                "canonical_name"
+            ].tolist()
+            print(f"    {cid}: {names}")
 
 
 def main():
@@ -226,22 +296,36 @@ def main():
     existing_registry = load_existing_registry()
     t20i_registry = load_t20i_registry()
 
-    matches_df, unmatched_df = match_ipl_to_registry(ipl_registry, existing_registry)
+    matches_df, unmatched_df = match_ipl_to_registry_preclink(
+        ipl_registry, existing_registry
+    )
 
-    player_master = build_player_master(matches_df, unmatched_df, t20i_registry, existing_registry)
+    player_master = build_player_master(matches_df, t20i_registry, existing_registry)
 
     verify_player_master(player_master)
 
     JOINED_DIR.mkdir(parents=True, exist_ok=True)
     DIAGNOSTICS_DIR.mkdir(parents=True, exist_ok=True)
 
-    output_path = save_dataset(player_master, JOINED_DIR / "player_master", format="parquet")
-    print(f"\nSaved to {output_path}")
+    output_path = save_dataset(
+        player_master, JOINED_DIR / "player_master", format="parquet"
+    )
+    print(f"\nSaved player master to {output_path}")
 
     if len(ipl_registry) > 0:
         ipl_registry_path = JOINED_DIR / "ipl_cricsheet_registry.csv"
         ipl_registry.to_csv(ipl_registry_path, index=False)
         print(f"Saved IPL Cricsheet registry to {ipl_registry_path}")
+
+    if len(unmatched_df) > 0:
+        unmatched_path = DIAGNOSTICS_DIR / "unmatched_ipl_players.csv"
+        unmatched_df.to_csv(unmatched_path, index=False)
+        print(f"Saved unmatched IPL players to {unmatched_path}")
+
+    if len(matches_df) > 0:
+        matches_path = DIAGNOSTICS_DIR / "cricsheet_matches.csv"
+        matches_df.to_csv(matches_path, index=False)
+        print(f"Saved match details to {matches_path}")
 
     print("\n" + "=" * 60)
     print("DONE")

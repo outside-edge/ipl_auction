@@ -18,6 +18,7 @@ from pygam import LinearGAM, s, f
 REPLACEMENT_ALPHA = 0.85
 RUNS_PER_WIN = 10
 WICKET_BONUS = 6.0
+RUNS_PER_DISMISSAL = 6.0
 
 
 def infer_batting_position(bbb):
@@ -150,13 +151,16 @@ def compute_batting_war_gam(bbb, year_col="year", player_col="Batter", verbose=T
             actual_runs=("BatsmanRun", "sum"),
             expected_runs=("expected_runs", "sum"),
             balls_faced=("BatsmanRun", "count"),
+            dismissals=("IsWicketDelivery", "sum"),
         )
         .reset_index()
     )
 
+    player_season["dismissal_penalty"] = player_season["dismissals"] * RUNS_PER_DISMISSAL
     player_season["batting_war_gam"] = (
         player_season["actual_runs"]
         - REPLACEMENT_ALPHA * player_season["expected_runs"]
+        - player_season["dismissal_penalty"]
     ) / RUNS_PER_WIN
 
     if verbose:
