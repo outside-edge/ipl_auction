@@ -7,25 +7,25 @@ IPL teams spent **₹687 Cr** on disappointing players from 2012-2025. Using bal
 ## Top Disappointments (by Wasted Money)
 
 <!-- TABLE:disappointments:start -->
-**Total wasted: ₹538 Cr** across 350 disappointing players
+**Total wasted: ₹728 Cr** across 315 disappointing players
 
 | Year | Player | Team | Paid | Predicted | Actual | Wasted |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2014 | MS Dhoni | CSK | ₹12.5Cr | 15.8 | 5.4 | ₹8.0Cr |
-| 2014 | Chris Gayle | RCB | ₹7.5Cr | 10.7 | -0.2 | ₹7.5Cr |
-| 2018 | Chris Morris | DC | ₹11.0Cr | 10.7 | 1.2 | ₹7.4Cr |
-| 2022 | Mohammed Siraj | RCB | ₹7.0Cr | 5.4 | -3.3 | ₹6.7Cr |
-| 2019 | Jaydev Unadkat | RR | ₹8.4Cr | 8.0 | -0.5 | ₹6.6Cr |
-| 2018 | Manish Pandey | SRH | ₹11.0Cr | 5.8 | -2.6 | ₹6.5Cr |
-| 2022 | Kieron Pollard | MI | ₹6.0Cr | 5.8 | -2.1 | ₹6.0Cr |
-| 2020 | Glenn Maxwell | PBKS | ₹10.8Cr | 6.1 | -1.6 | ₹5.9Cr |
-| 2022 | Ruturaj Gaikwad | CSK | ₹6.0Cr | 10.8 | 3.2 | ₹5.9Cr |
-| 2014 | Virat Kohli | RCB | ₹12.5Cr | 11.5 | 3.9 | ₹5.9Cr |
-| 2018 | Axar Patel | PBKS | ₹12.5Cr | 8.5 | 1.1 | ₹5.7Cr |
-| 2018 | Marcus Stoinis | PBKS | ₹6.2Cr | 6.3 | -0.9 | ₹5.6Cr |
-| 2014 | Jacques Kallis | KKR | ₹5.5Cr | 8.9 | 0.3 | ₹5.5Cr |
-| 2014 | Kieron Pollard | MI | ₹7.5Cr | 8.0 | 1.0 | ₹5.4Cr |
-| 2014 | Murali Vijay | DC | ₹5.0Cr | 13.8 | 0.1 | ₹5.0Cr |
+| 2015 | Yuvraj Singh | DC | ₹16.0Cr | 7.3 | -5.3 | ₹15.5Cr |
+| 2018 | Axar Patel | PBKS | ₹12.5Cr | 5.9 | -3.1 | ₹11.1Cr |
+| 2014 | Shane Watson | RR | ₹12.5Cr | 9.9 | 0.9 | ₹11.1Cr |
+| 2014 | Rohit Sharma | MI | ₹12.5Cr | 5.7 | -3.3 | ₹11.0Cr |
+| 2022 | Ravindra Jadeja | CSK | ₹16.0Cr | 7.5 | -1.4 | ₹10.9Cr |
+| 2018 | Benjamin Stokes | RR | ₹12.5Cr | 9.5 | 1.5 | ₹9.9Cr |
+| 2018 | Chris Morris | DC | ₹11.0Cr | 8.5 | 0.6 | ₹9.8Cr |
+| 2014 | Shikhar Dhawan | SRH | ₹12.5Cr | 3.4 | -4.3 | ₹9.4Cr |
+| 2023 | Sam Curran | PBKS | ₹18.5Cr | 6.3 | -1.2 | ₹9.3Cr |
+| 2022 | Kane Williamson | SRH | ₹14.0Cr | -2.7 | -9.9 | ₹8.9Cr |
+| 2018 | Rohit Sharma | MI | ₹15.0Cr | 1.2 | -6.0 | ₹8.9Cr |
+| 2018 | Manish Pandey | SRH | ₹11.0Cr | -2.2 | -9.2 | ₹8.6Cr |
+| 2022 | Virat Kohli | RCB | ₹15.0Cr | -2.8 | -9.6 | ₹8.3Cr |
+| 2022 | Venkatesh Iyer | KKR | ₹8.0Cr | 2.4 | -7.5 | ₹8.0Cr |
+| 2014 | Gautam Gambhir | KKR | ₹12.5Cr | 0.3 | -5.9 | ₹7.7Cr |
 <!-- TABLE:disappointments:end -->
 
 ---
@@ -55,18 +55,18 @@ How well can we predict player performance at auction time using only prior data
 <!-- TABLE:backtest_summary:start -->
 | Year | N | R² | Rank ρ | RMSE |
 | --- | --- | --- | --- | --- |
-| 2012 | 9 | 0.29 | 0.67 | 5.8 |
-| 2013 | 14 | -0.05 | 0.32 | 7.6 |
-| 2014 | 124 | -0.24 | 0.31 | 5.8 |
-| 2015 | 17 | -0.13 | 0.28 | 4.6 |
-| 2016 | 43 | 0.27 | 0.57 | 5.6 |
-| 2017 | 24 | -0.38 | -0.27 | 7.7 |
-| 2018 | 116 | 0.05 | 0.24 | 6.0 |
-| 2019 | 21 | -0.03 | 0.11 | 5.0 |
-| 2020 | 27 | -0.29 | -0.07 | 5.4 |
-| 2021 | 31 | 0.05 | 0.33 | 4.7 |
-| 2022 | 150 | 0.22 | 0.48 | 5.4 |
-| 2023 | 33 | -0.18 | 0.02 | 6.9 |
+| 2012 | 9 | 0.65 | 0.90 | 4.2 |
+| 2013 | 14 | -0.03 | 0.36 | 7.4 |
+| 2014 | 124 | -0.00 | 0.43 | 5.4 |
+| 2015 | 17 | -0.28 | 0.30 | 5.1 |
+| 2016 | 43 | 0.23 | 0.54 | 5.6 |
+| 2017 | 24 | -0.25 | 0.29 | 6.9 |
+| 2018 | 116 | 0.22 | 0.54 | 5.0 |
+| 2019 | 21 | -0.02 | 0.14 | 5.0 |
+| 2020 | 27 | -0.11 | 0.22 | 4.6 |
+| 2021 | 31 | 0.16 | 0.46 | 3.7 |
+| 2022 | 150 | 0.27 | 0.50 | 5.4 |
+| 2023 | 33 | -0.25 | 0.16 | 6.8 |
 <!-- TABLE:backtest_summary:end -->
 
 ---
