@@ -26,8 +26,17 @@ DATA_DIR = BASE_DIR / "data"
 PERF_DIR = DATA_DIR / "perf" / "ipl"
 SOURCES_DIR = DATA_DIR / "perf" / "sources"
 KAGGLE_DIR = SOURCES_DIR / "kaggle"
+CONSTANTS_PATH = DATA_DIR / "perf" / "ipl_constants_by_year.csv"
 
-RUNS_PER_WIN = 10
+
+def load_ipl_constants():
+    """Load year-specific IPL WAR constants."""
+    if not CONSTANTS_PATH.exists():
+        print(f"  Warning: {CONSTANTS_PATH} not found, using defaults")
+        return None
+    constants = pd.read_csv(CONSTANTS_PATH)
+    print(f"  Loaded year-specific constants for {len(constants)} years")
+    return constants
 
 
 def load_ball_by_ball():
@@ -65,20 +74,21 @@ def get_phase(over):
         return "death"
 
 
-RUNS_PER_DISMISSAL = 6.0
-RUNS_PER_WICKET = 6.0
+DEFAULT_RUNS_PER_WICKET = 5.72
+DEFAULT_RUNS_PER_WIN = 16.04
 
 
-def compute_batting_war(bbb):
+def compute_batting_war(bbb, constants=None):
     """
     Compute batting WAR for each player-season.
 
     Method:
     1. Compute mean runs-per-ball by phase across all seasons
     2. Replacement level = 15th percentile of player strike rates (per season)
-    3. batting_war = (actual_runs - expected_runs - dismissal_penalty) / RUNS_PER_WIN
+    3. batting_war = (actual_runs - expected_runs - dismissal_penalty) / runs_per_win
 
     Dismissal penalty accounts for opportunity cost of losing a wicket.
+    Uses year-specific IPL constants when available.
     """
     print("\nComputing batting WAR...")
 
@@ -129,17 +139,38 @@ def compute_batting_war(bbb):
         overall_replacement_sr
     )
 
+    if constants is not None:
+        batter_stats = batter_stats.merge(
+            constants[["year", "runs_per_wicket", "runs_per_win"]],
+            on="year",
+            how="left",
+        )
+        batter_stats["runs_per_wicket"] = batter_stats["runs_per_wicket"].fillna(
+            DEFAULT_RUNS_PER_WICKET
+        )
+        batter_stats["runs_per_win"] = batter_stats["runs_per_win"].fillna(
+            DEFAULT_RUNS_PER_WIN
+        )
+        print("  Using year-specific IPL constants")
+    else:
+        batter_stats["runs_per_wicket"] = DEFAULT_RUNS_PER_WICKET
+        batter_stats["runs_per_win"] = DEFAULT_RUNS_PER_WIN
+        print("  Using default constants")
+
     batter_stats["expected_runs"] = (
         batter_stats["balls_faced"] * batter_stats["replacement_sr"] / 100
     )
-    batter_stats["dismissal_penalty"] = batter_stats["dismissals"] * RUNS_PER_DISMISSAL
+    batter_stats["dismissal_penalty"] = (
+        batter_stats["dismissals"] * batter_stats["runs_per_wicket"]
+    )
     batter_stats["runs_above_replacement"] = (
-        batter_stats["runs"] - batter_stats["expected_runs"] - batter_stats["dismissal_penalty"]
+        batter_stats["runs"]
+        - batter_stats["expected_runs"]
+        - batter_stats["dismissal_penalty"]
     )
     batter_stats["batting_war"] = (
-        batter_stats["runs_above_replacement"] / RUNS_PER_WIN
+        batter_stats["runs_above_replacement"] / batter_stats["runs_per_win"]
     )
-    print(f"  Including dismissal penalty: {RUNS_PER_DISMISSAL:.1f} runs per dismissal")
 
     batter_stats = batter_stats.rename(columns={"Batter": "player", "year": "season"})
     return batter_stats[
@@ -147,15 +178,16 @@ def compute_batting_war(bbb):
     ]
 
 
-def compute_bowling_war(bbb):
+def compute_bowling_war(bbb, constants=None):
     """
     Compute bowling WAR for each player-season.
 
     Method:
     1. Replacement level = 80th percentile of economy rate among qualified bowlers
-    2. bowling_war = (replacement_runs - actual_conceded + wicket_bonus) / RUNS_PER_WIN
+    2. bowling_war = (replacement_runs - actual_conceded + wicket_bonus) / runs_per_win
 
     Wicket bonus rewards bowlers for taking wickets (not just economy).
+    Uses year-specific IPL constants when available.
     """
     print("\nComputing bowling WAR...")
 
@@ -193,15 +225,38 @@ def compute_bowling_war(bbb):
         overall_replacement_econ
     )
 
+    if constants is not None:
+        bowler_stats = bowler_stats.merge(
+            constants[["year", "runs_per_wicket", "runs_per_win"]],
+            on="year",
+            how="left",
+        )
+        bowler_stats["runs_per_wicket"] = bowler_stats["runs_per_wicket"].fillna(
+            DEFAULT_RUNS_PER_WICKET
+        )
+        bowler_stats["runs_per_win"] = bowler_stats["runs_per_win"].fillna(
+            DEFAULT_RUNS_PER_WIN
+        )
+        print("  Using year-specific IPL constants")
+    else:
+        bowler_stats["runs_per_wicket"] = DEFAULT_RUNS_PER_WICKET
+        bowler_stats["runs_per_win"] = DEFAULT_RUNS_PER_WIN
+        print("  Using default constants")
+
     bowler_stats["replacement_runs"] = (
         bowler_stats["overs"] * bowler_stats["replacement_econ"]
     )
-    bowler_stats["wicket_bonus"] = bowler_stats["wickets"] * RUNS_PER_WICKET
-    bowler_stats["runs_saved"] = (
-        bowler_stats["replacement_runs"] - bowler_stats["runs_conceded"] + bowler_stats["wicket_bonus"]
+    bowler_stats["wicket_bonus"] = (
+        bowler_stats["wickets"] * bowler_stats["runs_per_wicket"]
     )
-    bowler_stats["bowling_war"] = bowler_stats["runs_saved"] / RUNS_PER_WIN
-    print(f"  Including wicket bonus: {RUNS_PER_WICKET:.1f} runs per wicket")
+    bowler_stats["runs_saved"] = (
+        bowler_stats["replacement_runs"]
+        - bowler_stats["runs_conceded"]
+        + bowler_stats["wicket_bonus"]
+    )
+    bowler_stats["bowling_war"] = (
+        bowler_stats["runs_saved"] / bowler_stats["runs_per_win"]
+    )
 
     bowler_stats = bowler_stats.rename(columns={"Bowler": "player", "year": "season"})
     return bowler_stats[
@@ -288,11 +343,12 @@ def main():
     print("=" * 60)
 
     bbb = load_ball_by_ball()
+    constants = load_ipl_constants()
 
-    batting_war = compute_batting_war(bbb)
+    batting_war = compute_batting_war(bbb, constants)
     print(f"\n  Computed batting WAR for {len(batting_war):,} player-seasons")
 
-    bowling_war = compute_bowling_war(bbb)
+    bowling_war = compute_bowling_war(bbb, constants)
     print(f"  Computed bowling WAR for {len(bowling_war):,} player-seasons")
 
     war_df = compute_total_war(batting_war, bowling_war)
